@@ -1,0 +1,3 @@
+We also discussed cases when DNNs fail to learn transferable concepts.
+And in these cases, the concepts extracted by the metric IS can reflect some representation flaws of the DNN.
+In this study, we discussed three of them.

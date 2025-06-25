@@ -1,0 +1,9 @@
+start	end	text
+1311	10057	Trustworthy Semantic Parsing is a new test that we propose to evaluate text-to-escalant models under the practical challenges mentioned in the previous slides.
+10898	17923	In Trustworthy Semantic Parsing, the model should only answer answerable questions and refuse to answer if they are unanswerable.
+18581	29010	Because the answer from the EHR database may be directly used for clinical decision making, the model should have a strategy to predict whether it can confidently answer the question or not.
+29670	33033	We use two metrics here to measure the performance of this task.
+33654	35756	F1 answer and effort execution.
+36396	42101	Effort answer measures how well the model distinguishes between answerable and unanswerable questions.
+42741	44803	F1 execution is a more strict metric.
+45264	46945	It only counts when the retrieved answer

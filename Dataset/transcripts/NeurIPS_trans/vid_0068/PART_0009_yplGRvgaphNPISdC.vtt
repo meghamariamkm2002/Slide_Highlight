@@ -1,0 +1,11 @@
+WEBVTT
+
+00:01.610 --> 00:09.154
+Although we know that model selection is robust to the choice of teacher, it is not usually the case that we have prior knowledge of a good teacher.
+
+00:09.674 --> 00:21.681
+In such case, we propose to find better teacher iteratively, and as we can see from the blue curve, the iterative approach has significantly improved the model accuracy.
+
+00:22.681 --> 00:24.002
+Without knowing a good teacher in
+

@@ -1,0 +1,23 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:08,626",
+            "end_time": "00:00:12,693",
+            "transcript": "Howdy, I'm Gideon Freund and I'll be presenting a coupled flow approach to imitation learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "A Coupled Flow Approach to Imitation Learning",
+                    "BoundingBox": {
+                        "Width": 0.5779187679290771,
+                        "Height": 0.17545939981937408,
+                        "Left": 0.20982928574085236,
+                        "Top": 0.2599198520183563
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "989073ca-bc42-4987-b9f8-3d90f47ed930",
+                    "Score": 0.9416468143463135
+                }
+            ]
+        }
+    ]
+}

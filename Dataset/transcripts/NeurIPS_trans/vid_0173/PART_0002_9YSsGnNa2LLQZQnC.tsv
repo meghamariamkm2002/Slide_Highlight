@@ -1,0 +1,11 @@
+start	end	text
+1790	5592	These are very different from traditional bidders who are utility maximizers.
+5992	10714	They want to maximize their expected utility, which is the difference between the value and the payment.
+11415	15677	And they don't care about the value, the ratio between value and payment.
+16698	19019	So we understand these bidders quite well.
+19199	26803	We have many maxims for them, like Meyerson's, VCG, hosted pricing, and others.
+27603	28664	They are well studied.
+29344	32225	On the other hand, for alibiders, we don't know so much.
+33826	43711	Alibiders want to maximize their expected value, subject to the ROI constraint, which means the ratio between the expected value and the expected payment should be large enough.
+44731	46272	We do have some maxims for them.
+47232	52815	These maxims involve payment scalers, and sometimes we do prior-free approximations.

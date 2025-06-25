@@ -1,0 +1,21 @@
+{
+    "MatchedSlides": [
+        "PART_0001_0TKQIPPtwm9E6HiO",
+        "PART_0002_L6pLWK5w83eRrPzI",
+        "PART_0003_kRCOWWFvfeHEkO1I"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,588",
+            "end_time": "00:00:06,290",
+            "transcript": "Hey, everyone, I'm Peilin Zhou.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,550",
+            "end_time": "00:00:15,938",
+            "transcript": "I'm so glad to introduce our paper, Mets-CoV, a dataset of medical entity and targeted sentiment on COVID-19 related tweets.",
+            "MatchedRegion": []
+        }
+    ]
+}

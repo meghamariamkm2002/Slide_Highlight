@@ -1,0 +1,95 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,447",
+            "end_time": "00:00:01,964",
+            "transcript": "the energies.",
+            "MatchedRegion": [
+                {
+                    "Text": "GSEMM neural architecture",
+                    "BoundingBox": {
+                        "Width": 0.4405018091201782,
+                        "Height": 0.04828591272234917,
+                        "Left": 0.04035807400941849,
+                        "Top": 0.052159179002046585
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "75fd2e29-f1be-4f5f-ad45-09d5af9f17a3",
+                    "Score": 0.6873810291290283
+                },
+                {
+                    "Text": "Sequential Episodic Memory (SEM) retrieval requires the ability to store and retrieve temporally related memories.",
+                    "BoundingBox": {
+                        "Width": 0.4929313659667969,
+                        "Height": 0.10053947567939758,
+                        "Left": 0.05435089021921158,
+                        "Top": 0.17526721954345703
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fc63bf1f-e461-49a4-919a-9b3c841d963f",
+                    "Score": 0.6535795331001282
+                },
+                {
+                    "Text": "Traditional energy-based models are restricted to single memory retrieval.",
+                    "BoundingBox": {
+                        "Width": 0.47429585456848145,
+                        "Height": 0.07122281193733215,
+                        "Left": 0.05399579554796219,
+                        "Top": 0.30128422379493713
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "151de8f6-097f-43df-b219-e88fdd7f685b",
+                    "Score": 0.73780357837677
+                },
+                {
+                    "Text": "General Sequential Episodic Memory Model (GSEMM) has a dynamic energy landscape capable of storing and retrieving of temporal memories in its dynamical evolution.",
+                    "BoundingBox": {
+                        "Width": 0.43665242195129395,
+                        "Height": 0.14181356132030487,
+                        "Left": 0.05457504466176033,
+                        "Top": 0.3917451798915863
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "942fba2b-e699-466e-89b3-d713a9c210e2",
+                    "Score": 0.7142099142074585
+                },
+                {
+                    "Text": "The system consists of two layers of neurons organized analogous to General Associative Memory Model (GAMM) with additional delay- based intra-hidden layer connectivity.",
+                    "BoundingBox": {
+                        "Width": 0.4525722861289978,
+                        "Height": 0.14144861698150635,
+                        "Left": 0.054336465895175934,
+                        "Top": 0.5529129505157471
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "81401839-d66c-4189-b785-403b3ce0a259",
+                    "Score": 0.6806643009185791
+                },
+                {
+                    "Text": "In contrast to GAMM, GSEMM exhibits a dynamic energy surface controlled by the delay signal resulting in a system with instantaneous fixed-point dynamics",
+                    "BoundingBox": {
+                        "Width": 0.4826611876487732,
+                        "Height": 0.14183901250362396,
+                        "Left": 0.05432513356208801,
+                        "Top": 0.714929461479187
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b45287a8-bba1-4531-8c5b-d65561612b0d",
+                    "Score": 0.7290734052658081
+                },
+                {
+                    "Text": "hidden layer feature layer O input/output",
+                    "BoundingBox": {
+                        "Width": 0.38110947608947754,
+                        "Height": 0.76699298620224,
+                        "Left": 0.5640942454338074,
+                        "Top": 0.10406117886304855
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dd9601d1-224b-4bd6-8cd1-77b364056fd7",
+                    "Score": 0.71794593334198
+                }
+            ]
+        }
+    ]
+}

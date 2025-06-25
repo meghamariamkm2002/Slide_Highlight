@@ -1,0 +1,8 @@
+1
+00:00:00,529 --> 00:00:14,361
+So, to fill this gap, we proposed APT36000, the first large scale dataset with high-quality animal pulse initiation from consecutive frames for animal pulse estimation and tracking.
+
+2
+00:00:14,862 --> 00:00:27,232
+It contains not only the continuous time information needed for tracking tasks, but also a very detailed initiation of pulse key points with a wide range of different animal species.
+

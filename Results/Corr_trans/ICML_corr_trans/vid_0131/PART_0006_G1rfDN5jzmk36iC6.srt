@@ -1,0 +1,8 @@
+1
+00:00:01,590 --> 00:00:08,878
+We conduct various experiments from different perspectives of the proposed information measure to show its properties.
+
+2
+00:00:09,619 --> 00:00:15,386
+And we also compare the performance of our DSC with the representative methods.
+

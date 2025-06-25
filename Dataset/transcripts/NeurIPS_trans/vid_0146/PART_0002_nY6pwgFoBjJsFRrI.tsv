@@ -1,0 +1,3 @@
+start	end	text
+492	14178	The intuition behind our method is to directly manipulate the relevance maps to solve both issues that we saw before, i.e., demand less relevance on the background and more relevance on the entire foreground, as can be seen in the examples here.
+14978	26023	For example, originally the model predicted a snowplow based solely on the snow in the background, but after applying our method, the model still predicts a snowplow but based on the right reasons.

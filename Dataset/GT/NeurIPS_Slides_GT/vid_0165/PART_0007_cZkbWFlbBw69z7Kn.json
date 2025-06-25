@@ -1,0 +1,34 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,411",
+            "end_time": "00:00:08,662",
+            "transcript": "And also, we can see that misinformation is hurting people's subjective emotions towards COVID-19 vaccines.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation is hurting people's subjective emotion related to COVID vaccine:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8246917724609375,
+                        "Height": 0.0785144492983818,
+                        "Left": 0.060228731483221054,
+                        "Top": 0.296811580657959
+                    },
+                    "Id": "5676684c-d693-425d-ac11-b25c463ac5e6"
+                },
+                {
+                    "Text": "0.050 Information Misinformation 0.025 0.000 -0.025 -0.050 -0.01 0.00 0.01 Sentiment Score (a) Impact on sentiments and subjectivity.",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.37152621150016785,
+                        "Height": 0.34855034947395325,
+                        "Left": 0.11354956030845642,
+                        "Top": 0.4074207544326782
+                    },
+                    "Id": "64f5ac11-385e-41eb-997c-fd6ef8062614"
+                }
+            ]
+        }
+    ]
+}

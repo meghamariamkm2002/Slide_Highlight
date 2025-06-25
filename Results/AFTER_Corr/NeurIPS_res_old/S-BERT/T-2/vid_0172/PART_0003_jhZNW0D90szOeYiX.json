@@ -1,0 +1,183 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,389",
+            "end_time": "00:00:03,454",
+            "transcript": "version of MMWU which we call quantum replicator dynamics.",
+            "MatchedRegion": [
+                {
+                    "Text": "We define quantum replicator dynamics by taking continuous time limit of MMWU.",
+                    "BoundingBox": {
+                        "Width": 0.8286519050598145,
+                        "Height": 0.03674254193902016,
+                        "Left": 0.07631399482488632,
+                        "Top": 0.22630861401557922
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "77a2a378-3ae7-498d-8dc5-bf8c5d7f53ff",
+                    "Score": 0.738874614238739
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:04,154",
+            "end_time": "00:00:16,491",
+            "transcript": "So in the paper we define quantum replicated dynamics by taking the continuous time limit of MMWU and we analyze it to show this following theorem that quantum replicated dynamics are Poincar\u00e9 recurrent in any two player quantum zero sum game.",
+            "MatchedRegion": [
+                {
+                    "Text": "The quantum replicator dynamics are Poincar\u00e9 recurrent in any two- player zero-sum game which has a fully-mixed Nash equilibrium.",
+                    "BoundingBox": {
+                        "Width": 0.6915849447250366,
+                        "Height": 0.07689712941646576,
+                        "Left": 0.12489374727010727,
+                        "Top": 0.3645765781402588
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "66b05e1f-bb47-4d03-a775-cd8b57f12ee3",
+                    "Score": 0.8280240297317505
+                },
+                {
+                    "Text": "We define quantum replicator dynamics by taking continuous time limit of MMWU.",
+                    "BoundingBox": {
+                        "Width": 0.8286519050598145,
+                        "Height": 0.03674254193902016,
+                        "Left": 0.07631399482488632,
+                        "Top": 0.22630861401557922
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "77a2a378-3ae7-498d-8dc5-bf8c5d7f53ff",
+                    "Score": 0.738874614238739
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,631",
+            "end_time": "00:00:18,193",
+            "transcript": "It's a fully-mixed Nash equilibrium.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:19,088",
+            "end_time": "00:00:26,392",
+            "transcript": "So to give a visual example of what recurrence looks like, imagine if the agents are red and blue represented on the Bloch sphere here.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:26,412",
+            "end_time": "00:00:34,076",
+            "transcript": "The block sphere is a representation of a two-dimensional density matrix and a two-by-two density matrix.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:35,016",
+            "end_time": "00:00:40,059",
+            "transcript": "And the idea here is that we want, and given that the red and blue agents are initialized in the center,",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:41,155",
+            "end_time": "00:00:45,218",
+            "transcript": "recurent states that they should return infinitely often to the center point.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:45,658",
+            "end_time": "00:00:49,701",
+            "transcript": "And as you can see here, to the origin, as you can see here, they indeed do that.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:49,721",
+            "end_time": "00:00:56,906",
+            "transcript": "They start oscillating back and forth in these straight line patterns, but they do return to the origin often if you keep running the algorithm.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:57,881",
+            "end_time": "00:01:00,182",
+            "transcript": "So how do we prove recurrence in a classical setting?",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:01,083",
+            "end_time": "00:01:05,646",
+            "transcript": "It is needed to prove first that the orbits are bounded, and second, some notion of volume is conserved.",
+            "MatchedRegion": [
+                {
+                    "Text": "We use a novel transformation and show that a) orbits are bounded, and b) volume is conserved.",
+                    "BoundingBox": {
+                        "Width": 0.7787999510765076,
+                        "Height": 0.06396927684545517,
+                        "Left": 0.07627584040164948,
+                        "Top": 0.9007384181022644
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48fe031b-75e1-4ab4-9a4d-e71be4800f0f",
+                    "Score": 0.9304423332214355
+                },
+                {
+                    "Text": "Like classical setting, need to prove bounded orbits and volume preservation, but classical strategy fails due to non-commutativity of terms!",
+                    "BoundingBox": {
+                        "Width": 0.8204270005226135,
+                        "Height": 0.07011517882347107,
+                        "Left": 0.07623099535703659,
+                        "Top": 0.8100460767745972
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d3293f41-f8ce-447b-a0db-36a825283f2c",
+                    "Score": 0.7257522344589233
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:06,146",
+            "end_time": "00:01:15,292",
+            "transcript": "However, the classical setting or the classical strategy, I should say, fails in this case due to the non-commutativity of the terms in the quantum replicated dynamics.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:15,892",
+            "end_time": "00:01:22,256",
+            "transcript": "So we use a transformation to a novel space and show that orbits are bounded and volume is conserved in this space.",
+            "MatchedRegion": [
+                {
+                    "Text": "We use a novel transformation and show that a) orbits are bounded, and b) volume is conserved.",
+                    "BoundingBox": {
+                        "Width": 0.7787999510765076,
+                        "Height": 0.06396927684545517,
+                        "Left": 0.07627584040164948,
+                        "Top": 0.9007384181022644
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48fe031b-75e1-4ab4-9a4d-e71be4800f0f",
+                    "Score": 0.9304423332214355
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:22,776",
+            "end_time": "00:01:25,998",
+            "transcript": "And this then helps us to prove recurrence for the quantum replicator",
+            "MatchedRegion": [
+                {
+                    "Text": "Results - Quantum Replicator",
+                    "BoundingBox": {
+                        "Width": 0.564207911491394,
+                        "Height": 0.07152660191059113,
+                        "Left": 0.07713287323713303,
+                        "Top": 0.11428061872720718
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "75ecae4d-dd6e-448d-81cd-ed0d99dde7a7",
+                    "Score": 0.7243876457214355
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_HXlI9Poy5Ug1xg7e",
+            "Score": 0.6851999759674072
+        }
+    ]
+}

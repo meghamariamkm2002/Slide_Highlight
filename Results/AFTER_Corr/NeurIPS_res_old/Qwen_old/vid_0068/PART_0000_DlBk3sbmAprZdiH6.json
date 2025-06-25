@@ -1,0 +1,20 @@
+{
+    "MatchedSlides": [
+        "PART_0001_cvyVjIapNjitwS7n",
+        "PART_0002_gxqIobHCcFnaTchl"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,628",
+            "end_time": "00:00:05,831",
+            "transcript": "My name is Thomas Chau.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,271",
+            "end_time": "00:00:07,975",
+            "transcript": "This is a video summary of our paper.",
+            "MatchedRegion": []
+        }
+    ]
+}

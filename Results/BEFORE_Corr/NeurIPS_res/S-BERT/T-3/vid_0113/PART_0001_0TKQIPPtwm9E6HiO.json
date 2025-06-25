@@ -1,0 +1,47 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,049",
+            "end_time": "00:00:00,409",
+            "transcript": "to you.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,569",
+            "end_time": "00:00:08,751",
+            "transcript": "The COVID-19 pandemic continues to bring up various topics discussed or debated on social media.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,771",
+            "end_time": "00:00:21,854",
+            "transcript": "In order to explore the impact of pandemics on people's lives, it is important to understand the public's concerns and attitudes towards pandemic-related entities on social media.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:22,691",
+            "end_time": "00:00:44,002",
+            "transcript": "However, most NLP tools as well as models trained on existing name entity recognition or targeted sentiment analysis data sets have limited ability to understand COVID-19 related social media texts because these data sets are not designed or annotated from a medical perspective.",
+            "MatchedRegion": [
+                {
+                    "Text": "Existing natural language processing (NLP) tools struggle to fulfill the surging demand for accurate social media-based public healthcare analysis due to the lack of relevant datasets.",
+                    "BoundingBox": {
+                        "Width": 0.8522049784660339,
+                        "Height": 0.07857756316661835,
+                        "Left": 0.05777743086218834,
+                        "Top": 0.22238238155841827
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "96197e8b-2a47-4170-a2b4-e810e59394d2",
+                    "Score": 0.6569893956184387
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_zPV1gK57dXUXzsBJ",
+            "Score": 0.7027976512908936
+        }
+    ]
+}

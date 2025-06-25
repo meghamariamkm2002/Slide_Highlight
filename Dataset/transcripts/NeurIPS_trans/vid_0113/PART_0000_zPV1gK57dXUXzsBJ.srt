@@ -1,0 +1,8 @@
+1
+00:00:04,588 --> 00:00:06,290
+Hey, everyone, I'm Pei Leng Zhou.
+
+2
+00:00:06,550 --> 00:00:15,938
+I'm so glad to introduce our paper, MassCode, a data set of medical entity and targeted sentiment on COVID-19 related treats.
+

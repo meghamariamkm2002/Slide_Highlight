@@ -1,0 +1,11 @@
+WEBVTT
+
+00:01.601 --> 00:06.005
+We also discussed cases when DNNs fail to learn transferable concepts.
+
+00:06.725 --> 00:14.812
+And in these cases, the concepts extracted by the metric IS can reflect some representation flaws of the DNN.
+
+00:15.593 --> 00:17.895
+In this study, we discussed three of them.
+

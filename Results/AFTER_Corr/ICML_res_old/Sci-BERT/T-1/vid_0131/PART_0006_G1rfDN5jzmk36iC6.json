@@ -1,0 +1,66 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:08,878",
+            "transcript": "We conduct various experiments from different perspectives of the proposed information measure to show its properties.",
+            "MatchedRegion": [
+                {
+                    "Text": "We conduct various experiments from different perspectives of the proposed information measure to show its properties. (e.g., backtracking intervals, threshold adjustment, poisoning capacity, and discrepancy measures)",
+                    "BoundingBox": {
+                        "Width": 0.16999401152133942,
+                        "Height": 0.2630336284637451,
+                        "Left": 0.7021515965461731,
+                        "Top": 0.4752826988697052
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "abaa533d-4720-4c94-bc50-f0f824202c1f",
+                    "Score": 0.8491278290748596
+                },
+                {
+                    "Text": "We compare the performance of DSC with the representative methods (AT, gradient clipping) to defend against accumulative poisoning attacks.",
+                    "BoundingBox": {
+                        "Width": 0.1544690728187561,
+                        "Height": 0.18254518508911133,
+                        "Left": 0.7023700475692749,
+                        "Top": 0.7684921622276306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "07b78e20-26d9-4030-8dad-162b50fc4414",
+                    "Score": 0.9093968868255615
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,619",
+            "end_time": "00:00:15,386",
+            "transcript": "And we also compare the performance of our DSC with the representative methods.",
+            "MatchedRegion": [
+                {
+                    "Text": "We conduct various experiments from different perspectives of the proposed information measure to show its properties. (e.g., backtracking intervals, threshold adjustment, poisoning capacity, and discrepancy measures)",
+                    "BoundingBox": {
+                        "Width": 0.16999401152133942,
+                        "Height": 0.2630336284637451,
+                        "Left": 0.7021515965461731,
+                        "Top": 0.4752826988697052
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "abaa533d-4720-4c94-bc50-f0f824202c1f",
+                    "Score": 0.8491278290748596
+                },
+                {
+                    "Text": "We compare the performance of DSC with the representative methods (AT, gradient clipping) to defend against accumulative poisoning attacks.",
+                    "BoundingBox": {
+                        "Width": 0.1544690728187561,
+                        "Height": 0.18254518508911133,
+                        "Left": 0.7023700475692749,
+                        "Top": 0.7684921622276306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "07b78e20-26d9-4030-8dad-162b50fc4414",
+                    "Score": 0.9093968868255615
+                }
+            ]
+        }
+    ]
+}

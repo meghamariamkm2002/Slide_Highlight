@@ -1,0 +1,339 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,121",
+            "end_time": "00:00:02,722",
+            "transcript": "Now, let's describe the method.",
+            "MatchedRegion": [
+                {
+                    "Text": "Method overview",
+                    "BoundingBox": {
+                        "Width": 0.2377585470676422,
+                        "Height": 0.04442688822746277,
+                        "Left": 0.07844464480876923,
+                        "Top": 0.12273121625185013
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "1ccb6060-95ac-4abd-92ac-a250ec2db7ff",
+                    "Score": 0.783038318157196
+                },
+                {
+                    "Text": "We propose to manipulate the explainability maps of the model directly to ensure that the modelavoids using spurious correlations in the background and in the foreground.",
+                    "BoundingBox": {
+                        "Width": 0.8169664144515991,
+                        "Height": 0.07336387038230896,
+                        "Left": 0.07651010900735855,
+                        "Top": 0.2890012264251709
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8e639bc-502e-44c8-8f9d-7de375b2f323",
+                    "Score": 0.8130690455436707
+                },
+                {
+                    "Text": "Lbg - ensures that the relevance scores on the background are small (close to 0).",
+                    "BoundingBox": {
+                        "Width": 0.5940265655517578,
+                        "Height": 0.032480910420417786,
+                        "Left": 0.11414095014333725,
+                        "Top": 0.38020843267440796
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5a319d6e-eea1-46fa-9660-b26b4d692a8e",
+                    "Score": 0.8801994323730469
+                },
+                {
+                    "Text": "Lfg - encourages the model to use as much of the foreground as possible (relevance close to 1).",
+                    "BoundingBox": {
+                        "Width": 0.6976200938224792,
+                        "Height": 0.032556887716054916,
+                        "Left": 0.11367300152778625,
+                        "Top": 0.42629408836364746
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a1dd4f12-adda-40f1-b7e1-f4eb0da01c62",
+                    "Score": 0.9801375269889832
+                },
+                {
+                    "Text": "= Lfg = MSE(R(i) OS(i),1) L relevance =",
+                    "BoundingBox": {
+                        "Width": 0.23932896554470062,
+                        "Height": 0.1966874599456787,
+                        "Left": 0.3405333161354065,
+                        "Top": 0.5654827952384949
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "21e3cfb9-cf6e-4a2c-9ad7-ac20eb23b382",
+                    "Score": 0.8057608604431152
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,302",
+            "end_time": "00:00:12,405",
+            "transcript": "We propose to manipulate the explainability maps of the model directly, to ensure that the model avoids using spurious correlations in the background and in the foreground of the image.",
+            "MatchedRegion": [
+                {
+                    "Text": "Method overview",
+                    "BoundingBox": {
+                        "Width": 0.2377585470676422,
+                        "Height": 0.04442688822746277,
+                        "Left": 0.07844464480876923,
+                        "Top": 0.12273121625185013
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "1ccb6060-95ac-4abd-92ac-a250ec2db7ff",
+                    "Score": 0.783038318157196
+                },
+                {
+                    "Text": "We propose to manipulate the explainability maps of the model directly to ensure that the modelavoids using spurious correlations in the background and in the foreground.",
+                    "BoundingBox": {
+                        "Width": 0.8169664144515991,
+                        "Height": 0.07336387038230896,
+                        "Left": 0.07651010900735855,
+                        "Top": 0.2890012264251709
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8e639bc-502e-44c8-8f9d-7de375b2f323",
+                    "Score": 0.8130690455436707
+                },
+                {
+                    "Text": "Lbg - ensures that the relevance scores on the background are small (close to 0).",
+                    "BoundingBox": {
+                        "Width": 0.5940265655517578,
+                        "Height": 0.032480910420417786,
+                        "Left": 0.11414095014333725,
+                        "Top": 0.38020843267440796
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5a319d6e-eea1-46fa-9660-b26b4d692a8e",
+                    "Score": 0.8801994323730469
+                },
+                {
+                    "Text": "Lfg - encourages the model to use as much of the foreground as possible (relevance close to 1).",
+                    "BoundingBox": {
+                        "Width": 0.6976200938224792,
+                        "Height": 0.032556887716054916,
+                        "Left": 0.11367300152778625,
+                        "Top": 0.42629408836364746
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a1dd4f12-adda-40f1-b7e1-f4eb0da01c62",
+                    "Score": 0.9801375269889832
+                },
+                {
+                    "Text": "= Lfg = MSE(R(i) OS(i),1) L relevance =",
+                    "BoundingBox": {
+                        "Width": 0.23932896554470062,
+                        "Height": 0.1966874599456787,
+                        "Left": 0.3405333161354065,
+                        "Top": 0.5654827952384949
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "21e3cfb9-cf6e-4a2c-9ad7-ac20eb23b382",
+                    "Score": 0.8057608604431152
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,305",
+            "end_time": "00:00:18,187",
+            "transcript": "Our main loss is comprised of two loss functions, L_bg and L_fg.",
+            "MatchedRegion": [
+                {
+                    "Text": "Method overview",
+                    "BoundingBox": {
+                        "Width": 0.2377585470676422,
+                        "Height": 0.04442688822746277,
+                        "Left": 0.07844464480876923,
+                        "Top": 0.12273121625185013
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "1ccb6060-95ac-4abd-92ac-a250ec2db7ff",
+                    "Score": 0.783038318157196
+                },
+                {
+                    "Text": "We propose to manipulate the explainability maps of the model directly to ensure that the modelavoids using spurious correlations in the background and in the foreground.",
+                    "BoundingBox": {
+                        "Width": 0.8169664144515991,
+                        "Height": 0.07336387038230896,
+                        "Left": 0.07651010900735855,
+                        "Top": 0.2890012264251709
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8e639bc-502e-44c8-8f9d-7de375b2f323",
+                    "Score": 0.8130690455436707
+                },
+                {
+                    "Text": "Lbg - ensures that the relevance scores on the background are small (close to 0).",
+                    "BoundingBox": {
+                        "Width": 0.5940265655517578,
+                        "Height": 0.032480910420417786,
+                        "Left": 0.11414095014333725,
+                        "Top": 0.38020843267440796
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5a319d6e-eea1-46fa-9660-b26b4d692a8e",
+                    "Score": 0.8801994323730469
+                },
+                {
+                    "Text": "Lfg - encourages the model to use as much of the foreground as possible (relevance close to 1).",
+                    "BoundingBox": {
+                        "Width": 0.6976200938224792,
+                        "Height": 0.032556887716054916,
+                        "Left": 0.11367300152778625,
+                        "Top": 0.42629408836364746
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a1dd4f12-adda-40f1-b7e1-f4eb0da01c62",
+                    "Score": 0.9801375269889832
+                },
+                {
+                    "Text": "= Lfg = MSE(R(i) OS(i),1) L relevance =",
+                    "BoundingBox": {
+                        "Width": 0.23932896554470062,
+                        "Height": 0.1966874599456787,
+                        "Left": 0.3405333161354065,
+                        "Top": 0.5654827952384949
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "21e3cfb9-cf6e-4a2c-9ad7-ac20eb23b382",
+                    "Score": 0.8057608604431152
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,107",
+            "end_time": "00:00:25,329",
+            "transcript": "L bg prevents the model from over-interpreting the background by demanding that the relevance on the background is close to zero.",
+            "MatchedRegion": [
+                {
+                    "Text": "Method overview",
+                    "BoundingBox": {
+                        "Width": 0.2377585470676422,
+                        "Height": 0.04442688822746277,
+                        "Left": 0.07844464480876923,
+                        "Top": 0.12273121625185013
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "1ccb6060-95ac-4abd-92ac-a250ec2db7ff",
+                    "Score": 0.783038318157196
+                },
+                {
+                    "Text": "We propose to manipulate the explainability maps of the model directly to ensure that the modelavoids using spurious correlations in the background and in the foreground.",
+                    "BoundingBox": {
+                        "Width": 0.8169664144515991,
+                        "Height": 0.07336387038230896,
+                        "Left": 0.07651010900735855,
+                        "Top": 0.2890012264251709
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8e639bc-502e-44c8-8f9d-7de375b2f323",
+                    "Score": 0.8130690455436707
+                },
+                {
+                    "Text": "Lbg - ensures that the relevance scores on the background are small (close to 0).",
+                    "BoundingBox": {
+                        "Width": 0.5940265655517578,
+                        "Height": 0.032480910420417786,
+                        "Left": 0.11414095014333725,
+                        "Top": 0.38020843267440796
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5a319d6e-eea1-46fa-9660-b26b4d692a8e",
+                    "Score": 0.8801994323730469
+                },
+                {
+                    "Text": "Lfg - encourages the model to use as much of the foreground as possible (relevance close to 1).",
+                    "BoundingBox": {
+                        "Width": 0.6976200938224792,
+                        "Height": 0.032556887716054916,
+                        "Left": 0.11367300152778625,
+                        "Top": 0.42629408836364746
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a1dd4f12-adda-40f1-b7e1-f4eb0da01c62",
+                    "Score": 0.9801375269889832
+                },
+                {
+                    "Text": "= Lfg = MSE(R(i) OS(i),1) L relevance =",
+                    "BoundingBox": {
+                        "Width": 0.23932896554470062,
+                        "Height": 0.1966874599456787,
+                        "Left": 0.3405333161354065,
+                        "Top": 0.5654827952384949
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "21e3cfb9-cf6e-4a2c-9ad7-ac20eb23b382",
+                    "Score": 0.8057608604431152
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:26,260",
+            "end_time": "00:00:33,872",
+            "transcript": "The foreground encourages the model to use as much of the foreground as possible by encouraging the relevance on the foreground to be close to one.",
+            "MatchedRegion": [
+                {
+                    "Text": "Method overview",
+                    "BoundingBox": {
+                        "Width": 0.2377585470676422,
+                        "Height": 0.04442688822746277,
+                        "Left": 0.07844464480876923,
+                        "Top": 0.12273121625185013
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "1ccb6060-95ac-4abd-92ac-a250ec2db7ff",
+                    "Score": 0.783038318157196
+                },
+                {
+                    "Text": "We propose to manipulate the explainability maps of the model directly to ensure that the modelavoids using spurious correlations in the background and in the foreground.",
+                    "BoundingBox": {
+                        "Width": 0.8169664144515991,
+                        "Height": 0.07336387038230896,
+                        "Left": 0.07651010900735855,
+                        "Top": 0.2890012264251709
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8e639bc-502e-44c8-8f9d-7de375b2f323",
+                    "Score": 0.8130690455436707
+                },
+                {
+                    "Text": "Lbg - ensures that the relevance scores on the background are small (close to 0).",
+                    "BoundingBox": {
+                        "Width": 0.5940265655517578,
+                        "Height": 0.032480910420417786,
+                        "Left": 0.11414095014333725,
+                        "Top": 0.38020843267440796
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5a319d6e-eea1-46fa-9660-b26b4d692a8e",
+                    "Score": 0.8801994323730469
+                },
+                {
+                    "Text": "Lfg - encourages the model to use as much of the foreground as possible (relevance close to 1).",
+                    "BoundingBox": {
+                        "Width": 0.6976200938224792,
+                        "Height": 0.032556887716054916,
+                        "Left": 0.11367300152778625,
+                        "Top": 0.42629408836364746
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a1dd4f12-adda-40f1-b7e1-f4eb0da01c62",
+                    "Score": 0.9801375269889832
+                },
+                {
+                    "Text": "= Lfg = MSE(R(i) OS(i),1) L relevance =",
+                    "BoundingBox": {
+                        "Width": 0.23932896554470062,
+                        "Height": 0.1966874599456787,
+                        "Left": 0.3405333161354065,
+                        "Top": 0.5654827952384949
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "21e3cfb9-cf6e-4a2c-9ad7-ac20eb23b382",
+                    "Score": 0.8057608604431152
+                }
+            ]
+        }
+    ]
+}

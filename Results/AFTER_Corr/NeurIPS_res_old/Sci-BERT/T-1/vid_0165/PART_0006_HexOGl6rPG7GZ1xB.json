@@ -1,0 +1,10 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,189",
+            "end_time": "00:00:23,982",
+            "transcript": "models and also we run our model on a real-world data but it does not have a ground truth label so we can only write and evaluate some intermediate metrics but even for this metrics we can see the identifiability from our model between misinformation and information on influencing people's narrative",
+            "MatchedRegion": []
+        }
+    ]
+}

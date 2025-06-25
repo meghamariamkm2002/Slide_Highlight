@@ -1,0 +1,7 @@
+start	end	text
+829	2690	Our method can be seen in the upper figure.
+3390	6772	Features of the source and target domain are aligned by cluster prototypes.
+7592	15055	To cluster memory bank features into prototypes, we build upon PCS and perform spherical k-means with a momentum of 0.5.
+16562	25190	Similar to PCS, we perform in-domain contrastive learning and cross-domain self-supervised learning between the features of the feature extractor and the prototypes.
+25850	30675	To further improve performance, we add our pseudo-loss formulation for grid-based lane detection.
+31655	38562	Overall, our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD and all

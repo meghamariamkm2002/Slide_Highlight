@@ -1,0 +1,4 @@
+start	end	text
+109	6756	And then achieve new SOTA results in PDV blind dataset.
+7717	16968	We have a larger fraction of predictions with lower IMSD and better binding affinity prediction.
+17829	19991	And we also have higher inference efficiency.

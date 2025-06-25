@@ -1,0 +1,22 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,609",
+            "end_time": "00:00:04,411",
+            "transcript": "We also visualized concepts extracted from different types of data.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,192",
+            "end_time": "00:00:15,978",
+            "transcript": "We consistently found that the same interaction concept usually made similar effects on different samples, which also verify the sample-wise transferability of extracted concepts.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0009_pvmgIj5VMnijN7V1",
+            "Score": 0.7023508548736572
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,492",
+            "end_time": "00:00:09,932",
+            "transcript": "Based on this, we can exactly disentangle the DNN's inference score into the sum of effects corresponding to all potential interactions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Preliminary: Disentangling DNN inference into interactions",
+                    "BoundingBox": {
+                        "Width": 0.7682316303253174,
+                        "Height": 0.0512201264500618,
+                        "Left": 0.09688082337379456,
+                        "Top": 0.06819511204957962
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3fc9e91f-9073-4336-8e78-b4d8b7a1cf0c",
+                    "Score": 0.8692898154258728
+                },
+                {
+                    "Text": "The DNN's inference score/output v(x) can be exactly disentangled into the sum of effects of all potential interactions.",
+                    "BoundingBox": {
+                        "Width": 0.7051644921302795,
+                        "Height": 0.07813550531864166,
+                        "Left": 0.18391892313957214,
+                        "Top": 0.20789477229118347
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4dbe4ee3-065b-4999-98ac-5192efebf925",
+                    "Score": 0.9451062083244324
+                },
+                {
+                    "Text": "I(S) SCN,S#0 Model output Constant bias Interaction effects The output score = The output score when + between variables in all of sample x no input variable is given potential subsets S",
+                    "BoundingBox": {
+                        "Width": 0.6131611466407776,
+                        "Height": 0.2801547050476074,
+                        "Left": 0.19079822301864624,
+                        "Top": 0.5341818332672119
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a5dc9ab0-3a1f-4fc5-999c-a27189e561fa",
+                    "Score": 0.8451499342918396
+                }
+            ]
+        }
+    ]
+}

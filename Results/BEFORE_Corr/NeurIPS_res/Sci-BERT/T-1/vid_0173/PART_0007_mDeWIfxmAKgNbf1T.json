@@ -1,0 +1,29 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,771",
+            "end_time": "00:00:03,012",
+            "transcript": "Right, thanks for your attention.",
+            "MatchedRegion": [
+                {
+                    "Text": "thanks for your attention!",
+                    "BoundingBox": {
+                        "Width": 0.6777716279029846,
+                        "Height": 0.09951770305633545,
+                        "Left": 0.15880070626735687,
+                        "Top": 0.3921312391757965
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "095d1cdf-4d6a-4c22-b00b-37e81c338b44",
+                    "Score": 0.8557158708572388
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,212",
+            "end_time": "00:00:04,334",
+            "transcript": "I'll take questions offline.",
+            "MatchedRegion": []
+        }
+    ]
+}

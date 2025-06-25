@@ -1,0 +1,10 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,594",
+            "end_time": "00:00:09,931",
+            "transcript": "The first two cases are when there exists label noise in the training set, neither noise in label nor noise in sample.",
+            "MatchedRegion": []
+        }
+    ]
+}

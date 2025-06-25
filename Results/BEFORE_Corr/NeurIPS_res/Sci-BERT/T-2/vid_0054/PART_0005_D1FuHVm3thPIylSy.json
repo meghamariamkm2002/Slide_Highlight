@@ -1,0 +1,109 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,738",
+            "end_time": "00:00:09,369",
+            "transcript": "And after that, we benchmark representative CNN-based and vision-transformer-based post-estimation method on three tracks.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. We benchmark representative CNN-based and vision transformer-based pose estimation methods on three tracks.",
+                    "BoundingBox": {
+                        "Width": 0.7828651070594788,
+                        "Height": 0.02932637743651867,
+                        "Left": 0.043123748153448105,
+                        "Top": 0.17958670854568481
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6245a9b5-4588-4cdc-9c25-cf7148d2132a",
+                    "Score": 0.7477372884750366
+                },
+                {
+                    "Text": "2. We use the average precision (AP) as the primary metric to evaluate the performance of different models.",
+                    "BoundingBox": {
+                        "Width": 0.7328026294708252,
+                        "Height": 0.02954811230301857,
+                        "Left": 0.040854956954717636,
+                        "Top": 0.35841360688209534
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2c127ef6-d435-4724-943c-5095f6dd8ee6",
+                    "Score": 0.8926587104797363
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,070",
+            "end_time": "00:00:13,213",
+            "transcript": "There are SF-track, IS-track, and APT-track.",
+            "MatchedRegion": [
+                {
+                    "Text": "2. We use the average precision (AP) as the primary metric to evaluate the performance of different models.",
+                    "BoundingBox": {
+                        "Width": 0.7328026294708252,
+                        "Height": 0.02954811230301857,
+                        "Left": 0.040854956954717636,
+                        "Top": 0.35841360688209534
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2c127ef6-d435-4724-943c-5095f6dd8ee6",
+                    "Score": 0.8926587104797363
+                },
+                {
+                    "Text": "where di is the distance between the i-th predicted results and the i-th ground truth keypoint locations. S is the scale of the object and kj is a predefined constant that controls falloff. Vi indicates the visibility of the i-th keypoint.",
+                    "BoundingBox": {
+                        "Width": 0.7879990339279175,
+                        "Height": 0.0652971938252449,
+                        "Left": 0.07585611939430237,
+                        "Top": 0.6833575963973999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8852e25a-3812-4bd5-a97a-de1cd815ca24",
+                    "Score": 0.7210782766342163
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,914",
+            "end_time": "00:00:21,183",
+            "transcript": "In all the experiments, we use average precision as a primary metric to evaluate the performance of different models.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. We benchmark representative CNN-based and vision transformer-based pose estimation methods on three tracks.",
+                    "BoundingBox": {
+                        "Width": 0.7828651070594788,
+                        "Height": 0.02932637743651867,
+                        "Left": 0.043123748153448105,
+                        "Top": 0.17958670854568481
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6245a9b5-4588-4cdc-9c25-cf7148d2132a",
+                    "Score": 0.7477372884750366
+                },
+                {
+                    "Text": "2. We use the average precision (AP) as the primary metric to evaluate the performance of different models.",
+                    "BoundingBox": {
+                        "Width": 0.7328026294708252,
+                        "Height": 0.02954811230301857,
+                        "Left": 0.040854956954717636,
+                        "Top": 0.35841360688209534
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2c127ef6-d435-4724-943c-5095f6dd8ee6",
+                    "Score": 0.8926587104797363
+                },
+                {
+                    "Text": "where di is the distance between the i-th predicted results and the i-th ground truth keypoint locations. S is the scale of the object and kj is a predefined constant that controls falloff. Vi indicates the visibility of the i-th keypoint.",
+                    "BoundingBox": {
+                        "Width": 0.7879990339279175,
+                        "Height": 0.0652971938252449,
+                        "Left": 0.07585611939430237,
+                        "Top": 0.6833575963973999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8852e25a-3812-4bd5-a97a-de1cd815ca24",
+                    "Score": 0.7210782766342163
+                }
+            ]
+        }
+    ]
+}

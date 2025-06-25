@@ -1,0 +1,54 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,584",
+            "end_time": "00:00:05,848",
+            "transcript": "Lastly, we examine the discrimination power of different concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 4: Discrimination power of concepts",
+                    "BoundingBox": {
+                        "Width": 0.6831929683685303,
+                        "Height": 0.058975230902433395,
+                        "Left": 0.09747317433357239,
+                        "Top": 0.06518746167421341
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "9f0c9fca-a4f8-4c00-b0f2-1318b278f0bb",
+                    "Score": 0.8732417225837708
+                },
+                {
+                    "Text": "the average discrimination power of all concepts B I",
+                    "BoundingBox": {
+                        "Width": 0.3904269337654114,
+                        "Height": 0.03260349482297897,
+                        "Left": 0.09107127785682678,
+                        "Top": 0.45398184657096863
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "975ce982-a4b4-4b25-8ba4-e396e5763982",
+                    "Score": 0.7962307929992676
+                },
+                {
+                    "Text": "The average discrimination power B of concepts was usually higher than 0.8, which verified the discrimination power of extracted concepts.",
+                    "BoundingBox": {
+                        "Width": 0.8176149725914001,
+                        "Height": 0.08177220821380615,
+                        "Left": 0.08886725455522537,
+                        "Top": 0.8433576226234436
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfe552f1-d773-4d65-9d42-bd0303becbcb",
+                    "Score": 0.7239515781402588
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,589",
+            "end_time": "00:00:13,456",
+            "transcript": "We found that the same concept usually push the classification of different samples towards the same category.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

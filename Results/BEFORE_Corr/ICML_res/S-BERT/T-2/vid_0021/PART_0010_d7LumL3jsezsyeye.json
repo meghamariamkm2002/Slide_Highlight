@@ -1,0 +1,64 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,109",
+            "end_time": "00:00:00,229",
+            "transcript": "them.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,210",
+            "end_time": "00:00:04,851",
+            "transcript": "In conclusion, we presented CFIL, a unique approach to imitation learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "Presented CFIL: A unique approach to imitation learning.",
+                    "BoundingBox": {
+                        "Width": 0.5344796180725098,
+                        "Height": 0.036495886743068695,
+                        "Left": 0.08689828217029572,
+                        "Top": 0.26802125573158264
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7bb046d2-610c-4b95-b87b-75ce70cdc7b4",
+                    "Score": 0.9827160835266113
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,231",
+            "end_time": "00:00:17,637",
+            "transcript": "It outperforms the state-of-the-art in a variety of settings and introduces many novelties including its estimator for the log ratio, its smoothing and regularization, and more generally its employment of flows, while we also performed a unique analysis using BC routes.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:18,374",
+            "end_time": "00:00:30,858",
+            "transcript": "Overall, we point out the great potential that demonstrated the utility of explicitly modeling the state and state action distributions and aim to inspire more research incorporating such models all across the reinforcement learning literature.",
+            "MatchedRegion": [
+                {
+                    "Text": "Overall, we pointed out the great potential-then demonstrated the utility-of explicitly modeling the state and state-action distributions and aim to inspire more research incorporating such models all across the reinforcement learning literature.",
+                    "BoundingBox": {
+                        "Width": 0.7943786382675171,
+                        "Height": 0.12563620507717133,
+                        "Left": 0.08743744343519211,
+                        "Top": 0.5086816549301147
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "57ecd65b-0365-4a2b-b17d-b0074c10fbf1",
+                    "Score": 0.9225554466247559
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_MZjZndLoC9QPCGGy",
+            "Score": 0.7723453044891357
+        },
+        {
+            "slide": "PART_0007_0EmbDS2XqpcRvE1Z",
+            "Score": 0.6553453207015991
+        }
+    ]
+}

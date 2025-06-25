@@ -1,0 +1,162 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,193",
+            "end_time": "00:00:02,176",
+            "transcript": "Thanks for your listening.",
+            "MatchedRegion": [
+                {
+                    "Text": "Thanks!",
+                    "BoundingBox": {
+                        "Width": 0.14422763884067535,
+                        "Height": 0.06321823596954346,
+                        "Left": 0.1509854644536972,
+                        "Top": 0.4488992691040039
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0d949bd1-e834-41ca-906d-e63c6e32ff0e",
+                    "Score": 0.8109323382377625
+                },
+                {
+                    "Text": "GitHub",
+                    "BoundingBox": {
+                        "Width": 0.13667336106300354,
+                        "Height": 0.3006340265274048,
+                        "Left": 0.4764064848423004,
+                        "Top": 0.3287845849990845
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "5bf8f275-a7b0-4b6c-b0ef-dad41dd7de4a",
+                    "Score": 0.7996740341186523
+                },
+                {
+                    "Text": "YEAR YLab",
+                    "BoundingBox": {
+                        "Width": 0.14082376658916473,
+                        "Height": 0.31375396251678467,
+                        "Left": 0.8057234883308411,
+                        "Top": 0.31730255484580994
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e7b6d0b1-bab9-43bf-aa03-cd984deb9d8d",
+                    "Score": 0.8255168795585632
+                },
+                {
+                    "Text": "Paper",
+                    "BoundingBox": {
+                        "Width": 0.06047382578253746,
+                        "Height": 0.03939814493060112,
+                        "Left": 0.681086003780365,
+                        "Top": 0.5798031091690063
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5ef9c9b0-704d-4efd-bb35-ae4be752f6c3",
+                    "Score": 0.7990401387214661
+                },
+                {
+                    "Text": "11",
+                    "BoundingBox": {
+                        "Width": 0.012236150912940502,
+                        "Height": 0.018804779276251793,
+                        "Left": 0.9102405905723572,
+                        "Top": 0.9432029724121094
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "01faae47-e31d-482e-a4b9-b96bfcbde2fa",
+                    "Score": 0.8084738254547119
+                },
+                {
+                    "Text": "G/GMOO",
+                    "BoundingBox": {
+                        "Width": 0.09926740825176239,
+                        "Height": 0.025434643030166626,
+                        "Left": 0.0015668211271986365,
+                        "Top": 0.9720289707183838
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "65a4343c-21af-4e5b-9bcb-5378fd78fc10",
+                    "Score": 0.7376217246055603
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,296",
+            "end_time": "00:00:07,231",
+            "transcript": "If you have any questions about our paper or class, please feel free to contact us.",
+            "MatchedRegion": [
+                {
+                    "Text": "Thanks!",
+                    "BoundingBox": {
+                        "Width": 0.14422763884067535,
+                        "Height": 0.06321823596954346,
+                        "Left": 0.1509854644536972,
+                        "Top": 0.4488992691040039
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0d949bd1-e834-41ca-906d-e63c6e32ff0e",
+                    "Score": 0.8109323382377625
+                },
+                {
+                    "Text": "GitHub",
+                    "BoundingBox": {
+                        "Width": 0.13667336106300354,
+                        "Height": 0.3006340265274048,
+                        "Left": 0.4764064848423004,
+                        "Top": 0.3287845849990845
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "5bf8f275-a7b0-4b6c-b0ef-dad41dd7de4a",
+                    "Score": 0.7996740341186523
+                },
+                {
+                    "Text": "YEAR YLab",
+                    "BoundingBox": {
+                        "Width": 0.14082376658916473,
+                        "Height": 0.31375396251678467,
+                        "Left": 0.8057234883308411,
+                        "Top": 0.31730255484580994
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e7b6d0b1-bab9-43bf-aa03-cd984deb9d8d",
+                    "Score": 0.8255168795585632
+                },
+                {
+                    "Text": "Paper",
+                    "BoundingBox": {
+                        "Width": 0.06047382578253746,
+                        "Height": 0.03939814493060112,
+                        "Left": 0.681086003780365,
+                        "Top": 0.5798031091690063
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5ef9c9b0-704d-4efd-bb35-ae4be752f6c3",
+                    "Score": 0.7990401387214661
+                },
+                {
+                    "Text": "11",
+                    "BoundingBox": {
+                        "Width": 0.012236150912940502,
+                        "Height": 0.018804779276251793,
+                        "Left": 0.9102405905723572,
+                        "Top": 0.9432029724121094
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "01faae47-e31d-482e-a4b9-b96bfcbde2fa",
+                    "Score": 0.8084738254547119
+                },
+                {
+                    "Text": "G/GMOO",
+                    "BoundingBox": {
+                        "Width": 0.09926740825176239,
+                        "Height": 0.025434643030166626,
+                        "Left": 0.0015668211271986365,
+                        "Top": 0.9720289707183838
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "65a4343c-21af-4e5b-9bcb-5378fd78fc10",
+                    "Score": 0.7376217246055603
+                }
+            ]
+        }
+    ]
+}

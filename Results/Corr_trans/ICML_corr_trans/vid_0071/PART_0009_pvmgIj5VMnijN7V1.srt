@@ -1,0 +1,8 @@
+1
+00:00:01,590 --> 00:00:05,896
+Second, we verify the transferability of concepts over different samples. ✔️
+
+2
+00:00:06,517 --> 00:00:11,183
+This means that concepts extracted from one sample can be transferred to other samples.
+

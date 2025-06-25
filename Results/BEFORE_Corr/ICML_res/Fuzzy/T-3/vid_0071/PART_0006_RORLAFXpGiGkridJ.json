@@ -1,0 +1,17 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,527",
+            "end_time": "00:00:07,674",
+            "transcript": "However, there still lacks sufficient support to claim that these interactions really represent concepts.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,636",
+            "end_time": "00:00:14,002",
+            "transcript": "Because this interaction metric may simply be a meaningless mathematical transformation.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

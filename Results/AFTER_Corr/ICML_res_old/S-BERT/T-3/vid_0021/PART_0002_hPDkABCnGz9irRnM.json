@@ -1,0 +1,161 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,170",
+            "end_time": "00:00:08,297",
+            "transcript": "So onto our approach, our divergence of choice is the reverse KL whose minimization may be viewed as an RL problem with rewards being the log distribution ratios.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,778",
+            "end_time": "00:00:14,063",
+            "transcript": "Thus, given any estimate of the ratio, any RL algorithm can be used for solving the IL objective.",
+            "MatchedRegion": [
+                {
+                    "Text": "expert his IL objective 0 1000 2000 3000 4000 5000 BC Trajectory Reward hus, given an estimate of the ratio, any RL algorithm can be used for solving the IL objective. aive approach: Train two flows independently",
+                    "BoundingBox": {
+                        "Width": 0.7752571702003479,
+                        "Height": 0.19778533279895782,
+                        "Left": 0.1252921223640442,
+                        "Top": 0.3228479027748108
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "58b0f406-fe24-44c9-8793-61afd58b2d48",
+                    "Score": 0.7116525173187256
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,443",
+            "end_time": "00:00:18,467",
+            "transcript": "So a naive approach would be to train two density estimators, say flows independently.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:18,988",
+            "end_time": "00:00:23,031",
+            "transcript": "Practically, this means alternating between learning them and using their log ratio as reward.",
+            "MatchedRegion": [
+                {
+                    "Text": "Practically, this means alternating between learning them and using their logratio as reward Fails: Overall normalized score of 0.158",
+                    "BoundingBox": {
+                        "Width": 0.6983200907707214,
+                        "Height": 0.07843554764986038,
+                        "Left": 0.1248881071805954,
+                        "Top": 0.5413678288459778
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bc59ac7a-cb59-4a43-80d3-8d42ac16129a",
+                    "Score": 0.7673336267471313
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:23,692",
+            "end_time": "00:00:24,672",
+            "transcript": "This fails when tried.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:24,813",
+            "end_time": "00:00:26,013",
+            "transcript": "We'll see this again in the ablation.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:26,373",
+            "end_time": "00:00:32,036",
+            "transcript": "And the failure can be further understood through what we term the BC graphs corresponding to an estimator for the log-distribution ratio.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:32,696",
+            "end_time": "00:00:40,680",
+            "transcript": "The full description is in the paper, but intuitively, a lack of an upward trend implies failure in RL, which is precisely what occurs in the figure for the independent flows.",
+            "MatchedRegion": [
+                {
+                    "Text": "Intuitively, no upward trend implies failure in RL",
+                    "BoundingBox": {
+                        "Width": 0.34031450748443604,
+                        "Height": 0.027821069583296776,
+                        "Left": 0.1502397209405899,
+                        "Top": 0.6986089944839478
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "71eca2b1-f82f-4d0a-97f7-85195a6572e2",
+                    "Score": 0.7012722492218018
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:41,160",
+            "end_time": "00:00:43,081",
+            "transcript": "This connection is also formalized in the paper.",
+            "MatchedRegion": [
+                {
+                    "Text": "Formalized in the paper",
+                    "BoundingBox": {
+                        "Width": 0.17507459223270416,
+                        "Height": 0.02790953777730465,
+                        "Left": 0.15019139647483826,
+                        "Top": 0.745964765548706
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "94f55ec3-f83e-4684-b47c-60f0d5388d09",
+                    "Score": 0.6765439510345459
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:43,681",
+            "end_time": "00:00:45,902",
+            "transcript": "What we have here is a problem of out-of-distribution data.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:45,982",
+            "end_time": "00:00:48,483",
+            "transcript": "The flow's values are meaningless when evaluated on each other's data.",
+            "MatchedRegion": [
+                {
+                    "Text": "> Problem of OOD: Flows values are meaningless when evaluated on each others data",
+                    "BoundingBox": {
+                        "Width": 0.6475993990898132,
+                        "Height": 0.03102842904627323,
+                        "Left": 0.1265544444322586,
+                        "Top": 0.7950573563575745
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "de338c8c-4f3f-4df2-ab41-a385b24f7846",
+                    "Score": 0.7652450203895569
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:48,844",
+            "end_time": "00:00:50,184",
+            "transcript": "We need to couple them somehow.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:50,564",
+            "end_time": "00:00:51,725",
+            "transcript": "They must be coupled.",
+            "MatchedRegion": [
+                {
+                    "Text": "hey must be coupled!",
+                    "BoundingBox": {
+                        "Width": 0.17529739439487457,
+                        "Height": 0.03450116142630577,
+                        "Left": 0.1239544153213501,
+                        "Top": 0.849895179271698
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9786f788-1372-43d6-9ec1-6ee9201f1310",
+                    "Score": 0.7368200421333313
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

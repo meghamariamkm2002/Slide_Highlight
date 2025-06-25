@@ -1,0 +1,320 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,049",
+            "end_time": "00:00:00,409",
+            "transcript": "to you.",
+            "MatchedRegion": [
+                {
+                    "Text": "Is it true that Governor Cuomo has banned the promising malaria drug he do such a thing ? Can that rule be overridden by our president ?",
+                    "BoundingBox": {
+                        "Width": 0.4984671175479889,
+                        "Height": 0.06346559524536133,
+                        "Left": 0.1173294335603714,
+                        "Top": 0.5236435532569885
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6431232690811157
+                },
+                {
+                    "Text": "to Nyers with covid 19 and if so why would",
+                    "BoundingBox": {
+                        "Width": 0.2787313163280487,
+                        "Height": 0.026741057634353638,
+                        "Left": 0.6321399211883545,
+                        "Top": 0.5261980295181274
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6227822303771973
+                },
+                {
+                    "Text": "I don' t wanna take Covid-19 Vaccine. High risk for me. . I'm immunosuppressed person and I don' t wanna let nothing more touch my inmune system . Be on \"O \" is enough an nightmare with side effects all the Time . And I wanna take Ocrevus just every 9 moths to let to rest my body .",
+                    "BoundingBox": {
+                        "Width": 0.7806094288825989,
+                        "Height": 0.095081627368927,
+                        "Left": 0.12966030836105347,
+                        "Top": 0.7082021832466125
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6359001994132996
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,569",
+            "end_time": "00:00:08,751",
+            "transcript": "The COVID-19 pandemic continues to bring up various topics discussed or debated on social media.",
+            "MatchedRegion": [
+                {
+                    "Text": "1.1 Motivation",
+                    "BoundingBox": {
+                        "Width": 0.15110555291175842,
+                        "Height": 0.03146573528647423,
+                        "Left": 0.028075193986296654,
+                        "Top": 0.14239922165870667
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.6162431836128235
+                },
+                {
+                    "Text": "Existing natural language processing (NLP) tools struggle to fulfill the surging demand for accurate social media-based public healthcare analysis due to the lack of relevant datasets.",
+                    "BoundingBox": {
+                        "Width": 0.8522049784660339,
+                        "Height": 0.07857756316661835,
+                        "Left": 0.05777743086218834,
+                        "Top": 0.22238238155841827
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8830233216285706
+                },
+                {
+                    "Text": "Named entity recognition (NER) and targeted sentiment analysis (TSA) are two important tasks for studying user foci and attitudes:",
+                    "BoundingBox": {
+                        "Width": 0.8677211999893188,
+                        "Height": 0.07898332923650742,
+                        "Left": 0.057744208723306656,
+                        "Top": 0.31154733896255493
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7432922124862671
+                },
+                {
+                    "Text": "Drug",
+                    "BoundingBox": {
+                        "Width": 0.03172656521201134,
+                        "Height": 0.024514760822057724,
+                        "Left": 0.5430874228477478,
+                        "Top": 0.48357340693473816
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6037759780883789
+                },
+                {
+                    "Text": "Is it true that Governor Cuomo has banned the promising malaria drug he do such a thing ? Can that rule be overridden by our president ?",
+                    "BoundingBox": {
+                        "Width": 0.4984671175479889,
+                        "Height": 0.06346559524536133,
+                        "Left": 0.1173294335603714,
+                        "Top": 0.5236435532569885
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6431232690811157
+                },
+                {
+                    "Text": "to Nyers with covid 19 and if so why would",
+                    "BoundingBox": {
+                        "Width": 0.2787313163280487,
+                        "Height": 0.026741057634353638,
+                        "Left": 0.6321399211883545,
+                        "Top": 0.5261980295181274
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6227822303771973
+                },
+                {
+                    "Text": "Vaccine",
+                    "BoundingBox": {
+                        "Width": 0.050576116889715195,
+                        "Height": 0.020365217700600624,
+                        "Left": 0.28365716338157654,
+                        "Top": 0.6711806058883667
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6049894094467163
+                },
+                {
+                    "Text": "I don' t wanna take Covid-19 Vaccine. High risk for me. . I'm immunosuppressed person and I don' t wanna let nothing more touch my inmune system . Be on \"O \" is enough an nightmare with side effects all the Time . And I wanna take Ocrevus just every 9 moths to let to rest my body .",
+                    "BoundingBox": {
+                        "Width": 0.7806094288825989,
+                        "Height": 0.095081627368927,
+                        "Left": 0.12966030836105347,
+                        "Top": 0.7082021832466125
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6359001994132996
+                },
+                {
+                    "Text": "Drug",
+                    "BoundingBox": {
+                        "Width": 0.031376052647829056,
+                        "Height": 0.024518487975001335,
+                        "Left": 0.13009265065193176,
+                        "Top": 0.8209491968154907
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6037759780883789
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,771",
+            "end_time": "00:00:21,854",
+            "transcript": "In order to explore the impact of pandemics on people's lives, it is important to understand the public's concerns and attitudes towards pandemic-related entities on social media.",
+            "MatchedRegion": [
+                {
+                    "Text": "1.1 Motivation",
+                    "BoundingBox": {
+                        "Width": 0.15110555291175842,
+                        "Height": 0.03146573528647423,
+                        "Left": 0.028075193986296654,
+                        "Top": 0.14239922165870667
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.6162431836128235
+                },
+                {
+                    "Text": "Existing natural language processing (NLP) tools struggle to fulfill the surging demand for accurate social media-based public healthcare analysis due to the lack of relevant datasets.",
+                    "BoundingBox": {
+                        "Width": 0.8522049784660339,
+                        "Height": 0.07857756316661835,
+                        "Left": 0.05777743086218834,
+                        "Top": 0.22238238155841827
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8830233216285706
+                },
+                {
+                    "Text": "Named entity recognition (NER) and targeted sentiment analysis (TSA) are two important tasks for studying user foci and attitudes:",
+                    "BoundingBox": {
+                        "Width": 0.8677211999893188,
+                        "Height": 0.07898332923650742,
+                        "Left": 0.057744208723306656,
+                        "Top": 0.31154733896255493
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7432922124862671
+                },
+                {
+                    "Text": "Is it true that Governor Cuomo has banned the promising malaria drug he do such a thing ? Can that rule be overridden by our president ?",
+                    "BoundingBox": {
+                        "Width": 0.4984671175479889,
+                        "Height": 0.06346559524536133,
+                        "Left": 0.1173294335603714,
+                        "Top": 0.5236435532569885
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6431232690811157
+                },
+                {
+                    "Text": "to Nyers with covid 19 and if so why would",
+                    "BoundingBox": {
+                        "Width": 0.2787313163280487,
+                        "Height": 0.026741057634353638,
+                        "Left": 0.6321399211883545,
+                        "Top": 0.5261980295181274
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6227822303771973
+                },
+                {
+                    "Text": "I don' t wanna take Covid-19 Vaccine. High risk for me. . I'm immunosuppressed person and I don' t wanna let nothing more touch my inmune system . Be on \"O \" is enough an nightmare with side effects all the Time . And I wanna take Ocrevus just every 9 moths to let to rest my body .",
+                    "BoundingBox": {
+                        "Width": 0.7806094288825989,
+                        "Height": 0.095081627368927,
+                        "Left": 0.12966030836105347,
+                        "Top": 0.7082021832466125
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6359001994132996
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,691",
+            "end_time": "00:00:44,002",
+            "transcript": "However, most NLP tools as well as models trained on existing name entity recognition or targeted sentiment analysis data sets have limited ability to understand COVID-19 related social media texts because these data sets are not designed or annotated from a medical perspective.",
+            "MatchedRegion": [
+                {
+                    "Text": "1.1 Motivation",
+                    "BoundingBox": {
+                        "Width": 0.15110555291175842,
+                        "Height": 0.03146573528647423,
+                        "Left": 0.028075193986296654,
+                        "Top": 0.14239922165870667
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.6162431836128235
+                },
+                {
+                    "Text": "Existing natural language processing (NLP) tools struggle to fulfill the surging demand for accurate social media-based public healthcare analysis due to the lack of relevant datasets.",
+                    "BoundingBox": {
+                        "Width": 0.8522049784660339,
+                        "Height": 0.07857756316661835,
+                        "Left": 0.05777743086218834,
+                        "Top": 0.22238238155841827
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8830233216285706
+                },
+                {
+                    "Text": "Named entity recognition (NER) and targeted sentiment analysis (TSA) are two important tasks for studying user foci and attitudes:",
+                    "BoundingBox": {
+                        "Width": 0.8677211999893188,
+                        "Height": 0.07898332923650742,
+                        "Left": 0.057744208723306656,
+                        "Top": 0.31154733896255493
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7432922124862671
+                },
+                {
+                    "Text": "Is it true that Governor Cuomo has banned the promising malaria drug he do such a thing ? Can that rule be overridden by our president ?",
+                    "BoundingBox": {
+                        "Width": 0.4984671175479889,
+                        "Height": 0.06346559524536133,
+                        "Left": 0.1173294335603714,
+                        "Top": 0.5236435532569885
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6431232690811157
+                },
+                {
+                    "Text": "to Nyers with covid 19 and if so why would",
+                    "BoundingBox": {
+                        "Width": 0.2787313163280487,
+                        "Height": 0.026741057634353638,
+                        "Left": 0.6321399211883545,
+                        "Top": 0.5261980295181274
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6227822303771973
+                },
+                {
+                    "Text": "I don' t wanna take Covid-19 Vaccine. High risk for me. . I'm immunosuppressed person and I don' t wanna let nothing more touch my inmune system . Be on \"O \" is enough an nightmare with side effects all the Time . And I wanna take Ocrevus just every 9 moths to let to rest my body .",
+                    "BoundingBox": {
+                        "Width": 0.7806094288825989,
+                        "Height": 0.095081627368927,
+                        "Left": 0.12966030836105347,
+                        "Top": 0.7082021832466125
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6359001994132996
+                }
+            ]
+        }
+    ]
+}

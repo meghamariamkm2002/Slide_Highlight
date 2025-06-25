@@ -1,0 +1,301 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,015",
+            "end_time": "00:00:13,406",
+            "transcript": "For base lines, we use T5 and T5 bischema serialization, and then we use three threshold methods to evaluate how well each method can distinguish between answerable and unanswerable questions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments",
+                    "BoundingBox": {
+                        "Width": 0.21370162069797516,
+                        "Height": 0.06827107071876526,
+                        "Left": 0.04592480510473251,
+                        "Top": 0.06659366935491562
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4bad80b-1b1b-46e1-a574-a335482fd971",
+                    "Score": 0.8775961995124817
+                },
+                {
+                    "Text": "T5 Baselines",
+                    "BoundingBox": {
+                        "Width": 0.1586601734161377,
+                        "Height": 0.03788045793771744,
+                        "Left": 0.10544493049383163,
+                        "Top": 0.20614685118198395
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "238e0e9b-8a44-479a-affd-8f624da8628c",
+                    "Score": 0.8333520889282227
+                },
+                {
+                    "Text": "Valid Test Valid Test Model Model Flans Pere Rexe Flexe Flans Pere Rexe Flere Flans Pere Rere Flere Flans Pere Rexe Flere exe Threshold: None Threshold: None T5 80.8 65.2 96.2 77.7 80.3 64.0 95.4 76.6 T5 80.7 65.2 96.4 77.8 80.4 64.0 95.2 76.5 T5 + Schema 80.8 65.3 96.4 77.9 80.3 64.0 95.3 76.6 T5 + Schema 80.7 64.4 95.2 76.8 80.4 64.1 95.4 76.7 Threshold: Clustering boundary Threshold: Clustering boundary T5 93.1 89.3 94.5 91.8 90.1 83.6 93.1 88.1 T5 92.4 89.4 92.8 91.1 89.5 82.1 93.2 87.3 T5 + Schema 92.2 86.7 95.0 90.6 89.8 82.5 93.8 87.8 T5 + Schema 92.7 86.8 94.0 90.3 89.5 79.9 95.0 86.8 Threshold: Percentile-based Threshold: Percentile-based T5 94.8 94.1 93.2 93.7 91.4 88.8 91.1 89.9 T5 93.0 92.5 91.7 92.1 90.8 87.5 91.6 89.5 T5 + Schema 93.5 93.0 92.0 92.5 90.6 88.4 89.7 89.1 T5 + Schema 94.2 92.5 91.7 92.1 90.9 84.8 93.5 88.9",
+                    "BoundingBox": {
+                        "Width": 0.8296986222267151,
+                        "Height": 0.3549003601074219,
+                        "Left": 0.10914357006549835,
+                        "Top": 0.27688053250312805
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "3d95cdc0-d504-47ff-80b4-2d9a46c37067",
+                    "Score": 0.7648606896400452
+                },
+                {
+                    "Text": "Confidence Threshold",
+                    "BoundingBox": {
+                        "Width": 0.2695644199848175,
+                        "Height": 0.03825000673532486,
+                        "Left": 0.1060362234711647,
+                        "Top": 0.703478217124939
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0dfdb0a5-bf87-4031-866c-15fce3bd892c",
+                    "Score": 0.8197526335716248
+                },
+                {
+                    "Text": "SQL generated from T5",
+                    "BoundingBox": {
+                        "Width": 0.1297687292098999,
+                        "Height": 0.07376738637685776,
+                        "Left": 0.18337443470954895,
+                        "Top": 0.8093288540840149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48f2bbf0-4cf4-4c24-8084-98860a4cc4bd",
+                    "Score": 0.7703692317008972
+                },
+                {
+                    "Text": "Maximum entropy during decoding process Entropy Entropy Entropy Entropy att=1 at t=2 at t=3 at t=4",
+                    "BoundingBox": {
+                        "Width": 0.2620851397514343,
+                        "Height": 0.14735862612724304,
+                        "Left": 0.41259488463401794,
+                        "Top": 0.7535300254821777
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4a547001-0627-4887-93f6-3da5a772bd39",
+                    "Score": 0.8272446393966675
+                },
+                {
+                    "Text": "Unanswerable",
+                    "BoundingBox": {
+                        "Width": 0.08801256120204926,
+                        "Height": 0.019514938816428185,
+                        "Left": 0.770946204662323,
+                        "Top": 0.907011091709137
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "86a14fb1-5860-4465-a1d6-5aa8f0d8ec50",
+                    "Score": 0.7755523920059204
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,067",
+            "end_time": "00:00:20,072",
+            "transcript": "The methods include no threshold based on clustering boundary, threshold based on percentile.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments",
+                    "BoundingBox": {
+                        "Width": 0.21370162069797516,
+                        "Height": 0.06827107071876526,
+                        "Left": 0.04592480510473251,
+                        "Top": 0.06659366935491562
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4bad80b-1b1b-46e1-a574-a335482fd971",
+                    "Score": 0.8775961995124817
+                },
+                {
+                    "Text": "T5 Baselines",
+                    "BoundingBox": {
+                        "Width": 0.1586601734161377,
+                        "Height": 0.03788045793771744,
+                        "Left": 0.10544493049383163,
+                        "Top": 0.20614685118198395
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "238e0e9b-8a44-479a-affd-8f624da8628c",
+                    "Score": 0.8333520889282227
+                },
+                {
+                    "Text": "Valid Test Valid Test Model Model Flans Pere Rexe Flexe Flans Pere Rexe Flere Flans Pere Rere Flere Flans Pere Rexe Flere exe Threshold: None Threshold: None T5 80.8 65.2 96.2 77.7 80.3 64.0 95.4 76.6 T5 80.7 65.2 96.4 77.8 80.4 64.0 95.2 76.5 T5 + Schema 80.8 65.3 96.4 77.9 80.3 64.0 95.3 76.6 T5 + Schema 80.7 64.4 95.2 76.8 80.4 64.1 95.4 76.7 Threshold: Clustering boundary Threshold: Clustering boundary T5 93.1 89.3 94.5 91.8 90.1 83.6 93.1 88.1 T5 92.4 89.4 92.8 91.1 89.5 82.1 93.2 87.3 T5 + Schema 92.2 86.7 95.0 90.6 89.8 82.5 93.8 87.8 T5 + Schema 92.7 86.8 94.0 90.3 89.5 79.9 95.0 86.8 Threshold: Percentile-based Threshold: Percentile-based T5 94.8 94.1 93.2 93.7 91.4 88.8 91.1 89.9 T5 93.0 92.5 91.7 92.1 90.8 87.5 91.6 89.5 T5 + Schema 93.5 93.0 92.0 92.5 90.6 88.4 89.7 89.1 T5 + Schema 94.2 92.5 91.7 92.1 90.9 84.8 93.5 88.9",
+                    "BoundingBox": {
+                        "Width": 0.8296986222267151,
+                        "Height": 0.3549003601074219,
+                        "Left": 0.10914357006549835,
+                        "Top": 0.27688053250312805
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "3d95cdc0-d504-47ff-80b4-2d9a46c37067",
+                    "Score": 0.7648606896400452
+                },
+                {
+                    "Text": "Confidence Threshold",
+                    "BoundingBox": {
+                        "Width": 0.2695644199848175,
+                        "Height": 0.03825000673532486,
+                        "Left": 0.1060362234711647,
+                        "Top": 0.703478217124939
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0dfdb0a5-bf87-4031-866c-15fce3bd892c",
+                    "Score": 0.8197526335716248
+                },
+                {
+                    "Text": "SQL generated from T5",
+                    "BoundingBox": {
+                        "Width": 0.1297687292098999,
+                        "Height": 0.07376738637685776,
+                        "Left": 0.18337443470954895,
+                        "Top": 0.8093288540840149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48f2bbf0-4cf4-4c24-8084-98860a4cc4bd",
+                    "Score": 0.7703692317008972
+                },
+                {
+                    "Text": "Maximum entropy during decoding process Entropy Entropy Entropy Entropy att=1 at t=2 at t=3 at t=4",
+                    "BoundingBox": {
+                        "Width": 0.2620851397514343,
+                        "Height": 0.14735862612724304,
+                        "Left": 0.41259488463401794,
+                        "Top": 0.7535300254821777
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4a547001-0627-4887-93f6-3da5a772bd39",
+                    "Score": 0.8272446393966675
+                },
+                {
+                    "Text": "Maximum entropy > Threshold",
+                    "BoundingBox": {
+                        "Width": 0.1865251213312149,
+                        "Height": 0.02397950552403927,
+                        "Left": 0.6954767107963562,
+                        "Top": 0.8091028928756714
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a8360098-e548-4704-b612-05488e1af2ff",
+                    "Score": 0.819312334060669
+                },
+                {
+                    "Text": "Unanswerable",
+                    "BoundingBox": {
+                        "Width": 0.08801256120204926,
+                        "Height": 0.019514938816428185,
+                        "Left": 0.770946204662323,
+                        "Top": 0.907011091709137
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "86a14fb1-5860-4465-a1d6-5aa8f0d8ec50",
+                    "Score": 0.7755523920059204
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,593",
+            "end_time": "00:00:22,995",
+            "transcript": "For more details, please refer to our paper.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments",
+                    "BoundingBox": {
+                        "Width": 0.21370162069797516,
+                        "Height": 0.06827107071876526,
+                        "Left": 0.04592480510473251,
+                        "Top": 0.06659366935491562
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4bad80b-1b1b-46e1-a574-a335482fd971",
+                    "Score": 0.8775961995124817
+                },
+                {
+                    "Text": "T5 Baselines",
+                    "BoundingBox": {
+                        "Width": 0.1586601734161377,
+                        "Height": 0.03788045793771744,
+                        "Left": 0.10544493049383163,
+                        "Top": 0.20614685118198395
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "238e0e9b-8a44-479a-affd-8f624da8628c",
+                    "Score": 0.8333520889282227
+                },
+                {
+                    "Text": "Valid Test Valid Test Model Model Flans Pere Rexe Flexe Flans Pere Rexe Flere Flans Pere Rere Flere Flans Pere Rexe Flere exe Threshold: None Threshold: None T5 80.8 65.2 96.2 77.7 80.3 64.0 95.4 76.6 T5 80.7 65.2 96.4 77.8 80.4 64.0 95.2 76.5 T5 + Schema 80.8 65.3 96.4 77.9 80.3 64.0 95.3 76.6 T5 + Schema 80.7 64.4 95.2 76.8 80.4 64.1 95.4 76.7 Threshold: Clustering boundary Threshold: Clustering boundary T5 93.1 89.3 94.5 91.8 90.1 83.6 93.1 88.1 T5 92.4 89.4 92.8 91.1 89.5 82.1 93.2 87.3 T5 + Schema 92.2 86.7 95.0 90.6 89.8 82.5 93.8 87.8 T5 + Schema 92.7 86.8 94.0 90.3 89.5 79.9 95.0 86.8 Threshold: Percentile-based Threshold: Percentile-based T5 94.8 94.1 93.2 93.7 91.4 88.8 91.1 89.9 T5 93.0 92.5 91.7 92.1 90.8 87.5 91.6 89.5 T5 + Schema 93.5 93.0 92.0 92.5 90.6 88.4 89.7 89.1 T5 + Schema 94.2 92.5 91.7 92.1 90.9 84.8 93.5 88.9",
+                    "BoundingBox": {
+                        "Width": 0.8296986222267151,
+                        "Height": 0.3549003601074219,
+                        "Left": 0.10914357006549835,
+                        "Top": 0.27688053250312805
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "3d95cdc0-d504-47ff-80b4-2d9a46c37067",
+                    "Score": 0.7648606896400452
+                },
+                {
+                    "Text": "Confidence Threshold",
+                    "BoundingBox": {
+                        "Width": 0.2695644199848175,
+                        "Height": 0.03825000673532486,
+                        "Left": 0.1060362234711647,
+                        "Top": 0.703478217124939
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0dfdb0a5-bf87-4031-866c-15fce3bd892c",
+                    "Score": 0.8197526335716248
+                },
+                {
+                    "Text": "SQL generated from T5",
+                    "BoundingBox": {
+                        "Width": 0.1297687292098999,
+                        "Height": 0.07376738637685776,
+                        "Left": 0.18337443470954895,
+                        "Top": 0.8093288540840149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48f2bbf0-4cf4-4c24-8084-98860a4cc4bd",
+                    "Score": 0.7703692317008972
+                },
+                {
+                    "Text": "Maximum entropy during decoding process Entropy Entropy Entropy Entropy att=1 at t=2 at t=3 at t=4",
+                    "BoundingBox": {
+                        "Width": 0.2620851397514343,
+                        "Height": 0.14735862612724304,
+                        "Left": 0.41259488463401794,
+                        "Top": 0.7535300254821777
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4a547001-0627-4887-93f6-3da5a772bd39",
+                    "Score": 0.8272446393966675
+                },
+                {
+                    "Text": "Maximum entropy > Threshold",
+                    "BoundingBox": {
+                        "Width": 0.1865251213312149,
+                        "Height": 0.02397950552403927,
+                        "Left": 0.6954767107963562,
+                        "Top": 0.8091028928756714
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a8360098-e548-4704-b612-05488e1af2ff",
+                    "Score": 0.819312334060669
+                },
+                {
+                    "Text": "Unanswerable",
+                    "BoundingBox": {
+                        "Width": 0.08801256120204926,
+                        "Height": 0.019514938816428185,
+                        "Left": 0.770946204662323,
+                        "Top": 0.907011091709137
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "86a14fb1-5860-4465-a1d6-5aa8f0d8ec50",
+                    "Score": 0.7755523920059204
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+And in GSM, the state of the system converges to the nearest attractor, while that change in state results in the creation of a new attractor state where the system subsequently transitions.
+The energy surface of GSM have two parameters, the state of the system VF and the delay signal VED governing its minima.
+The figure shows the minima of this system changes over time as VD changes when a cyclical sequence of memories, memory 4 to 5, 6, 7 and then back to 4.
+Since VD is delayed VF, the cyclical sequence that is stored results in a system that is never in equilibrium, always transitioning to the next

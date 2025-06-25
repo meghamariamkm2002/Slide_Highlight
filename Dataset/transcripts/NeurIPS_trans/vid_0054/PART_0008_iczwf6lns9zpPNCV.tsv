@@ -1,0 +1,4 @@
+start	end	text
+683	7806	And to further evaporate the model's generalization ability, we carried out the experiment under the field-short setting.
+8487	22213	And we can find that with more data for training, the performance is greatly improved, especially on species with unique texture appearance and posture characteristics.
+22773	28476	And we think it's because these unique characteristics are not shared in other species.

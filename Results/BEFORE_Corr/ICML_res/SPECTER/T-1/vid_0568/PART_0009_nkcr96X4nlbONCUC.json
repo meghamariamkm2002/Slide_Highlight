@@ -1,0 +1,176 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,029",
+            "end_time": "00:00:09,676",
+            "transcript": "And in GSM, the state of the system converges to the nearest attractor, while that change in state results in the creation of a new attractor state where the system subsequently transitions.",
+            "MatchedRegion": [
+                {
+                    "Text": "The energy surface diagram shows how V controls the minima of the energy surface",
+                    "BoundingBox": {
+                        "Width": 0.4104316830635071,
+                        "Height": 0.09346546232700348,
+                        "Left": 0.05416811630129814,
+                        "Top": 0.7843864560127258
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4e194e32-6e18-4b31-afc0-d26b4af12964",
+                    "Score": 0.8257866501808167
+                },
+                {
+                    "Text": "-60 -120 $6 -180 -240 $5 -300 -360 $4 -420 $7 -480 -540 -600 57 E4 55 $6 Vf",
+                    "BoundingBox": {
+                        "Width": 0.3646561801433563,
+                        "Height": 0.6761496663093567,
+                        "Left": 0.5315494537353516,
+                        "Top": 0.2611154019832611
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e23a9d4d-d85b-4c81-b177-fca8b7666b0b",
+                    "Score": 0.7740358114242554
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,716",
+            "end_time": "00:00:17,521",
+            "transcript": "The energy surface of GSM have two parameters, the state of the system VF and the delay signal VED governing its minima.",
+            "MatchedRegion": [
+                {
+                    "Text": "The energy surface diagram shows how V controls the minima of the energy surface",
+                    "BoundingBox": {
+                        "Width": 0.4104316830635071,
+                        "Height": 0.09346546232700348,
+                        "Left": 0.05416811630129814,
+                        "Top": 0.7843864560127258
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4e194e32-6e18-4b31-afc0-d26b4af12964",
+                    "Score": 0.8257866501808167
+                },
+                {
+                    "Text": "Dense GSEMM Energy Surface",
+                    "BoundingBox": {
+                        "Width": 0.2730002701282501,
+                        "Height": 0.03405601903796196,
+                        "Left": 0.5784342885017395,
+                        "Top": 0.21821729838848114
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "316461c1-73bc-4202-845e-93b8d374b6b6",
+                    "Score": 0.8073848485946655
+                },
+                {
+                    "Text": "-60 -120 $6 -180 -240 $5 -300 -360 $4 -420 $7 -480 -540 -600 57 E4 55 $6 Vf",
+                    "BoundingBox": {
+                        "Width": 0.3646561801433563,
+                        "Height": 0.6761496663093567,
+                        "Left": 0.5315494537353516,
+                        "Top": 0.2611154019832611
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e23a9d4d-d85b-4c81-b177-fca8b7666b0b",
+                    "Score": 0.7740358114242554
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,221",
+            "end_time": "00:00:27,388",
+            "transcript": "The figure shows the minima of this system changes over time as VD changes when a cyclical sequence of memories, memory 4 to 5, 6, 7 and then back to 4.",
+            "MatchedRegion": [
+                {
+                    "Text": "Storage of sequence memory cycle - 44 55 56 57 E4 in the presence of 3 other memories",
+                    "BoundingBox": {
+                        "Width": 0.4126008450984955,
+                        "Height": 0.1478356271982193,
+                        "Left": 0.054894182831048965,
+                        "Top": 0.19245517253875732
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "df3a9974-26d2-4dd5-9b50-8c1efcf940ee",
+                    "Score": 0.8624354600906372
+                },
+                {
+                    "Text": "Each memory i is a random binary vector (-1 or +1) of size 100 preloaded in the synapses (E).",
+                    "BoundingBox": {
+                        "Width": 0.43697938323020935,
+                        "Height": 0.15471069514751434,
+                        "Left": 0.05416024476289749,
+                        "Top": 0.3889557123184204
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c9ce1e02-2212-42c8-a90c-f3ac291f6879",
+                    "Score": 0.8402634263038635
+                },
+                {
+                    "Text": "The sequential relationship (the temporal connection between memories) is stored as an adjacency matrix in",
+                    "BoundingBox": {
+                        "Width": 0.4241270422935486,
+                        "Height": 0.15237878262996674,
+                        "Left": 0.05452129244804382,
+                        "Top": 0.587296724319458
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c13e8ad9-81b2-4195-bbbf-fbbba7228ce4",
+                    "Score": 0.8103360533714294
+                },
+                {
+                    "Text": "The energy surface diagram shows how V controls the minima of the energy surface",
+                    "BoundingBox": {
+                        "Width": 0.4104316830635071,
+                        "Height": 0.09346546232700348,
+                        "Left": 0.05416811630129814,
+                        "Top": 0.7843864560127258
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4e194e32-6e18-4b31-afc0-d26b4af12964",
+                    "Score": 0.8257866501808167
+                },
+                {
+                    "Text": "-60 -120 $6 -180 -240 $5 -300 -360 $4 -420 $7 -480 -540 -600 57 E4 55 $6 Vf",
+                    "BoundingBox": {
+                        "Width": 0.3646561801433563,
+                        "Height": 0.6761496663093567,
+                        "Left": 0.5315494537353516,
+                        "Top": 0.2611154019832611
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e23a9d4d-d85b-4c81-b177-fca8b7666b0b",
+                    "Score": 0.7740358114242554
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,938",
+            "end_time": "00:00:37,975",
+            "transcript": "Since VD is delayed VF, the cyclical sequence that is stored results in a system that is never in equilibrium, always transitioning to the next",
+            "MatchedRegion": [
+                {
+                    "Text": "The energy surface diagram shows how V controls the minima of the energy surface",
+                    "BoundingBox": {
+                        "Width": 0.4104316830635071,
+                        "Height": 0.09346546232700348,
+                        "Left": 0.05416811630129814,
+                        "Top": 0.7843864560127258
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4e194e32-6e18-4b31-afc0-d26b4af12964",
+                    "Score": 0.8257866501808167
+                },
+                {
+                    "Text": "-60 -120 $6 -180 -240 $5 -300 -360 $4 -420 $7 -480 -540 -600 57 E4 55 $6 Vf",
+                    "BoundingBox": {
+                        "Width": 0.3646561801433563,
+                        "Height": 0.6761496663093567,
+                        "Left": 0.5315494537353516,
+                        "Top": 0.2611154019832611
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e23a9d4d-d85b-4c81-b177-fca8b7666b0b",
+                    "Score": 0.7740358114242554
+                }
+            ]
+        }
+    ]
+}

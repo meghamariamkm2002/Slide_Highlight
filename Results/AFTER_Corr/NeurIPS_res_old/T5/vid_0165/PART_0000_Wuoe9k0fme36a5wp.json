@@ -1,0 +1,47 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,568",
+            "end_time": "00:00:06,249",
+            "transcript": "Hello, my name is Yizhou Zhang.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,789",
+            "end_time": "00:00:11,091",
+            "transcript": "Today, I will present our work with Du Fucao and Professor Yan Liu.",
+            "MatchedRegion": [
+                {
+                    "Text": "Yizhou Zhang*, Defu Cao* and Yan Liu Department of Computer Science Viterbi School of Engineering University of Southern California",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5421971678733826,
+                        "Height": 0.19974185526371002,
+                        "Left": 0.23051178455352783,
+                        "Top": 0.5089072585105896
+                    },
+                    "Id": "14d0a74c-fec3-44ad-ab84-b33b69c5ffc3"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,672",
+            "end_time": "00:00:17,835",
+            "transcript": "The title is Counterfactual Neural Temporal Point Process for Estimating Causal Influence of Misinformation on Social Media.",
+            "MatchedRegion": [
+                {
+                    "Text": "Counterfactual Neural Temporal Point Process for Estimating Causal Influence of Misinformation on Social Media",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.9088357090950012,
+                        "Height": 0.188595712184906,
+                        "Left": 0.04855317622423172,
+                        "Top": 0.26075267791748047
+                    },
+                    "Id": "207711ba-544a-44a4-8828-d2c9417e391f"
+                }
+            ]
+        }
+    ]
+}

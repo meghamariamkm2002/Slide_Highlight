@@ -1,0 +1,8 @@
+1
+00:00:00,529 --> 00:00:14,361
+So, to fill this gap, we proposed APT36K, the first large-scale dataset with high-quality animal pose annotations from consecutive frames for animal pose estimation and tracking. AP
+
+2
+00:00:14,862 --> 00:00:27,232
+IT CONTAINS NOT ONLY THE CONTINUOUS TIME INFORMATION NEEDED FOR TRACKING TASKS, BUT ALSO A VERY DETAILED INITIATION OF PULSE KEY POINTS WITH A WIDE RANGE OF DIFFERENT ANIMAL SPECIES.
+

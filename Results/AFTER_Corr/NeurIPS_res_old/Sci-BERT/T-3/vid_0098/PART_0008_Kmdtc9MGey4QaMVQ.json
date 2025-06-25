@@ -1,0 +1,941 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,209",
+            "end_time": "00:00:03,892",
+            "transcript": "We use the ultra-fast lane detection method as a backbone for lane detection.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3622979521751404,
+                        "Height": 0.06043195351958275,
+                        "Left": 0.03753877803683281,
+                        "Top": 0.034507784992456436
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7264574766159058
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10636553168296814,
+                        "Height": 0.07996383309364319,
+                        "Left": 0.8887321352958679,
+                        "Top": 0.013229728676378727
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6257563829421997
+                },
+                {
+                    "Text": "We use UFLD[2] as lane detection backbone",
+                    "BoundingBox": {
+                        "Width": 0.38956594467163086,
+                        "Height": 0.0342952236533165,
+                        "Left": 0.03541094437241554,
+                        "Top": 0.2716570794582367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7999357581138611
+                },
+                {
+                    "Text": "The following UDA methods are evaluated: DANN[3], ADDA[6], SGADA[7], and SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.4272581934928894,
+                        "Height": 0.07505735009908676,
+                        "Left": 0.03620203211903572,
+                        "Top": 0.33435165882110596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7817379236221313
+                },
+                {
+                    "Text": "To work with UFLD the UDA methods had to be adopted for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.41562148928642273,
+                        "Height": 0.07559280097484589,
+                        "Left": 0.03589600697159767,
+                        "Top": 0.435763418674469
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.67507404088974
+                },
+                {
+                    "Text": "Results are given as an average over five runs",
+                    "BoundingBox": {
+                        "Width": 0.39909783005714417,
+                        "Height": 0.03504176437854767,
+                        "Left": 0.036028336733579636,
+                        "Top": 0.5384353995323181
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6788710355758667
+                },
+                {
+                    "Text": "Baselines, implementations, and weights are publicly available",
+                    "BoundingBox": {
+                        "Width": 0.39453282952308655,
+                        "Height": 0.0754508525133133,
+                        "Left": 0.035965003073215485,
+                        "Top": 0.6009238362312317
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.9120849370956421
+                },
+                {
+                    "Text": "Selected cell No lane in this row Selecting location of the left lane Location of left lane in this row anchor Selecting location of the right lane Location of right lane in this row anchor Selecting",
+                    "BoundingBox": {
+                        "Width": 0.4748774766921997,
+                        "Height": 0.23609092831611633,
+                        "Left": 0.49428755044937134,
+                        "Top": 0.32586485147476196
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6338841915130615
+                },
+                {
+                    "Text": "UFLD's grid-based lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.20423173904418945,
+                        "Height": 0.024618634954094887,
+                        "Left": 0.6439679861068726,
+                        "Top": 0.5960946679115295
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7414631247520447
+                },
+                {
+                    "Text": "[2] Qin, Zegun, Huanyu Wang, and Xi Li. \"Ultra fast structure-aware deep lane detection.\" European Conference on Computer Vision Springer, Cham, 2020. [3] Y. Ganin, E. Ustinova, H. Ajakan, P. Germain, H. Larochelle, F. Laviolette, M. March, and V. Lempitsky, \"Domain-Adversarial Training of Neural Networks,\" Journal ofMachine Learning Research, vol. 17, no. 59, pp. 1-35, 2016. [6] E. Tzeng, J. Hoffman, K. Saenko, and T. Darrell, \"Adversarial Discriminative Domain Adaptation,\" in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), July 2017. [7] I. B. Akkaya, F. Altinel, and U. Halici, \"Self-Training Guided Adversarial Domain Adaptation for Thermal Imagery,\" in Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, pp. 4322-4331, June 2021.",
+                    "BoundingBox": {
+                        "Width": 0.9559877514839172,
+                        "Height": 0.07847698032855988,
+                        "Left": 0.00822394248098135,
+                        "Top": 0.8251884579658508
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6044390797615051
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.0433710552752018,
+                        "Height": 0.041891373693943024,
+                        "Left": 0.14699774980545044,
+                        "Top": 0.9293942451477051
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6455121636390686
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.060191184282302856,
+                        "Height": 0.01931394822895527,
+                        "Left": 0.8592038154602051,
+                        "Top": 0.9449953436851501
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6107422709465027
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:04,593",
+            "end_time": "00:00:06,715",
+            "transcript": "The following UDA methods are evaluated.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3622979521751404,
+                        "Height": 0.06043195351958275,
+                        "Left": 0.03753877803683281,
+                        "Top": 0.034507784992456436
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7264574766159058
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10636553168296814,
+                        "Height": 0.07996383309364319,
+                        "Left": 0.8887321352958679,
+                        "Top": 0.013229728676378727
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6257563829421997
+                },
+                {
+                    "Text": "We use UFLD[2] as lane detection backbone",
+                    "BoundingBox": {
+                        "Width": 0.38956594467163086,
+                        "Height": 0.0342952236533165,
+                        "Left": 0.03541094437241554,
+                        "Top": 0.2716570794582367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7999357581138611
+                },
+                {
+                    "Text": "The following UDA methods are evaluated: DANN[3], ADDA[6], SGADA[7], and SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.4272581934928894,
+                        "Height": 0.07505735009908676,
+                        "Left": 0.03620203211903572,
+                        "Top": 0.33435165882110596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7817379236221313
+                },
+                {
+                    "Text": "To work with UFLD the UDA methods had to be adopted for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.41562148928642273,
+                        "Height": 0.07559280097484589,
+                        "Left": 0.03589600697159767,
+                        "Top": 0.435763418674469
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.67507404088974
+                },
+                {
+                    "Text": "Results are given as an average over five runs",
+                    "BoundingBox": {
+                        "Width": 0.39909783005714417,
+                        "Height": 0.03504176437854767,
+                        "Left": 0.036028336733579636,
+                        "Top": 0.5384353995323181
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6788710355758667
+                },
+                {
+                    "Text": "Baselines, implementations, and weights are publicly available",
+                    "BoundingBox": {
+                        "Width": 0.39453282952308655,
+                        "Height": 0.0754508525133133,
+                        "Left": 0.035965003073215485,
+                        "Top": 0.6009238362312317
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.9120849370956421
+                },
+                {
+                    "Text": "Selected cell No lane in this row Selecting location of the left lane Location of left lane in this row anchor Selecting location of the right lane Location of right lane in this row anchor Selecting",
+                    "BoundingBox": {
+                        "Width": 0.4748774766921997,
+                        "Height": 0.23609092831611633,
+                        "Left": 0.49428755044937134,
+                        "Top": 0.32586485147476196
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6338841915130615
+                },
+                {
+                    "Text": "UFLD's grid-based lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.20423173904418945,
+                        "Height": 0.024618634954094887,
+                        "Left": 0.6439679861068726,
+                        "Top": 0.5960946679115295
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7414631247520447
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.0433710552752018,
+                        "Height": 0.041891373693943024,
+                        "Left": 0.14699774980545044,
+                        "Top": 0.9293942451477051
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6455121636390686
+                },
+                {
+                    "Text": "Institut f\u00fcr Fahrerassistenz und vernetzte Mobilit\u00e4t",
+                    "BoundingBox": {
+                        "Width": 0.13023881614208221,
+                        "Height": 0.04069989547133446,
+                        "Left": 0.19827726483345032,
+                        "Top": 0.9300269484519958
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6024789810180664
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.060191184282302856,
+                        "Height": 0.01931394822895527,
+                        "Left": 0.8592038154602051,
+                        "Top": 0.9449953436851501
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6107422709465027
+                },
+                {
+                    "Text": "9",
+                    "BoundingBox": {
+                        "Width": 0.005944949574768543,
+                        "Height": 0.014937474392354488,
+                        "Left": 0.9545925855636597,
+                        "Top": 0.9468604922294617
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "LAYOUT_PAGE_NUMBER",
+                    "Score": 0.6056596636772156
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,155",
+            "end_time": "00:00:10,558",
+            "transcript": "Done, DANN, ADDA and our SGADA.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3622979521751404,
+                        "Height": 0.06043195351958275,
+                        "Left": 0.03753877803683281,
+                        "Top": 0.034507784992456436
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7264574766159058
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10636553168296814,
+                        "Height": 0.07996383309364319,
+                        "Left": 0.8887321352958679,
+                        "Top": 0.013229728676378727
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6257563829421997
+                },
+                {
+                    "Text": "We use UFLD[2] as lane detection backbone",
+                    "BoundingBox": {
+                        "Width": 0.38956594467163086,
+                        "Height": 0.0342952236533165,
+                        "Left": 0.03541094437241554,
+                        "Top": 0.2716570794582367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7999357581138611
+                },
+                {
+                    "Text": "The following UDA methods are evaluated: DANN[3], ADDA[6], SGADA[7], and SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.4272581934928894,
+                        "Height": 0.07505735009908676,
+                        "Left": 0.03620203211903572,
+                        "Top": 0.33435165882110596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7817379236221313
+                },
+                {
+                    "Text": "To work with UFLD the UDA methods had to be adopted for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.41562148928642273,
+                        "Height": 0.07559280097484589,
+                        "Left": 0.03589600697159767,
+                        "Top": 0.435763418674469
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.67507404088974
+                },
+                {
+                    "Text": "Results are given as an average over five runs",
+                    "BoundingBox": {
+                        "Width": 0.39909783005714417,
+                        "Height": 0.03504176437854767,
+                        "Left": 0.036028336733579636,
+                        "Top": 0.5384353995323181
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6788710355758667
+                },
+                {
+                    "Text": "Baselines, implementations, and weights are publicly available",
+                    "BoundingBox": {
+                        "Width": 0.39453282952308655,
+                        "Height": 0.0754508525133133,
+                        "Left": 0.035965003073215485,
+                        "Top": 0.6009238362312317
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.9120849370956421
+                },
+                {
+                    "Text": "Selected cell No lane in this row Selecting location of the left lane Location of left lane in this row anchor Selecting location of the right lane Location of right lane in this row anchor Selecting",
+                    "BoundingBox": {
+                        "Width": 0.4748774766921997,
+                        "Height": 0.23609092831611633,
+                        "Left": 0.49428755044937134,
+                        "Top": 0.32586485147476196
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6338841915130615
+                },
+                {
+                    "Text": "UFLD's grid-based lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.20423173904418945,
+                        "Height": 0.024618634954094887,
+                        "Left": 0.6439679861068726,
+                        "Top": 0.5960946679115295
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7414631247520447
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.0433710552752018,
+                        "Height": 0.041891373693943024,
+                        "Left": 0.14699774980545044,
+                        "Top": 0.9293942451477051
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6455121636390686
+                },
+                {
+                    "Text": "Hochschule Kempten",
+                    "BoundingBox": {
+                        "Width": 0.04376435652375221,
+                        "Height": 0.029232731088995934,
+                        "Left": 0.35078608989715576,
+                        "Top": 0.9451020359992981
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6230496168136597
+                },
+                {
+                    "Text": "UAB Universitat Autonoma de Barcelona",
+                    "BoundingBox": {
+                        "Width": 0.07378211617469788,
+                        "Height": 0.067372627556324,
+                        "Left": 0.5283491015434265,
+                        "Top": 0.9212538599967957
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6039913892745972
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.060191184282302856,
+                        "Height": 0.01931394822895527,
+                        "Left": 0.8592038154602051,
+                        "Top": 0.9449953436851501
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6107422709465027
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,319",
+            "end_time": "00:00:17,865",
+            "transcript": "To work with UFLD, the UDA methods had to be adopted for grid-based lane detection, which is not always a trivial task.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3622979521751404,
+                        "Height": 0.06043195351958275,
+                        "Left": 0.03753877803683281,
+                        "Top": 0.034507784992456436
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7264574766159058
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10636553168296814,
+                        "Height": 0.07996383309364319,
+                        "Left": 0.8887321352958679,
+                        "Top": 0.013229728676378727
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6257563829421997
+                },
+                {
+                    "Text": "We use UFLD[2] as lane detection backbone",
+                    "BoundingBox": {
+                        "Width": 0.38956594467163086,
+                        "Height": 0.0342952236533165,
+                        "Left": 0.03541094437241554,
+                        "Top": 0.2716570794582367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7999357581138611
+                },
+                {
+                    "Text": "The following UDA methods are evaluated: DANN[3], ADDA[6], SGADA[7], and SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.4272581934928894,
+                        "Height": 0.07505735009908676,
+                        "Left": 0.03620203211903572,
+                        "Top": 0.33435165882110596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7817379236221313
+                },
+                {
+                    "Text": "To work with UFLD the UDA methods had to be adopted for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.41562148928642273,
+                        "Height": 0.07559280097484589,
+                        "Left": 0.03589600697159767,
+                        "Top": 0.435763418674469
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.67507404088974
+                },
+                {
+                    "Text": "Baselines, implementations, and weights are publicly available",
+                    "BoundingBox": {
+                        "Width": 0.39453282952308655,
+                        "Height": 0.0754508525133133,
+                        "Left": 0.035965003073215485,
+                        "Top": 0.6009238362312317
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.9120849370956421
+                },
+                {
+                    "Text": "Selected cell No lane in this row Selecting location of the left lane Location of left lane in this row anchor Selecting location of the right lane Location of right lane in this row anchor Selecting",
+                    "BoundingBox": {
+                        "Width": 0.4748774766921997,
+                        "Height": 0.23609092831611633,
+                        "Left": 0.49428755044937134,
+                        "Top": 0.32586485147476196
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6338841915130615
+                },
+                {
+                    "Text": "UFLD's grid-based lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.20423173904418945,
+                        "Height": 0.024618634954094887,
+                        "Left": 0.6439679861068726,
+                        "Top": 0.5960946679115295
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7414631247520447
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.0433710552752018,
+                        "Height": 0.041891373693943024,
+                        "Left": 0.14699774980545044,
+                        "Top": 0.9293942451477051
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6455121636390686
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,760",
+            "end_time": "00:00:25,707",
+            "transcript": "As can be seen on the right-side figure, grid-based lane detection divides the image into grid cells and classifies different lane types.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10636553168296814,
+                        "Height": 0.07996383309364319,
+                        "Left": 0.8887321352958679,
+                        "Top": 0.013229728676378727
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6257563829421997
+                },
+                {
+                    "Text": "We use UFLD[2] as lane detection backbone",
+                    "BoundingBox": {
+                        "Width": 0.38956594467163086,
+                        "Height": 0.0342952236533165,
+                        "Left": 0.03541094437241554,
+                        "Top": 0.2716570794582367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7999357581138611
+                },
+                {
+                    "Text": "The following UDA methods are evaluated: DANN[3], ADDA[6], SGADA[7], and SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.4272581934928894,
+                        "Height": 0.07505735009908676,
+                        "Left": 0.03620203211903572,
+                        "Top": 0.33435165882110596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7817379236221313
+                },
+                {
+                    "Text": "To work with UFLD the UDA methods had to be adopted for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.41562148928642273,
+                        "Height": 0.07559280097484589,
+                        "Left": 0.03589600697159767,
+                        "Top": 0.435763418674469
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.67507404088974
+                },
+                {
+                    "Text": "Results are given as an average over five runs",
+                    "BoundingBox": {
+                        "Width": 0.39909783005714417,
+                        "Height": 0.03504176437854767,
+                        "Left": 0.036028336733579636,
+                        "Top": 0.5384353995323181
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6788710355758667
+                },
+                {
+                    "Text": "Baselines, implementations, and weights are publicly available",
+                    "BoundingBox": {
+                        "Width": 0.39453282952308655,
+                        "Height": 0.0754508525133133,
+                        "Left": 0.035965003073215485,
+                        "Top": 0.6009238362312317
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.9120849370956421
+                },
+                {
+                    "Text": "Selected cell No lane in this row Selecting location of the left lane Location of left lane in this row anchor Selecting location of the right lane Location of right lane in this row anchor Selecting",
+                    "BoundingBox": {
+                        "Width": 0.4748774766921997,
+                        "Height": 0.23609092831611633,
+                        "Left": 0.49428755044937134,
+                        "Top": 0.32586485147476196
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6338841915130615
+                },
+                {
+                    "Text": "UFLD's grid-based lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.20423173904418945,
+                        "Height": 0.024618634954094887,
+                        "Left": 0.6439679861068726,
+                        "Top": 0.5960946679115295
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7414631247520447
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:26,548",
+            "end_time": "00:00:29,111",
+            "transcript": "Results are given as an average over five runs.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3622979521751404,
+                        "Height": 0.06043195351958275,
+                        "Left": 0.03753877803683281,
+                        "Top": 0.034507784992456436
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7264574766159058
+                },
+                {
+                    "Text": "We use UFLD[2] as lane detection backbone",
+                    "BoundingBox": {
+                        "Width": 0.38956594467163086,
+                        "Height": 0.0342952236533165,
+                        "Left": 0.03541094437241554,
+                        "Top": 0.2716570794582367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7999357581138611
+                },
+                {
+                    "Text": "The following UDA methods are evaluated: DANN[3], ADDA[6], SGADA[7], and SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.4272581934928894,
+                        "Height": 0.07505735009908676,
+                        "Left": 0.03620203211903572,
+                        "Top": 0.33435165882110596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7817379236221313
+                },
+                {
+                    "Text": "Results are given as an average over five runs",
+                    "BoundingBox": {
+                        "Width": 0.39909783005714417,
+                        "Height": 0.03504176437854767,
+                        "Left": 0.036028336733579636,
+                        "Top": 0.5384353995323181
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6788710355758667
+                },
+                {
+                    "Text": "Baselines, implementations, and weights are publicly available",
+                    "BoundingBox": {
+                        "Width": 0.39453282952308655,
+                        "Height": 0.0754508525133133,
+                        "Left": 0.035965003073215485,
+                        "Top": 0.6009238362312317
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.9120849370956421
+                },
+                {
+                    "Text": "Selected cell No lane in this row Selecting location of the left lane Location of left lane in this row anchor Selecting location of the right lane Location of right lane in this row anchor Selecting",
+                    "BoundingBox": {
+                        "Width": 0.4748774766921997,
+                        "Height": 0.23609092831611633,
+                        "Left": 0.49428755044937134,
+                        "Top": 0.32586485147476196
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6338841915130615
+                },
+                {
+                    "Text": "UFLD's grid-based lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.20423173904418945,
+                        "Height": 0.024618634954094887,
+                        "Left": 0.6439679861068726,
+                        "Top": 0.5960946679115295
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7414631247520447
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.0433710552752018,
+                        "Height": 0.041891373693943024,
+                        "Left": 0.14699774980545044,
+                        "Top": 0.9293942451477051
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6455121636390686
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,712",
+            "end_time": "00:00:32,995",
+            "transcript": "Baselines, implementations and weights are publicly available.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3622979521751404,
+                        "Height": 0.06043195351958275,
+                        "Left": 0.03753877803683281,
+                        "Top": 0.034507784992456436
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7264574766159058
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10636553168296814,
+                        "Height": 0.07996383309364319,
+                        "Left": 0.8887321352958679,
+                        "Top": 0.013229728676378727
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6257563829421997
+                },
+                {
+                    "Text": "We use UFLD[2] as lane detection backbone",
+                    "BoundingBox": {
+                        "Width": 0.38956594467163086,
+                        "Height": 0.0342952236533165,
+                        "Left": 0.03541094437241554,
+                        "Top": 0.2716570794582367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7999357581138611
+                },
+                {
+                    "Text": "The following UDA methods are evaluated: DANN[3], ADDA[6], SGADA[7], and SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.4272581934928894,
+                        "Height": 0.07505735009908676,
+                        "Left": 0.03620203211903572,
+                        "Top": 0.33435165882110596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7817379236221313
+                },
+                {
+                    "Text": "To work with UFLD the UDA methods had to be adopted for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.41562148928642273,
+                        "Height": 0.07559280097484589,
+                        "Left": 0.03589600697159767,
+                        "Top": 0.435763418674469
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.67507404088974
+                },
+                {
+                    "Text": "Results are given as an average over five runs",
+                    "BoundingBox": {
+                        "Width": 0.39909783005714417,
+                        "Height": 0.03504176437854767,
+                        "Left": 0.036028336733579636,
+                        "Top": 0.5384353995323181
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6788710355758667
+                },
+                {
+                    "Text": "Baselines, implementations, and weights are publicly available",
+                    "BoundingBox": {
+                        "Width": 0.39453282952308655,
+                        "Height": 0.0754508525133133,
+                        "Left": 0.035965003073215485,
+                        "Top": 0.6009238362312317
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.9120849370956421
+                },
+                {
+                    "Text": "Selected cell No lane in this row Selecting location of the left lane Location of left lane in this row anchor Selecting location of the right lane Location of right lane in this row anchor Selecting",
+                    "BoundingBox": {
+                        "Width": 0.4748774766921997,
+                        "Height": 0.23609092831611633,
+                        "Left": 0.49428755044937134,
+                        "Top": 0.32586485147476196
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6338841915130615
+                },
+                {
+                    "Text": "UFLD's grid-based lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.20423173904418945,
+                        "Height": 0.024618634954094887,
+                        "Left": 0.6439679861068726,
+                        "Top": 0.5960946679115295
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7414631247520447
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.0433710552752018,
+                        "Height": 0.041891373693943024,
+                        "Left": 0.14699774980545044,
+                        "Top": 0.9293942451477051
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6455121636390686
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.060191184282302856,
+                        "Height": 0.01931394822895527,
+                        "Left": 0.8592038154602051,
+                        "Top": 0.9449953436851501
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6107422709465027
+                }
+            ]
+        }
+    ]
+}

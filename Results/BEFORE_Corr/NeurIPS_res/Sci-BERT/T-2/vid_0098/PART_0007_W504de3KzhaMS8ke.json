@@ -1,0 +1,368 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,550",
+            "end_time": "00:00:07,257",
+            "transcript": "In total, our carline benchmark contains 163,000 unique images, of which 180,000 images are annotated.",
+            "MatchedRegion": [
+                {
+                    "Text": "CARLANE contains a total of 163K unique images",
+                    "BoundingBox": {
+                        "Width": 0.4283044934272766,
+                        "Height": 0.033993300050497055,
+                        "Left": 0.03564880043268204,
+                        "Top": 0.16037000715732574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e0c59d51-93d5-4d4a-ab96-1aceed16aa5c",
+                    "Score": 0.7170904874801636
+                },
+                {
+                    "Text": "118K images are annotated",
+                    "BoundingBox": {
+                        "Width": 0.24844878911972046,
+                        "Height": 0.03258945420384407,
+                        "Left": 0.03566410019993782,
+                        "Top": 0.22378027439117432
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "89cf3189-f285-4ad1-a2ef-1b18e59ec14c",
+                    "Score": 0.763948917388916
+                },
+                {
+                    "Text": "Dataset overview. Unlabeled images denoted by * *, , partially labeled images denoted by **",
+                    "BoundingBox": {
+                        "Width": 0.4000243842601776,
+                        "Height": 0.05241160839796066,
+                        "Left": 0.05982265993952751,
+                        "Top": 0.36789703369140625
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "aea8bb6a-f4be-4618-a281-41a96d231e22",
+                    "Score": 0.7173081636428833
+                },
+                {
+                    "Text": "Dataset domain total images train validation test lanes CARLA simulation 84,000 80,000 4,000 - < 2 MoLane model vehicle 46,843 43,843* 2,000 1,000 2 CARLA simulation 26,400 24,000 2,400 - TuLane < 4 TuSimple 6,408 3,268 358 2,782 < 4 CARLA simulation 52,800 48,000 4,800 - < 4 MuLane model vehicle + TuSimple 12,536 6,536** 4,000 2,000 < 4",
+                    "BoundingBox": {
+                        "Width": 0.4735901355743408,
+                        "Height": 0.20992226898670197,
+                        "Left": 0.022183481603860855,
+                        "Top": 0.43013638257980347
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "605fb5ed-632e-40c5-a317-2665e431b319",
+                    "Score": 0.7191488742828369
+                },
+                {
+                    "Text": "MoLane TuLane MuLane Source Target",
+                    "BoundingBox": {
+                        "Width": 0.45451620221138,
+                        "Height": 0.29227450489997864,
+                        "Left": 0.5160521268844604,
+                        "Top": 0.34082409739494324
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8b7566a9-9c95-42fe-aa37-314d83a8f665",
+                    "Score": 0.6088359355926514
+                },
+                {
+                    "Text": "Lane annotation distributions of the three subsets of CARLANE.",
+                    "BoundingBox": {
+                        "Width": 0.38188621401786804,
+                        "Height": 0.019233878701925278,
+                        "Left": 0.5517857074737549,
+                        "Top": 0.6675443649291992
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fb9b14dc-ef48-4cae-9f98-368b253a980d",
+                    "Score": 0.758018970489502
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,818",
+            "end_time": "00:00:10,721",
+            "transcript": "The distribution of the images can be seen in the table on the slide.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1068698838353157,
+                        "Height": 0.0796743854880333,
+                        "Left": 0.8887902498245239,
+                        "Top": 0.013108487240970135
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "fe05001f-1465-4f75-875c-4dde58533638",
+                    "Score": 0.62729412317276
+                },
+                {
+                    "Text": "CARLANE contains a total of 163K unique images",
+                    "BoundingBox": {
+                        "Width": 0.4283044934272766,
+                        "Height": 0.033993300050497055,
+                        "Left": 0.03564880043268204,
+                        "Top": 0.16037000715732574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e0c59d51-93d5-4d4a-ab96-1aceed16aa5c",
+                    "Score": 0.7170904874801636
+                },
+                {
+                    "Text": "118K images are annotated",
+                    "BoundingBox": {
+                        "Width": 0.24844878911972046,
+                        "Height": 0.03258945420384407,
+                        "Left": 0.03566410019993782,
+                        "Top": 0.22378027439117432
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "89cf3189-f285-4ad1-a2ef-1b18e59ec14c",
+                    "Score": 0.763948917388916
+                },
+                {
+                    "Text": "Dataset domain total images train validation test lanes CARLA simulation 84,000 80,000 4,000 - < 2 MoLane model vehicle 46,843 43,843* 2,000 1,000 2 CARLA simulation 26,400 24,000 2,400 - TuLane < 4 TuSimple 6,408 3,268 358 2,782 < 4 CARLA simulation 52,800 48,000 4,800 - < 4 MuLane model vehicle + TuSimple 12,536 6,536** 4,000 2,000 < 4",
+                    "BoundingBox": {
+                        "Width": 0.4735901355743408,
+                        "Height": 0.20992226898670197,
+                        "Left": 0.022183481603860855,
+                        "Top": 0.43013638257980347
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "605fb5ed-632e-40c5-a317-2665e431b319",
+                    "Score": 0.7191488742828369
+                },
+                {
+                    "Text": "MoLane TuLane MuLane Source Target",
+                    "BoundingBox": {
+                        "Width": 0.45451620221138,
+                        "Height": 0.29227450489997864,
+                        "Left": 0.5160521268844604,
+                        "Top": 0.34082409739494324
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8b7566a9-9c95-42fe-aa37-314d83a8f665",
+                    "Score": 0.6088359355926514
+                },
+                {
+                    "Text": "Lane annotation distributions of the three subsets of CARLANE.",
+                    "BoundingBox": {
+                        "Width": 0.38188621401786804,
+                        "Height": 0.019233878701925278,
+                        "Left": 0.5517857074737549,
+                        "Top": 0.6675443649291992
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fb9b14dc-ef48-4cae-9f98-368b253a980d",
+                    "Score": 0.758018970489502
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.1671115905046463,
+                        "Height": 0.06657719612121582,
+                        "Left": 0.02445868030190468,
+                        "Top": 0.9280127286911011
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "df5eba5d-2a5f-4c57-b197-9587af85a2e6",
+                    "Score": 0.6029146909713745
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07780659198760986,
+                        "Height": 0.06461160629987717,
+                        "Left": 0.35089313983917236,
+                        "Top": 0.923114001750946
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "995624c0-46de-40da-94c3-8f33577ad3e7",
+                    "Score": 0.6215031743049622
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,341",
+            "end_time": "00:00:15,486",
+            "transcript": "For dama, we show the distribution of the annotated lanes for each dataset in the right-hand figure.",
+            "MatchedRegion": [
+                {
+                    "Text": "CARLANE contains a total of 163K unique images",
+                    "BoundingBox": {
+                        "Width": 0.4283044934272766,
+                        "Height": 0.033993300050497055,
+                        "Left": 0.03564880043268204,
+                        "Top": 0.16037000715732574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e0c59d51-93d5-4d4a-ab96-1aceed16aa5c",
+                    "Score": 0.7170904874801636
+                },
+                {
+                    "Text": "118K images are annotated",
+                    "BoundingBox": {
+                        "Width": 0.24844878911972046,
+                        "Height": 0.03258945420384407,
+                        "Left": 0.03566410019993782,
+                        "Top": 0.22378027439117432
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "89cf3189-f285-4ad1-a2ef-1b18e59ec14c",
+                    "Score": 0.763948917388916
+                },
+                {
+                    "Text": "Dataset domain total images train validation test lanes CARLA simulation 84,000 80,000 4,000 - < 2 MoLane model vehicle 46,843 43,843* 2,000 1,000 2 CARLA simulation 26,400 24,000 2,400 - TuLane < 4 TuSimple 6,408 3,268 358 2,782 < 4 CARLA simulation 52,800 48,000 4,800 - < 4 MuLane model vehicle + TuSimple 12,536 6,536** 4,000 2,000 < 4",
+                    "BoundingBox": {
+                        "Width": 0.4735901355743408,
+                        "Height": 0.20992226898670197,
+                        "Left": 0.022183481603860855,
+                        "Top": 0.43013638257980347
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "605fb5ed-632e-40c5-a317-2665e431b319",
+                    "Score": 0.7191488742828369
+                },
+                {
+                    "Text": "Lane annotation distributions of the three subsets of CARLANE.",
+                    "BoundingBox": {
+                        "Width": 0.38188621401786804,
+                        "Height": 0.019233878701925278,
+                        "Left": 0.5517857074737549,
+                        "Top": 0.6675443649291992
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fb9b14dc-ef48-4cae-9f98-368b253a980d",
+                    "Score": 0.758018970489502
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.1671115905046463,
+                        "Height": 0.06657719612121582,
+                        "Left": 0.02445868030190468,
+                        "Top": 0.9280127286911011
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "df5eba5d-2a5f-4c57-b197-9587af85a2e6",
+                    "Score": 0.6029146909713745
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,027",
+            "end_time": "00:00:19,330",
+            "transcript": "You observe that the source and target domain annotations are well aligned.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1068698838353157,
+                        "Height": 0.0796743854880333,
+                        "Left": 0.8887902498245239,
+                        "Top": 0.013108487240970135
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "fe05001f-1465-4f75-875c-4dde58533638",
+                    "Score": 0.62729412317276
+                },
+                {
+                    "Text": "CARLANE contains a total of 163K unique images",
+                    "BoundingBox": {
+                        "Width": 0.4283044934272766,
+                        "Height": 0.033993300050497055,
+                        "Left": 0.03564880043268204,
+                        "Top": 0.16037000715732574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e0c59d51-93d5-4d4a-ab96-1aceed16aa5c",
+                    "Score": 0.7170904874801636
+                },
+                {
+                    "Text": "118K images are annotated",
+                    "BoundingBox": {
+                        "Width": 0.24844878911972046,
+                        "Height": 0.03258945420384407,
+                        "Left": 0.03566410019993782,
+                        "Top": 0.22378027439117432
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "89cf3189-f285-4ad1-a2ef-1b18e59ec14c",
+                    "Score": 0.763948917388916
+                },
+                {
+                    "Text": "Dataset overview. Unlabeled images denoted by * *, , partially labeled images denoted by **",
+                    "BoundingBox": {
+                        "Width": 0.4000243842601776,
+                        "Height": 0.05241160839796066,
+                        "Left": 0.05982265993952751,
+                        "Top": 0.36789703369140625
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "aea8bb6a-f4be-4618-a281-41a96d231e22",
+                    "Score": 0.7173081636428833
+                },
+                {
+                    "Text": "Dataset domain total images train validation test lanes CARLA simulation 84,000 80,000 4,000 - < 2 MoLane model vehicle 46,843 43,843* 2,000 1,000 2 CARLA simulation 26,400 24,000 2,400 - TuLane < 4 TuSimple 6,408 3,268 358 2,782 < 4 CARLA simulation 52,800 48,000 4,800 - < 4 MuLane model vehicle + TuSimple 12,536 6,536** 4,000 2,000 < 4",
+                    "BoundingBox": {
+                        "Width": 0.4735901355743408,
+                        "Height": 0.20992226898670197,
+                        "Left": 0.022183481603860855,
+                        "Top": 0.43013638257980347
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "605fb5ed-632e-40c5-a317-2665e431b319",
+                    "Score": 0.7191488742828369
+                },
+                {
+                    "Text": "MoLane TuLane MuLane Source Target",
+                    "BoundingBox": {
+                        "Width": 0.45451620221138,
+                        "Height": 0.29227450489997864,
+                        "Left": 0.5160521268844604,
+                        "Top": 0.34082409739494324
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8b7566a9-9c95-42fe-aa37-314d83a8f665",
+                    "Score": 0.6088359355926514
+                },
+                {
+                    "Text": "Lane annotation distributions of the three subsets of CARLANE.",
+                    "BoundingBox": {
+                        "Width": 0.38188621401786804,
+                        "Height": 0.019233878701925278,
+                        "Left": 0.5517857074737549,
+                        "Top": 0.6675443649291992
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fb9b14dc-ef48-4cae-9f98-368b253a980d",
+                    "Score": 0.758018970489502
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.1671115905046463,
+                        "Height": 0.06657719612121582,
+                        "Left": 0.02445868030190468,
+                        "Top": 0.9280127286911011
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "df5eba5d-2a5f-4c57-b197-9587af85a2e6",
+                    "Score": 0.6029146909713745
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07780659198760986,
+                        "Height": 0.06461160629987717,
+                        "Left": 0.35089313983917236,
+                        "Top": 0.923114001750946
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "995624c0-46de-40da-94c3-8f33577ad3e7",
+                    "Score": 0.6215031743049622
+                }
+            ]
+        }
+    ]
+}

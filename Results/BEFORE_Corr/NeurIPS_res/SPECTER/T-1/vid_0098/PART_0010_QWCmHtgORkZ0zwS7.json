@@ -1,0 +1,212 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,030",
+            "end_time": "00:00:09,634",
+            "transcript": "In our experiments, the evaluated UDA methods achieved a maximum accuracy gain of around 4% and high positives and negative rates.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10692441463470459,
+                        "Height": 0.08050431311130524,
+                        "Left": 0.8885690569877625,
+                        "Top": 0.012494550086557865
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e0774e26-a6c4-4f43-99bd-497412a3e797",
+                    "Score": 0.6096193790435791
+                },
+                {
+                    "Text": "Maximum accuracy gain of 4.55%",
+                    "BoundingBox": {
+                        "Width": 0.27232062816619873,
+                        "Height": 0.029999367892742157,
+                        "Left": 0.07306234538555145,
+                        "Top": 0.22271420061588287
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a22ffc7-766a-4684-b3af-8ab58b58bb8e",
+                    "Score": 0.8655035495758057
+                },
+                {
+                    "Text": "High false positive (FP) and false negative (FN) rates",
+                    "BoundingBox": {
+                        "Width": 0.4098438024520874,
+                        "Height": 0.03011905588209629,
+                        "Left": 0.07360711693763733,
+                        "Top": 0.28047001361846924
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7b7a01c3-8082-4103-9d82-6d6d8a2ad9eb",
+                    "Score": 0.815796434879303
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06675960123538971,
+                        "Height": 0.06729678064584732,
+                        "Left": 0.44557985663414,
+                        "Top": 0.9215837717056274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8d054485-8445-4d56-bfea-ba5f3e4b7798",
+                    "Score": 0.695577085018158
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,435",
+            "end_time": "00:00:15,978",
+            "transcript": "This shows that the methods are not able to achieve comparable results to the supervised baselines.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10692441463470459,
+                        "Height": 0.08050431311130524,
+                        "Left": 0.8885690569877625,
+                        "Top": 0.012494550086557865
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e0774e26-a6c4-4f43-99bd-497412a3e797",
+                    "Score": 0.6096193790435791
+                },
+                {
+                    "Text": "Adaptation methods are not able to achieve comparable results to the supervised baselines (UFLD-TO):",
+                    "BoundingBox": {
+                        "Width": 0.8894064426422119,
+                        "Height": 0.033779218792915344,
+                        "Left": 0.03510523587465286,
+                        "Top": 0.1607089638710022
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c8eb30e3-ad38-4707-a60f-f5f369bdbbbb",
+                    "Score": 0.8927490711212158
+                },
+                {
+                    "Text": "Maximum accuracy gain of 4.55%",
+                    "BoundingBox": {
+                        "Width": 0.27232062816619873,
+                        "Height": 0.029999367892742157,
+                        "Left": 0.07306234538555145,
+                        "Top": 0.22271420061588287
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a22ffc7-766a-4684-b3af-8ab58b58bb8e",
+                    "Score": 0.8655035495758057
+                },
+                {
+                    "Text": "High false positive (FP) and false negative (FN) rates",
+                    "BoundingBox": {
+                        "Width": 0.4098438024520874,
+                        "Height": 0.03011905588209629,
+                        "Left": 0.07360711693763733,
+                        "Top": 0.28047001361846924
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7b7a01c3-8082-4103-9d82-6d6d8a2ad9eb",
+                    "Score": 0.815796434879303
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06675960123538971,
+                        "Height": 0.06729678064584732,
+                        "Left": 0.44557985663414,
+                        "Top": 0.9215837717056274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8d054485-8445-4d56-bfea-ba5f3e4b7798",
+                    "Score": 0.695577085018158
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,778",
+            "end_time": "00:00:23,705",
+            "transcript": "Furthermore, we observe force-positive and force-negative rates increase significantly on the multi-target task of Moulin.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10692441463470459,
+                        "Height": 0.08050431311130524,
+                        "Left": 0.8885690569877625,
+                        "Top": 0.012494550086557865
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e0774e26-a6c4-4f43-99bd-497412a3e797",
+                    "Score": 0.6096193790435791
+                },
+                {
+                    "Text": "FP and FN rates increase significantly on the multi-target task of MuLane",
+                    "BoundingBox": {
+                        "Width": 0.6298749446868896,
+                        "Height": 0.03404204174876213,
+                        "Left": 0.03552503138780594,
+                        "Top": 0.3392248749732971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "14cdf07c-bbb9-4b2b-8ed4-26aee4222c62",
+                    "Score": 0.8163868188858032
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06675960123538971,
+                        "Height": 0.06729678064584732,
+                        "Left": 0.44557985663414,
+                        "Top": 0.9215837717056274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8d054485-8445-4d56-bfea-ba5f3e4b7798",
+                    "Score": 0.695577085018158
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,246",
+            "end_time": "00:00:32,995",
+            "transcript": "We want to emphasize that force-positive and force-negatives represent strongly detected and missing lanes, which can lead to crucial impacts on autonomous driving.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10692441463470459,
+                        "Height": 0.08050431311130524,
+                        "Left": 0.8885690569877625,
+                        "Top": 0.012494550086557865
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e0774e26-a6c4-4f43-99bd-497412a3e797",
+                    "Score": 0.6096193790435791
+                },
+                {
+                    "Text": "FP and FN represent wrongly detected and missing lanes, which can lead to crucial impacts on autonomous driving functions",
+                    "BoundingBox": {
+                        "Width": 0.9204299449920654,
+                        "Height": 0.030705302953720093,
+                        "Left": 0.055972564965486526,
+                        "Top": 0.8392157554626465
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e10fa744-9aae-4a2c-a033-198eac6ccaea",
+                    "Score": 0.9344987869262695
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06675960123538971,
+                        "Height": 0.06729678064584732,
+                        "Left": 0.44557985663414,
+                        "Top": 0.9215837717056274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8d054485-8445-4d56-bfea-ba5f3e4b7798",
+                    "Score": 0.695577085018158
+                }
+            ]
+        }
+    ]
+}

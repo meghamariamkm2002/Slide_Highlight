@@ -1,0 +1,98 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:01,750",
+            "end_time": "00:00:04,632",
+            "transcript": "To bridge the gap, we released METS-CoV data set.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.06411013007164001,
+                        "Height": 0.02522464282810688,
+                        "Left": 0.1190263032913208,
+                        "Top": 0.3952828645706177
+                    },
+                    "Id": "8feb858a-f2bc-40e5-9e12-a0ee1074d2af"
+                },
+                {
+                    "Text": "7 types of entities: Disease, Drug, Symptom, Vaccine, Person, Location, and Organization.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.703701376914978,
+                        "Height": 0.031327925622463226,
+                        "Left": 0.2687217891216278,
+                        "Top": 0.361409991979599
+                    },
+                    "Id": "90eaaeb7-596d-4b67-ae24-22f8283252b8"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,372",
+            "end_time": "00:00:22,643",
+            "transcript": "This data set contains 10,000 tweets with seven types of entities, including four medical entity types, such as disease, drug, symptom, and vaccine, and three general entity types, like person, location, and organization.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:23,464",
+            "end_time": "00:00:28,307",
+            "transcript": "To further investigate Twitter users' attitudes towards specific entities,",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,042",
+            "end_time": "00:00:37,349",
+            "transcript": "Four types of entities, such as person, organization, drug, and vaccine, are selected and annotated with user sentiments.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.06411013007164001,
+                        "Height": 0.02522464282810688,
+                        "Left": 0.1190263032913208,
+                        "Top": 0.3952828645706177
+                    },
+                    "Id": "8feb858a-f2bc-40e5-9e12-a0ee1074d2af"
+                },
+                {
+                    "Text": "sentiments of 4 types of entities: Person, Organization, Drug, and Vaccine.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.588422417640686,
+                        "Height": 0.031165361404418945,
+                        "Left": 0.2687642276287079,
+                        "Top": 0.401303231716156
+                    },
+                    "Id": "4c702c28-fa4f-4a7e-9c67-b35626dc206e"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:38,470",
+            "end_time": "00:00:44,154",
+            "transcript": "Also, we designed detailed guidelines for annotating medical entities on tweets.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:45,496",
+            "end_time": "00:00:57,005",
+            "transcript": "We benchmarked the performance of classical machine learning models and state-of-the-art deep learning models, including pre-training language models on NER and TSA tasks of machine learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmarking the performance of classical machine learning models and state- of-the-art deep learning models including pre-training language models on NER and TSA tasks of METS-CoV.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.608792781829834,
+                        "Height": 0.10663367807865143,
+                        "Left": 0.25661149621009827,
+                        "Top": 0.785422682762146
+                    },
+                    "Id": "4bcf3e11-86fd-4c94-add1-bb9a5e6d633f"
+                }
+            ]
+        }
+    ]
+}

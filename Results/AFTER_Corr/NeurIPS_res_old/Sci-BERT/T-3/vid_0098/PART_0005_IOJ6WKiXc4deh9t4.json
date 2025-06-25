@@ -1,0 +1,464 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,029",
+            "end_time": "00:00:00,510",
+            "transcript": "this point.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset Collection - Model Vehicle",
+                    "BoundingBox": {
+                        "Width": 0.5113098621368408,
+                        "Height": 0.047069452702999115,
+                        "Left": 0.038096945732831955,
+                        "Top": 0.03593543544411659
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7447158098220825
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1069725900888443,
+                        "Height": 0.08008861541748047,
+                        "Left": 0.888554573059082,
+                        "Top": 0.013167337514460087
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6358804702758789
+                },
+                {
+                    "Text": "We capture data with our 1/8th model vehicle",
+                    "BoundingBox": {
+                        "Width": 0.4080873429775238,
+                        "Height": 0.034019216895103455,
+                        "Left": 0.035310372710227966,
+                        "Top": 0.15977144241333008
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8361012935638428
+                },
+                {
+                    "Text": "Tracks roughly contain the same proportion of straight and curved segments",
+                    "BoundingBox": {
+                        "Width": 0.6612081527709961,
+                        "Height": 0.034215621650218964,
+                        "Left": 0.03567563369870186,
+                        "Top": 0.2226465791463852
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7827245593070984
+                },
+                {
+                    "Text": "Randomizations:",
+                    "BoundingBox": {
+                        "Width": 0.1574099063873291,
+                        "Height": 0.02644198015332222,
+                        "Left": 0.03594381362199783,
+                        "Top": 0.28586459159851074
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7305296063423157
+                },
+                {
+                    "Text": "alternating backgrounds, lighting conditions, surface materials, and lane topology",
+                    "BoundingBox": {
+                        "Width": 0.6370726823806763,
+                        "Height": 0.031214585527777672,
+                        "Left": 0.07355377078056335,
+                        "Top": 0.3463626503944397
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.873906672000885
+                },
+                {
+                    "Text": "four different locations",
+                    "BoundingBox": {
+                        "Width": 0.19196975231170654,
+                        "Height": 0.02491123229265213,
+                        "Left": 0.07358773052692413,
+                        "Top": 0.40491390228271484
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7191644906997681
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04384411498904228,
+                        "Height": 0.04214370250701904,
+                        "Left": 0.14654488861560822,
+                        "Top": 0.929711103439331
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.619224488735199
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07751907408237457,
+                        "Height": 0.06359340250492096,
+                        "Left": 0.3508833050727844,
+                        "Top": 0.9238248467445374
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6095061302185059
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.060538921505212784,
+                        "Height": 0.018173305317759514,
+                        "Left": 0.8589223623275757,
+                        "Top": 0.945277214050293
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6061718463897705
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,792",
+            "end_time": "00:00:05,577",
+            "transcript": "For the target domain of MOLAN, we capture data with our 1/8th model vehicle.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset Collection - Model Vehicle",
+                    "BoundingBox": {
+                        "Width": 0.5113098621368408,
+                        "Height": 0.047069452702999115,
+                        "Left": 0.038096945732831955,
+                        "Top": 0.03593543544411659
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7447158098220825
+                },
+                {
+                    "Text": "We capture data with our 1/8th model vehicle",
+                    "BoundingBox": {
+                        "Width": 0.4080873429775238,
+                        "Height": 0.034019216895103455,
+                        "Left": 0.035310372710227966,
+                        "Top": 0.15977144241333008
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8361012935638428
+                },
+                {
+                    "Text": "Tracks roughly contain the same proportion of straight and curved segments",
+                    "BoundingBox": {
+                        "Width": 0.6612081527709961,
+                        "Height": 0.034215621650218964,
+                        "Left": 0.03567563369870186,
+                        "Top": 0.2226465791463852
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7827245593070984
+                },
+                {
+                    "Text": "Randomizations:",
+                    "BoundingBox": {
+                        "Width": 0.1574099063873291,
+                        "Height": 0.02644198015332222,
+                        "Left": 0.03594381362199783,
+                        "Top": 0.28586459159851074
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7305296063423157
+                },
+                {
+                    "Text": "alternating backgrounds, lighting conditions, surface materials, and lane topology",
+                    "BoundingBox": {
+                        "Width": 0.6370726823806763,
+                        "Height": 0.031214585527777672,
+                        "Left": 0.07355377078056335,
+                        "Top": 0.3463626503944397
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.873906672000885
+                },
+                {
+                    "Text": "four different locations",
+                    "BoundingBox": {
+                        "Width": 0.19196975231170654,
+                        "Height": 0.02491123229265213,
+                        "Left": 0.07358773052692413,
+                        "Top": 0.40491390228271484
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7191644906997681
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04384411498904228,
+                        "Height": 0.04214370250701904,
+                        "Left": 0.14654488861560822,
+                        "Top": 0.929711103439331
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.619224488735199
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,078",
+            "end_time": "00:00:09,223",
+            "transcript": "Tracks roughly contain the same proportion of straight and curved segments.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset Collection - Model Vehicle",
+                    "BoundingBox": {
+                        "Width": 0.5113098621368408,
+                        "Height": 0.047069452702999115,
+                        "Left": 0.038096945732831955,
+                        "Top": 0.03593543544411659
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7447158098220825
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1069725900888443,
+                        "Height": 0.08008861541748047,
+                        "Left": 0.888554573059082,
+                        "Top": 0.013167337514460087
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6358804702758789
+                },
+                {
+                    "Text": "We capture data with our 1/8th model vehicle",
+                    "BoundingBox": {
+                        "Width": 0.4080873429775238,
+                        "Height": 0.034019216895103455,
+                        "Left": 0.035310372710227966,
+                        "Top": 0.15977144241333008
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8361012935638428
+                },
+                {
+                    "Text": "Tracks roughly contain the same proportion of straight and curved segments",
+                    "BoundingBox": {
+                        "Width": 0.6612081527709961,
+                        "Height": 0.034215621650218964,
+                        "Left": 0.03567563369870186,
+                        "Top": 0.2226465791463852
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7827245593070984
+                },
+                {
+                    "Text": "Randomizations:",
+                    "BoundingBox": {
+                        "Width": 0.1574099063873291,
+                        "Height": 0.02644198015332222,
+                        "Left": 0.03594381362199783,
+                        "Top": 0.28586459159851074
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7305296063423157
+                },
+                {
+                    "Text": "alternating backgrounds, lighting conditions, surface materials, and lane topology",
+                    "BoundingBox": {
+                        "Width": 0.6370726823806763,
+                        "Height": 0.031214585527777672,
+                        "Left": 0.07355377078056335,
+                        "Top": 0.3463626503944397
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.873906672000885
+                },
+                {
+                    "Text": "four different locations",
+                    "BoundingBox": {
+                        "Width": 0.19196975231170654,
+                        "Height": 0.02491123229265213,
+                        "Left": 0.07358773052692413,
+                        "Top": 0.40491390228271484
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7191644906997681
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04384411498904228,
+                        "Height": 0.04214370250701904,
+                        "Left": 0.14654488861560822,
+                        "Top": 0.929711103439331
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.619224488735199
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07751907408237457,
+                        "Height": 0.06359340250492096,
+                        "Left": 0.3508833050727844,
+                        "Top": 0.9238248467445374
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6095061302185059
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.060538921505212784,
+                        "Height": 0.018173305317759514,
+                        "Left": 0.8589223623275757,
+                        "Top": 0.945277214050293
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6061718463897705
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,743",
+            "end_time": "00:00:14,911",
+            "transcript": "Randomizations include alternating backgrounds, lighting conditions, surface materials, and lane topologies.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset Collection - Model Vehicle",
+                    "BoundingBox": {
+                        "Width": 0.5113098621368408,
+                        "Height": 0.047069452702999115,
+                        "Left": 0.038096945732831955,
+                        "Top": 0.03593543544411659
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7447158098220825
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1069725900888443,
+                        "Height": 0.08008861541748047,
+                        "Left": 0.888554573059082,
+                        "Top": 0.013167337514460087
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6358804702758789
+                },
+                {
+                    "Text": "We capture data with our 1/8th model vehicle",
+                    "BoundingBox": {
+                        "Width": 0.4080873429775238,
+                        "Height": 0.034019216895103455,
+                        "Left": 0.035310372710227966,
+                        "Top": 0.15977144241333008
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8361012935638428
+                },
+                {
+                    "Text": "Tracks roughly contain the same proportion of straight and curved segments",
+                    "BoundingBox": {
+                        "Width": 0.6612081527709961,
+                        "Height": 0.034215621650218964,
+                        "Left": 0.03567563369870186,
+                        "Top": 0.2226465791463852
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7827245593070984
+                },
+                {
+                    "Text": "Randomizations:",
+                    "BoundingBox": {
+                        "Width": 0.1574099063873291,
+                        "Height": 0.02644198015332222,
+                        "Left": 0.03594381362199783,
+                        "Top": 0.28586459159851074
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7305296063423157
+                },
+                {
+                    "Text": "alternating backgrounds, lighting conditions, surface materials, and lane topology",
+                    "BoundingBox": {
+                        "Width": 0.6370726823806763,
+                        "Height": 0.031214585527777672,
+                        "Left": 0.07355377078056335,
+                        "Top": 0.3463626503944397
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.873906672000885
+                },
+                {
+                    "Text": "four different locations",
+                    "BoundingBox": {
+                        "Width": 0.19196975231170654,
+                        "Height": 0.02491123229265213,
+                        "Left": 0.07358773052692413,
+                        "Top": 0.40491390228271484
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7191644906997681
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04384411498904228,
+                        "Height": 0.04214370250701904,
+                        "Left": 0.14654488861560822,
+                        "Top": 0.929711103439331
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.619224488735199
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07751907408237457,
+                        "Height": 0.06359340250492096,
+                        "Left": 0.3508833050727844,
+                        "Top": 0.9238248467445374
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6095061302185059
+                }
+            ]
+        }
+    ]
+}

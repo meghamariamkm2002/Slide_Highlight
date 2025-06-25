@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:08,626",
+            "end_time": "00:00:12,693",
+            "transcript": "Howdy, I'm Gideon Freund and I'll be presenting a coupled flow approach to imitation learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "A Coupled Flow Approach to Imitation Learning",
+                    "BoundingBox": {
+                        "Width": 0.5779187679290771,
+                        "Height": 0.17545939981937408,
+                        "Left": 0.20982928574085236,
+                        "Top": 0.2599198520183563
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "989073ca-bc42-4987-b9f8-3d90f47ed930",
+                    "Score": 0.9416468143463135
+                },
+                {
+                    "Text": "Gideon Freund, Elad Sarafian, Sarit Kraus Bar-Ilan University",
+                    "BoundingBox": {
+                        "Width": 0.3758419156074524,
+                        "Height": 0.10040735453367233,
+                        "Left": 0.31201672554016113,
+                        "Top": 0.5177789926528931
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e99af467-1cf4-4a14-8ff3-215cbf2e9a20",
+                    "Score": 0.682689905166626
+                }
+            ]
+        }
+    ]
+}

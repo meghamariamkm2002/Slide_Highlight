@@ -1,0 +1,2 @@
+On the other hand, sequence memory models still have a capacity much less than the number of neurons with the capacity of a recent model proposed in 2019 comparable to the models proposed in 1986.
+Further, there is no theoretical paradigm governing the design of these models.

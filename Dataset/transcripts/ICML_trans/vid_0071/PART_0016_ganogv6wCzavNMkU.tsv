@@ -1,0 +1,4 @@
+start	end	text
+9	6752	However, even if there exists meaningful patterns in the training data, the DNM may still not learn these concepts.
+7592	12554	A typical example is when the task can be conducted with some shortcut solutions.
+13635	20118	In this case, the DNM probably converges to the shortcut solution, without encoding complex concepts.

@@ -1,0 +1,95 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,411",
+            "end_time": "00:00:08,662",
+            "transcript": "And also, we can see that misinformation is hurting people's subjective emotions towards COVID-19 vaccines.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments - Real world data",
+                    "BoundingBox": {
+                        "Width": 0.6012822389602661,
+                        "Height": 0.05965149402618408,
+                        "Left": 0.05988071858882904,
+                        "Top": 0.06594523787498474
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6578720211982727
+                },
+                {
+                    "Text": "Collect 16,9008 tweets with labels from 24,192 users over a 5-month period from 2020/12/09 to 2021/04/24",
+                    "BoundingBox": {
+                        "Width": 0.802753746509552,
+                        "Height": 0.08275385200977325,
+                        "Left": 0.06061331555247307,
+                        "Top": 0.17737352848052979
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.736488938331604
+                },
+                {
+                    "Text": "Misinformation is hurting people's subjective emotion related to COVID vaccine:",
+                    "BoundingBox": {
+                        "Width": 0.8246917724609375,
+                        "Height": 0.0785144492983818,
+                        "Left": 0.060228731483221054,
+                        "Top": 0.296811580657959
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.778942346572876
+                },
+                {
+                    "Text": "0.050 Information Misinformation 0.025 0.000 -0.025 -0.050 -0.01 0.00 0.01 Sentiment Score (a) Impact on sentiments and subjectivity.",
+                    "BoundingBox": {
+                        "Width": 0.37152621150016785,
+                        "Height": 0.34855034947395325,
+                        "Left": 0.11354956030845642,
+                        "Top": 0.4074207544326782
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7982409000396729
+                },
+                {
+                    "Text": "0.2 Information Misinformation 0.0 -0.2 -0.02 -0.01 0.00 0.01 PCA Vector1 (b) Impact on text representation.",
+                    "BoundingBox": {
+                        "Width": 0.3581428825855255,
+                        "Height": 0.3484239876270294,
+                        "Left": 0.5278351902961731,
+                        "Top": 0.405813992023468
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7731560468673706
+                },
+                {
+                    "Text": "Figure 3: Analysis on real world social media data",
+                    "BoundingBox": {
+                        "Width": 0.4200722575187683,
+                        "Height": 0.03462447598576546,
+                        "Left": 0.29541414976119995,
+                        "Top": 0.7793058156967163
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7411815524101257
+                },
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19413875043392181,
+                        "Height": 0.07117577642202377,
+                        "Left": 0.029072148725390434,
+                        "Top": 0.8894929885864258
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6481330394744873
+                }
+            ]
+        }
+    ]
+}

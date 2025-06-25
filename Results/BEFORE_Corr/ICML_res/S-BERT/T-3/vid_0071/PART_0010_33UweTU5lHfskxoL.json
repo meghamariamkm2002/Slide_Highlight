@@ -1,0 +1,72 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,609",
+            "end_time": "00:00:04,411",
+            "transcript": "We also visualized concepts extracted from different types of data.",
+            "MatchedRegion": [
+                {
+                    "Text": "Visualization of a concept encoded by MLP-5 in the tic-tac-toe (tabular) dataset",
+                    "BoundingBox": {
+                        "Width": 0.5344095230102539,
+                        "Height": 0.028215982019901276,
+                        "Left": 0.23239295184612274,
+                        "Top": 0.8485603332519531
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c5f80115-df6a-412e-8ccc-00624981ac41",
+                    "Score": 0.6029750108718872
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,192",
+            "end_time": "00:00:15,978",
+            "transcript": "We consistently found that the same interaction concept usually made similar effects on different samples, which also verify the sample-wise transferability of extracted concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "The same interaction concept usually made similar effects on different samples.",
+                    "BoundingBox": {
+                        "Width": 0.6812660694122314,
+                        "Height": 0.03467969968914986,
+                        "Left": 0.15943650901317596,
+                        "Top": 0.9267808198928833
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2fe8b2d2-9459-408b-8c7a-2486dbfcb911",
+                    "Score": 0.7927865982055664
+                },
+                {
+                    "Text": "Whether concepts extracted from a sample can be transferred to other samples",
+                    "BoundingBox": {
+                        "Width": 0.6788637042045593,
+                        "Height": 0.0349738635122776,
+                        "Left": 0.08027397096157074,
+                        "Top": 0.18958525359630585
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "721f8dd8-efbd-463e-a015-9b0b1bbc5703",
+                    "Score": 0.711742639541626
+                },
+                {
+                    "Text": "Perspective 2: Transferability over different samples",
+                    "BoundingBox": {
+                        "Width": 0.7443751692771912,
+                        "Height": 0.05835553631186485,
+                        "Left": 0.09728767722845078,
+                        "Top": 0.06600725650787354
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "5aa202b7-ee89-4c62-a551-e133ee476b6c",
+                    "Score": 0.6091679930686951
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0009_pvmgIj5VMnijN7V1",
+            "Score": 0.7023508548736572
+        }
+    ]
+}

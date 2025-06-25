@@ -1,0 +1,67 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,049",
+            "end_time": "00:00:00,409",
+            "transcript": "to you.",
+            "MatchedRegion": [
+                {
+                    "Text": "I don' t wanna take Covid-19 Vaccine. High risk for me. . I'm immunosuppressed person and I don' t wanna let nothing more touch my inmune system . Be on \"O \" is enough an nightmare with side effects all the Time . And I wanna take Ocrevus just every 9 moths to let to rest my body .",
+                    "BoundingBox": {
+                        "Width": 0.7806094288825989,
+                        "Height": 0.095081627368927,
+                        "Left": 0.12966030836105347,
+                        "Top": 0.7082021832466125
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "684a3fca-7cf0-4dc6-8ec4-c9803f476437",
+                    "Score": 0.83188796043396
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,569",
+            "end_time": "00:00:08,751",
+            "transcript": "The COVID-19 pandemic continues to bring up various topics discussed or debated on social media.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,771",
+            "end_time": "00:00:21,854",
+            "transcript": "In order to explore the impact of pandemics on people's lives, it is important to understand the public's concerns and attitudes towards pandemic-related entities on social media.",
+            "MatchedRegion": [
+                {
+                    "Text": "Existing natural language processing (NLP) tools struggle to fulfill the surging demand for accurate social media-based public healthcare analysis due to the lack of relevant datasets.",
+                    "BoundingBox": {
+                        "Width": 0.8522049784660339,
+                        "Height": 0.07857756316661835,
+                        "Left": 0.05777743086218834,
+                        "Top": 0.22238238155841827
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "96197e8b-2a47-4170-a2b4-e810e59394d2",
+                    "Score": 0.8830233216285706
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,691",
+            "end_time": "00:00:44,002",
+            "transcript": "However, most NLP tools as well as models trained on existing name entity recognition or targeted sentiment analysis data sets have limited ability to understand COVID-19 related social media texts because these data sets are not designed or annotated from a medical perspective.",
+            "MatchedRegion": [
+                {
+                    "Text": "Existing natural language processing (NLP) tools struggle to fulfill the surging demand for accurate social media-based public healthcare analysis due to the lack of relevant datasets.",
+                    "BoundingBox": {
+                        "Width": 0.8522049784660339,
+                        "Height": 0.07857756316661835,
+                        "Left": 0.05777743086218834,
+                        "Top": 0.22238238155841827
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "96197e8b-2a47-4170-a2b4-e810e59394d2",
+                    "Score": 0.8830233216285706
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1400 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,616",
+            "end_time": "00:00:03,777",
+            "transcript": "So first, let's talk about our motivation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Motivation",
+                    "BoundingBox": {
+                        "Width": 0.2082662284374237,
+                        "Height": 0.04249342158436775,
+                        "Left": 0.05512478947639465,
+                        "Top": 0.09134884923696518
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6251726150512695
+                },
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:04,578",
+            "end_time": "00:00:17,024",
+            "transcript": "As many previous works have pointed out, misinformation campaigns are manipulating public opinions on hotspot topics, such as COVID-19 epidemic and vaccines.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,585",
+            "end_time": "00:00:28,711",
+            "transcript": "For example, a publication pointed out that in those places where misinformation from misinformation campaigns spreads faster, the vaccination rate in these places is also higher.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,980",
+            "end_time": "00:00:31,961",
+            "transcript": "relatively lower than other places.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:33,302",
+            "end_time": "00:00:43,347",
+            "transcript": "So, to design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influences user beliefs and activities.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:43,947",
+            "end_time": "00:00:49,950",
+            "transcript": "However, most of the existing works suffers from one or more of the following limitations.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:50,663",
+            "end_time": "00:01:02,327",
+            "transcript": "So first, almost all the data-driven methodologies or data-driven analysis focus on correlation between misinformation and user activities.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:02,888",
+            "end_time": "00:01:07,950",
+            "transcript": "And it is well known that causality is different from correlation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:08,530",
+            "end_time": "00:01:14,072",
+            "transcript": "So they cannot distinguish causal effect of misinformation from user prior beliefs.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:15,275",
+            "end_time": "00:01:19,136",
+            "transcript": "Let us use the case of misinformation and the vaccine ratio.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:19,916",
+            "end_time": "00:01:30,839",
+            "transcript": "One explanation could be that in this place, people primarily do not trust vaccines, so they do not take vaccines and they spread a lot of misinformation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:31,359",
+            "end_time": "00:01:36,360",
+            "transcript": "That could be true, but the correlation analysis cannot help us distinguish causality.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:37,940",
+            "end_time": "00:01:41,981",
+            "transcript": "And there are some other works trying to understand the real causal effect.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:42,674",
+            "end_time": "00:01:46,716",
+            "transcript": "But they mainly rely on random controlled experiments and surveys.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:47,296",
+            "end_time": "00:01:50,518",
+            "transcript": "So, first, they are very costly.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:50,878",
+            "end_time": "00:01:59,002",
+            "transcript": "And secondly, they may bring some ethical risk if we apply them on very large social media platforms.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7643742561340332
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8289564847946167
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7517252564430237
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7252562046051025
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7554575204849243
+                },
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6539230346679688
+                },
+                {
+                    "Text": "USC Viterbi School of",
+                    "BoundingBox": {
+                        "Width": 0.19391627609729767,
+                        "Height": 0.06351111084222794,
+                        "Left": 0.02911706082522869,
+                        "Top": 0.8894362449645996
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6082660555839539
+                }
+            ]
+        }
+    ]
+}

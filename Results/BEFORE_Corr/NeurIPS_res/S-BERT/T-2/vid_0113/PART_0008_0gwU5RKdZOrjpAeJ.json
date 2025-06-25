@@ -1,0 +1,51 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,169",
+            "end_time": "00:00:00,809",
+            "transcript": "benchmarking.",
+            "MatchedRegion": [
+                {
+                    "Text": "3 Model Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.2927423119544983,
+                        "Height": 0.046421151608228683,
+                        "Left": 0.02827976457774639,
+                        "Top": 0.05057132989168167
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "71f52b0a-68de-4fd6-90d1-3edcda4b0187",
+                    "Score": 0.7761638164520264
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,870",
+            "end_time": "00:00:12,995",
+            "transcript": "We can observe that models incorporating COVID trigger birds as feature extractor significantly outperform other types of models on these TSA subsets.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0002_L6pLWK5w83eRrPzI",
+            "Score": 0.7029158473014832
+        },
+        {
+            "slide": "PART_0003_kRCOWWFvfeHEkO1I",
+            "Score": 0.6035134792327881
+        },
+        {
+            "slide": "PART_0004_3suSCQRxOQhIjsGF",
+            "Score": 0.6367915868759155
+        },
+        {
+            "slide": "PART_0006_xGfZW3AgXCaYJnkw",
+            "Score": 0.653374433517456
+        },
+        {
+            "slide": "PART_0007_Tjox0dui2oIuRoi7",
+            "Score": 0.7323982119560242
+        }
+    ]
+}

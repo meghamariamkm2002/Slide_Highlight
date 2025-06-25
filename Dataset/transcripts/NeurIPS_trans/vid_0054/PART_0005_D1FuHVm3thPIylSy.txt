@@ -1,0 +1,3 @@
+And after that, we benchmark representative CNN-based and vision-transformer-based post-estimation method on three tracks.
+There are SF-track, IS-track, and APT-track.
+In all the experiments, we use average precision as a primary metric to evaluate the performance of different models.

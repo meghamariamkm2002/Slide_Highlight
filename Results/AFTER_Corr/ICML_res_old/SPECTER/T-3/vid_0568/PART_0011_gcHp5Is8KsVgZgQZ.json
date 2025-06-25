@@ -1,0 +1,560 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,089",
+            "end_time": "00:00:08,836",
+            "transcript": "In the G-SOM theory, we introduce dense G-SOM that is capable of improving the capacity of sequence memory models beyond the current capacity of 0.14 times the number of neurons.",
+            "MatchedRegion": [
+                {
+                    "Text": "Practical Models from GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.3240472674369812,
+                        "Height": 0.03689005970954895,
+                        "Left": 0.0398738831281662,
+                        "Top": 0.04847806692123413
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "bedf6399-fe1b-4482-988d-5d5ba16d81c5",
+                    "Score": 0.85710209608078
+                },
+                {
+                    "Text": "Linear GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.11506909132003784,
+                        "Height": 0.10505541414022446,
+                        "Left": 0.06624148041009903,
+                        "Top": 0.3025566041469574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f050967-60ba-46ec-b48c-1600790f1e3c",
+                    "Score": 0.8445001840591431
+                },
+                {
+                    "Text": "Analogous to current multi timescale sequence memory models.",
+                    "BoundingBox": {
+                        "Width": 0.2470320612192154,
+                        "Height": 0.05059807375073433,
+                        "Left": 0.20709329843521118,
+                        "Top": 0.24864086508750916
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f965a88-5c31-4b54-ab78-6a3fb9c5e3ac",
+                    "Score": 0.8368653655052185
+                },
+                {
+                    "Text": "Derived by considering non-linear activation function for the feature layer and the identity activation function for the hidden layer",
+                    "BoundingBox": {
+                        "Width": 0.22795350849628448,
+                        "Height": 0.10234962403774261,
+                        "Left": 0.20818309485912323,
+                        "Top": 0.30618202686309814
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67f0d15f-9309-47a9-9e3e-bfca44bad1f7",
+                    "Score": 0.8497937321662903
+                },
+                {
+                    "Text": "In this setting, the stored memories interact linearly.",
+                    "BoundingBox": {
+                        "Width": 0.23228977620601654,
+                        "Height": 0.050029922276735306,
+                        "Left": 0.20660193264484406,
+                        "Top": 0.41611340641975403
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0888b235-9ecd-4294-b63d-a3b9d428aa0e",
+                    "Score": 0.8471623659133911
+                },
+                {
+                    "Text": "Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.11473258584737778,
+                        "Height": 0.10388632118701935,
+                        "Left": 0.06637400388717651,
+                        "Top": 0.7008693218231201
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "26085efe-be76-4b4b-b556-3679fdb75f5f",
+                    "Score": 0.8081212043762207
+                },
+                {
+                    "Text": "Introduce polynomial non-linearity in the hidden layer activation.",
+                    "BoundingBox": {
+                        "Width": 0.2453603297472,
+                        "Height": 0.051164500415325165,
+                        "Left": 0.20736271142959595,
+                        "Top": 0.6594059467315674
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03c96b4f-27cd-486a-bb26-4adfef2d9612",
+                    "Score": 0.8369011878967285
+                },
+                {
+                    "Text": "Stored memories interact non-linearly resulting in capacity improvements over LISEM.",
+                    "BoundingBox": {
+                        "Width": 0.2509634792804718,
+                        "Height": 0.07259111851453781,
+                        "Left": 0.20785149931907654,
+                        "Top": 0.7171064019203186
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "baada25c-7794-49b1-8989-8c9440c1446f",
+                    "Score": 0.7294948101043701
+                },
+                {
+                    "Text": "Note that LISEM is the degree 1 case of Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.24649035930633545,
+                        "Height": 0.046571724116802216,
+                        "Left": 0.2064029574394226,
+                        "Top": 0.8004483580589294
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "68c82a4f-94b0-48e2-909e-0a35669c87b7",
+                    "Score": 0.7524493932723999
+                },
+                {
+                    "Text": "General Sequential delayed feature Episodic Memory layer Vd Td General Associative Of Memory feature hidden layer layer V f oh Vh Input/ Output",
+                    "BoundingBox": {
+                        "Width": 0.46008360385894775,
+                        "Height": 0.5961979627609253,
+                        "Left": 0.5188665986061096,
+                        "Top": 0.2806144654750824
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dc85fc12-5ad5-4d43-83ab-d5e3a6c2a0dc",
+                    "Score": 0.739902913570404
+                },
+                {
+                    "Text": "Linear for Linear GSEMM Non-linear for Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.2587602436542511,
+                        "Height": 0.06692008674144745,
+                        "Left": 0.6525744795799255,
+                        "Top": 0.9024387001991272
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bcf96769-7215-4fbd-a19d-ccc5a26dd43b",
+                    "Score": 0.8094587326049805
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,477",
+            "end_time": "00:00:18,584",
+            "transcript": "Dense G-SOM introduces polynomial intermemory interactions, that is, sigma h is equal to x power p, similar to the dense versions of singleton memories.",
+            "MatchedRegion": [
+                {
+                    "Text": "Practical Models from GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.3240472674369812,
+                        "Height": 0.03689005970954895,
+                        "Left": 0.0398738831281662,
+                        "Top": 0.04847806692123413
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "bedf6399-fe1b-4482-988d-5d5ba16d81c5",
+                    "Score": 0.85710209608078
+                },
+                {
+                    "Text": "Linear GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.11506909132003784,
+                        "Height": 0.10505541414022446,
+                        "Left": 0.06624148041009903,
+                        "Top": 0.3025566041469574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f050967-60ba-46ec-b48c-1600790f1e3c",
+                    "Score": 0.8445001840591431
+                },
+                {
+                    "Text": "Analogous to current multi timescale sequence memory models.",
+                    "BoundingBox": {
+                        "Width": 0.2470320612192154,
+                        "Height": 0.05059807375073433,
+                        "Left": 0.20709329843521118,
+                        "Top": 0.24864086508750916
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f965a88-5c31-4b54-ab78-6a3fb9c5e3ac",
+                    "Score": 0.8368653655052185
+                },
+                {
+                    "Text": "Derived by considering non-linear activation function for the feature layer and the identity activation function for the hidden layer",
+                    "BoundingBox": {
+                        "Width": 0.22795350849628448,
+                        "Height": 0.10234962403774261,
+                        "Left": 0.20818309485912323,
+                        "Top": 0.30618202686309814
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67f0d15f-9309-47a9-9e3e-bfca44bad1f7",
+                    "Score": 0.8497937321662903
+                },
+                {
+                    "Text": "In this setting, the stored memories interact linearly.",
+                    "BoundingBox": {
+                        "Width": 0.23228977620601654,
+                        "Height": 0.050029922276735306,
+                        "Left": 0.20660193264484406,
+                        "Top": 0.41611340641975403
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0888b235-9ecd-4294-b63d-a3b9d428aa0e",
+                    "Score": 0.8471623659133911
+                },
+                {
+                    "Text": "Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.11473258584737778,
+                        "Height": 0.10388632118701935,
+                        "Left": 0.06637400388717651,
+                        "Top": 0.7008693218231201
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "26085efe-be76-4b4b-b556-3679fdb75f5f",
+                    "Score": 0.8081212043762207
+                },
+                {
+                    "Text": "Introduce polynomial non-linearity in the hidden layer activation.",
+                    "BoundingBox": {
+                        "Width": 0.2453603297472,
+                        "Height": 0.051164500415325165,
+                        "Left": 0.20736271142959595,
+                        "Top": 0.6594059467315674
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03c96b4f-27cd-486a-bb26-4adfef2d9612",
+                    "Score": 0.8369011878967285
+                },
+                {
+                    "Text": "Stored memories interact non-linearly resulting in capacity improvements over LISEM.",
+                    "BoundingBox": {
+                        "Width": 0.2509634792804718,
+                        "Height": 0.07259111851453781,
+                        "Left": 0.20785149931907654,
+                        "Top": 0.7171064019203186
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "baada25c-7794-49b1-8989-8c9440c1446f",
+                    "Score": 0.7294948101043701
+                },
+                {
+                    "Text": "Note that LISEM is the degree 1 case of Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.24649035930633545,
+                        "Height": 0.046571724116802216,
+                        "Left": 0.2064029574394226,
+                        "Top": 0.8004483580589294
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "68c82a4f-94b0-48e2-909e-0a35669c87b7",
+                    "Score": 0.7524493932723999
+                },
+                {
+                    "Text": "General Sequential delayed feature Episodic Memory layer Vd Td General Associative Of Memory feature hidden layer layer V f oh Vh Input/ Output",
+                    "BoundingBox": {
+                        "Width": 0.46008360385894775,
+                        "Height": 0.5961979627609253,
+                        "Left": 0.5188665986061096,
+                        "Top": 0.2806144654750824
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dc85fc12-5ad5-4d43-83ab-d5e3a6c2a0dc",
+                    "Score": 0.739902913570404
+                },
+                {
+                    "Text": "Linear for Linear GSEMM Non-linear for Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.2587602436542511,
+                        "Height": 0.06692008674144745,
+                        "Left": 0.6525744795799255,
+                        "Top": 0.9024387001991272
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bcf96769-7215-4fbd-a19d-ccc5a26dd43b",
+                    "Score": 0.8094587326049805
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,024",
+            "end_time": "00:00:23,688",
+            "transcript": "Current memory models fall into the degree 1 limit of dense G-SOM, which we call the linear G-SOM.",
+            "MatchedRegion": [
+                {
+                    "Text": "Practical Models from GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.3240472674369812,
+                        "Height": 0.03689005970954895,
+                        "Left": 0.0398738831281662,
+                        "Top": 0.04847806692123413
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "bedf6399-fe1b-4482-988d-5d5ba16d81c5",
+                    "Score": 0.85710209608078
+                },
+                {
+                    "Text": "Linear GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.11506909132003784,
+                        "Height": 0.10505541414022446,
+                        "Left": 0.06624148041009903,
+                        "Top": 0.3025566041469574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f050967-60ba-46ec-b48c-1600790f1e3c",
+                    "Score": 0.8445001840591431
+                },
+                {
+                    "Text": "Analogous to current multi timescale sequence memory models.",
+                    "BoundingBox": {
+                        "Width": 0.2470320612192154,
+                        "Height": 0.05059807375073433,
+                        "Left": 0.20709329843521118,
+                        "Top": 0.24864086508750916
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f965a88-5c31-4b54-ab78-6a3fb9c5e3ac",
+                    "Score": 0.8368653655052185
+                },
+                {
+                    "Text": "Derived by considering non-linear activation function for the feature layer and the identity activation function for the hidden layer",
+                    "BoundingBox": {
+                        "Width": 0.22795350849628448,
+                        "Height": 0.10234962403774261,
+                        "Left": 0.20818309485912323,
+                        "Top": 0.30618202686309814
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67f0d15f-9309-47a9-9e3e-bfca44bad1f7",
+                    "Score": 0.8497937321662903
+                },
+                {
+                    "Text": "In this setting, the stored memories interact linearly.",
+                    "BoundingBox": {
+                        "Width": 0.23228977620601654,
+                        "Height": 0.050029922276735306,
+                        "Left": 0.20660193264484406,
+                        "Top": 0.41611340641975403
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0888b235-9ecd-4294-b63d-a3b9d428aa0e",
+                    "Score": 0.8471623659133911
+                },
+                {
+                    "Text": "Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.11473258584737778,
+                        "Height": 0.10388632118701935,
+                        "Left": 0.06637400388717651,
+                        "Top": 0.7008693218231201
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "26085efe-be76-4b4b-b556-3679fdb75f5f",
+                    "Score": 0.8081212043762207
+                },
+                {
+                    "Text": "Introduce polynomial non-linearity in the hidden layer activation.",
+                    "BoundingBox": {
+                        "Width": 0.2453603297472,
+                        "Height": 0.051164500415325165,
+                        "Left": 0.20736271142959595,
+                        "Top": 0.6594059467315674
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03c96b4f-27cd-486a-bb26-4adfef2d9612",
+                    "Score": 0.8369011878967285
+                },
+                {
+                    "Text": "Stored memories interact non-linearly resulting in capacity improvements over LISEM.",
+                    "BoundingBox": {
+                        "Width": 0.2509634792804718,
+                        "Height": 0.07259111851453781,
+                        "Left": 0.20785149931907654,
+                        "Top": 0.7171064019203186
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "baada25c-7794-49b1-8989-8c9440c1446f",
+                    "Score": 0.7294948101043701
+                },
+                {
+                    "Text": "Note that LISEM is the degree 1 case of Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.24649035930633545,
+                        "Height": 0.046571724116802216,
+                        "Left": 0.2064029574394226,
+                        "Top": 0.8004483580589294
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "68c82a4f-94b0-48e2-909e-0a35669c87b7",
+                    "Score": 0.7524493932723999
+                },
+                {
+                    "Text": "General Sequential delayed feature Episodic Memory layer Vd Td General Associative Of Memory feature hidden layer layer V f oh Vh Input/ Output",
+                    "BoundingBox": {
+                        "Width": 0.46008360385894775,
+                        "Height": 0.5961979627609253,
+                        "Left": 0.5188665986061096,
+                        "Top": 0.2806144654750824
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dc85fc12-5ad5-4d43-83ab-d5e3a6c2a0dc",
+                    "Score": 0.739902913570404
+                },
+                {
+                    "Text": "Linear for Linear GSEMM Non-linear for Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.2587602436542511,
+                        "Height": 0.06692008674144745,
+                        "Left": 0.6525744795799255,
+                        "Top": 0.9024387001991272
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bcf96769-7215-4fbd-a19d-ccc5a26dd43b",
+                    "Score": 0.8094587326049805
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,509",
+            "end_time": "00:00:25,009",
+            "transcript": "Similar to the",
+            "MatchedRegion": [
+                {
+                    "Text": "Practical Models from GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.3240472674369812,
+                        "Height": 0.03689005970954895,
+                        "Left": 0.0398738831281662,
+                        "Top": 0.04847806692123413
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "bedf6399-fe1b-4482-988d-5d5ba16d81c5",
+                    "Score": 0.85710209608078
+                },
+                {
+                    "Text": "Linear GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.11506909132003784,
+                        "Height": 0.10505541414022446,
+                        "Left": 0.06624148041009903,
+                        "Top": 0.3025566041469574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f050967-60ba-46ec-b48c-1600790f1e3c",
+                    "Score": 0.8445001840591431
+                },
+                {
+                    "Text": "Analogous to current multi timescale sequence memory models.",
+                    "BoundingBox": {
+                        "Width": 0.2470320612192154,
+                        "Height": 0.05059807375073433,
+                        "Left": 0.20709329843521118,
+                        "Top": 0.24864086508750916
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f965a88-5c31-4b54-ab78-6a3fb9c5e3ac",
+                    "Score": 0.8368653655052185
+                },
+                {
+                    "Text": "Derived by considering non-linear activation function for the feature layer and the identity activation function for the hidden layer",
+                    "BoundingBox": {
+                        "Width": 0.22795350849628448,
+                        "Height": 0.10234962403774261,
+                        "Left": 0.20818309485912323,
+                        "Top": 0.30618202686309814
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67f0d15f-9309-47a9-9e3e-bfca44bad1f7",
+                    "Score": 0.8497937321662903
+                },
+                {
+                    "Text": "In this setting, the stored memories interact linearly.",
+                    "BoundingBox": {
+                        "Width": 0.23228977620601654,
+                        "Height": 0.050029922276735306,
+                        "Left": 0.20660193264484406,
+                        "Top": 0.41611340641975403
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0888b235-9ecd-4294-b63d-a3b9d428aa0e",
+                    "Score": 0.8471623659133911
+                },
+                {
+                    "Text": "Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.11473258584737778,
+                        "Height": 0.10388632118701935,
+                        "Left": 0.06637400388717651,
+                        "Top": 0.7008693218231201
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "26085efe-be76-4b4b-b556-3679fdb75f5f",
+                    "Score": 0.8081212043762207
+                },
+                {
+                    "Text": "Introduce polynomial non-linearity in the hidden layer activation.",
+                    "BoundingBox": {
+                        "Width": 0.2453603297472,
+                        "Height": 0.051164500415325165,
+                        "Left": 0.20736271142959595,
+                        "Top": 0.6594059467315674
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03c96b4f-27cd-486a-bb26-4adfef2d9612",
+                    "Score": 0.8369011878967285
+                },
+                {
+                    "Text": "Stored memories interact non-linearly resulting in capacity improvements over LISEM.",
+                    "BoundingBox": {
+                        "Width": 0.2509634792804718,
+                        "Height": 0.07259111851453781,
+                        "Left": 0.20785149931907654,
+                        "Top": 0.7171064019203186
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "baada25c-7794-49b1-8989-8c9440c1446f",
+                    "Score": 0.7294948101043701
+                },
+                {
+                    "Text": "Note that LISEM is the degree 1 case of Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.24649035930633545,
+                        "Height": 0.046571724116802216,
+                        "Left": 0.2064029574394226,
+                        "Top": 0.8004483580589294
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "68c82a4f-94b0-48e2-909e-0a35669c87b7",
+                    "Score": 0.7524493932723999
+                },
+                {
+                    "Text": "General Sequential delayed feature Episodic Memory layer Vd Td General Associative Of Memory feature hidden layer layer V f oh Vh Input/ Output",
+                    "BoundingBox": {
+                        "Width": 0.46008360385894775,
+                        "Height": 0.5961979627609253,
+                        "Left": 0.5188665986061096,
+                        "Top": 0.2806144654750824
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dc85fc12-5ad5-4d43-83ab-d5e3a6c2a0dc",
+                    "Score": 0.739902913570404
+                },
+                {
+                    "Text": "Linear for Linear GSEMM Non-linear for Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.2587602436542511,
+                        "Height": 0.06692008674144745,
+                        "Left": 0.6525744795799255,
+                        "Top": 0.9024387001991272
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bcf96769-7215-4fbd-a19d-ccc5a26dd43b",
+                    "Score": 0.8094587326049805
+                }
+            ]
+        }
+    ]
+}

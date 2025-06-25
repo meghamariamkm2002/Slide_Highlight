@@ -1,0 +1,46 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:08,652",
+            "end_time": "00:00:11,840",
+            "transcript": "Hi, this is Mingjie Li from Shanghai Jiao Tong University.",
+            "MatchedRegion": [
+                {
+                    "Text": "tittle SHANGHAI JIAO TONG UNIVERSITY",
+                    "BlockType": "LAYOUT_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.11312136054039001,
+                        "Height": 0.063344307243824,
+                        "Left": 0.07548205554485321,
+                        "Top": 0.028896061703562737
+                    },
+                    "Id": "3341116b-26c9-4b33-946a-9ba11381cbf2"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,562",
+            "end_time": "00:00:14,506",
+            "transcript": "Today, I would like to share our work.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:14,907",
+            "end_time": "00:00:17,915",
+            "transcript": "Does a neural network really encode symbolic concepts?",
+            "MatchedRegion": [
+                {
+                    "Text": "Does a Neural Network Really Encode Symbolic Concepts?",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.5622848868370056,
+                        "Height": 0.15922236442565918,
+                        "Left": 0.22031673789024353,
+                        "Top": 0.2973114848136902
+                    },
+                    "Id": "f8047d69-157d-454a-93ed-88e0f187d04c"
+                }
+            ]
+        }
+    ]
+}

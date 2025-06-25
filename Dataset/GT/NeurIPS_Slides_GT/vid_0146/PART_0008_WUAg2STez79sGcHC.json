@@ -1,0 +1,98 @@
+{
+    "MatchedSlides": [
+        "PART_0001_LZGyyKU5zYJCxbZS",
+        "PART_0003_qCGccaKBz8R0BVrt"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,896",
+            "end_time": "00:00:02,998",
+            "transcript": "Next, we present some qualitative results.",
+            "MatchedRegion": [
+                {
+                    "Text": "Results",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.09362427890300751,
+                        "Height": 0.04420570284128189,
+                        "Left": 0.07848312705755234,
+                        "Top": 0.12313307821750641
+                    },
+                    "Id": "f05f29f4-3258-4f61-9ce3-f181b5210a9c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,758",
+            "end_time": "00:00:09,202",
+            "transcript": "As you can see, the different models are able to correct the wrong predictions after applying their method.",
+            "MatchedRegion": [
+                {
+                    "Text": "INet-A ObjectNet SI-rotation Input Original Ours Input Original Ours Input Original Ours Prad Television Mantis Drill Hand- Golf ball Lemon blower Pridd Garbage- Forklift Ping-pong- Teddy Sea Lion Porcupine truck ball Tram Tank Maze Orange Swimmi- Sock ng trunks Prad Kite Vulture Scale Strainer Lifeboat Cello Snowplow School bus Bathtub Running- Balloon Ruler shoe",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.4996315538883209,
+                        "Height": 0.7613036036491394,
+                        "Left": 0.22171099483966827,
+                        "Top": 0.19815856218338013
+                    },
+                    "Id": "a89aefa2-2f41-457e-b9d3-0affaf2ab491"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,942",
+            "end_time": "00:00:15,546",
+            "transcript": "For example, the model here predicts that this cool bus is a snowplow due to the presence of the snow in the backgroud.",
+            "MatchedRegion": [
+                {
+                    "Text": "INet-A ObjectNet SI-rotation Input Original Ours Input Original Ours Input Original Ours Prad Television Mantis Drill Hand- Golf ball Lemon blower Pridd Garbage- Forklift Ping-pong- Teddy Sea Lion Porcupine truck ball Tram Tank Maze Orange Swimmi- Sock ng trunks Prad Kite Vulture Scale Strainer Lifeboat Cello Snowplow School bus Bathtub Running- Balloon Ruler shoe",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.4996315538883209,
+                        "Height": 0.7613036036491394,
+                        "Left": 0.22171099483966827,
+                        "Top": 0.19815856218338013
+                    },
+                    "Id": "a89aefa2-2f41-457e-b9d3-0affaf2ab491"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,347",
+            "end_time": "00:00:23,972",
+            "transcript": "An additional example is this model that classifies the teddy bear as a ping-pong ball due to a sports consideration of only its path.",
+            "MatchedRegion": [
+                {
+                    "Text": "INet-A ObjectNet SI-rotation Input Original Ours Input Original Ours Input Original Ours Prad Television Mantis Drill Hand- Golf ball Lemon blower Pridd Garbage- Forklift Ping-pong- Teddy Sea Lion Porcupine truck ball Tram Tank Maze Orange Swimmi- Sock ng trunks Prad Kite Vulture Scale Strainer Lifeboat Cello Snowplow School bus Bathtub Running- Balloon Ruler shoe",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.4996315538883209,
+                        "Height": 0.7613036036491394,
+                        "Left": 0.22171099483966827,
+                        "Top": 0.19815856218338013
+                    },
+                    "Id": "a89aefa2-2f41-457e-b9d3-0affaf2ab491"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,907",
+            "end_time": "00:00:31,876",
+            "transcript": "In both cases, our method is able to correct the wrong predictions by allowing the model to focus on the correct parts of the image.",
+            "MatchedRegion": [
+                {
+                    "Text": "INet-A ObjectNet SI-rotation Input Original Ours Input Original Ours Input Original Ours Prad Television Mantis Drill Hand- Golf ball Lemon blower Pridd Garbage- Forklift Ping-pong- Teddy Sea Lion Porcupine truck ball Tram Tank Maze Orange Swimmi- Sock ng trunks Prad Kite Vulture Scale Strainer Lifeboat Cello Snowplow School bus Bathtub Running- Balloon Ruler shoe",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.4996315538883209,
+                        "Height": 0.7613036036491394,
+                        "Left": 0.22171099483966827,
+                        "Top": 0.19815856218338013
+                    },
+                    "Id": "a89aefa2-2f41-457e-b9d3-0affaf2ab491"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,010",
+            "end_time": "00:00:06,312",
+            "transcript": "The focus of our paper is on the macro search space for neural architecture search.",
+            "MatchedRegion": [
+                {
+                    "Text": "TVIU",
+                    "BoundingBox": {
+                        "Width": 0.1767909973859787,
+                        "Height": 0.022801853716373444,
+                        "Left": 0.41057267785072327,
+                        "Top": 0.15122121572494507
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4a0235d1-68a3-430f-9ac6-54a03d3f4eb3",
+                    "Score": 0.7572799921035767
+                },
+                {
+                    "Text": "A A A A B C Cell-based Search Space Macro Search Space",
+                    "BoundingBox": {
+                        "Width": 0.8184517621994019,
+                        "Height": 0.12758919596672058,
+                        "Left": 0.08916972577571869,
+                        "Top": 0.30082401633262634
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d853e12c-56f6-4269-948f-65bb5fe4872c",
+                    "Score": 0.7941888570785522
+                },
+                {
+                    "Text": "Search space Blox Benchmark Algorithms",
+                    "BoundingBox": {
+                        "Width": 0.6370183229446411,
+                        "Height": 0.4040997624397278,
+                        "Left": 0.18389008939266205,
+                        "Top": 0.5192392468452454
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "510eb1b3-5888-49ad-81d8-6ac692ef30f5",
+                    "Score": 0.816663384437561
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,633",
+            "end_time": "00:00:18,559",
+            "transcript": "Now, traditional cell-based approach restricts the search to decide the operation and structure of a single block only, then the same block is repeated to form an end-to-end model.",
+            "MatchedRegion": [
+                {
+                    "Text": "A A A A B C Cell-based Search Space Macro Search Space",
+                    "BoundingBox": {
+                        "Width": 0.8184517621994019,
+                        "Height": 0.12758919596672058,
+                        "Left": 0.08916972577571869,
+                        "Top": 0.30082401633262634
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d853e12c-56f6-4269-948f-65bb5fe4872c",
+                    "Score": 0.7941888570785522
+                },
+                {
+                    "Text": "Search space Blox Benchmark Algorithms",
+                    "BoundingBox": {
+                        "Width": 0.6370183229446411,
+                        "Height": 0.4040997624397278,
+                        "Left": 0.18389008939266205,
+                        "Top": 0.5192392468452454
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "510eb1b3-5888-49ad-81d8-6ac692ef30f5",
+                    "Score": 0.816663384437561
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,480",
+            "end_time": "00:00:25,464",
+            "transcript": "macrosurface enables the individual search for each macroblock in a DNN, leading to better performance.",
+            "MatchedRegion": [
+                {
+                    "Text": "A A A A B C Cell-based Search Space Macro Search Space",
+                    "BoundingBox": {
+                        "Width": 0.8184517621994019,
+                        "Height": 0.12758919596672058,
+                        "Left": 0.08916972577571869,
+                        "Top": 0.30082401633262634
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d853e12c-56f6-4269-948f-65bb5fe4872c",
+                    "Score": 0.7941888570785522
+                },
+                {
+                    "Text": "Search space Blox Benchmark Algorithms",
+                    "BoundingBox": {
+                        "Width": 0.6370183229446411,
+                        "Height": 0.4040997624397278,
+                        "Left": 0.18389008939266205,
+                        "Top": 0.5192392468452454
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "510eb1b3-5888-49ad-81d8-6ac692ef30f5",
+                    "Score": 0.816663384437561
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:26,084",
+            "end_time": "00:00:31,167",
+            "transcript": "However, it is expensive because the subspace size grows exponentially with the number of blocks.",
+            "MatchedRegion": [
+                {
+                    "Text": "TVIU",
+                    "BoundingBox": {
+                        "Width": 0.1767909973859787,
+                        "Height": 0.022801853716373444,
+                        "Left": 0.41057267785072327,
+                        "Top": 0.15122121572494507
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4a0235d1-68a3-430f-9ac6-54a03d3f4eb3",
+                    "Score": 0.7572799921035767
+                },
+                {
+                    "Text": "A A A A B C Cell-based Search Space Macro Search Space",
+                    "BoundingBox": {
+                        "Width": 0.8184517621994019,
+                        "Height": 0.12758919596672058,
+                        "Left": 0.08916972577571869,
+                        "Top": 0.30082401633262634
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d853e12c-56f6-4269-948f-65bb5fe4872c",
+                    "Score": 0.7941888570785522
+                },
+                {
+                    "Text": "Search space Blox Benchmark Algorithms",
+                    "BoundingBox": {
+                        "Width": 0.6370183229446411,
+                        "Height": 0.4040997624397278,
+                        "Left": 0.18389008939266205,
+                        "Top": 0.5192392468452454
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "510eb1b3-5888-49ad-81d8-6ac692ef30f5",
+                    "Score": 0.816663384437561
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:31,968",
+            "end_time": "00:00:42,995",
+            "transcript": "To provide a systematic study of the performance of North's algorithm on a macro surface, we release blocks for a first large-scale benchmark and study of a macro surface.",
+            "MatchedRegion": [
+                {
+                    "Text": "TVIU",
+                    "BoundingBox": {
+                        "Width": 0.1767909973859787,
+                        "Height": 0.022801853716373444,
+                        "Left": 0.41057267785072327,
+                        "Top": 0.15122121572494507
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4a0235d1-68a3-430f-9ac6-54a03d3f4eb3",
+                    "Score": 0.7572799921035767
+                },
+                {
+                    "Text": "A A A A B C Cell-based Search Space Macro Search Space",
+                    "BoundingBox": {
+                        "Width": 0.8184517621994019,
+                        "Height": 0.12758919596672058,
+                        "Left": 0.08916972577571869,
+                        "Top": 0.30082401633262634
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d853e12c-56f6-4269-948f-65bb5fe4872c",
+                    "Score": 0.7941888570785522
+                },
+                {
+                    "Text": "Search space Blox Benchmark Algorithms",
+                    "BoundingBox": {
+                        "Width": 0.6370183229446411,
+                        "Height": 0.4040997624397278,
+                        "Left": 0.18389008939266205,
+                        "Top": 0.5192392468452454
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "510eb1b3-5888-49ad-81d8-6ac692ef30f5",
+                    "Score": 0.816663384437561
+                }
+            ]
+        }
+    ]
+}

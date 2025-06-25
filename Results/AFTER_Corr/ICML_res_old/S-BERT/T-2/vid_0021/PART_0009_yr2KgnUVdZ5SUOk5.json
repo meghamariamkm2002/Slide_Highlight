@@ -1,0 +1,30 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,322",
+            "end_time": "00:00:10,710",
+            "transcript": "Moving on to an ablation, we put into question the need for our squasher, our coupling, and our inductive bias, with results showing that all the alternatives to CFL fail, demonstrating the necessity of its components.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,511",
+            "end_time": "00:00:20,938",
+            "transcript": "On the right, we vary CFIL's smoothing and regularization coefficients to test its sensitivity, with results showing both the utility of the smoothing and regularization, as well as CFL's robustness to them.",
+            "MatchedRegion": [
+                {
+                    "Text": "Shows both the utility of the smoothing and regularization as well as CFIL's robustness to them",
+                    "BoundingBox": {
+                        "Width": 0.40395888686180115,
+                        "Height": 0.07622344046831131,
+                        "Left": 0.5436915755271912,
+                        "Top": 0.9027597308158875
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fc7adfd3-2d78-4e70-9733-3d0254395544",
+                    "Score": 0.8122895359992981
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

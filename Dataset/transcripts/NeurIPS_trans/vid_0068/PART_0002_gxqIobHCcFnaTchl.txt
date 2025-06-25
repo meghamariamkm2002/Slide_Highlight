@@ -1,0 +1,4 @@
+This figure shows an overview of the block search space.
+The network architecture consists of three stages, each containing a searchable block and a fixed reduction block.
+The searchable block architecture can be expressed as a defensible supernet.
+Each stage is allowed to be different to construct the

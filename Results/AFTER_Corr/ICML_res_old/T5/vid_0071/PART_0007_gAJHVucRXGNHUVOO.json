@@ -1,0 +1,51 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,811",
+            "end_time": "00:00:10,218",
+            "transcript": "Therefore, we believe that we need more aspects to verify this metric can be used to quantify concepts learned by a DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "We propose to examine the faithfulness of using I (S) to represent concepts, from the following four perspectives.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8064664006233215,
+                        "Height": 0.08821583539247513,
+                        "Left": 0.09731142222881317,
+                        "Top": 0.20039817690849304
+                    },
+                    "Id": "5291be7e-d141-4486-90d1-a61ce3e61455"
+                },
+                {
+                    "Text": "Model-wise transferability: Whether concepts extracted from a DNN can be transferred to another DNN trained for the same task.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7245076298713684,
+                        "Height": 0.06868676096200943,
+                        "Left": 0.13720358908176422,
+                        "Top": 0.55068439245224
+                    },
+                    "Id": "48346a48-fc77-42d8-ac0b-cc4d2c370219"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,059",
+            "end_time": "00:00:13,542",
+            "transcript": "Specifically, we propose four perspectives.",
+            "MatchedRegion": [
+                {
+                    "Text": "We propose to examine the faithfulness of using I (S) to represent concepts, from the following four perspectives.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8064664006233215,
+                        "Height": 0.08821583539247513,
+                        "Left": 0.09731142222881317,
+                        "Top": 0.20039817690849304
+                    },
+                    "Id": "5291be7e-d141-4486-90d1-a61ce3e61455"
+                }
+            ]
+        }
+    ]
+}

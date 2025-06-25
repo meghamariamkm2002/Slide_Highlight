@@ -1,0 +1,43 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,589",
+            "end_time": "00:00:06,894",
+            "transcript": "And we also calculated the distribution of the keypoint motion, IOU and the aspect ratio.",
+            "MatchedRegion": [
+                {
+                    "Text": "We also calculate the distributions of the keypoint motion, IOU between tracked bounding boxes in adjacent frames, and the aspect ratio of the annotated bounding boxes in our APT-36K dataset. It can be observed that APT-36K has a rich diversity of distributions in motion and the aspect ratio of bounding boxes.",
+                    "BoundingBox": {
+                        "Width": 0.8314335346221924,
+                        "Height": 0.10014502704143524,
+                        "Left": 0.04402713105082512,
+                        "Top": 0.818084180355072
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "217e9bdf-b1ad-45a7-b002-baa33fcd1f96",
+                    "Score": 0.7771190404891968
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,394",
+            "end_time": "00:00:19,823",
+            "transcript": "In our dataset, it can be observed that APT36000 has a rich diversity of distributions in motion and the aspect ratio of bounding boxes.",
+            "MatchedRegion": [
+                {
+                    "Text": "We also calculate the distributions of the keypoint motion, IOU between tracked bounding boxes in adjacent frames, and the aspect ratio of the annotated bounding boxes in our APT-36K dataset. It can be observed that APT-36K has a rich diversity of distributions in motion and the aspect ratio of bounding boxes.",
+                    "BoundingBox": {
+                        "Width": 0.8314335346221924,
+                        "Height": 0.10014502704143524,
+                        "Left": 0.04402713105082512,
+                        "Top": 0.818084180355072
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "217e9bdf-b1ad-45a7-b002-baa33fcd1f96",
+                    "Score": 0.7771190404891968
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

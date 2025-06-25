@@ -1,0 +1,23 @@
+WEBVTT
+
+00:00.850 --> 00:07.094
+To couple them, we employ the donscopardon form of the KL whose optimality point is precisely at the negative log distribution ratio.
+
+00:07.555 --> 00:13.119
+Therefore, we can alternate between computing x through the donscopardon and using negative x as your reward in an RL algorithm.
+
+00:13.780 --> 00:23.988
+This leads directly to our approach for estimating the longer ratio by coupling two flows through x, that is, instead of training two flows independently, we propose to do so by injecting the inductive bias seen in the slide.
+
+00:24.628 --> 00:33.833
+This coupling guarantees more meaningful values when the flows are evaluated on each other's data, since it has already occurred during the maximization phase, hence side-stepping the ODE I should describe earlier.
+
+00:34.294 --> 00:36.035
+The new BC graph illustrates this advantage.
+
+00:36.695 --> 00:44.059
+Some additional components we find useful, whose motivation and details can be found in the paper, are a squasher on X, an optional flow regularization and smoothing.
+
+00:44.760 --> 00:49.002
+Finally, combining all these elements is our algorithm, coupled flow imitation learning.
+

@@ -1,0 +1,14 @@
+{
+    "MatchedSlides": [
+        "PART_0008_Kmdtc9MGey4QaMVQ",
+        "PART_0011_GOV2LqBfxDaoOG8r"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,850",
+            "end_time": "00:00:08,802",
+            "transcript": "When we zoom in, two specific failure cases can be seen in the highlighted images, where we observe a mis-prediction and a false negative.",
+            "MatchedRegion": []
+        }
+    ]
+}

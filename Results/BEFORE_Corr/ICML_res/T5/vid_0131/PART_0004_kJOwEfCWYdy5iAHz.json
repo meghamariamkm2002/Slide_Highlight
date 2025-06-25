@@ -1,0 +1,33 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,521",
+            "end_time": "00:00:18,493",
+            "transcript": "So we propose the memorization discrepancy which is constructed by backtracking the historical models and we studied the empirical property of memorization discrepancy identifying clean samples from poignant samples.",
+            "MatchedRegion": [
+                {
+                    "Text": "Memorization Discrepancy",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.6962684392929077,
+                        "Height": 0.0802658349275589,
+                        "Left": 0.013257458806037903,
+                        "Top": 0.12018798291683197
+                    },
+                    "Id": "6459fbe9-3393-4db7-95fc-891bdb333b13"
+                },
+                {
+                    "Text": "Definition 1. (Memorization Discrepancy). Consider f: Rd Ac that maps the input feature to the C-dimensional simplex, () is perturbed from x on the model f ( ; 0t), and Ot-k means the parameters of the k-interval historical model compared to the current t. Then, we define Memorization Discrepancy on () based on the current parameter At and the historical parameter Ot-k as,",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7941103577613831,
+                        "Height": 0.09570176154375076,
+                        "Left": 0.09265220165252686,
+                        "Top": 0.2993829548358917
+                    },
+                    "Id": "792adc4d-4dcc-4b6f-b1ac-f86a88d28659"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+1
+00:00:01,966 --> 00:00:05,489
+little more about our intermolecular trigonometry module.
+
+2
+00:00:06,710 --> 00:00:22,985
+For interaction between i and j, they are updated by every edge coming from i and every edge coming from node j. And they are updated together in a very efficient way.
+
+3
+00:00:24,335 --> 00:00:35,538
+And the interaction energy landscape is smoother than traditional scoring functions because they move beyond the pairwise interaction.
+
+4
+00:00:36,779 --> 00:00:48,962
+And the energy landscape is more accurate than traditional machine learning methods because we explicitly model the triangle inequality series.
+

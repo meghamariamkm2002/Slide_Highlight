@@ -1,0 +1,16 @@
+1
+00:00:02,030 --> 00:00:04,951
+This figure shows an overview of the block search space.
+
+2
+00:00:05,852 --> 00:00:12,034
+The network architecture consists of three stages, each containing a searchable block and a fixed reduction block.
+
+3
+00:00:12,694 --> 00:00:16,476
+The searchable block architecture can be expressed as a defensible supernet.
+
+4
+00:00:17,156 --> 00:00:20,878
+Each stage is allowed to be different to construct the
+

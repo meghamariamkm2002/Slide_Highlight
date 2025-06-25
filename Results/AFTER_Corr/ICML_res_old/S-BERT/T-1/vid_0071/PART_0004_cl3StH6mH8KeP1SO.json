@@ -1,0 +1,29 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,492",
+            "end_time": "00:00:09,932",
+            "transcript": "Based on this, we can exactly disentangle the DNN's inference score into the sum of effects corresponding to all potential interactions.",
+            "MatchedRegion": [
+                {
+                    "Text": "The DNN's inference score/output v(x) can be exactly disentangled into the sum of effects of all potential interactions.",
+                    "BoundingBox": {
+                        "Width": 0.7051644921302795,
+                        "Height": 0.07813550531864166,
+                        "Left": 0.18391892313957214,
+                        "Top": 0.20789477229118347
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4dbe4ee3-065b-4999-98ac-5192efebf925",
+                    "Score": 0.9053175449371338
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0003_IJo3k2vKnh6kX0I6",
+            "Score": 0.6659076809883118
+        }
+    ]
+}

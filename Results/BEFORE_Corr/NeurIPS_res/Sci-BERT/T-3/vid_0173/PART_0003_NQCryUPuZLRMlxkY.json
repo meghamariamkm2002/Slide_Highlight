@@ -1,0 +1,131 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,791",
+            "end_time": "00:00:07,005",
+            "transcript": "But the point is optimal auctions for elevators are often delicate and counterintuitive in some sense.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.8583777546882629,
+                        "Height": 0.07280268520116806,
+                        "Left": 0.0695759728550911,
+                        "Top": 0.06857133656740189
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "91a4051a-f259-4d1d-8b97-6ab136cb459b",
+                    "Score": 0.6957191228866577
+                },
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.2081139236688614,
+                        "Height": 0.03441479429602623,
+                        "Left": 0.07441071420907974,
+                        "Top": 0.322858065366745
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "88727c1f-b3a6-46b8-bc9f-869882ae64fb",
+                    "Score": 0.7447792291641235
+                },
+                {
+                    "Text": "autobidders:",
+                    "BoundingBox": {
+                        "Width": 0.1397252380847931,
+                        "Height": 0.03395046666264534,
+                        "Left": 0.5186344385147095,
+                        "Top": 0.3449667692184448
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "9772a2f1-aff6-4901-9789-833163aeeffa",
+                    "Score": 0.7001965641975403
+                },
+                {
+                    "Text": "maximize E[utility] = E[value - payment]",
+                    "BoundingBox": {
+                        "Width": 0.3864500820636749,
+                        "Height": 0.10572198778390884,
+                        "Left": 0.07695034146308899,
+                        "Top": 0.43103745579719543
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "baefb7ef-7b41-44d8-92fb-d0b7508f39f2",
+                    "Score": 0.7391436696052551
+                },
+                {
+                    "Text": "maximize E[value]",
+                    "BoundingBox": {
+                        "Width": 0.23310579359531403,
+                        "Height": 0.04797462001442909,
+                        "Left": 0.5205174684524536,
+                        "Top": 0.45648297667503357
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1503c9a4-1384-4b85-9580-9c18625e28e9",
+                    "Score": 0.6888205409049988
+                },
+                {
+                    "Text": "don't care about value / payment",
+                    "BoundingBox": {
+                        "Width": 0.39538565278053284,
+                        "Height": 0.04433991014957428,
+                        "Left": 0.07660514116287231,
+                        "Top": 0.6018513441085815
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03466851-8ad0-43a1-a678-d4a8dbaae813",
+                    "Score": 0.7094308137893677
+                },
+                {
+                    "Text": "s.t. E[value]/E[payment] > T",
+                    "BoundingBox": {
+                        "Width": 0.36434412002563477,
+                        "Height": 0.046901822090148926,
+                        "Left": 0.5205432176589966,
+                        "Top": 0.5763669610023499
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "340733f4-4d2e-4689-80cb-d71104f55ec5",
+                    "Score": 0.7273210287094116
+                },
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.36907845735549927,
+                        "Height": 0.09585368633270264,
+                        "Left": 0.07612507790327072,
+                        "Top": 0.709882915019989
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5aa90983-2305-4472-856e-ee5e817cc0bb",
+                    "Score": 0.8177645802497864
+                },
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BoundingBox": {
+                        "Width": 0.369503378868103,
+                        "Height": 0.09448819607496262,
+                        "Left": 0.5209202170372009,
+                        "Top": 0.6906800270080566
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48ae9120-f117-4d85-9dae-879eda816dcc",
+                    "Score": 0.7746621370315552
+                },
+                {
+                    "Text": "optimal auctions are delicate and \"counterintuitive\"",
+                    "BoundingBox": {
+                        "Width": 0.5700274705886841,
+                        "Height": 0.043007876724004745,
+                        "Left": 0.24283818900585175,
+                        "Top": 0.8987741470336914
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "d0ec708e-e2bf-48b0-95b1-60ddde71eb6f",
+                    "Score": 0.8294979333877563
+                }
+            ]
+        }
+    ]
+}

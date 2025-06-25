@@ -1,0 +1,66 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,290",
+            "end_time": "00:00:00,811",
+            "transcript": "and neutral.",
+            "MatchedRegion": [
+                {
+                    "Text": "cc V",
+                    "BoundingBox": {
+                        "Width": 0.09891657531261444,
+                        "Height": 0.022261744365096092,
+                        "Left": 0.0005031853797845542,
+                        "Top": 0.9747605919837952
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b2e2276b-1e27-4674-94c5-ca11ada384f2",
+                    "Score": 0.6611382961273193
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,475",
+            "end_time": "00:00:07,005",
+            "transcript": "This slide shows the data statistics of our proposed mass code",
+            "MatchedRegion": [
+                {
+                    "Text": "600 500 400 300 200 100 0 0 20 40 60 >80 Tweets Length",
+                    "BoundingBox": {
+                        "Width": 0.28832268714904785,
+                        "Height": 0.33501604199409485,
+                        "Left": 0.051365748047828674,
+                        "Top": 0.5005331635475159
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4be729ee-426d-4c00-ab95-f78ab6a9deea",
+                    "Score": 0.6864750385284424
+                },
+                {
+                    "Text": "Figure 2: The distribution of tweets length of METS-CoV.",
+                    "BoundingBox": {
+                        "Width": 0.29174262285232544,
+                        "Height": 0.05303625017404556,
+                        "Left": 0.057557035237550735,
+                        "Top": 0.859261155128479
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d4e1d6b2-12a9-42c7-a806-5fd864ed160b",
+                    "Score": 0.8226776123046875
+                },
+                {
+                    "Text": "cc V",
+                    "BoundingBox": {
+                        "Width": 0.09891657531261444,
+                        "Height": 0.022261744365096092,
+                        "Left": 0.0005031853797845542,
+                        "Top": 0.9747605919837952
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b2e2276b-1e27-4674-94c5-ca11ada384f2",
+                    "Score": 0.6611382961273193
+                }
+            ]
+        }
+    ]
+}

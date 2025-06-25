@@ -1,0 +1,4 @@
+start	end	text
+738	9369	And after that, we benchmark representative CNN-based and vision-transformer-based post-estimation method on three tracks.
+10070	13213	There are SF-track, IS-track, and APT-track.
+13914	21183	In all the experiments, we use average precision as a primary metric to evaluate the performance of different models.

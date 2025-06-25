@@ -1,0 +1,23 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,447",
+            "end_time": "00:00:01,964",
+            "transcript": "the energies.",
+            "MatchedRegion": [
+                {
+                    "Text": "hidden layer feature layer O input/output",
+                    "BoundingBox": {
+                        "Width": 0.38110947608947754,
+                        "Height": 0.76699298620224,
+                        "Left": 0.5640942454338074,
+                        "Top": 0.10406117886304855
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dd9601d1-224b-4bd6-8cd1-77b364056fd7",
+                    "Score": 0.71794593334198
+                }
+            ]
+        }
+    ]
+}

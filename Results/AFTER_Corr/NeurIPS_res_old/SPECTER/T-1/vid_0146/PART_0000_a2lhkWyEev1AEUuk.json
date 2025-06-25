@@ -1,0 +1,71 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,662",
+            "end_time": "00:00:16,638",
+            "transcript": "Hello, my name is Hila and I'll be presenting the work Optimizing Relevance Maps of Vision Transformers improves robustness, which is a collaboration with Edan Schwartz and Leo Wolfe from Tel Aviv University.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.26300248503685,
+                        "Height": 0.20113912224769592,
+                        "Left": 0.6870982050895691,
+                        "Top": 0.0063102394342422485
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "5e2918b3-6287-43ad-866c-2c510e31caf5",
+                    "Score": 0.651052713394165
+                },
+                {
+                    "Text": "Optimizing Relevance Maps of Vision Transformers",
+                    "BoundingBox": {
+                        "Width": 0.6810992956161499,
+                        "Height": 0.053946129977703094,
+                        "Left": 0.14617128670215607,
+                        "Top": 0.25092050433158875
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "996a1929-8bef-4779-9938-c056ef1072a3",
+                    "Score": 0.9291723370552063
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.11802230030298233,
+                        "Height": 0.09006748348474503,
+                        "Left": 0.42213693261146545,
+                        "Top": 0.5625140070915222
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "16fc4d78-5216-4d00-835b-a45bcdfd1893",
+                    "Score": 0.7219483256340027
+                },
+                {
+                    "Text": "Input Original Ours Maze Orange",
+                    "BoundingBox": {
+                        "Width": 0.1213998943567276,
+                        "Height": 0.10706831514835358,
+                        "Left": 0.4210928678512573,
+                        "Top": 0.7169889211654663
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "38f5c9f7-606e-417b-a90e-c8cfa62fb338",
+                    "Score": 0.7074752449989319
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.119045689702034,
+                        "Height": 0.0863838791847229,
+                        "Left": 0.4223940372467041,
+                        "Top": 0.8766829967498779
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4c56ccca-c970-44d3-8023-af4624600376",
+                    "Score": 0.7219483256340027
+                }
+            ]
+        }
+    ]
+}

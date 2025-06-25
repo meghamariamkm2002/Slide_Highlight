@@ -1,0 +1,3 @@
+Last, in animal post tracking, we use representative object trackers with both CNN-based backbones and vision-transformers-based backbones to track each animal instance across the video clips.
+And it can be observed that vision-transformers-based trackers obtain slightly better performance.
+And we think these results imply the potential of plan vision-transformers as they fund mental models in the future work.

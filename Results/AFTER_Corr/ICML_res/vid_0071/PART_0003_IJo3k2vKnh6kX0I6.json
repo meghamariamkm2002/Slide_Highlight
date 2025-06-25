@@ -1,0 +1,85 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:00,930",
+            "end_time": "00:00:06,071",
+            "transcript": "Based on cooperative game theory, we have a mathematical tool to formalize this idea.",
+            "MatchedRegion": [
+                {
+                    "Text": "word(s) the meaning of \"beginner\" { green } treating each word independently { hand } interaction between different words { green, hand }",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.7003164887428284,
+                        "Height": 0.27245935797691345,
+                        "Left": 0.14840489625930786,
+                        "Top": 0.6127757430076599
+                    },
+                    "Id": "7593492f-f7cc-46f8-9d51-3b6352001562"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,731",
+            "end_time": "00:00:10,172",
+            "transcript": "So let me first introduce some preliminary of this framework.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,072",
+            "end_time": "00:00:16,393",
+            "transcript": "First of all, the DNN encodes interactions between different input variables for inference.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:17,173",
+            "end_time": "00:00:27,955",
+            "transcript": "For example, in the sentence, he is a green hand, a DNN may memorize the interaction between words in green and hand that pushes the DNN's inference towards the meaning of a beginner.",
+            "MatchedRegion": [
+                {
+                    "Text": "For example, given an input sentence",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.30607137084007263,
+                        "Height": 0.0304859708994627,
+                        "Left": 0.10664783418178558,
+                        "Top": 0.5029149055480957
+                    },
+                    "Id": "fd3d4124-f1af-421c-83d5-d31b1d394929"
+                },
+                {
+                    "Text": "He is a green hand.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.16342739760875702,
+                        "Height": 0.030560163781046867,
+                        "Left": 0.4325880706310272,
+                        "Top": 0.5001357197761536
+                    },
+                    "Id": "43945e73-14ee-4e26-96f5-768926051d5e"
+                },
+                {
+                    "Text": "\"green\" and \"hand\" interact with each other",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.2623352110385895,
+                        "Height": 0.024463215842843056,
+                        "Left": 0.38444414734840393,
+                        "Top": 0.5571098327636719
+                    },
+                    "Id": "6e1c9ed4-f062-4457-b713-1556a229b51c"
+                },
+                {
+                    "Text": "word(s) the meaning of \"beginner\" { green } treating each word independently { hand } interaction between different words { green, hand }",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.7003164887428284,
+                        "Height": 0.27245935797691345,
+                        "Left": 0.14840489625930786,
+                        "Top": 0.6127757430076599
+                    },
+                    "Id": "7593492f-f7cc-46f8-9d51-3b6352001562"
+                }
+            ]
+        }
+    ]
+}

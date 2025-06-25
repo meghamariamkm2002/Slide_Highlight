@@ -1,0 +1,70 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,606",
+            "end_time": "00:00:13,917",
+            "transcript": "LAST, IN ANIMAL POST TRACKING, WE USE REPRESENTATIVE OBJECT TRACKERS WITH BOTH CNN-BASED BACKBONES AND VISION-TREASFORMER-BASED BACKBONES TO TRACK EACH ANIMAL INSTANCE ACROSS THE VIDEO CLIPS.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. In this track, we use representative object trackers with both CNN-based backbones and vision transformer-based backbones to track each animal instance across the video clips, giving each animal's ground truth bounding box in the first frame.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7165358066558838,
+                        "Height": 0.10019708424806595,
+                        "Left": 0.1467856764793396,
+                        "Top": 0.44666194915771484
+                    },
+                    "Id": "dc839b68-3240-4c98-8c13-1a97adfc5b01"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,497",
+            "end_time": "00:00:20,802",
+            "transcript": "And it can be observed that vision transformer-based trackers obtain slightly better performance.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. It can be observed that vision transformer-based trackers obtain slightly better performance compared with CNN-based trackers.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7396261692047119,
+                        "Height": 0.05796588212251663,
+                        "Left": 0.14819280803203583,
+                        "Top": 0.6262006163597107
+                    },
+                    "Id": "3d9c2c79-716e-49ca-a5f4-2ee0d3f3d9a3"
+                },
+                {
+                    "Text": "SimpleBaseline SimpleBaseline HRNet HRNet HRFormer HRFormer ViTPose (ResNet-50) (ResNet-101) (HRNet-w32) (HRNet-w48) (HRFormer-S) (HRFormer-B) (ViT-B) SiamRPN++[20] 70.2+1.7 70.1+1.6 73.01.4 73.6+1.6 70.91.6 73.1+1.4 74.2+1.1 STARK [39] 71.5 1.7 71.41.7 74.1+1.4 74.81.5 72.1 +1.5 74.21.4 75.3 +1.0 SwinTrack [23] 71.6+1.8 71.5 1.6 74.1+1.4 74.9 1.6 72.21.8 74.3 +1.5 75.4+1.1 ViTTrack 71.9+1.6 71.9 1.4 74.4+1.2 75.3+1.4 72.71.4 74.6+1.2 75.8 .0.9 ViTTrack 71.7+1.7 71.6 1.4 74.21.1 74.9+1.4 72.3 +1.4 74.5 1.2 75.5+0.9",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.7893942594528198,
+                        "Height": 0.215412899851799,
+                        "Left": 0.10265467315912247,
+                        "Top": 0.17077451944351196
+                    },
+                    "Id": "39219b83-e5b3-4854-8ab6-472ea348363a"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:21,522",
+            "end_time": "00:00:29,609",
+            "transcript": "And we think these results imply the potential of plain vision-transformers as they fund mental models in the future work.",
+            "MatchedRegion": [
+                {
+                    "Text": "3. These results imply the potential of plain vision transformers as a foundation model for simultaneously serving multiple vision tasks, which is of great significance and deserves more research in future work.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7160610556602478,
+                        "Height": 0.06505099684000015,
+                        "Left": 0.14598549902439117,
+                        "Top": 0.7749438285827637
+                    },
+                    "Id": "98001b23-c37c-4634-bebc-bb375a5aa270"
+                }
+            ]
+        }
+    ]
+}

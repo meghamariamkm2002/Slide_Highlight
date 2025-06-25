@@ -1,0 +1,52 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,910",
+            "end_time": "00:00:04,596",
+            "transcript": "In this slide, we show qualitative results of target domain predictions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.36274075508117676,
+                        "Height": 0.05850649252533913,
+                        "Left": 0.03721942380070686,
+                        "Top": 0.034986309707164764
+                    },
+                    "Id": "6ea6aecc-d29d-4229-83e2-a47bf7f62d8e"
+                },
+                {
+                    "Text": "Qualitative results of target domain predictions. Ground truth lane annotations are marked in blue, predictions in red.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.36110904812812805,
+                        "Height": 0.052711647003889084,
+                        "Left": 0.3184841275215149,
+                        "Top": 0.791182279586792
+                    },
+                    "Id": "4bdb595d-a816-4b17-9df5-415a138974e1"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,277",
+            "end_time": "00:00:08,822",
+            "transcript": "Ground truth lane annotations are marked in blue, predictions in red.",
+            "MatchedRegion": [
+                {
+                    "Text": "Qualitative results of target domain predictions. Ground truth lane annotations are marked in blue, predictions in red.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.36110904812812805,
+                        "Height": 0.052711647003889084,
+                        "Left": 0.3184841275215149,
+                        "Top": 0.791182279586792
+                    },
+                    "Id": "4bdb595d-a816-4b17-9df5-415a138974e1"
+                }
+            ]
+        }
+    ]
+}

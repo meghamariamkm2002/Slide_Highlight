@@ -1,0 +1,162 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,811",
+            "end_time": "00:00:10,218",
+            "transcript": "Therefore, we believe that we need more aspects to verify this metric can be used to quantify concepts learned by a DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Can these interactions really represent \"concepts\" ?",
+                    "BoundingBox": {
+                        "Width": 0.7350253462791443,
+                        "Height": 0.06126832962036133,
+                        "Left": 0.09851858764886856,
+                        "Top": 0.06293024867773056
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "72c96222-acfb-487e-9ce3-cd712bac6946",
+                    "Score": 0.6850140690803528
+                },
+                {
+                    "Text": "We propose to examine the faithfulness of using I (S) to represent concepts, from the following four perspectives.",
+                    "BoundingBox": {
+                        "Width": 0.8064664006233215,
+                        "Height": 0.08821583539247513,
+                        "Left": 0.09731142222881317,
+                        "Top": 0.20039817690849304
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5291be7e-d141-4486-90d1-a61ce3e61455",
+                    "Score": 0.8948237895965576
+                },
+                {
+                    "Text": "Sparsity: The DNN's inference on a specific sample is supposed to be concisely explained by a small number of salient concepts.",
+                    "BoundingBox": {
+                        "Width": 0.7248382568359375,
+                        "Height": 0.07416196167469025,
+                        "Left": 0.13706625998020172,
+                        "Top": 0.3595198392868042
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fc0b1e1a-123d-4107-97a6-79030d085a66",
+                    "Score": 0.7255115509033203
+                },
+                {
+                    "Text": "Sample-wise transferability: Whether concepts extracted from a sample can be transferred to other samples.",
+                    "BoundingBox": {
+                        "Width": 0.7245011329650879,
+                        "Height": 0.07467738538980484,
+                        "Left": 0.13774386048316956,
+                        "Top": 0.45485129952430725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c11cf1a6-8e72-4211-acd2-0bac1077c552",
+                    "Score": 0.7001760005950928
+                },
+                {
+                    "Text": "Model-wise transferability: Whether concepts extracted from a DNN can be transferred to another DNN trained for the same task.",
+                    "BoundingBox": {
+                        "Width": 0.7245076298713684,
+                        "Height": 0.06868676096200943,
+                        "Left": 0.13720358908176422,
+                        "Top": 0.55068439245224
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48346a48-fc77-42d8-ac0b-cc4d2c370219",
+                    "Score": 0.6973307132720947
+                },
+                {
+                    "Text": "Discrimination power: If the concept is saliently activated on a set of samples, then interaction effects I(S) of the same concept are supposed to consistently push the classification of these samples towards a certain category.",
+                    "BoundingBox": {
+                        "Width": 0.7246639728546143,
+                        "Height": 0.11472193896770477,
+                        "Left": 0.1373663693666458,
+                        "Top": 0.6462259292602539
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "efe5ef68-bce6-4521-ba73-5090720d3909",
+                    "Score": 0.7092443704605103
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,059",
+            "end_time": "00:00:13,542",
+            "transcript": "Specifically, we propose four perspectives.",
+            "MatchedRegion": [
+                {
+                    "Text": "Can these interactions really represent \"concepts\" ?",
+                    "BoundingBox": {
+                        "Width": 0.7350253462791443,
+                        "Height": 0.06126832962036133,
+                        "Left": 0.09851858764886856,
+                        "Top": 0.06293024867773056
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "72c96222-acfb-487e-9ce3-cd712bac6946",
+                    "Score": 0.6850140690803528
+                },
+                {
+                    "Text": "We propose to examine the faithfulness of using I (S) to represent concepts, from the following four perspectives.",
+                    "BoundingBox": {
+                        "Width": 0.8064664006233215,
+                        "Height": 0.08821583539247513,
+                        "Left": 0.09731142222881317,
+                        "Top": 0.20039817690849304
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5291be7e-d141-4486-90d1-a61ce3e61455",
+                    "Score": 0.8948237895965576
+                },
+                {
+                    "Text": "Sparsity: The DNN's inference on a specific sample is supposed to be concisely explained by a small number of salient concepts.",
+                    "BoundingBox": {
+                        "Width": 0.7248382568359375,
+                        "Height": 0.07416196167469025,
+                        "Left": 0.13706625998020172,
+                        "Top": 0.3595198392868042
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fc0b1e1a-123d-4107-97a6-79030d085a66",
+                    "Score": 0.7255115509033203
+                },
+                {
+                    "Text": "Sample-wise transferability: Whether concepts extracted from a sample can be transferred to other samples.",
+                    "BoundingBox": {
+                        "Width": 0.7245011329650879,
+                        "Height": 0.07467738538980484,
+                        "Left": 0.13774386048316956,
+                        "Top": 0.45485129952430725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c11cf1a6-8e72-4211-acd2-0bac1077c552",
+                    "Score": 0.7001760005950928
+                },
+                {
+                    "Text": "Model-wise transferability: Whether concepts extracted from a DNN can be transferred to another DNN trained for the same task.",
+                    "BoundingBox": {
+                        "Width": 0.7245076298713684,
+                        "Height": 0.06868676096200943,
+                        "Left": 0.13720358908176422,
+                        "Top": 0.55068439245224
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48346a48-fc77-42d8-ac0b-cc4d2c370219",
+                    "Score": 0.6973307132720947
+                },
+                {
+                    "Text": "Discrimination power: If the concept is saliently activated on a set of samples, then interaction effects I(S) of the same concept are supposed to consistently push the classification of these samples towards a certain category.",
+                    "BoundingBox": {
+                        "Width": 0.7246639728546143,
+                        "Height": 0.11472193896770477,
+                        "Left": 0.1373663693666458,
+                        "Top": 0.6462259292602539
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "efe5ef68-bce6-4521-ba73-5090720d3909",
+                    "Score": 0.7092443704605103
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:01,790",
+            "end_time": "00:00:09,476",
+            "transcript": "To conclude, public health researchers can use mass codes to mine valuable medical information from tweets.",
+            "MatchedRegion": [
+                {
+                    "Text": "Mine valuable medical information from tweets!",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4073265492916107,
+                        "Height": 0.031550146639347076,
+                        "Left": 0.3035597503185272,
+                        "Top": 0.22084949910640717
+                    },
+                    "Id": "825498eb-5181-466e-98b3-3fc588dd3917"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,196",
+            "end_time": "00:00:26,528",
+            "transcript": "For example, the dataset can be used as a training dataset for examining public attitudes toward COVID-19 vaccines and drugs or tracking the public's mental status change during different COVID-19 phases and etc.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.0640023946762085,
+                        "Height": 0.025758342817425728,
+                        "Left": 0.16835059225559235,
+                        "Top": 0.5323261022567749
+                    },
+                    "Id": "f03e72f5-c775-4aed-b847-f4644c7cb560"
+                }
+            ]
+        }
+    ]
+}

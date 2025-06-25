@@ -1,0 +1,44 @@
+{
+    "MatchedSlides": [
+        "PART_0006_go2ENHJvJoH7ZGDm",
+        "PART_0007_UK9x0qs00Ma4n3RV"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,069",
+            "end_time": "00:00:00,849",
+            "transcript": "from the teacher.",
+            "MatchedRegion": [
+                {
+                    "Text": "Fine-tuning does not always results in improvement of student models e.g., M1 student drop from 75.39 to 74.37 when using M5 as teacher.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3660535514354706,
+                        "Height": 0.12098250538110733,
+                        "Left": 0.6018325686454773,
+                        "Top": 0.17361652851104736
+                    },
+                    "Id": "0e8d85f4-cc16-475f-b47c-375056d6c2ff"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,350",
+            "end_time": "00:00:10,072",
+            "transcript": "We asked several questions related to the performance of the model where it is fine-tuned in the block-by-block setting compared to that when trained normally.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,913",
+            "end_time": "00:00:16,255",
+            "transcript": "From the result in this figure, we can see that in all cases, the student model is able to outperform the teacher.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:17,055",
+            "end_time": "00:00:25,958",
+            "transcript": "However, when compared to the accuracy achievable when a student is trained normally, fine-tuning does not always result in improvement, especially when a teacher",
+            "MatchedRegion": []
+        }
+    ]
+}

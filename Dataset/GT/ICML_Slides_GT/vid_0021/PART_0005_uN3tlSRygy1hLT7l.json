@@ -1,0 +1,47 @@
+{
+  "MatchedRegions": [
+      {
+          "start_time": "00:00:00,269",
+          "end_time": "00:00:04,991",
+          "transcript": "We compare with ValueDice and DAT, two state-of-the-art approaches, along with a custom ADC baseline.",
+          "MatchedRegion": [
+              {
+                "Id": "3ae60327-3257-4b97-8b35-f5dfb96a2b66",
+                "Text": "HalfCheetah-v2 Walker2d-v2 Ant-v2 Hopper-v2 Humanoid-v2 5000 5000 7000 4000 5000 4000 4000 6000 3000 3000 4000 5000 3000 4000 2000 3000 2000 dac 2000 3000 value_dice 1000 2000 1000 CFIL (ours) 2000 0 1000 bc 1000 1000 0 expert -1000 0 -1000 0 0 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 Env int 1e5 Env int 1e5 Env int 1e5 Env int le5 Env int 1e5",
+                "BoundingBox": {
+                    "Width": 0.8007014393806458,
+                    "Height": 0.32449108362197876,
+                    "Left": 0.11441993713378906,
+                    "Top": 0.4584159255027771
+                },
+                "BlockType": "LAYOUT_FIGURE"
+            }
+          ]
+      },
+      {
+        "start_time": "00:00:05,651",
+        "end_time": "00:00:13,373",
+        "transcript": "CFL is the only approach to achieve expert level performance on all tasks, while ValueDice, being semi-offline, has the advantage of interactions needed to reach expert level.",
+        "MatchedRegion": [
+            {
+              "Id": "3ae60327-3257-4b97-8b35-f5dfb96a2b66",
+              "Text": "HalfCheetah-v2 Walker2d-v2 Ant-v2 Hopper-v2 Humanoid-v2 5000 5000 7000 4000 5000 4000 4000 6000 3000 3000 4000 5000 3000 4000 2000 3000 2000 dac 2000 3000 value_dice 1000 2000 1000 CFIL (ours) 2000 0 1000 bc 1000 1000 0 expert -1000 0 -1000 0 0 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 Env int 1e5 Env int 1e5 Env int 1e5 Env int le5 Env int 1e5",
+              "BoundingBox": {
+                  "Width": 0.8007014393806458,
+                  "Height": 0.32449108362197876,
+                  "Left": 0.11441993713378906,
+                  "Top": 0.4584159255027771
+              },
+              "BlockType": "LAYOUT_FIGURE"
+          }
+        ]
+      },
+      {
+        "start_time": "00:00:13,874",
+        "end_time": "00:00:16,154",
+        "transcript": "That is, of course, only for the tasks it succeeds on.",
+        "MatchedRegion": []
+    }
+  ],
+  "MatchedSlides": []
+}

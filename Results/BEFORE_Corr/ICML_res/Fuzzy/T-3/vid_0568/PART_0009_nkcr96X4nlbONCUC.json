@@ -1,0 +1,38 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,029",
+            "end_time": "00:00:09,676",
+            "transcript": "And in GSM, the state of the system converges to the nearest attractor, while that change in state results in the creation of a new attractor state where the system subsequently transitions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,716",
+            "end_time": "00:00:17,521",
+            "transcript": "The energy surface of GSM have two parameters, the state of the system VF and the delay signal VED governing its minima.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:18,221",
+            "end_time": "00:00:27,388",
+            "transcript": "The figure shows the minima of this system changes over time as VD changes when a cyclical sequence of memories, memory 4 to 5, 6, 7 and then back to 4.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,938",
+            "end_time": "00:00:37,975",
+            "transcript": "Since VD is delayed VF, the cyclical sequence that is stored results in a system that is never in equilibrium, always transitioning to the next",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0004_ZMHVjywHsjjN8XqN",
+            "Score": 0.6043125987052917
+        },
+        {
+            "slide": "PART_0006_MkvL6zHxWWhc14ba",
+            "Score": 0.6027629971504211
+        }
+    ]
+}

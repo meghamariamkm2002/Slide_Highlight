@@ -1,0 +1,102 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,130",
+            "end_time": "00:00:04,663",
+            "transcript": "This is the outline of this presentation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Exploring Model Dynamics for Accumulative Poisoning Discovery",
+                    "BoundingBox": {
+                        "Width": 0.63350510597229,
+                        "Height": 0.030813246965408325,
+                        "Left": 0.007546411827206612,
+                        "Top": 0.024249810725450516
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "cdc972a2-fa74-49a1-afde-47edfe559dcf",
+                    "Score": 0.6184634566307068
+                },
+                {
+                    "Text": "Outline",
+                    "BoundingBox": {
+                        "Width": 0.18884305655956268,
+                        "Height": 0.06474348902702332,
+                        "Left": 0.009832295589148998,
+                        "Top": 0.11967305094003677
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "d30059c1-7921-48a8-b39e-b1aaceb70b0b",
+                    "Score": 0.6447479724884033
+                },
+                {
+                    "Text": "Backtrack Historical Models",
+                    "BoundingBox": {
+                        "Width": 0.520186185836792,
+                        "Height": 0.04284023120999336,
+                        "Left": 0.06152856722474098,
+                        "Top": 0.45355331897735596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1e8ea531-f95e-4ef3-846f-1eb94f6593d4",
+                    "Score": 0.6155968904495239
+                },
+                {
+                    "Text": "Memorization Discrepancy",
+                    "BoundingBox": {
+                        "Width": 0.5063320994377136,
+                        "Height": 0.05207378417253494,
+                        "Left": 0.06206154450774193,
+                        "Top": 0.5374147295951843
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "668000f3-1ccd-4a75-9e7c-ba8a0e3d36e8",
+                    "Score": 0.6572701334953308
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:04,885",
+            "end_time": "00:00:06,372",
+            "transcript": "The first part is background.",
+            "MatchedRegion": [
+                {
+                    "Text": "Outline",
+                    "BoundingBox": {
+                        "Width": 0.18884305655956268,
+                        "Height": 0.06474348902702332,
+                        "Left": 0.009832295589148998,
+                        "Top": 0.11967305094003677
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "d30059c1-7921-48a8-b39e-b1aaceb70b0b",
+                    "Score": 0.6447479724884033
+                },
+                {
+                    "Text": "Backtrack Historical Models",
+                    "BoundingBox": {
+                        "Width": 0.520186185836792,
+                        "Height": 0.04284023120999336,
+                        "Left": 0.06152856722474098,
+                        "Top": 0.45355331897735596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1e8ea531-f95e-4ef3-846f-1eb94f6593d4",
+                    "Score": 0.6155968904495239
+                },
+                {
+                    "Text": "Memorization Discrepancy",
+                    "BoundingBox": {
+                        "Width": 0.5063320994377136,
+                        "Height": 0.05207378417253494,
+                        "Left": 0.06206154450774193,
+                        "Top": 0.5374147295951843
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "668000f3-1ccd-4a75-9e7c-ba8a0e3d36e8",
+                    "Score": 0.6572701334953308
+                }
+            ]
+        }
+    ]
+}

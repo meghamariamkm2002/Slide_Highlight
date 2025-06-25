@@ -1,0 +1,4 @@
+Unlike other methods, our method employs the losses during a short fine-tuning process on models that were already pre-trained on ImageNet.
+We add a classification loss at classification to ensure that the accuracy of the models does not decrease due to the fine-tuning process.
+The formulation of our classification loss is as follows, and it encourages the model to have high confidence on its predictions.
+Thus, our final loss term is formulated as follows as a combination of the relevance and the classification loss.

@@ -1,0 +1,67 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:09,756",
+            "transcript": "There has been a lot of works aiming to explain concepts encoded by DNNs, including network dissection, TCIV, and so on.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background: Explaining \"concepts\" encoded by DNNs",
+                    "BoundingBox": {
+                        "Width": 0.7757488489151001,
+                        "Height": 0.058135051280260086,
+                        "Left": 0.09762056171894073,
+                        "Top": 0.06547774374485016
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "cee703ac-11a7-407c-90b0-f25b73645da0",
+                    "Score": 0.7740784883499146
+                },
+                {
+                    "Text": "[Bau et al., 2017] Network dissection: Quantifying interpretability of deep visual representations. CVPR 2017. [Kim et al., 2018] Interpretability beyond feature attribution: Quantitative testing with concept activation vectors (tcav). ICML 2018.",
+                    "BoundingBox": {
+                        "Width": 0.6636426448822021,
+                        "Height": 0.04684627801179886,
+                        "Left": 0.007633984554558992,
+                        "Top": 0.9432486295700073
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "04d7e29b-52ee-4c8b-bb28-815d158f2cae",
+                    "Score": 0.6855266094207764
+                },
+                {
+                    "Text": "Key Problem: lacking a mathematical framework to objectively formulate \"concepts\" encoded by a DNN.",
+                    "BoundingBox": {
+                        "Width": 0.7245287895202637,
+                        "Height": 0.07750511914491653,
+                        "Left": 0.16344180703163147,
+                        "Top": 0.7861931920051575
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab0f311a-c68f-43f7-9ac0-1228afc6d6f7",
+                    "Score": 0.7955330610275269
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,677",
+            "end_time": "00:00:17,442",
+            "transcript": "However, these methods usually lack a mathematical framework to objectively formulate concepts encoded by a DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Key Problem: lacking a mathematical framework to objectively formulate \"concepts\" encoded by a DNN.",
+                    "BoundingBox": {
+                        "Width": 0.7245287895202637,
+                        "Height": 0.07750511914491653,
+                        "Left": 0.16344180703163147,
+                        "Top": 0.7861931920051575
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab0f311a-c68f-43f7-9ac0-1228afc6d6f7",
+                    "Score": 0.7955330610275269
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

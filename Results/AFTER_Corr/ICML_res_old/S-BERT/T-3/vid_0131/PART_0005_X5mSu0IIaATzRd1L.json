@@ -1,0 +1,78 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,923",
+            "end_time": "00:00:11,629",
+            "transcript": "And we also propose the discrepancy-aware sample correction based on the memorization discrepancy to defend against the accumulative poisoning attacks.",
+            "MatchedRegion": [
+                {
+                    "Text": "Discrepancy-aware Sample Correction",
+                    "BoundingBox": {
+                        "Width": 0.9084433317184448,
+                        "Height": 0.07352752238512039,
+                        "Left": 0.01139006856828928,
+                        "Top": 0.1223282739520073
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "76f730ad-157f-4cb3-8055-d76ddfa18f8d",
+                    "Score": 0.8566421866416931
+                },
+                {
+                    "Text": "Discrepancy-aware Sample Correction (DSC)",
+                    "BoundingBox": {
+                        "Width": 0.22984305024147034,
+                        "Height": 0.059308286756277084,
+                        "Left": 0.07279139757156372,
+                        "Top": 0.4246734082698822
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "28bf5afe-53c7-43b9-bae3-3f1879423889",
+                    "Score": 0.7376902103424072
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,070",
+            "end_time": "00:00:24,438",
+            "transcript": "Different from the AT variant of gradient clipping, which is essential to handle the poisoning sample or cleaning samples,",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,373",
+            "end_time": "00:00:35,598",
+            "transcript": "our discrepancy awareness over a sample correction can selectively correct some potential points in the examples and achieve the better performance.",
+            "MatchedRegion": [
+                {
+                    "Text": "Discrepancy-aware Sample Correction",
+                    "BoundingBox": {
+                        "Width": 0.9084433317184448,
+                        "Height": 0.07352752238512039,
+                        "Left": 0.01139006856828928,
+                        "Top": 0.1223282739520073
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "76f730ad-157f-4cb3-8055-d76ddfa18f8d",
+                    "Score": 0.8566421866416931
+                },
+                {
+                    "Text": "Discrepancy-aware Sample Correction (DSC)",
+                    "BoundingBox": {
+                        "Width": 0.22984305024147034,
+                        "Height": 0.059308286756277084,
+                        "Left": 0.07279139757156372,
+                        "Top": 0.4246734082698822
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "28bf5afe-53c7-43b9-bae3-3f1879423889",
+                    "Score": 0.7376902103424072
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0004_kJOwEfCWYdy5iAHz",
+            "Score": 0.6526188850402832
+        }
+    ]
+}

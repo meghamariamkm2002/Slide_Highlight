@@ -1,0 +1,101 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,923",
+            "end_time": "00:00:11,629",
+            "transcript": "And we also propose the discrepancy of weird sample correction based on the memorization discrepancy to defend against the accumulative poisoning attacks.",
+            "MatchedRegion": [
+                {
+                    "Text": "Discrepancy-aware Sample Correction",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.9084433317184448,
+                        "Height": 0.07352752238512039,
+                        "Left": 0.01139006856828928,
+                        "Top": 0.1223282739520073
+                    },
+                    "Id": "76f730ad-157f-4cb3-8055-d76ddfa18f8d"
+                },
+                {
+                    "Text": "",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.014421094208955765,
+                        "Height": 0.022933436557650566,
+                        "Left": 0.04670769348740578,
+                        "Top": 0.4228033423423767
+                    },
+                    "Id": "1162b568-7fb3-4087-9a50-8d2682335f52"
+                },
+                {
+                    "Text": "Discrepancy-aware Sample Correction (DSC)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.22984305024147034,
+                        "Height": 0.059308286756277084,
+                        "Left": 0.07279139757156372,
+                        "Top": 0.4246734082698822
+                    },
+                    "Id": "28bf5afe-53c7-43b9-bae3-3f1879423889"
+                },
+                {
+                    "Text": "The high-level intuition of DSC is to adopt the Memorization Discrepancy to the previous principled reverse adversarial generation, as the guidance for selective sample correction.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.39495986700057983,
+                        "Height": 0.12723560631275177,
+                        "Left": 0.0543794259428978,
+                        "Top": 0.6368417143821716
+                    },
+                    "Id": "7846fbe5-55c5-49a4-9c5a-009a54bf669c"
+                },
+                {
+                    "Text": "Figure 1. Left: the Memorization Discrepancy corresponding to training samples in real-time data streaming. Right: test accuracy of the AT-based method and the proposed DSC.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.43118777871131897,
+                        "Height": 0.07422807067632675,
+                        "Left": 0.5024645328521729,
+                        "Top": 0.6816474199295044
+                    },
+                    "Id": "cd27ae5c-dfdd-4332-9413-cb82d748a3c0"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,070",
+            "end_time": "00:00:24,438",
+            "transcript": "Different from the AT variant of gradient clipping, which is indispensable to handle the poisoning sample or cleaning samples,",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,373",
+            "end_time": "00:00:35,598",
+            "transcript": "our discrepancy over a sample correction can selectively correct some potential point in the examples and achieve the better performance.",
+            "MatchedRegion": [
+                {
+                    "Text": "Discrepancy-aware Sample Correction",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.9084433317184448,
+                        "Height": 0.07352752238512039,
+                        "Left": 0.01139006856828928,
+                        "Top": 0.1223282739520073
+                    },
+                    "Id": "76f730ad-157f-4cb3-8055-d76ddfa18f8d"
+                },
+                {
+                    "Text": "Discrepancy-aware Sample Correction (DSC)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.22984305024147034,
+                        "Height": 0.059308286756277084,
+                        "Left": 0.07279139757156372,
+                        "Top": 0.4246734082698822
+                    },
+                    "Id": "28bf5afe-53c7-43b9-bae3-3f1879423889"
+                }
+            ]
+        }
+    ]
+}

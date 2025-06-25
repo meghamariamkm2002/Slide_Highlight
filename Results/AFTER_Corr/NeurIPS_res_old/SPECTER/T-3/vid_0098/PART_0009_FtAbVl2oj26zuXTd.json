@@ -1,0 +1,1042 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,829",
+            "end_time": "00:00:02,690",
+            "transcript": "Our method can be seen in the upper figure.",
+            "MatchedRegion": [
+                {
+                    "Text": "SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.18984995782375336,
+                        "Height": 0.059642598032951355,
+                        "Left": 0.03581862896680832,
+                        "Top": 0.03394317626953125
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "2f2a10d6-6cec-4273-a908-d3fb7bd5a19f",
+                    "Score": 0.8273494839668274
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10433930158615112,
+                        "Height": 0.07912973314523697,
+                        "Left": 0.8892312049865723,
+                        "Top": 0.013910078443586826
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6038a245-2db4-4aed-abbf-0fe4d735a330",
+                    "Score": 0.6707974076271057
+                },
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.8351592421531677
+                },
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.7914570569992065
+                },
+                {
+                    "Text": "Memory bank features are updated with a momentum of 0.5",
+                    "BoundingBox": {
+                        "Width": 0.48109689354896545,
+                        "Height": 0.030170917510986328,
+                        "Left": 0.07378966361284256,
+                        "Top": 0.6070104241371155
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "deaa3937-6b36-49c6-b6d6-5fca87a02795",
+                    "Score": 0.735162615776062
+                },
+                {
+                    "Text": "Spherical K-means [9] (K=2500) is used to cluster memory bank features into prototypes",
+                    "BoundingBox": {
+                        "Width": 0.686676025390625,
+                        "Height": 0.031396713107824326,
+                        "Left": 0.07358581572771072,
+                        "Top": 0.6649196743965149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50b152e3-5969-4e35-abfe-6863998289aa",
+                    "Score": 0.6979115009307861
+                },
+                {
+                    "Text": "Our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD, and our pseudo loss for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.8981481194496155,
+                        "Height": 0.07419376075267792,
+                        "Left": 0.035986706614494324,
+                        "Top": 0.724291205406189
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d87f5b5-b67c-4812-b8fa-27103f916237",
+                    "Score": 0.8537949919700623
+                },
+                {
+                    "Text": "[8] X. Yue, Z. Zheng, S. Zhang, Y. Gao, T. Darrell, K. Keutzer, and A. Sangiovanni-Vincentelli \"Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation,\" \" in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2021. [9] J. Johnson, M. Douze, and H. J\u00e9gou, \"Billion-scale similarity search with GPUs,\" IEEE Transactions on Big Data, vol. 7, no. 3, pp. 535-547 2019.",
+                    "BoundingBox": {
+                        "Width": 0.9557241201400757,
+                        "Height": 0.056639306247234344,
+                        "Left": 0.011702191084623337,
+                        "Top": 0.8420529961585999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3f6d70e3-546f-4738-9ee0-dcced317724a",
+                    "Score": 0.8091189861297607
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04330865666270256,
+                        "Height": 0.04208015650510788,
+                        "Left": 0.14679795503616333,
+                        "Top": 0.9293245077133179
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "6912dbea-d332-4f05-a1fa-69fb176f2d8f",
+                    "Score": 0.7649019956588745
+                },
+                {
+                    "Text": "Institut f\u00fcr Fahrerassistenz und vernetzte Mobilit\u00e4t",
+                    "BoundingBox": {
+                        "Width": 0.1300675868988037,
+                        "Height": 0.04039110988378525,
+                        "Left": 0.19842147827148438,
+                        "Top": 0.9303547739982605
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "f6f96c03-1ad7-4ae0-bd03-3d9ee51dadf3",
+                    "Score": 0.6140996217727661
+                },
+                {
+                    "Text": "Hochschule Kempten",
+                    "BoundingBox": {
+                        "Width": 0.04359191656112671,
+                        "Height": 0.029118411242961884,
+                        "Left": 0.3511020541191101,
+                        "Top": 0.945338249206543
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "2bfca136-7bf3-44d2-9dc0-5e7db99a8c1c",
+                    "Score": 0.6439598202705383
+                },
+                {
+                    "Text": "University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07255443185567856,
+                        "Height": 0.011794566176831722,
+                        "Left": 0.35102495551109314,
+                        "Top": 0.9754318594932556
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "43853a56-e82e-4f39-9231-f7a41388bc29",
+                    "Score": 0.7125295400619507
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.028950076550245285,
+                        "Height": 0.034037671983242035,
+                        "Left": 0.4456501007080078,
+                        "Top": 0.9542351365089417
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "390180c0-7a31-45af-8e7e-afa4722d99d3",
+                    "Score": 0.7150864005088806
+                },
+                {
+                    "Text": "UAB Universitat Autonoma de Barcelona",
+                    "BoundingBox": {
+                        "Width": 0.07361826300621033,
+                        "Height": 0.06718762964010239,
+                        "Left": 0.5286357998847961,
+                        "Top": 0.9211505651473999
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "e5c28d82-54f2-4332-abd7-3d4e564cee47",
+                    "Score": 0.6377289295196533
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.060374293476343155,
+                        "Height": 0.018932150676846504,
+                        "Left": 0.8591686487197876,
+                        "Top": 0.945046603679657
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "34112375-1003-4c70-a9c3-c39215a28cd0",
+                    "Score": 0.758774995803833
+                },
+                {
+                    "Text": "10",
+                    "BoundingBox": {
+                        "Width": 0.011949273757636547,
+                        "Height": 0.014673756435513496,
+                        "Left": 0.9518886208534241,
+                        "Top": 0.9471222162246704
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "9b42cfe3-f1d4-4e6e-bc82-5d34e8fc5d54",
+                    "Score": 0.7780708074569702
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,390",
+            "end_time": "00:00:06,772",
+            "transcript": "Features of the source and target domain are aligned by cluster prototypes.",
+            "MatchedRegion": [
+                {
+                    "Text": "SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.18984995782375336,
+                        "Height": 0.059642598032951355,
+                        "Left": 0.03581862896680832,
+                        "Top": 0.03394317626953125
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "2f2a10d6-6cec-4273-a908-d3fb7bd5a19f",
+                    "Score": 0.8273494839668274
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10433930158615112,
+                        "Height": 0.07912973314523697,
+                        "Left": 0.8892312049865723,
+                        "Top": 0.013910078443586826
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6038a245-2db4-4aed-abbf-0fe4d735a330",
+                    "Score": 0.6707974076271057
+                },
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.8351592421531677
+                },
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.7914570569992065
+                },
+                {
+                    "Text": "Memory bank features are updated with a momentum of 0.5",
+                    "BoundingBox": {
+                        "Width": 0.48109689354896545,
+                        "Height": 0.030170917510986328,
+                        "Left": 0.07378966361284256,
+                        "Top": 0.6070104241371155
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "deaa3937-6b36-49c6-b6d6-5fca87a02795",
+                    "Score": 0.735162615776062
+                },
+                {
+                    "Text": "Spherical K-means [9] (K=2500) is used to cluster memory bank features into prototypes",
+                    "BoundingBox": {
+                        "Width": 0.686676025390625,
+                        "Height": 0.031396713107824326,
+                        "Left": 0.07358581572771072,
+                        "Top": 0.6649196743965149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50b152e3-5969-4e35-abfe-6863998289aa",
+                    "Score": 0.6979115009307861
+                },
+                {
+                    "Text": "Our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD, and our pseudo loss for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.8981481194496155,
+                        "Height": 0.07419376075267792,
+                        "Left": 0.035986706614494324,
+                        "Top": 0.724291205406189
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d87f5b5-b67c-4812-b8fa-27103f916237",
+                    "Score": 0.8537949919700623
+                },
+                {
+                    "Text": "[8] X. Yue, Z. Zheng, S. Zhang, Y. Gao, T. Darrell, K. Keutzer, and A. Sangiovanni-Vincentelli \"Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation,\" \" in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2021. [9] J. Johnson, M. Douze, and H. J\u00e9gou, \"Billion-scale similarity search with GPUs,\" IEEE Transactions on Big Data, vol. 7, no. 3, pp. 535-547 2019.",
+                    "BoundingBox": {
+                        "Width": 0.9557241201400757,
+                        "Height": 0.056639306247234344,
+                        "Left": 0.011702191084623337,
+                        "Top": 0.8420529961585999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3f6d70e3-546f-4738-9ee0-dcced317724a",
+                    "Score": 0.8091189861297607
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04330865666270256,
+                        "Height": 0.04208015650510788,
+                        "Left": 0.14679795503616333,
+                        "Top": 0.9293245077133179
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "6912dbea-d332-4f05-a1fa-69fb176f2d8f",
+                    "Score": 0.7649019956588745
+                },
+                {
+                    "Text": "Hochschule Kempten",
+                    "BoundingBox": {
+                        "Width": 0.04359191656112671,
+                        "Height": 0.029118411242961884,
+                        "Left": 0.3511020541191101,
+                        "Top": 0.945338249206543
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "2bfca136-7bf3-44d2-9dc0-5e7db99a8c1c",
+                    "Score": 0.6439598202705383
+                },
+                {
+                    "Text": "University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07255443185567856,
+                        "Height": 0.011794566176831722,
+                        "Left": 0.35102495551109314,
+                        "Top": 0.9754318594932556
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "43853a56-e82e-4f39-9231-f7a41388bc29",
+                    "Score": 0.7125295400619507
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.028950076550245285,
+                        "Height": 0.034037671983242035,
+                        "Left": 0.4456501007080078,
+                        "Top": 0.9542351365089417
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "390180c0-7a31-45af-8e7e-afa4722d99d3",
+                    "Score": 0.7150864005088806
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.060374293476343155,
+                        "Height": 0.018932150676846504,
+                        "Left": 0.8591686487197876,
+                        "Top": 0.945046603679657
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "34112375-1003-4c70-a9c3-c39215a28cd0",
+                    "Score": 0.758774995803833
+                },
+                {
+                    "Text": "10",
+                    "BoundingBox": {
+                        "Width": 0.011949273757636547,
+                        "Height": 0.014673756435513496,
+                        "Left": 0.9518886208534241,
+                        "Top": 0.9471222162246704
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "9b42cfe3-f1d4-4e6e-bc82-5d34e8fc5d54",
+                    "Score": 0.7780708074569702
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,592",
+            "end_time": "00:00:15,055",
+            "transcript": "To cluster memory bank features into prototypes, we build upon PCS and perform spherical k-means with a momentum of 0.5.",
+            "MatchedRegion": [
+                {
+                    "Text": "SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.18984995782375336,
+                        "Height": 0.059642598032951355,
+                        "Left": 0.03581862896680832,
+                        "Top": 0.03394317626953125
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "2f2a10d6-6cec-4273-a908-d3fb7bd5a19f",
+                    "Score": 0.8273494839668274
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10433930158615112,
+                        "Height": 0.07912973314523697,
+                        "Left": 0.8892312049865723,
+                        "Top": 0.013910078443586826
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6038a245-2db4-4aed-abbf-0fe4d735a330",
+                    "Score": 0.6707974076271057
+                },
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.8351592421531677
+                },
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.7914570569992065
+                },
+                {
+                    "Text": "Memory bank features are updated with a momentum of 0.5",
+                    "BoundingBox": {
+                        "Width": 0.48109689354896545,
+                        "Height": 0.030170917510986328,
+                        "Left": 0.07378966361284256,
+                        "Top": 0.6070104241371155
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "deaa3937-6b36-49c6-b6d6-5fca87a02795",
+                    "Score": 0.735162615776062
+                },
+                {
+                    "Text": "Spherical K-means [9] (K=2500) is used to cluster memory bank features into prototypes",
+                    "BoundingBox": {
+                        "Width": 0.686676025390625,
+                        "Height": 0.031396713107824326,
+                        "Left": 0.07358581572771072,
+                        "Top": 0.6649196743965149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50b152e3-5969-4e35-abfe-6863998289aa",
+                    "Score": 0.6979115009307861
+                },
+                {
+                    "Text": "Our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD, and our pseudo loss for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.8981481194496155,
+                        "Height": 0.07419376075267792,
+                        "Left": 0.035986706614494324,
+                        "Top": 0.724291205406189
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d87f5b5-b67c-4812-b8fa-27103f916237",
+                    "Score": 0.8537949919700623
+                },
+                {
+                    "Text": "[8] X. Yue, Z. Zheng, S. Zhang, Y. Gao, T. Darrell, K. Keutzer, and A. Sangiovanni-Vincentelli \"Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation,\" \" in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2021. [9] J. Johnson, M. Douze, and H. J\u00e9gou, \"Billion-scale similarity search with GPUs,\" IEEE Transactions on Big Data, vol. 7, no. 3, pp. 535-547 2019.",
+                    "BoundingBox": {
+                        "Width": 0.9557241201400757,
+                        "Height": 0.056639306247234344,
+                        "Left": 0.011702191084623337,
+                        "Top": 0.8420529961585999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3f6d70e3-546f-4738-9ee0-dcced317724a",
+                    "Score": 0.8091189861297607
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04330865666270256,
+                        "Height": 0.04208015650510788,
+                        "Left": 0.14679795503616333,
+                        "Top": 0.9293245077133179
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "6912dbea-d332-4f05-a1fa-69fb176f2d8f",
+                    "Score": 0.7649019956588745
+                },
+                {
+                    "Text": "University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07255443185567856,
+                        "Height": 0.011794566176831722,
+                        "Left": 0.35102495551109314,
+                        "Top": 0.9754318594932556
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "43853a56-e82e-4f39-9231-f7a41388bc29",
+                    "Score": 0.7125295400619507
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.028950076550245285,
+                        "Height": 0.034037671983242035,
+                        "Left": 0.4456501007080078,
+                        "Top": 0.9542351365089417
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "390180c0-7a31-45af-8e7e-afa4722d99d3",
+                    "Score": 0.7150864005088806
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.060374293476343155,
+                        "Height": 0.018932150676846504,
+                        "Left": 0.8591686487197876,
+                        "Top": 0.945046603679657
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "34112375-1003-4c70-a9c3-c39215a28cd0",
+                    "Score": 0.758774995803833
+                },
+                {
+                    "Text": "10",
+                    "BoundingBox": {
+                        "Width": 0.011949273757636547,
+                        "Height": 0.014673756435513496,
+                        "Left": 0.9518886208534241,
+                        "Top": 0.9471222162246704
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "9b42cfe3-f1d4-4e6e-bc82-5d34e8fc5d54",
+                    "Score": 0.7780708074569702
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,562",
+            "end_time": "00:00:25,190",
+            "transcript": "Similar to PCS, we perform in-domain contrastive learning and cross-domain self-supervised learning between the features of the feature extractor and the prototypes.",
+            "MatchedRegion": [
+                {
+                    "Text": "SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.18984995782375336,
+                        "Height": 0.059642598032951355,
+                        "Left": 0.03581862896680832,
+                        "Top": 0.03394317626953125
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "2f2a10d6-6cec-4273-a908-d3fb7bd5a19f",
+                    "Score": 0.8273494839668274
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10433930158615112,
+                        "Height": 0.07912973314523697,
+                        "Left": 0.8892312049865723,
+                        "Top": 0.013910078443586826
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6038a245-2db4-4aed-abbf-0fe4d735a330",
+                    "Score": 0.6707974076271057
+                },
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.8351592421531677
+                },
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.7914570569992065
+                },
+                {
+                    "Text": "Memory bank features are updated with a momentum of 0.5",
+                    "BoundingBox": {
+                        "Width": 0.48109689354896545,
+                        "Height": 0.030170917510986328,
+                        "Left": 0.07378966361284256,
+                        "Top": 0.6070104241371155
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "deaa3937-6b36-49c6-b6d6-5fca87a02795",
+                    "Score": 0.735162615776062
+                },
+                {
+                    "Text": "Spherical K-means [9] (K=2500) is used to cluster memory bank features into prototypes",
+                    "BoundingBox": {
+                        "Width": 0.686676025390625,
+                        "Height": 0.031396713107824326,
+                        "Left": 0.07358581572771072,
+                        "Top": 0.6649196743965149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50b152e3-5969-4e35-abfe-6863998289aa",
+                    "Score": 0.6979115009307861
+                },
+                {
+                    "Text": "Our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD, and our pseudo loss for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.8981481194496155,
+                        "Height": 0.07419376075267792,
+                        "Left": 0.035986706614494324,
+                        "Top": 0.724291205406189
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d87f5b5-b67c-4812-b8fa-27103f916237",
+                    "Score": 0.8537949919700623
+                },
+                {
+                    "Text": "[8] X. Yue, Z. Zheng, S. Zhang, Y. Gao, T. Darrell, K. Keutzer, and A. Sangiovanni-Vincentelli \"Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation,\" \" in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2021. [9] J. Johnson, M. Douze, and H. J\u00e9gou, \"Billion-scale similarity search with GPUs,\" IEEE Transactions on Big Data, vol. 7, no. 3, pp. 535-547 2019.",
+                    "BoundingBox": {
+                        "Width": 0.9557241201400757,
+                        "Height": 0.056639306247234344,
+                        "Left": 0.011702191084623337,
+                        "Top": 0.8420529961585999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3f6d70e3-546f-4738-9ee0-dcced317724a",
+                    "Score": 0.8091189861297607
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04330865666270256,
+                        "Height": 0.04208015650510788,
+                        "Left": 0.14679795503616333,
+                        "Top": 0.9293245077133179
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "6912dbea-d332-4f05-a1fa-69fb176f2d8f",
+                    "Score": 0.7649019956588745
+                },
+                {
+                    "Text": "Hochschule Kempten",
+                    "BoundingBox": {
+                        "Width": 0.04359191656112671,
+                        "Height": 0.029118411242961884,
+                        "Left": 0.3511020541191101,
+                        "Top": 0.945338249206543
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "2bfca136-7bf3-44d2-9dc0-5e7db99a8c1c",
+                    "Score": 0.6439598202705383
+                },
+                {
+                    "Text": "University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07255443185567856,
+                        "Height": 0.011794566176831722,
+                        "Left": 0.35102495551109314,
+                        "Top": 0.9754318594932556
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "43853a56-e82e-4f39-9231-f7a41388bc29",
+                    "Score": 0.7125295400619507
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.028950076550245285,
+                        "Height": 0.034037671983242035,
+                        "Left": 0.4456501007080078,
+                        "Top": 0.9542351365089417
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "390180c0-7a31-45af-8e7e-afa4722d99d3",
+                    "Score": 0.7150864005088806
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.060374293476343155,
+                        "Height": 0.018932150676846504,
+                        "Left": 0.8591686487197876,
+                        "Top": 0.945046603679657
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "34112375-1003-4c70-a9c3-c39215a28cd0",
+                    "Score": 0.758774995803833
+                },
+                {
+                    "Text": "10",
+                    "BoundingBox": {
+                        "Width": 0.011949273757636547,
+                        "Height": 0.014673756435513496,
+                        "Left": 0.9518886208534241,
+                        "Top": 0.9471222162246704
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "9b42cfe3-f1d4-4e6e-bc82-5d34e8fc5d54",
+                    "Score": 0.7780708074569702
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,850",
+            "end_time": "00:00:30,675",
+            "transcript": "To further improve performance, we add our pseudo-loss formulation for grid-based lane detection.",
+            "MatchedRegion": [
+                {
+                    "Text": "SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.18984995782375336,
+                        "Height": 0.059642598032951355,
+                        "Left": 0.03581862896680832,
+                        "Top": 0.03394317626953125
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "2f2a10d6-6cec-4273-a908-d3fb7bd5a19f",
+                    "Score": 0.8273494839668274
+                },
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.8351592421531677
+                },
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.7914570569992065
+                },
+                {
+                    "Text": "Memory bank features are updated with a momentum of 0.5",
+                    "BoundingBox": {
+                        "Width": 0.48109689354896545,
+                        "Height": 0.030170917510986328,
+                        "Left": 0.07378966361284256,
+                        "Top": 0.6070104241371155
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "deaa3937-6b36-49c6-b6d6-5fca87a02795",
+                    "Score": 0.735162615776062
+                },
+                {
+                    "Text": "Spherical K-means [9] (K=2500) is used to cluster memory bank features into prototypes",
+                    "BoundingBox": {
+                        "Width": 0.686676025390625,
+                        "Height": 0.031396713107824326,
+                        "Left": 0.07358581572771072,
+                        "Top": 0.6649196743965149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50b152e3-5969-4e35-abfe-6863998289aa",
+                    "Score": 0.6979115009307861
+                },
+                {
+                    "Text": "Our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD, and our pseudo loss for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.8981481194496155,
+                        "Height": 0.07419376075267792,
+                        "Left": 0.035986706614494324,
+                        "Top": 0.724291205406189
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d87f5b5-b67c-4812-b8fa-27103f916237",
+                    "Score": 0.8537949919700623
+                },
+                {
+                    "Text": "[8] X. Yue, Z. Zheng, S. Zhang, Y. Gao, T. Darrell, K. Keutzer, and A. Sangiovanni-Vincentelli \"Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation,\" \" in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2021. [9] J. Johnson, M. Douze, and H. J\u00e9gou, \"Billion-scale similarity search with GPUs,\" IEEE Transactions on Big Data, vol. 7, no. 3, pp. 535-547 2019.",
+                    "BoundingBox": {
+                        "Width": 0.9557241201400757,
+                        "Height": 0.056639306247234344,
+                        "Left": 0.011702191084623337,
+                        "Top": 0.8420529961585999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3f6d70e3-546f-4738-9ee0-dcced317724a",
+                    "Score": 0.8091189861297607
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04330865666270256,
+                        "Height": 0.04208015650510788,
+                        "Left": 0.14679795503616333,
+                        "Top": 0.9293245077133179
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "6912dbea-d332-4f05-a1fa-69fb176f2d8f",
+                    "Score": 0.7649019956588745
+                },
+                {
+                    "Text": "University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07255443185567856,
+                        "Height": 0.011794566176831722,
+                        "Left": 0.35102495551109314,
+                        "Top": 0.9754318594932556
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "43853a56-e82e-4f39-9231-f7a41388bc29",
+                    "Score": 0.7125295400619507
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.028950076550245285,
+                        "Height": 0.034037671983242035,
+                        "Left": 0.4456501007080078,
+                        "Top": 0.9542351365089417
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "390180c0-7a31-45af-8e7e-afa4722d99d3",
+                    "Score": 0.7150864005088806
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.060374293476343155,
+                        "Height": 0.018932150676846504,
+                        "Left": 0.8591686487197876,
+                        "Top": 0.945046603679657
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "34112375-1003-4c70-a9c3-c39215a28cd0",
+                    "Score": 0.758774995803833
+                },
+                {
+                    "Text": "10",
+                    "BoundingBox": {
+                        "Width": 0.011949273757636547,
+                        "Height": 0.014673756435513496,
+                        "Left": 0.9518886208534241,
+                        "Top": 0.9471222162246704
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "9b42cfe3-f1d4-4e6e-bc82-5d34e8fc5d54",
+                    "Score": 0.7780708074569702
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:31,655",
+            "end_time": "00:00:38,562",
+            "transcript": "Overall, our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD and our",
+            "MatchedRegion": [
+                {
+                    "Text": "SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.18984995782375336,
+                        "Height": 0.059642598032951355,
+                        "Left": 0.03581862896680832,
+                        "Top": 0.03394317626953125
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "2f2a10d6-6cec-4273-a908-d3fb7bd5a19f",
+                    "Score": 0.8273494839668274
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10433930158615112,
+                        "Height": 0.07912973314523697,
+                        "Left": 0.8892312049865723,
+                        "Top": 0.013910078443586826
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6038a245-2db4-4aed-abbf-0fe4d735a330",
+                    "Score": 0.6707974076271057
+                },
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.8351592421531677
+                },
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.7914570569992065
+                },
+                {
+                    "Text": "Memory bank features are updated with a momentum of 0.5",
+                    "BoundingBox": {
+                        "Width": 0.48109689354896545,
+                        "Height": 0.030170917510986328,
+                        "Left": 0.07378966361284256,
+                        "Top": 0.6070104241371155
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "deaa3937-6b36-49c6-b6d6-5fca87a02795",
+                    "Score": 0.735162615776062
+                },
+                {
+                    "Text": "Spherical K-means [9] (K=2500) is used to cluster memory bank features into prototypes",
+                    "BoundingBox": {
+                        "Width": 0.686676025390625,
+                        "Height": 0.031396713107824326,
+                        "Left": 0.07358581572771072,
+                        "Top": 0.6649196743965149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50b152e3-5969-4e35-abfe-6863998289aa",
+                    "Score": 0.6979115009307861
+                },
+                {
+                    "Text": "Our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD, and our pseudo loss for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.8981481194496155,
+                        "Height": 0.07419376075267792,
+                        "Left": 0.035986706614494324,
+                        "Top": 0.724291205406189
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d87f5b5-b67c-4812-b8fa-27103f916237",
+                    "Score": 0.8537949919700623
+                },
+                {
+                    "Text": "[8] X. Yue, Z. Zheng, S. Zhang, Y. Gao, T. Darrell, K. Keutzer, and A. Sangiovanni-Vincentelli \"Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation,\" \" in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2021. [9] J. Johnson, M. Douze, and H. J\u00e9gou, \"Billion-scale similarity search with GPUs,\" IEEE Transactions on Big Data, vol. 7, no. 3, pp. 535-547 2019.",
+                    "BoundingBox": {
+                        "Width": 0.9557241201400757,
+                        "Height": 0.056639306247234344,
+                        "Left": 0.011702191084623337,
+                        "Top": 0.8420529961585999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3f6d70e3-546f-4738-9ee0-dcced317724a",
+                    "Score": 0.8091189861297607
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04330865666270256,
+                        "Height": 0.04208015650510788,
+                        "Left": 0.14679795503616333,
+                        "Top": 0.9293245077133179
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "6912dbea-d332-4f05-a1fa-69fb176f2d8f",
+                    "Score": 0.7649019956588745
+                },
+                {
+                    "Text": "Hochschule Kempten",
+                    "BoundingBox": {
+                        "Width": 0.04359191656112671,
+                        "Height": 0.029118411242961884,
+                        "Left": 0.3511020541191101,
+                        "Top": 0.945338249206543
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "2bfca136-7bf3-44d2-9dc0-5e7db99a8c1c",
+                    "Score": 0.6439598202705383
+                },
+                {
+                    "Text": "University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07255443185567856,
+                        "Height": 0.011794566176831722,
+                        "Left": 0.35102495551109314,
+                        "Top": 0.9754318594932556
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "43853a56-e82e-4f39-9231-f7a41388bc29",
+                    "Score": 0.7125295400619507
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.028950076550245285,
+                        "Height": 0.034037671983242035,
+                        "Left": 0.4456501007080078,
+                        "Top": 0.9542351365089417
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "390180c0-7a31-45af-8e7e-afa4722d99d3",
+                    "Score": 0.7150864005088806
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.060374293476343155,
+                        "Height": 0.018932150676846504,
+                        "Left": 0.8591686487197876,
+                        "Top": 0.945046603679657
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "34112375-1003-4c70-a9c3-c39215a28cd0",
+                    "Score": 0.758774995803833
+                },
+                {
+                    "Text": "10",
+                    "BoundingBox": {
+                        "Width": 0.011949273757636547,
+                        "Height": 0.014673756435513496,
+                        "Left": 0.9518886208534241,
+                        "Top": 0.9471222162246704
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "9b42cfe3-f1d4-4e6e-bc82-5d34e8fc5d54",
+                    "Score": 0.7780708074569702
+                }
+            ]
+        }
+    ]
+}

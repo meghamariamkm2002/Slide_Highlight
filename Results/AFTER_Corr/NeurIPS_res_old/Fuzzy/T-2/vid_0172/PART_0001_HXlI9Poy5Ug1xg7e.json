@@ -1,0 +1,102 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,411",
+            "end_time": "00:00:14,715",
+            "transcript": "So in this paper, we consider the setting of quantum zero-sum games, where players are playing using density matrices, which are positive semi-definite matrices with the trace summing up to one, instead of classical probability distributions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Consider quantum zero-sum games, where players play using density matrices (PSD matrices with trace 1) instead of a classical probability distribution.",
+                    "BoundingBox": {
+                        "Width": 0.8366344571113586,
+                        "Height": 0.07674096524715424,
+                        "Left": 0.0766637921333313,
+                        "Top": 0.23527145385742188
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c7afabbd-a0af-41d5-bdf8-7af5a26a1986",
+                    "Score": 0.72264631043257
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,495",
+            "end_time": "00:00:29,919",
+            "transcript": "Now in this setting, there is a matrix extension of the standard MWU or multiplicative weights update algorithm, which is known as matrix MWU or MMWU, and it is used for online learning in this setting of quantum games.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:31,218",
+            "end_time": "00:00:37,408",
+            "transcript": "Now MMW is known to converge in a time average sense to approximate Nash equilibria in these quantum zero-sum games.",
+            "MatchedRegion": [
+                {
+                    "Text": "MMWU is known to converge in time-average to approximate Nash equilibrium in zero-sum games.",
+                    "BoundingBox": {
+                        "Width": 0.8172914385795593,
+                        "Height": 0.07633262872695923,
+                        "Left": 0.07553359866142273,
+                        "Top": 0.6661136746406555
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "25d7edaf-eb4d-442d-8b56-3b317dd9321e",
+                    "Score": 0.8461538461538461
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:38,459",
+            "end_time": "00:00:56,351",
+            "transcript": "However, in the classical setting, it has been shown that MWU does not converge to the Nash equilibrium, as well as the fact that the continuous time version of MWU, which is known as replicator dynamics, exhibits a weaker form of periodicity known as Poincar\u00e9 recurrence.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:57,672",
+            "end_time": "00:01:05,878",
+            "transcript": "When we say Poincar\u00e9 recurrence, we mean that for an infinite time scale, the trajectories will return infinitely often to the initial condition.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:07,202",
+            "end_time": "00:01:12,825",
+            "transcript": "So these are two key results which are not present in the literature for quantum games.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:13,365",
+            "end_time": "00:01:18,168",
+            "transcript": "Thus, our key question and key thrust of this paper is to answer these two questions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:18,528",
+            "end_time": "00:01:22,130",
+            "transcript": "First, how does MMWU behave in the last iterate sense?",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:22,611",
+            "end_time": "00:01:23,451",
+            "transcript": "Does it diverge?",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:23,471",
+            "end_time": "00:01:24,912",
+            "transcript": "Does it converge to Nash equilibrium?",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:25,572",
+            "end_time": "00:01:35,978",
+            "transcript": "Second, do classical results like Poincar\u00e9 recurrence hold in a continuous-time limit for the quantum version of replicator dynamics in the setting",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_qtL1fd39Pmc6IPmY",
+            "Score": 0.7016246914863586
+        }
+    ]
+}

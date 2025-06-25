@@ -1,0 +1,20 @@
+WEBVTT
+
+00:00.069 --> 00:00.549
+protein.
+
+00:02.871 --> 00:08.894
+For modern drug discovery, a commonly used approach is structure-based drug design.
+
+00:09.694 --> 00:21.401
+And a key problem in structure-based drug design is to predict whether a candidate drug molecule will bind to the target protein and how it will bind.
+
+00:22.560 --> 00:33.647
+This is an extremely challenging problem because the structure of proteins and drug molecules are measured in unit of Armstrong, 0.1 nanometer.
+
+00:34.787 --> 00:38.549
+They are so small that are invisible to the naked eyes.
+
+00:39.570 --> 00:47.995
+Sophisticated experiments have to be built to determine their structures and to study their dynamics is even harder.
+

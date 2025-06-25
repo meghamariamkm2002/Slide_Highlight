@@ -1,0 +1,38 @@
+{
+    "MatchedSlides": [
+        "PART_0009_FtAbVl2oj26zuXTd",
+        "PART_0011_GOV2LqBfxDaoOG8r"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,249",
+            "end_time": "00:00:00,629",
+            "transcript": "functions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,510",
+            "end_time": "00:00:08,254",
+            "transcript": "As shown in the t-SNE visualizations, there's a noticeable separation between the source and target domains of Moulin.",
+            "MatchedRegion": [
+                {
+                    "Text": "t-SNE visualization of MuLane dataset. The source domain is marked in blue, the real-world model vehicle target domain in red, and the TuSimple domain in green.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7232441902160645,
+                        "Height": 0.05346320569515228,
+                        "Left": 0.13802263140678406,
+                        "Top": 0.6880298256874084
+                    },
+                    "Id": "7d10e48b-404a-4d72-8de1-281e0656449e"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,894",
+            "end_time": "00:00:15,918",
+            "transcript": "Therefore, we only observe a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS.",
+            "MatchedRegion": []
+        }
+    ]
+}

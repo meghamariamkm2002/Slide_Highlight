@@ -1,0 +1,8 @@
+Trustworthy Semantic Parsing is a new test that we propose to evaluate text-to-escalant models under the practical challenges mentioned in the previous slides.
+In Trustworthy Semantic Parsing, the model should only answer answerable questions and refuse to answer if they are unanswerable.
+Because the answer from the EHR database may be directly used for clinical decision making, the model should have a strategy to predict whether it can confidently answer the question or not.
+We use two metrics here to measure the performance of this task.
+F1 answer and effort execution.
+Effort answer measures how well the model distinguishes between answerable and unanswerable questions.
+F1 execution is a more strict metric.
+It only counts when the retrieved answer

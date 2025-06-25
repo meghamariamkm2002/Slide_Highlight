@@ -1,0 +1,78 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:08,878",
+            "transcript": "We conduct various experiments from different perspectives of the proposed information measure to show its properties.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experimental Results",
+                    "BoundingBox": {
+                        "Width": 0.49847665429115295,
+                        "Height": 0.07737229019403458,
+                        "Left": 0.009723573923110962,
+                        "Top": 0.12070629745721817
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4a89a2b2-66ff-46f4-ab79-2faed0054d7b",
+                    "Score": 0.8335817456245422
+                },
+                {
+                    "Text": "8 7 87 Clean 4 KL Clean 0.30 JS Clean 7 Poison E 0.1 KL Poison JS Poison 86 6 Poison E 0.2 3 0.25 85 Poison E 0.3 0.20 5 84 0.15 4 83 High P 0.10 3 1 Clean 82 Medium P 1 0.05 2 Poison Low P 81 o 0 0.00 40 36 32 28 24 20 16 12 8 4 0 2 4 5 6 7 8 0 5 10 15 20 25 30 35 0 5 10 15 20 25 30 35 0 5 10 15 20 25 30 35 Epoch Batch k k k",
+                    "BoundingBox": {
+                        "Width": 0.6910356879234314,
+                        "Height": 0.18722863495349884,
+                        "Left": 0.14938974380493164,
+                        "Top": 0.258806973695755
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e9a93193-aaa7-4eae-a4f6-4832f6ad9f31",
+                    "Score": 0.8231221437454224
+                },
+                {
+                    "Text": "We conduct various experiments from different perspectives of the proposed information measure to show its properties. (e.g., backtracking intervals, threshold adjustment, poisoning capacity, and discrepancy measures)",
+                    "BoundingBox": {
+                        "Width": 0.16999401152133942,
+                        "Height": 0.2630336284637451,
+                        "Left": 0.7021515965461731,
+                        "Top": 0.4752826988697052
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "abaa533d-4720-4c94-bc50-f0f824202c1f",
+                    "Score": 0.8134228587150574
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,619",
+            "end_time": "00:00:15,386",
+            "transcript": "And we also compare the performance of our DSC with the representative method.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experimental Results",
+                    "BoundingBox": {
+                        "Width": 0.49847665429115295,
+                        "Height": 0.07737229019403458,
+                        "Left": 0.009723573923110962,
+                        "Top": 0.12070629745721817
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4a89a2b2-66ff-46f4-ab79-2faed0054d7b",
+                    "Score": 0.8335817456245422
+                },
+                {
+                    "Text": "8 7 87 Clean 4 KL Clean 0.30 JS Clean 7 Poison E 0.1 KL Poison JS Poison 86 6 Poison E 0.2 3 0.25 85 Poison E 0.3 0.20 5 84 0.15 4 83 High P 0.10 3 1 Clean 82 Medium P 1 0.05 2 Poison Low P 81 o 0 0.00 40 36 32 28 24 20 16 12 8 4 0 2 4 5 6 7 8 0 5 10 15 20 25 30 35 0 5 10 15 20 25 30 35 0 5 10 15 20 25 30 35 Epoch Batch k k k",
+                    "BoundingBox": {
+                        "Width": 0.6910356879234314,
+                        "Height": 0.18722863495349884,
+                        "Left": 0.14938974380493164,
+                        "Top": 0.258806973695755
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e9a93193-aaa7-4eae-a4f6-4832f6ad9f31",
+                    "Score": 0.8231221437454224
+                }
+            ]
+        }
+    ]
+}

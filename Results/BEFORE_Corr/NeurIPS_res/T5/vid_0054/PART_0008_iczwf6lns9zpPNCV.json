@@ -1,0 +1,102 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,683",
+            "end_time": "00:00:07,806",
+            "transcript": "And to further evaporate the model's generalization ability, we carried out the experiment under the field-short setting.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,487",
+            "end_time": "00:00:22,213",
+            "transcript": "And we can find that with more data for training, the performance is greatly improved, especially on species with unique texture appearance and posture characteristics.",
+            "MatchedRegion": [
+                {
+                    "Text": "",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.03800833970308304,
+                        "Height": 0.06912845373153687,
+                        "Left": 0.6424387097358704,
+                        "Top": 0.005438857711851597
+                    },
+                    "Id": "5e1adf39-c332-44ec-ada0-a4422d2eca5f"
+                },
+                {
+                    "Text": "",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.03800903633236885,
+                        "Height": 0.07032357901334763,
+                        "Left": 0.6852298974990845,
+                        "Top": 0.005608941428363323
+                    },
+                    "Id": "aa327ad7-a07c-47ac-9a4c-f29f7bc359b3"
+                },
+                {
+                    "Text": "",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.028961341828107834,
+                        "Height": 0.057364098727703094,
+                        "Left": 0.7304356098175049,
+                        "Top": 0.014142477884888649
+                    },
+                    "Id": "5348f068-925a-4c54-a2f4-b8e6ba701e8b"
+                },
+                {
+                    "Text": "",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.02412862330675125,
+                        "Height": 0.036742258816957474,
+                        "Left": 0.8286867141723633,
+                        "Top": 0.02161414362490177
+                    },
+                    "Id": "1e5b5c4c-0e94-4f47-844e-72fcbcf9c02e"
+                },
+                {
+                    "Text": "",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.03620154783129692,
+                        "Height": 0.07149049639701843,
+                        "Left": 0.9016073942184448,
+                        "Top": 0.007903294637799263
+                    },
+                    "Id": "755aee89-3c44-4b52-a31c-72905b11f37c"
+                },
+                {
+                    "Text": "",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.10981389135122299,
+                        "Height": 0.19180446863174438,
+                        "Left": 0.8896798491477966,
+                        "Top": 0.8066347241401672
+                    },
+                    "Id": "8f2c87d1-a962-448b-8b04-eff6aefcf474"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,773",
+            "end_time": "00:00:28,476",
+            "transcript": "And we think it's because these unique characteristics are not shared in other species.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. With more data for training, the performance is greatly improved, especially on species with unique textures, appearance, and posture characteristics. It is because these unique characteristics are not shared in the training images of other species.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7416086792945862,
+                        "Height": 0.10053015500307083,
+                        "Left": 0.10738249868154526,
+                        "Top": 0.6027380228042603
+                    },
+                    "Id": "d2a1c891-cb4a-45d4-84f7-00d554046da7"
+                }
+            ]
+        }
+    ]
+}

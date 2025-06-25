@@ -1,0 +1,52 @@
+1
+00:00:01,170 --> 00:00:08,297
+So onto our approach, our divergence of choice is the reverse KL whose minimization may be viewed as an RL problem with rewards being the log distribution ratios.
+
+2
+00:00:08,778 --> 00:00:14,063
+Thus, given any estimate of the ratio, any RL algorithm can be used for solving the IL objective.
+
+3
+00:00:14,443 --> 00:00:18,467
+So a naive approach would be to train two density estimators, say flows independently.
+
+4
+00:00:18,988 --> 00:00:23,031
+Practically, this means alternating between learning them and using their log ratio as reward.
+
+5
+00:00:23,692 --> 00:00:24,672
+This fails when tried.
+
+6
+00:00:24,813 --> 00:00:26,013
+We'll see this again in the ablation.
+
+7
+00:00:26,373 --> 00:00:32,036
+And the failure can be further understood through what we term the BC graphs corresponding to an estimator for the log-distribution ratio.
+
+8
+00:00:32,696 --> 00:00:40,680
+The full description is in the paper, but intuitively, a lack of an upward trend implies failure in RL, which is precisely what occurs in the figure for the independent flows.
+
+9
+00:00:41,160 --> 00:00:43,081
+This connection is also formalized in the paper.
+
+10
+00:00:43,681 --> 00:00:45,902
+What we have here is a problem of out-of-distribution data.
+
+11
+00:00:45,982 --> 00:00:48,483
+The flow's values are meaningless when evaluated on each other's data.
+
+12
+00:00:48,844 --> 00:00:50,184
+We need to couple them somehow.
+
+13
+00:00:50,564 --> 00:00:51,725
+They must be coupled.
+

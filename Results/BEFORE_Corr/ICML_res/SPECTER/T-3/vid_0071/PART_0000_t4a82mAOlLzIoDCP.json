@@ -1,0 +1,241 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:08,652",
+            "end_time": "00:00:11,840",
+            "transcript": "Hi, this is Mingjie Li from Texas Shanghai Jiaotong University.",
+            "MatchedRegion": [
+                {
+                    "Text": "... TEXAS",
+                    "BoundingBox": {
+                        "Width": 0.042449597269296646,
+                        "Height": 0.07939491420984268,
+                        "Left": 0.02576763555407524,
+                        "Top": 0.020430292934179306
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a80bfc9c-6757-45a2-8024-e36a3dbc1287",
+                    "Score": 0.7184427976608276
+                },
+                {
+                    "Text": "tittle SHANGHAI JIAO TONG UNIVERSITY",
+                    "BoundingBox": {
+                        "Width": 0.11312136054039001,
+                        "Height": 0.063344307243824,
+                        "Left": 0.07548205554485321,
+                        "Top": 0.028896061703562737
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "3341116b-26c9-4b33-946a-9ba11381cbf2",
+                    "Score": 0.6640907526016235
+                },
+                {
+                    "Text": "Does a Neural Network Really Encode Symbolic Concepts?",
+                    "BoundingBox": {
+                        "Width": 0.5622848868370056,
+                        "Height": 0.15922236442565918,
+                        "Left": 0.22031673789024353,
+                        "Top": 0.2973114848136902
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "f8047d69-157d-454a-93ed-88e0f187d04c",
+                    "Score": 1.0000001192092896
+                },
+                {
+                    "Text": "Mingjie Li Quanshi Zhang+ Shanghai Jiao Tong University (+ Correspondence)",
+                    "BoundingBox": {
+                        "Width": 0.2540324330329895,
+                        "Height": 0.12096583098173141,
+                        "Left": 0.3724815845489502,
+                        "Top": 0.5598896145820618
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "74c38c19-a808-466c-a28a-3a7498575a47",
+                    "Score": 0.6076576709747314
+                },
+                {
+                    "Text": "40 Years",
+                    "BoundingBox": {
+                        "Width": 0.10137346386909485,
+                        "Height": 0.1674988865852356,
+                        "Left": 0.35627907514572144,
+                        "Top": 0.7588907480239868
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b944a6fa-1431-4e20-a02f-45ed72e5c3cd",
+                    "Score": 0.7353382110595703
+                },
+                {
+                    "Text": "ICML International Conference On Machine Learning",
+                    "BoundingBox": {
+                        "Width": 0.16945341229438782,
+                        "Height": 0.15620936453342438,
+                        "Left": 0.471285343170166,
+                        "Top": 0.7683349251747131
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5cacfbab-afac-48a3-b8f3-3bb6c3393a44",
+                    "Score": 0.7582767009735107
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,562",
+            "end_time": "00:00:14,506",
+            "transcript": "Today, I would like to share our work.",
+            "MatchedRegion": [
+                {
+                    "Text": "... TEXAS",
+                    "BoundingBox": {
+                        "Width": 0.042449597269296646,
+                        "Height": 0.07939491420984268,
+                        "Left": 0.02576763555407524,
+                        "Top": 0.020430292934179306
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a80bfc9c-6757-45a2-8024-e36a3dbc1287",
+                    "Score": 0.7184427976608276
+                },
+                {
+                    "Text": "tittle SHANGHAI JIAO TONG UNIVERSITY",
+                    "BoundingBox": {
+                        "Width": 0.11312136054039001,
+                        "Height": 0.063344307243824,
+                        "Left": 0.07548205554485321,
+                        "Top": 0.028896061703562737
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "3341116b-26c9-4b33-946a-9ba11381cbf2",
+                    "Score": 0.6640907526016235
+                },
+                {
+                    "Text": "Does a Neural Network Really Encode Symbolic Concepts?",
+                    "BoundingBox": {
+                        "Width": 0.5622848868370056,
+                        "Height": 0.15922236442565918,
+                        "Left": 0.22031673789024353,
+                        "Top": 0.2973114848136902
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "f8047d69-157d-454a-93ed-88e0f187d04c",
+                    "Score": 1.0000001192092896
+                },
+                {
+                    "Text": "Mingjie Li Quanshi Zhang+ Shanghai Jiao Tong University (+ Correspondence)",
+                    "BoundingBox": {
+                        "Width": 0.2540324330329895,
+                        "Height": 0.12096583098173141,
+                        "Left": 0.3724815845489502,
+                        "Top": 0.5598896145820618
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "74c38c19-a808-466c-a28a-3a7498575a47",
+                    "Score": 0.6076576709747314
+                },
+                {
+                    "Text": "40 Years",
+                    "BoundingBox": {
+                        "Width": 0.10137346386909485,
+                        "Height": 0.1674988865852356,
+                        "Left": 0.35627907514572144,
+                        "Top": 0.7588907480239868
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b944a6fa-1431-4e20-a02f-45ed72e5c3cd",
+                    "Score": 0.7353382110595703
+                },
+                {
+                    "Text": "ICML International Conference On Machine Learning",
+                    "BoundingBox": {
+                        "Width": 0.16945341229438782,
+                        "Height": 0.15620936453342438,
+                        "Left": 0.471285343170166,
+                        "Top": 0.7683349251747131
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5cacfbab-afac-48a3-b8f3-3bb6c3393a44",
+                    "Score": 0.7582767009735107
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,907",
+            "end_time": "00:00:17,915",
+            "transcript": "Does a neural network really encode symbolic concepts?",
+            "MatchedRegion": [
+                {
+                    "Text": "... TEXAS",
+                    "BoundingBox": {
+                        "Width": 0.042449597269296646,
+                        "Height": 0.07939491420984268,
+                        "Left": 0.02576763555407524,
+                        "Top": 0.020430292934179306
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a80bfc9c-6757-45a2-8024-e36a3dbc1287",
+                    "Score": 0.7184427976608276
+                },
+                {
+                    "Text": "tittle SHANGHAI JIAO TONG UNIVERSITY",
+                    "BoundingBox": {
+                        "Width": 0.11312136054039001,
+                        "Height": 0.063344307243824,
+                        "Left": 0.07548205554485321,
+                        "Top": 0.028896061703562737
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "3341116b-26c9-4b33-946a-9ba11381cbf2",
+                    "Score": 0.6640907526016235
+                },
+                {
+                    "Text": "Does a Neural Network Really Encode Symbolic Concepts?",
+                    "BoundingBox": {
+                        "Width": 0.5622848868370056,
+                        "Height": 0.15922236442565918,
+                        "Left": 0.22031673789024353,
+                        "Top": 0.2973114848136902
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "f8047d69-157d-454a-93ed-88e0f187d04c",
+                    "Score": 1.0000001192092896
+                },
+                {
+                    "Text": "Mingjie Li Quanshi Zhang+ Shanghai Jiao Tong University (+ Correspondence)",
+                    "BoundingBox": {
+                        "Width": 0.2540324330329895,
+                        "Height": 0.12096583098173141,
+                        "Left": 0.3724815845489502,
+                        "Top": 0.5598896145820618
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "74c38c19-a808-466c-a28a-3a7498575a47",
+                    "Score": 0.6076576709747314
+                },
+                {
+                    "Text": "40 Years",
+                    "BoundingBox": {
+                        "Width": 0.10137346386909485,
+                        "Height": 0.1674988865852356,
+                        "Left": 0.35627907514572144,
+                        "Top": 0.7588907480239868
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b944a6fa-1431-4e20-a02f-45ed72e5c3cd",
+                    "Score": 0.7353382110595703
+                },
+                {
+                    "Text": "ICML International Conference On Machine Learning",
+                    "BoundingBox": {
+                        "Width": 0.16945341229438782,
+                        "Height": 0.15620936453342438,
+                        "Left": 0.471285343170166,
+                        "Top": 0.7683349251747131
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5cacfbab-afac-48a3-b8f3-3bb6c3393a44",
+                    "Score": 0.7582767009735107
+                }
+            ]
+        }
+    ]
+}

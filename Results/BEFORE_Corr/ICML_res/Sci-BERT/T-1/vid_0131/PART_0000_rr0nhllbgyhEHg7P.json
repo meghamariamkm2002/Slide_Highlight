@@ -1,0 +1,54 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:08,649",
+            "end_time": "00:00:10,610",
+            "transcript": "Hello everyone, this is Jianing Zhu.",
+            "MatchedRegion": [
+                {
+                    "Text": "Alibaba Group",
+                    "BoundingBox": {
+                        "Width": 0.09124702960252762,
+                        "Height": 0.05502626299858093,
+                        "Left": 0.5983602404594421,
+                        "Top": 0.7771309614181519
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ccf4191f-06e1-4583-8eff-e96b870db82a",
+                    "Score": 0.6332536935806274
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,231",
+            "end_time": "00:00:17,895",
+            "transcript": "I will present our research work, namely exploring model dynamics for accumulative poisoning discovery.",
+            "MatchedRegion": [
+                {
+                    "Text": "DEPARTMENT OF COMPUTER SCIENCE HONG KONG BAPTIST UNIVERSITY in R",
+                    "BoundingBox": {
+                        "Width": 0.10108351707458496,
+                        "Height": 0.04949953407049179,
+                        "Left": 0.4915136992931366,
+                        "Top": 0.781404972076416
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d8b263d6-1aca-4806-8a20-a8e8194ce692",
+                    "Score": 0.6082203984260559
+                },
+                {
+                    "Text": "Alibaba Group",
+                    "BoundingBox": {
+                        "Width": 0.09124702960252762,
+                        "Height": 0.05502626299858093,
+                        "Left": 0.5983602404594421,
+                        "Top": 0.7771309614181519
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ccf4191f-06e1-4583-8eff-e96b870db82a",
+                    "Score": 0.6332536935806274
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+WEBVTT
+
+00:02.210 --> 00:13.454
+Our work is motivated by accumulative point-in-the-ring attack, which utilizes the sequential order property of real-time data streaming for sneaky point-in-the-ring generation.
+
+00:14.414 --> 00:15.855
+We raised the following question.
+
+00:16.455 --> 00:25.938
+Can we also explore the information of modal dynamics to gain some useful clues to identify the imperceptible accumulative point-in-the-ring attacks?
+

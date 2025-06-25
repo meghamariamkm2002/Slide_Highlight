@@ -1,0 +1,245 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:01,729",
+            "end_time": "00:00:09,051",
+            "transcript": "We collect COVID-19 related tweets ranging from February 1, 2020 to September 30, 2021.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,991",
+            "end_time": "00:00:15,972",
+            "transcript": "For data pre-processing, we first remove non-English tweets and retweets.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,733",
+            "end_time": "00:00:19,493",
+            "transcript": "Then we filter out the tweets containing URLs.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:20,193",
+            "end_time": "00:00:27,095",
+            "transcript": "Afterwards, we use a list of symptoms as keywords to match the tweets to extract medical-related tweets.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:28,499",
+            "end_time": "00:00:31,341",
+            "transcript": "Finally, 10,000 tweets are annotated.",
+            "MatchedRegion": [
+                {
+                    "Text": "10000 tweets are annotated",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.149104505777359,
+                        "Height": 0.017682475969195366,
+                        "Left": 0.6870322823524475,
+                        "Top": 0.4061446785926819
+                    },
+                    "Id": "0c0cc647-beea-4620-9ea2-476286cb8f64"
+                },
+                {
+                    "Text": "6000 are randomly sampled",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.14772169291973114,
+                        "Height": 0.021494193002581596,
+                        "Left": 0.7003564238548279,
+                        "Top": 0.439775675535202
+                    },
+                    "Id": "e4274bb9-114f-43a3-b2d9-21ea0d44f2dd"
+                },
+                {
+                    "Text": "4000 are from the model labeled data (manually checked)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.19823044538497925,
+                        "Height": 0.04447022080421448,
+                        "Left": 0.7003647089004517,
+                        "Top": 0.4724932610988617
+                    },
+                    "Id": "6de60e04-6c07-4f58-8d3e-2aa10197c582"
+                },
+                {
+                    "Text": "Define entity types",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.10197092592716217,
+                        "Height": 0.02161947637796402,
+                        "Left": 0.6864823698997498,
+                        "Top": 0.5283363461494446
+                    },
+                    "Id": "22bcd475-4252-4bfc-a9d0-b7d877875708"
+                },
+                {
+                    "Text": "3 general entity types: Person, Location, and Organization",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.2295679748058319,
+                        "Height": 0.0438886359333992,
+                        "Left": 0.7003873586654663,
+                        "Top": 0.5622272491455078
+                    },
+                    "Id": "dd923854-e33c-4865-8f2f-0e3dfbad44a9"
+                },
+                {
+                    "Text": "4 medical entity types: Disease, Drug, Symptom, and Vaccine",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1954348385334015,
+                        "Height": 0.04382138326764107,
+                        "Left": 0.7004013061523438,
+                        "Top": 0.6175568699836731
+                    },
+                    "Id": "b7dcabf8-f6da-4914-a017-0bcf75899e8f"
+                },
+                {
+                    "Text": "Define target entities for TSA",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.15191768109798431,
+                        "Height": 0.02166801318526268,
+                        "Left": 0.6870958209037781,
+                        "Top": 0.6730179786682129
+                    },
+                    "Id": "98b4a9cd-d84f-43d0-b411-06e0ac86dc11"
+                },
+                {
+                    "Text": "Person, Organization, Drug, and Vaccine",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.20915894210338593,
+                        "Height": 0.022029489278793335,
+                        "Left": 0.6998447179794312,
+                        "Top": 0.7068496942520142
+                    },
+                    "Id": "3b1bb73d-3125-4e2c-9566-ec0aea693688"
+                },
+                {
+                    "Text": "Annotation Tool: YEDDA (Yang et al., 2018)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.22199799120426178,
+                        "Height": 0.022183239459991455,
+                        "Left": 0.6859534382820129,
+                        "Top": 0.7397775650024414
+                    },
+                    "Id": "e20708f2-3765-4d35-9924-050153430459"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:32,102",
+            "end_time": "00:00:39,026",
+            "transcript": "Among them, 6000 are randomly sampled, and the other 4000 are from the model labeled data.",
+            "MatchedRegion": [
+                {
+                    "Text": "6000 are randomly sampled",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.14772169291973114,
+                        "Height": 0.021494193002581596,
+                        "Left": 0.7003564238548279,
+                        "Top": 0.439775675535202
+                    },
+                    "Id": "e4274bb9-114f-43a3-b2d9-21ea0d44f2dd"
+                },
+                {
+                    "Text": "4000 are from the model labeled data (manually checked)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.19823044538497925,
+                        "Height": 0.04447022080421448,
+                        "Left": 0.7003647089004517,
+                        "Top": 0.4724932610988617
+                    },
+                    "Id": "6de60e04-6c07-4f58-8d3e-2aa10197c582"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:39,667",
+            "end_time": "00:00:41,248",
+            "transcript": "All of them are manually checked.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:42,229",
+            "end_time": "00:00:46,532",
+            "transcript": "We define seven entity types based on public health research needs.",
+            "MatchedRegion": [
+                {
+                    "Text": "2.1 Dataset Construction",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.2554433345794678,
+                        "Height": 0.03271994739770889,
+                        "Left": 0.027060657739639282,
+                        "Top": 0.14162656664848328
+                    },
+                    "Id": "48fa40da-03ed-4008-95d3-481a9a1e2fcf"
+                },
+                {
+                    "Text": "Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020a. Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set. JMIR Public Health Surveill 6, 2 (29 May 2020), e19273. Jie Yang, Yue Zhang, Linwei Li, and Xingxuan Li. 2018b. YEDDA: A Lightweight Collaborative Text Span Annotation Tool. In Proceedings of ACL 2018, System Demonstrations Association for Computational Linguistics, Melbourne,",
+                    "BlockType": "LAYOUT_FOOTER",
+                    "BoundingBox": {
+                        "Width": 0.8718993663787842,
+                        "Height": 0.03513317555189133,
+                        "Left": 0.0021501430310308933,
+                        "Top": 0.9279828071594238
+                    },
+                    "Id": "08f8a0a6-6d89-4738-af0f-55d1c40392ca"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:47,333",
+            "end_time": "00:00:52,260",
+            "transcript": "including three general entity types and four medical entity types for annotation.",
+            "MatchedRegion": [
+                {
+                    "Text": "4 medical entity types: Disease, Drug, Symptom, and Vaccine",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1954348385334015,
+                        "Height": 0.04382138326764107,
+                        "Left": 0.7004013061523438,
+                        "Top": 0.6175568699836731
+                    },
+                    "Id": "b7dcabf8-f6da-4914-a017-0bcf75899e8f"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:53,221",
+            "end_time": "00:01:02,955",
+            "transcript": "In particular, we select four entity types for additional sentiment annotation with three types of sentiment labels, positive, negative, neutral.",
+            "MatchedRegion": [
+                {
+                    "Text": "4 medical entity types: Disease, Drug, Symptom, and Vaccine",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1954348385334015,
+                        "Height": 0.04382138326764107,
+                        "Left": 0.7004013061523438,
+                        "Top": 0.6175568699836731
+                    },
+                    "Id": "b7dcabf8-f6da-4914-a017-0bcf75899e8f"
+                },
+                {
+                    "Text": "Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020a. Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set. JMIR Public Health Surveill 6, 2 (29 May 2020), e19273. Jie Yang, Yue Zhang, Linwei Li, and Xingxuan Li. 2018b. YEDDA: A Lightweight Collaborative Text Span Annotation Tool. In Proceedings of ACL 2018, System Demonstrations Association for Computational Linguistics, Melbourne,",
+                    "BlockType": "LAYOUT_FOOTER",
+                    "BoundingBox": {
+                        "Width": 0.8718993663787842,
+                        "Height": 0.03513317555189133,
+                        "Left": 0.0021501430310308933,
+                        "Top": 0.9279828071594238
+                    },
+                    "Id": "08f8a0a6-6d89-4738-af0f-55d1c40392ca"
+                }
+            ]
+        }
+    ]
+}

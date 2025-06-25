@@ -1,0 +1,8 @@
+1
+00:00:01,590 --> 00:00:09,756
+There has been a lot of works aiming to explain concepts encoded by DNNs, including network dissection, TCIV, and so on.
+
+2
+00:00:10,677 --> 00:00:17,442
+However, these methods usually lack a mathematical framework to objectively formulate concepts encoded by a DNN.
+

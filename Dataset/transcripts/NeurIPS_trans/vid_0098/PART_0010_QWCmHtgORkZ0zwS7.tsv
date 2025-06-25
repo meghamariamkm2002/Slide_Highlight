@@ -1,0 +1,5 @@
+start	end	text
+1030	9634	In our experiments, the evaluated UDA methods achieved a maximum accuracy gain of around 4% and high positives and negative rates.
+10435	15978	This shows that the methods are not able to achieve comparable results to the supervised baselines.
+16778	23705	Furthermore, we observe force-positive and force-negative rates increase significantly on the multi-target task of Moulin.
+24246	32995	We want to emphasize that force-positive and force-negatives represent strongly detected and missing lanes, which can lead to crucial impacts on autonomous driving.

@@ -1,0 +1,1274 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,729",
+            "end_time": "00:00:09,051",
+            "transcript": "We collect COVID-19 related tweets ranging from February 1, 2020 to September 30, 2021.",
+            "MatchedRegion": [
+                {
+                    "Text": "2 The METS-CoV Dataset",
+                    "BoundingBox": {
+                        "Width": 0.310913622379303,
+                        "Height": 0.038440849632024765,
+                        "Left": 0.02732497826218605,
+                        "Top": 0.05063067376613617
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "cda94339-ccaf-4598-9012-6670e580c6c0",
+                    "Score": 0.8553130626678467
+                },
+                {
+                    "Text": "LIIE",
+                    "BoundingBox": {
+                        "Width": 0.05749114975333214,
+                        "Height": 0.10537206381559372,
+                        "Left": 0.13573531806468964,
+                        "Top": 0.24341222643852234
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4e0eb9c-e1ed-48a8-931a-a6136e7d84ec",
+                    "Score": 0.6700669527053833
+                },
+                {
+                    "Text": "Data source: Tweet ID came from an open-source database (Chen et al., 2020a).",
+                    "BoundingBox": {
+                        "Width": 0.16209134459495544,
+                        "Height": 0.07452590018510818,
+                        "Left": 0.07907459139823914,
+                        "Top": 0.4392561912536621
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1c1482a2-31c8-44c9-94f3-a6014b35c329",
+                    "Score": 0.8994628190994263
+                },
+                {
+                    "Text": "Time range: February 1, 2020 to September 30, 2021.",
+                    "BoundingBox": {
+                        "Width": 0.15574431419372559,
+                        "Height": 0.04795287549495697,
+                        "Left": 0.07947766780853271,
+                        "Top": 0.5413461327552795
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "46af1bdf-6e32-4e20-9b54-3ab3bbb38479",
+                    "Score": 0.8371443152427673
+                },
+                {
+                    "Text": "All the tweets are downloaded following Twitter's automation rules and data security policy.",
+                    "BoundingBox": {
+                        "Width": 0.16197967529296875,
+                        "Height": 0.0757434293627739,
+                        "Left": 0.07972468435764313,
+                        "Top": 0.6165140271186829
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bfd50720-430c-43f9-b881-c1af40963035",
+                    "Score": 0.8369905948638916
+                },
+                {
+                    "Text": "Remove non-English tweets and retweets.",
+                    "BoundingBox": {
+                        "Width": 0.16869069635868073,
+                        "Height": 0.04516444727778435,
+                        "Left": 0.3717837631702423,
+                        "Top": 0.4444856643676758
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9913dbff-e0b8-46b1-8a4f-4139d0d5fcd9",
+                    "Score": 0.912705659866333
+                },
+                {
+                    "Text": "Filter out the tweets containing URLs",
+                    "BoundingBox": {
+                        "Width": 0.19288891553878784,
+                        "Height": 0.021380383521318436,
+                        "Left": 0.37235763669013977,
+                        "Top": 0.5201967358589172
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cef20d93-bb5f-4727-ba7b-6585aed69dc4",
+                    "Score": 0.8951531648635864
+                },
+                {
+                    "Text": "Use a list of symptoms as keywords to match the tweets to extract medical- related tweets.",
+                    "BoundingBox": {
+                        "Width": 0.19922928512096405,
+                        "Height": 0.07126179337501526,
+                        "Left": 0.37176868319511414,
+                        "Top": 0.5692128539085388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f15a974b-6529-492a-9b39-31c58ed23afc",
+                    "Score": 0.8443852066993713
+                },
+                {
+                    "Text": "10000 tweets are annotated",
+                    "BoundingBox": {
+                        "Width": 0.149104505777359,
+                        "Height": 0.017682475969195366,
+                        "Left": 0.6870322823524475,
+                        "Top": 0.4061446785926819
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0c0cc647-beea-4620-9ea2-476286cb8f64",
+                    "Score": 0.9158667325973511
+                },
+                {
+                    "Text": "Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020a. Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set. JMIR Public Health Surveill 6, 2 (29 May 2020), e19273. Jie Yang, Yue Zhang, Linwei Li, and Xingxuan Li. 2018b. YEDDA: A Lightweight Collaborative Text Span Annotation Tool. In Proceedings of ACL 2018, System Demonstrations Association for Computational Linguistics, Melbourne,",
+                    "BoundingBox": {
+                        "Width": 0.8718993663787842,
+                        "Height": 0.03513317555189133,
+                        "Left": 0.0021501430310308933,
+                        "Top": 0.9279828071594238
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "08f8a0a6-6d89-4738-af0f-55d1c40392ca",
+                    "Score": 0.8570237159729004
+                },
+                {
+                    "Text": "Australia 31-36. P18-4006 cc N",
+                    "BoundingBox": {
+                        "Width": 0.10224445909261703,
+                        "Height": 0.0334625244140625,
+                        "Left": 0.0021932811941951513,
+                        "Top": 0.9636516571044922
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "319b728f-4439-4ee0-b80e-95241342e1fa",
+                    "Score": 0.7547170519828796
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,991",
+            "end_time": "00:00:15,972",
+            "transcript": "For data preprocessing, we first remove non-English tweets and retweets.",
+            "MatchedRegion": [
+                {
+                    "Text": "2.1 Dataset Construction",
+                    "BoundingBox": {
+                        "Width": 0.2554433345794678,
+                        "Height": 0.03271994739770889,
+                        "Left": 0.027060657739639282,
+                        "Top": 0.14162656664848328
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "48fa40da-03ed-4008-95d3-481a9a1e2fcf",
+                    "Score": 0.8024640083312988
+                },
+                {
+                    "Text": "LIIE",
+                    "BoundingBox": {
+                        "Width": 0.05749114975333214,
+                        "Height": 0.10537206381559372,
+                        "Left": 0.13573531806468964,
+                        "Top": 0.24341222643852234
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4e0eb9c-e1ed-48a8-931a-a6136e7d84ec",
+                    "Score": 0.6700669527053833
+                },
+                {
+                    "Text": "Data Pre-processing",
+                    "BoundingBox": {
+                        "Width": 0.1542317122220993,
+                        "Height": 0.030024243518710136,
+                        "Left": 0.38748106360435486,
+                        "Top": 0.36402466893196106
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6db278a2-4730-4eb5-95fd-ceff6fb47049",
+                    "Score": 0.9077309370040894
+                },
+                {
+                    "Text": "Data source: Tweet ID came from an open-source database (Chen et al., 2020a).",
+                    "BoundingBox": {
+                        "Width": 0.16209134459495544,
+                        "Height": 0.07452590018510818,
+                        "Left": 0.07907459139823914,
+                        "Top": 0.4392561912536621
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1c1482a2-31c8-44c9-94f3-a6014b35c329",
+                    "Score": 0.8994628190994263
+                },
+                {
+                    "Text": "All the tweets are downloaded following Twitter's automation rules and data security policy.",
+                    "BoundingBox": {
+                        "Width": 0.16197967529296875,
+                        "Height": 0.0757434293627739,
+                        "Left": 0.07972468435764313,
+                        "Top": 0.6165140271186829
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bfd50720-430c-43f9-b881-c1af40963035",
+                    "Score": 0.8369905948638916
+                },
+                {
+                    "Text": "Remove non-English tweets and retweets.",
+                    "BoundingBox": {
+                        "Width": 0.16869069635868073,
+                        "Height": 0.04516444727778435,
+                        "Left": 0.3717837631702423,
+                        "Top": 0.4444856643676758
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9913dbff-e0b8-46b1-8a4f-4139d0d5fcd9",
+                    "Score": 0.912705659866333
+                },
+                {
+                    "Text": "Filter out the tweets containing URLs",
+                    "BoundingBox": {
+                        "Width": 0.19288891553878784,
+                        "Height": 0.021380383521318436,
+                        "Left": 0.37235763669013977,
+                        "Top": 0.5201967358589172
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cef20d93-bb5f-4727-ba7b-6585aed69dc4",
+                    "Score": 0.8951531648635864
+                },
+                {
+                    "Text": "Use a list of symptoms as keywords to match the tweets to extract medical- related tweets.",
+                    "BoundingBox": {
+                        "Width": 0.19922928512096405,
+                        "Height": 0.07126179337501526,
+                        "Left": 0.37176868319511414,
+                        "Top": 0.5692128539085388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f15a974b-6529-492a-9b39-31c58ed23afc",
+                    "Score": 0.8443852066993713
+                },
+                {
+                    "Text": "10000 tweets are annotated",
+                    "BoundingBox": {
+                        "Width": 0.149104505777359,
+                        "Height": 0.017682475969195366,
+                        "Left": 0.6870322823524475,
+                        "Top": 0.4061446785926819
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0c0cc647-beea-4620-9ea2-476286cb8f64",
+                    "Score": 0.9158667325973511
+                },
+                {
+                    "Text": "Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020a. Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set. JMIR Public Health Surveill 6, 2 (29 May 2020), e19273. Jie Yang, Yue Zhang, Linwei Li, and Xingxuan Li. 2018b. YEDDA: A Lightweight Collaborative Text Span Annotation Tool. In Proceedings of ACL 2018, System Demonstrations Association for Computational Linguistics, Melbourne,",
+                    "BoundingBox": {
+                        "Width": 0.8718993663787842,
+                        "Height": 0.03513317555189133,
+                        "Left": 0.0021501430310308933,
+                        "Top": 0.9279828071594238
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "08f8a0a6-6d89-4738-af0f-55d1c40392ca",
+                    "Score": 0.8570237159729004
+                },
+                {
+                    "Text": "Australia 31-36. P18-4006 cc N",
+                    "BoundingBox": {
+                        "Width": 0.10224445909261703,
+                        "Height": 0.0334625244140625,
+                        "Left": 0.0021932811941951513,
+                        "Top": 0.9636516571044922
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "319b728f-4439-4ee0-b80e-95241342e1fa",
+                    "Score": 0.7547170519828796
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,733",
+            "end_time": "00:00:19,493",
+            "transcript": "Then we filter out the tweets containing URL.",
+            "MatchedRegion": [
+                {
+                    "Text": "LIIE",
+                    "BoundingBox": {
+                        "Width": 0.05749114975333214,
+                        "Height": 0.10537206381559372,
+                        "Left": 0.13573531806468964,
+                        "Top": 0.24341222643852234
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4e0eb9c-e1ed-48a8-931a-a6136e7d84ec",
+                    "Score": 0.6700669527053833
+                },
+                {
+                    "Text": "Data source: Tweet ID came from an open-source database (Chen et al., 2020a).",
+                    "BoundingBox": {
+                        "Width": 0.16209134459495544,
+                        "Height": 0.07452590018510818,
+                        "Left": 0.07907459139823914,
+                        "Top": 0.4392561912536621
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1c1482a2-31c8-44c9-94f3-a6014b35c329",
+                    "Score": 0.8994628190994263
+                },
+                {
+                    "Text": "All the tweets are downloaded following Twitter's automation rules and data security policy.",
+                    "BoundingBox": {
+                        "Width": 0.16197967529296875,
+                        "Height": 0.0757434293627739,
+                        "Left": 0.07972468435764313,
+                        "Top": 0.6165140271186829
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bfd50720-430c-43f9-b881-c1af40963035",
+                    "Score": 0.8369905948638916
+                },
+                {
+                    "Text": "Remove non-English tweets and retweets.",
+                    "BoundingBox": {
+                        "Width": 0.16869069635868073,
+                        "Height": 0.04516444727778435,
+                        "Left": 0.3717837631702423,
+                        "Top": 0.4444856643676758
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9913dbff-e0b8-46b1-8a4f-4139d0d5fcd9",
+                    "Score": 0.912705659866333
+                },
+                {
+                    "Text": "Filter out the tweets containing URLs",
+                    "BoundingBox": {
+                        "Width": 0.19288891553878784,
+                        "Height": 0.021380383521318436,
+                        "Left": 0.37235763669013977,
+                        "Top": 0.5201967358589172
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cef20d93-bb5f-4727-ba7b-6585aed69dc4",
+                    "Score": 0.8951531648635864
+                },
+                {
+                    "Text": "Use a list of symptoms as keywords to match the tweets to extract medical- related tweets.",
+                    "BoundingBox": {
+                        "Width": 0.19922928512096405,
+                        "Height": 0.07126179337501526,
+                        "Left": 0.37176868319511414,
+                        "Top": 0.5692128539085388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f15a974b-6529-492a-9b39-31c58ed23afc",
+                    "Score": 0.8443852066993713
+                },
+                {
+                    "Text": "Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020a. Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set. JMIR Public Health Surveill 6, 2 (29 May 2020), e19273. Jie Yang, Yue Zhang, Linwei Li, and Xingxuan Li. 2018b. YEDDA: A Lightweight Collaborative Text Span Annotation Tool. In Proceedings of ACL 2018, System Demonstrations Association for Computational Linguistics, Melbourne,",
+                    "BoundingBox": {
+                        "Width": 0.8718993663787842,
+                        "Height": 0.03513317555189133,
+                        "Left": 0.0021501430310308933,
+                        "Top": 0.9279828071594238
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "08f8a0a6-6d89-4738-af0f-55d1c40392ca",
+                    "Score": 0.8570237159729004
+                },
+                {
+                    "Text": "Australia 31-36. P18-4006 cc N",
+                    "BoundingBox": {
+                        "Width": 0.10224445909261703,
+                        "Height": 0.0334625244140625,
+                        "Left": 0.0021932811941951513,
+                        "Top": 0.9636516571044922
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "319b728f-4439-4ee0-b80e-95241342e1fa",
+                    "Score": 0.7547170519828796
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,193",
+            "end_time": "00:00:27,095",
+            "transcript": "Afterwards, we use a list of symptoms as keywords to match the tweets to extract medical related tweets.",
+            "MatchedRegion": [
+                {
+                    "Text": "LIIE",
+                    "BoundingBox": {
+                        "Width": 0.05749114975333214,
+                        "Height": 0.10537206381559372,
+                        "Left": 0.13573531806468964,
+                        "Top": 0.24341222643852234
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4e0eb9c-e1ed-48a8-931a-a6136e7d84ec",
+                    "Score": 0.6700669527053833
+                },
+                {
+                    "Text": "Data source: Tweet ID came from an open-source database (Chen et al., 2020a).",
+                    "BoundingBox": {
+                        "Width": 0.16209134459495544,
+                        "Height": 0.07452590018510818,
+                        "Left": 0.07907459139823914,
+                        "Top": 0.4392561912536621
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1c1482a2-31c8-44c9-94f3-a6014b35c329",
+                    "Score": 0.8994628190994263
+                },
+                {
+                    "Text": "All the tweets are downloaded following Twitter's automation rules and data security policy.",
+                    "BoundingBox": {
+                        "Width": 0.16197967529296875,
+                        "Height": 0.0757434293627739,
+                        "Left": 0.07972468435764313,
+                        "Top": 0.6165140271186829
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bfd50720-430c-43f9-b881-c1af40963035",
+                    "Score": 0.8369905948638916
+                },
+                {
+                    "Text": "Remove non-English tweets and retweets.",
+                    "BoundingBox": {
+                        "Width": 0.16869069635868073,
+                        "Height": 0.04516444727778435,
+                        "Left": 0.3717837631702423,
+                        "Top": 0.4444856643676758
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9913dbff-e0b8-46b1-8a4f-4139d0d5fcd9",
+                    "Score": 0.912705659866333
+                },
+                {
+                    "Text": "Filter out the tweets containing URLs",
+                    "BoundingBox": {
+                        "Width": 0.19288891553878784,
+                        "Height": 0.021380383521318436,
+                        "Left": 0.37235763669013977,
+                        "Top": 0.5201967358589172
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cef20d93-bb5f-4727-ba7b-6585aed69dc4",
+                    "Score": 0.8951531648635864
+                },
+                {
+                    "Text": "Use a list of symptoms as keywords to match the tweets to extract medical- related tweets.",
+                    "BoundingBox": {
+                        "Width": 0.19922928512096405,
+                        "Height": 0.07126179337501526,
+                        "Left": 0.37176868319511414,
+                        "Top": 0.5692128539085388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f15a974b-6529-492a-9b39-31c58ed23afc",
+                    "Score": 0.8443852066993713
+                },
+                {
+                    "Text": "Australia 31-36. P18-4006 cc N",
+                    "BoundingBox": {
+                        "Width": 0.10224445909261703,
+                        "Height": 0.0334625244140625,
+                        "Left": 0.0021932811941951513,
+                        "Top": 0.9636516571044922
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "319b728f-4439-4ee0-b80e-95241342e1fa",
+                    "Score": 0.7547170519828796
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:28,499",
+            "end_time": "00:00:31,341",
+            "transcript": "Finally, 10,000 tweets are annotated.",
+            "MatchedRegion": [
+                {
+                    "Text": "2 The METS-CoV Dataset",
+                    "BoundingBox": {
+                        "Width": 0.310913622379303,
+                        "Height": 0.038440849632024765,
+                        "Left": 0.02732497826218605,
+                        "Top": 0.05063067376613617
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "cda94339-ccaf-4598-9012-6670e580c6c0",
+                    "Score": 0.8553130626678467
+                },
+                {
+                    "Text": "2.1 Dataset Construction",
+                    "BoundingBox": {
+                        "Width": 0.2554433345794678,
+                        "Height": 0.03271994739770889,
+                        "Left": 0.027060657739639282,
+                        "Top": 0.14162656664848328
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "48fa40da-03ed-4008-95d3-481a9a1e2fcf",
+                    "Score": 0.8024640083312988
+                },
+                {
+                    "Text": "LIIE",
+                    "BoundingBox": {
+                        "Width": 0.05749114975333214,
+                        "Height": 0.10537206381559372,
+                        "Left": 0.13573531806468964,
+                        "Top": 0.24341222643852234
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4e0eb9c-e1ed-48a8-931a-a6136e7d84ec",
+                    "Score": 0.6700669527053833
+                },
+                {
+                    "Text": "Data Collection",
+                    "BoundingBox": {
+                        "Width": 0.11730097979307175,
+                        "Height": 0.025178104639053345,
+                        "Left": 0.10146867483854294,
+                        "Top": 0.3671727776527405
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f6d57741-498a-4f8e-94ab-8feb6496cc13",
+                    "Score": 0.8412784337997437
+                },
+                {
+                    "Text": "Data Pre-processing",
+                    "BoundingBox": {
+                        "Width": 0.1542317122220993,
+                        "Height": 0.030024243518710136,
+                        "Left": 0.38748106360435486,
+                        "Top": 0.36402466893196106
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6db278a2-4730-4eb5-95fd-ceff6fb47049",
+                    "Score": 0.9077309370040894
+                },
+                {
+                    "Text": "Data Annotation",
+                    "BoundingBox": {
+                        "Width": 0.12791459262371063,
+                        "Height": 0.02500941976904869,
+                        "Left": 0.7549020051956177,
+                        "Top": 0.35789746046066284
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2fc4d633-5f9c-4591-a973-a6013a9bf53b",
+                    "Score": 0.8479282259941101
+                },
+                {
+                    "Text": "Data source: Tweet ID came from an open-source database (Chen et al., 2020a).",
+                    "BoundingBox": {
+                        "Width": 0.16209134459495544,
+                        "Height": 0.07452590018510818,
+                        "Left": 0.07907459139823914,
+                        "Top": 0.4392561912536621
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1c1482a2-31c8-44c9-94f3-a6014b35c329",
+                    "Score": 0.8994628190994263
+                },
+                {
+                    "Text": "Time range: February 1, 2020 to September 30, 2021.",
+                    "BoundingBox": {
+                        "Width": 0.15574431419372559,
+                        "Height": 0.04795287549495697,
+                        "Left": 0.07947766780853271,
+                        "Top": 0.5413461327552795
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "46af1bdf-6e32-4e20-9b54-3ab3bbb38479",
+                    "Score": 0.8371443152427673
+                },
+                {
+                    "Text": "All the tweets are downloaded following Twitter's automation rules and data security policy.",
+                    "BoundingBox": {
+                        "Width": 0.16197967529296875,
+                        "Height": 0.0757434293627739,
+                        "Left": 0.07972468435764313,
+                        "Top": 0.6165140271186829
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bfd50720-430c-43f9-b881-c1af40963035",
+                    "Score": 0.8369905948638916
+                },
+                {
+                    "Text": "Remove non-English tweets and retweets.",
+                    "BoundingBox": {
+                        "Width": 0.16869069635868073,
+                        "Height": 0.04516444727778435,
+                        "Left": 0.3717837631702423,
+                        "Top": 0.4444856643676758
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9913dbff-e0b8-46b1-8a4f-4139d0d5fcd9",
+                    "Score": 0.912705659866333
+                },
+                {
+                    "Text": "Filter out the tweets containing URLs",
+                    "BoundingBox": {
+                        "Width": 0.19288891553878784,
+                        "Height": 0.021380383521318436,
+                        "Left": 0.37235763669013977,
+                        "Top": 0.5201967358589172
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cef20d93-bb5f-4727-ba7b-6585aed69dc4",
+                    "Score": 0.8951531648635864
+                },
+                {
+                    "Text": "Use a list of symptoms as keywords to match the tweets to extract medical- related tweets.",
+                    "BoundingBox": {
+                        "Width": 0.19922928512096405,
+                        "Height": 0.07126179337501526,
+                        "Left": 0.37176868319511414,
+                        "Top": 0.5692128539085388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f15a974b-6529-492a-9b39-31c58ed23afc",
+                    "Score": 0.8443852066993713
+                },
+                {
+                    "Text": "10000 tweets are annotated",
+                    "BoundingBox": {
+                        "Width": 0.149104505777359,
+                        "Height": 0.017682475969195366,
+                        "Left": 0.6870322823524475,
+                        "Top": 0.4061446785926819
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0c0cc647-beea-4620-9ea2-476286cb8f64",
+                    "Score": 0.9158667325973511
+                },
+                {
+                    "Text": "3 general entity types: Person, Location, and Organization",
+                    "BoundingBox": {
+                        "Width": 0.2295679748058319,
+                        "Height": 0.0438886359333992,
+                        "Left": 0.7003873586654663,
+                        "Top": 0.5622272491455078
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dd923854-e33c-4865-8f2f-0e3dfbad44a9",
+                    "Score": 0.82084721326828
+                },
+                {
+                    "Text": "Annotation Tool: YEDDA (Yang et al., 2018)",
+                    "BoundingBox": {
+                        "Width": 0.22199799120426178,
+                        "Height": 0.022183239459991455,
+                        "Left": 0.6859534382820129,
+                        "Top": 0.7397775650024414
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e20708f2-3765-4d35-9924-050153430459",
+                    "Score": 0.82090163230896
+                },
+                {
+                    "Text": "Emily Chen, Kristina Lerman, and Emilio Ferrara. 2020a. Tracking Social Media Discourse About the COVID-19 Pandemic: Development of a Public Coronavirus Twitter Data Set. JMIR Public Health Surveill 6, 2 (29 May 2020), e19273. Jie Yang, Yue Zhang, Linwei Li, and Xingxuan Li. 2018b. YEDDA: A Lightweight Collaborative Text Span Annotation Tool. In Proceedings of ACL 2018, System Demonstrations Association for Computational Linguistics, Melbourne,",
+                    "BoundingBox": {
+                        "Width": 0.8718993663787842,
+                        "Height": 0.03513317555189133,
+                        "Left": 0.0021501430310308933,
+                        "Top": 0.9279828071594238
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "08f8a0a6-6d89-4738-af0f-55d1c40392ca",
+                    "Score": 0.8570237159729004
+                },
+                {
+                    "Text": "Australia 31-36. P18-4006 cc N",
+                    "BoundingBox": {
+                        "Width": 0.10224445909261703,
+                        "Height": 0.0334625244140625,
+                        "Left": 0.0021932811941951513,
+                        "Top": 0.9636516571044922
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "319b728f-4439-4ee0-b80e-95241342e1fa",
+                    "Score": 0.7547170519828796
+                },
+                {
+                    "Text": "4",
+                    "BoundingBox": {
+                        "Width": 0.007128675002604723,
+                        "Height": 0.016778182238340378,
+                        "Left": 0.9164645671844482,
+                        "Top": 0.9443241357803345
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "fe6bf24e-935a-4568-9d77-6f83ec8404bf",
+                    "Score": 0.8742883801460266
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:32,102",
+            "end_time": "00:00:39,026",
+            "transcript": "Among them, 6,000 are randomly sampled, and the other 4,000 are from the model label data.",
+            "MatchedRegion": [
+                {
+                    "Text": "2 The METS-CoV Dataset",
+                    "BoundingBox": {
+                        "Width": 0.310913622379303,
+                        "Height": 0.038440849632024765,
+                        "Left": 0.02732497826218605,
+                        "Top": 0.05063067376613617
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "cda94339-ccaf-4598-9012-6670e580c6c0",
+                    "Score": 0.8553130626678467
+                },
+                {
+                    "Text": "2.1 Dataset Construction",
+                    "BoundingBox": {
+                        "Width": 0.2554433345794678,
+                        "Height": 0.03271994739770889,
+                        "Left": 0.027060657739639282,
+                        "Top": 0.14162656664848328
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "48fa40da-03ed-4008-95d3-481a9a1e2fcf",
+                    "Score": 0.8024640083312988
+                },
+                {
+                    "Text": "LIIE",
+                    "BoundingBox": {
+                        "Width": 0.05749114975333214,
+                        "Height": 0.10537206381559372,
+                        "Left": 0.13573531806468964,
+                        "Top": 0.24341222643852234
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4e0eb9c-e1ed-48a8-931a-a6136e7d84ec",
+                    "Score": 0.6700669527053833
+                },
+                {
+                    "Text": "Data Collection",
+                    "BoundingBox": {
+                        "Width": 0.11730097979307175,
+                        "Height": 0.025178104639053345,
+                        "Left": 0.10146867483854294,
+                        "Top": 0.3671727776527405
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f6d57741-498a-4f8e-94ab-8feb6496cc13",
+                    "Score": 0.8412784337997437
+                },
+                {
+                    "Text": "Data Pre-processing",
+                    "BoundingBox": {
+                        "Width": 0.1542317122220993,
+                        "Height": 0.030024243518710136,
+                        "Left": 0.38748106360435486,
+                        "Top": 0.36402466893196106
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6db278a2-4730-4eb5-95fd-ceff6fb47049",
+                    "Score": 0.9077309370040894
+                },
+                {
+                    "Text": "Data Annotation",
+                    "BoundingBox": {
+                        "Width": 0.12791459262371063,
+                        "Height": 0.02500941976904869,
+                        "Left": 0.7549020051956177,
+                        "Top": 0.35789746046066284
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2fc4d633-5f9c-4591-a973-a6013a9bf53b",
+                    "Score": 0.8479282259941101
+                },
+                {
+                    "Text": "Time range: February 1, 2020 to September 30, 2021.",
+                    "BoundingBox": {
+                        "Width": 0.15574431419372559,
+                        "Height": 0.04795287549495697,
+                        "Left": 0.07947766780853271,
+                        "Top": 0.5413461327552795
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "46af1bdf-6e32-4e20-9b54-3ab3bbb38479",
+                    "Score": 0.8371443152427673
+                },
+                {
+                    "Text": "6000 are randomly sampled",
+                    "BoundingBox": {
+                        "Width": 0.14772169291973114,
+                        "Height": 0.021494193002581596,
+                        "Left": 0.7003564238548279,
+                        "Top": 0.439775675535202
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e4274bb9-114f-43a3-b2d9-21ea0d44f2dd",
+                    "Score": 0.8148458003997803
+                },
+                {
+                    "Text": "4000 are from the model labeled data (manually checked)",
+                    "BoundingBox": {
+                        "Width": 0.19823044538497925,
+                        "Height": 0.04447022080421448,
+                        "Left": 0.7003647089004517,
+                        "Top": 0.4724932610988617
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6de60e04-6c07-4f58-8d3e-2aa10197c582",
+                    "Score": 0.8836674690246582
+                },
+                {
+                    "Text": "3 general entity types: Person, Location, and Organization",
+                    "BoundingBox": {
+                        "Width": 0.2295679748058319,
+                        "Height": 0.0438886359333992,
+                        "Left": 0.7003873586654663,
+                        "Top": 0.5622272491455078
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dd923854-e33c-4865-8f2f-0e3dfbad44a9",
+                    "Score": 0.82084721326828
+                },
+                {
+                    "Text": "Australia 31-36. P18-4006 cc N",
+                    "BoundingBox": {
+                        "Width": 0.10224445909261703,
+                        "Height": 0.0334625244140625,
+                        "Left": 0.0021932811941951513,
+                        "Top": 0.9636516571044922
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "319b728f-4439-4ee0-b80e-95241342e1fa",
+                    "Score": 0.7547170519828796
+                },
+                {
+                    "Text": "4",
+                    "BoundingBox": {
+                        "Width": 0.007128675002604723,
+                        "Height": 0.016778182238340378,
+                        "Left": 0.9164645671844482,
+                        "Top": 0.9443241357803345
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "fe6bf24e-935a-4568-9d77-6f83ec8404bf",
+                    "Score": 0.8742883801460266
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:39,667",
+            "end_time": "00:00:41,248",
+            "transcript": "All of them are manually checked.",
+            "MatchedRegion": [
+                {
+                    "Text": "2 The METS-CoV Dataset",
+                    "BoundingBox": {
+                        "Width": 0.310913622379303,
+                        "Height": 0.038440849632024765,
+                        "Left": 0.02732497826218605,
+                        "Top": 0.05063067376613617
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "cda94339-ccaf-4598-9012-6670e580c6c0",
+                    "Score": 0.8553130626678467
+                },
+                {
+                    "Text": "2.1 Dataset Construction",
+                    "BoundingBox": {
+                        "Width": 0.2554433345794678,
+                        "Height": 0.03271994739770889,
+                        "Left": 0.027060657739639282,
+                        "Top": 0.14162656664848328
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "48fa40da-03ed-4008-95d3-481a9a1e2fcf",
+                    "Score": 0.8024640083312988
+                },
+                {
+                    "Text": "LIIE",
+                    "BoundingBox": {
+                        "Width": 0.05749114975333214,
+                        "Height": 0.10537206381559372,
+                        "Left": 0.13573531806468964,
+                        "Top": 0.24341222643852234
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4e0eb9c-e1ed-48a8-931a-a6136e7d84ec",
+                    "Score": 0.6700669527053833
+                },
+                {
+                    "Text": "Data Collection",
+                    "BoundingBox": {
+                        "Width": 0.11730097979307175,
+                        "Height": 0.025178104639053345,
+                        "Left": 0.10146867483854294,
+                        "Top": 0.3671727776527405
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f6d57741-498a-4f8e-94ab-8feb6496cc13",
+                    "Score": 0.8412784337997437
+                },
+                {
+                    "Text": "Data Pre-processing",
+                    "BoundingBox": {
+                        "Width": 0.1542317122220993,
+                        "Height": 0.030024243518710136,
+                        "Left": 0.38748106360435486,
+                        "Top": 0.36402466893196106
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6db278a2-4730-4eb5-95fd-ceff6fb47049",
+                    "Score": 0.9077309370040894
+                },
+                {
+                    "Text": "Data Annotation",
+                    "BoundingBox": {
+                        "Width": 0.12791459262371063,
+                        "Height": 0.02500941976904869,
+                        "Left": 0.7549020051956177,
+                        "Top": 0.35789746046066284
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2fc4d633-5f9c-4591-a973-a6013a9bf53b",
+                    "Score": 0.8479282259941101
+                },
+                {
+                    "Text": "Time range: February 1, 2020 to September 30, 2021.",
+                    "BoundingBox": {
+                        "Width": 0.15574431419372559,
+                        "Height": 0.04795287549495697,
+                        "Left": 0.07947766780853271,
+                        "Top": 0.5413461327552795
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "46af1bdf-6e32-4e20-9b54-3ab3bbb38479",
+                    "Score": 0.8371443152427673
+                },
+                {
+                    "Text": "6000 are randomly sampled",
+                    "BoundingBox": {
+                        "Width": 0.14772169291973114,
+                        "Height": 0.021494193002581596,
+                        "Left": 0.7003564238548279,
+                        "Top": 0.439775675535202
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e4274bb9-114f-43a3-b2d9-21ea0d44f2dd",
+                    "Score": 0.8148458003997803
+                },
+                {
+                    "Text": "4000 are from the model labeled data (manually checked)",
+                    "BoundingBox": {
+                        "Width": 0.19823044538497925,
+                        "Height": 0.04447022080421448,
+                        "Left": 0.7003647089004517,
+                        "Top": 0.4724932610988617
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6de60e04-6c07-4f58-8d3e-2aa10197c582",
+                    "Score": 0.8836674690246582
+                },
+                {
+                    "Text": "Define entity types",
+                    "BoundingBox": {
+                        "Width": 0.10197092592716217,
+                        "Height": 0.02161947637796402,
+                        "Left": 0.6864823698997498,
+                        "Top": 0.5283363461494446
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22bcd475-4252-4bfc-a9d0-b7d877875708",
+                    "Score": 0.8075554370880127
+                },
+                {
+                    "Text": "3 general entity types: Person, Location, and Organization",
+                    "BoundingBox": {
+                        "Width": 0.2295679748058319,
+                        "Height": 0.0438886359333992,
+                        "Left": 0.7003873586654663,
+                        "Top": 0.5622272491455078
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dd923854-e33c-4865-8f2f-0e3dfbad44a9",
+                    "Score": 0.82084721326828
+                },
+                {
+                    "Text": "Annotation Tool: YEDDA (Yang et al., 2018)",
+                    "BoundingBox": {
+                        "Width": 0.22199799120426178,
+                        "Height": 0.022183239459991455,
+                        "Left": 0.6859534382820129,
+                        "Top": 0.7397775650024414
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e20708f2-3765-4d35-9924-050153430459",
+                    "Score": 0.82090163230896
+                },
+                {
+                    "Text": "Australia 31-36. P18-4006 cc N",
+                    "BoundingBox": {
+                        "Width": 0.10224445909261703,
+                        "Height": 0.0334625244140625,
+                        "Left": 0.0021932811941951513,
+                        "Top": 0.9636516571044922
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "319b728f-4439-4ee0-b80e-95241342e1fa",
+                    "Score": 0.7547170519828796
+                },
+                {
+                    "Text": "4",
+                    "BoundingBox": {
+                        "Width": 0.007128675002604723,
+                        "Height": 0.016778182238340378,
+                        "Left": 0.9164645671844482,
+                        "Top": 0.9443241357803345
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "fe6bf24e-935a-4568-9d77-6f83ec8404bf",
+                    "Score": 0.8742883801460266
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:42,229",
+            "end_time": "00:00:46,532",
+            "transcript": "We define seven entity types based on public health research needs.",
+            "MatchedRegion": [
+                {
+                    "Text": "LIIE",
+                    "BoundingBox": {
+                        "Width": 0.05749114975333214,
+                        "Height": 0.10537206381559372,
+                        "Left": 0.13573531806468964,
+                        "Top": 0.24341222643852234
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4e0eb9c-e1ed-48a8-931a-a6136e7d84ec",
+                    "Score": 0.6700669527053833
+                },
+                {
+                    "Text": "Define entity types",
+                    "BoundingBox": {
+                        "Width": 0.10197092592716217,
+                        "Height": 0.02161947637796402,
+                        "Left": 0.6864823698997498,
+                        "Top": 0.5283363461494446
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22bcd475-4252-4bfc-a9d0-b7d877875708",
+                    "Score": 0.8075554370880127
+                },
+                {
+                    "Text": "3 general entity types: Person, Location, and Organization",
+                    "BoundingBox": {
+                        "Width": 0.2295679748058319,
+                        "Height": 0.0438886359333992,
+                        "Left": 0.7003873586654663,
+                        "Top": 0.5622272491455078
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dd923854-e33c-4865-8f2f-0e3dfbad44a9",
+                    "Score": 0.82084721326828
+                },
+                {
+                    "Text": "4 medical entity types: Disease, Drug, Symptom, and Vaccine",
+                    "BoundingBox": {
+                        "Width": 0.1954348385334015,
+                        "Height": 0.04382138326764107,
+                        "Left": 0.7004013061523438,
+                        "Top": 0.6175568699836731
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b7dcabf8-f6da-4914-a017-0bcf75899e8f",
+                    "Score": 0.8566078543663025
+                },
+                {
+                    "Text": "Define target entities for TSA",
+                    "BoundingBox": {
+                        "Width": 0.15191768109798431,
+                        "Height": 0.02166801318526268,
+                        "Left": 0.6870958209037781,
+                        "Top": 0.6730179786682129
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "98b4a9cd-d84f-43d0-b411-06e0ac86dc11",
+                    "Score": 0.8195258975028992
+                },
+                {
+                    "Text": "Person, Organization, Drug, and Vaccine",
+                    "BoundingBox": {
+                        "Width": 0.20915894210338593,
+                        "Height": 0.022029489278793335,
+                        "Left": 0.6998447179794312,
+                        "Top": 0.7068496942520142
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3b1bb73d-3125-4e2c-9566-ec0aea693688",
+                    "Score": 0.8006845712661743
+                },
+                {
+                    "Text": "Australia 31-36. P18-4006 cc N",
+                    "BoundingBox": {
+                        "Width": 0.10224445909261703,
+                        "Height": 0.0334625244140625,
+                        "Left": 0.0021932811941951513,
+                        "Top": 0.9636516571044922
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "319b728f-4439-4ee0-b80e-95241342e1fa",
+                    "Score": 0.7547170519828796
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:47,333",
+            "end_time": "00:00:52,260",
+            "transcript": "including three general entity tabs and four medical entity tabs for annotation.",
+            "MatchedRegion": [
+                {
+                    "Text": "2.1 Dataset Construction",
+                    "BoundingBox": {
+                        "Width": 0.2554433345794678,
+                        "Height": 0.03271994739770889,
+                        "Left": 0.027060657739639282,
+                        "Top": 0.14162656664848328
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "48fa40da-03ed-4008-95d3-481a9a1e2fcf",
+                    "Score": 0.8024640083312988
+                },
+                {
+                    "Text": "LIIE",
+                    "BoundingBox": {
+                        "Width": 0.05749114975333214,
+                        "Height": 0.10537206381559372,
+                        "Left": 0.13573531806468964,
+                        "Top": 0.24341222643852234
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4e0eb9c-e1ed-48a8-931a-a6136e7d84ec",
+                    "Score": 0.6700669527053833
+                },
+                {
+                    "Text": "Data Annotation",
+                    "BoundingBox": {
+                        "Width": 0.12791459262371063,
+                        "Height": 0.02500941976904869,
+                        "Left": 0.7549020051956177,
+                        "Top": 0.35789746046066284
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2fc4d633-5f9c-4591-a973-a6013a9bf53b",
+                    "Score": 0.8479282259941101
+                },
+                {
+                    "Text": "Define entity types",
+                    "BoundingBox": {
+                        "Width": 0.10197092592716217,
+                        "Height": 0.02161947637796402,
+                        "Left": 0.6864823698997498,
+                        "Top": 0.5283363461494446
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22bcd475-4252-4bfc-a9d0-b7d877875708",
+                    "Score": 0.8075554370880127
+                },
+                {
+                    "Text": "3 general entity types: Person, Location, and Organization",
+                    "BoundingBox": {
+                        "Width": 0.2295679748058319,
+                        "Height": 0.0438886359333992,
+                        "Left": 0.7003873586654663,
+                        "Top": 0.5622272491455078
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dd923854-e33c-4865-8f2f-0e3dfbad44a9",
+                    "Score": 0.82084721326828
+                },
+                {
+                    "Text": "4 medical entity types: Disease, Drug, Symptom, and Vaccine",
+                    "BoundingBox": {
+                        "Width": 0.1954348385334015,
+                        "Height": 0.04382138326764107,
+                        "Left": 0.7004013061523438,
+                        "Top": 0.6175568699836731
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b7dcabf8-f6da-4914-a017-0bcf75899e8f",
+                    "Score": 0.8566078543663025
+                },
+                {
+                    "Text": "Annotation Tool: YEDDA (Yang et al., 2018)",
+                    "BoundingBox": {
+                        "Width": 0.22199799120426178,
+                        "Height": 0.022183239459991455,
+                        "Left": 0.6859534382820129,
+                        "Top": 0.7397775650024414
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e20708f2-3765-4d35-9924-050153430459",
+                    "Score": 0.82090163230896
+                },
+                {
+                    "Text": "Australia 31-36. P18-4006 cc N",
+                    "BoundingBox": {
+                        "Width": 0.10224445909261703,
+                        "Height": 0.0334625244140625,
+                        "Left": 0.0021932811941951513,
+                        "Top": 0.9636516571044922
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "319b728f-4439-4ee0-b80e-95241342e1fa",
+                    "Score": 0.7547170519828796
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:53,221",
+            "end_time": "00:01:02,955",
+            "transcript": "In particular, we select four entity tabs for additional sentiment annotation with three types of sentiment labels, positive, negative,",
+            "MatchedRegion": [
+                {
+                    "Text": "LIIE",
+                    "BoundingBox": {
+                        "Width": 0.05749114975333214,
+                        "Height": 0.10537206381559372,
+                        "Left": 0.13573531806468964,
+                        "Top": 0.24341222643852234
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4e0eb9c-e1ed-48a8-931a-a6136e7d84ec",
+                    "Score": 0.6700669527053833
+                },
+                {
+                    "Text": "Define entity types",
+                    "BoundingBox": {
+                        "Width": 0.10197092592716217,
+                        "Height": 0.02161947637796402,
+                        "Left": 0.6864823698997498,
+                        "Top": 0.5283363461494446
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22bcd475-4252-4bfc-a9d0-b7d877875708",
+                    "Score": 0.8075554370880127
+                },
+                {
+                    "Text": "3 general entity types: Person, Location, and Organization",
+                    "BoundingBox": {
+                        "Width": 0.2295679748058319,
+                        "Height": 0.0438886359333992,
+                        "Left": 0.7003873586654663,
+                        "Top": 0.5622272491455078
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dd923854-e33c-4865-8f2f-0e3dfbad44a9",
+                    "Score": 0.82084721326828
+                },
+                {
+                    "Text": "Australia 31-36. P18-4006 cc N",
+                    "BoundingBox": {
+                        "Width": 0.10224445909261703,
+                        "Height": 0.0334625244140625,
+                        "Left": 0.0021932811941951513,
+                        "Top": 0.9636516571044922
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "319b728f-4439-4ee0-b80e-95241342e1fa",
+                    "Score": 0.7547170519828796
+                }
+            ]
+        }
+    ]
+}

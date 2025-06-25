@@ -1,0 +1,54 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,393",
+            "end_time": "00:00:05,382",
+            "transcript": "In this case, each interaction pattern represents an end relationship between variables.",
+            "MatchedRegion": [
+                {
+                    "Text": "Formulating \"concepts\" based on interactions",
+                    "BoundingBox": {
+                        "Width": 0.6526131629943848,
+                        "Height": 0.060315825045108795,
+                        "Left": 0.09779783338308334,
+                        "Top": 0.06354496628046036
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "bd6b7b3c-7266-4782-8d28-6d2ac1564152",
+                    "Score": 0.8307791948318481
+                },
+                {
+                    "Text": "Each interaction pattern represents an AND relationship between variables, thus can be taken as a symbolic concept encoded by the DNN. V (x) = bias + I(S1) + I(S2) + I(S3) + ... NI C Network output Constant bias Effect of Effect of Effect of (bird) the torso the tail the chest The \"torso\" exists if and only if all pixels in S1 are present, then the model obtain the marginal utility I (S1) Note that this study also extracts the OR interaction, which is proved to be a specific AND interaction.",
+                    "BoundingBox": {
+                        "Width": 0.7819220423698425,
+                        "Height": 0.6887477040290833,
+                        "Left": 0.11671120673418045,
+                        "Top": 0.1953517198562622
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ccfa6230-5bb3-4e02-9748-f150d6c9ed90",
+                    "Score": 0.8049139380455017
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,184",
+            "end_time": "00:00:09,630",
+            "transcript": "Thus can be taken as a symbolic concept encoded by a DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Each interaction pattern represents an AND relationship between variables, thus can be taken as a symbolic concept encoded by the DNN. V (x) = bias + I(S1) + I(S2) + I(S3) + ... NI C Network output Constant bias Effect of Effect of Effect of (bird) the torso the tail the chest The \"torso\" exists if and only if all pixels in S1 are present, then the model obtain the marginal utility I (S1) Note that this study also extracts the OR interaction, which is proved to be a specific AND interaction.",
+                    "BoundingBox": {
+                        "Width": 0.7819220423698425,
+                        "Height": 0.6887477040290833,
+                        "Left": 0.11671120673418045,
+                        "Top": 0.1953517198562622
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ccfa6230-5bb3-4e02-9748-f150d6c9ed90",
+                    "Score": 0.8049139380455017
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+1
+00:00:00,930 --> 00:00:06,071
+Based on cooperative game theory, we have a mathematical tool to formalize this idea.
+
+2
+00:00:06,731 --> 00:00:10,172
+So let me first introduce some preliminary of this framework.
+
+3
+00:00:11,072 --> 00:00:16,393
+First of all, the DNN encodes interactions between different input variables for inference.
+
+4
+00:00:17,173 --> 00:00:27,955
+For example, in the sentence, he is a green hand, a DNN may memorize the interaction between words in green and hand that pushes the DNN's inference towards the meaning of a beginner.
+

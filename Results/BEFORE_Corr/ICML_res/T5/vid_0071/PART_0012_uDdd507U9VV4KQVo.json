@@ -1,0 +1,106 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,584",
+            "end_time": "00:00:05,848",
+            "transcript": "Lastly, we examine the discrimination power of different concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.034408364444971085,
+                        "Height": 0.07517881691455841,
+                        "Left": 0.041441693902015686,
+                        "Top": 0.0478413850069046
+                    },
+                    "Id": "7fd4909e-1851-4e67-a67d-46e4e492df20"
+                },
+                {
+                    "Text": "Perspective 4: Discrimination power of concepts",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.6831929683685303,
+                        "Height": 0.058975230902433395,
+                        "Left": 0.09747317433357239,
+                        "Top": 0.06518746167421341
+                    },
+                    "Id": "9f0c9fca-a4f8-4c00-b0f2-1318b278f0bb"
+                },
+                {
+                    "Text": "the average discrimination power of all concepts B I",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3904269337654114,
+                        "Height": 0.03260349482297897,
+                        "Left": 0.09107127785682678,
+                        "Top": 0.45398184657096863
+                    },
+                    "Id": "975ce982-a4b4-4b25-8ba4-e396e5763982"
+                },
+                {
+                    "Text": "The average discrimination power B of concepts was usually higher than 0.8, which verified the discrimination power of extracted concepts.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8176149725914001,
+                        "Height": 0.08177220821380615,
+                        "Left": 0.08886725455522537,
+                        "Top": 0.8433576226234436
+                    },
+                    "Id": "dfe552f1-d773-4d65-9d42-bd0303becbcb"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,589",
+            "end_time": "00:00:13,456",
+            "transcript": "We found that the same concept usually push the classification of different samples towards the same category.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 4: Discrimination power of concepts",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.6831929683685303,
+                        "Height": 0.058975230902433395,
+                        "Left": 0.09747317433357239,
+                        "Top": 0.06518746167421341
+                    },
+                    "Id": "9f0c9fca-a4f8-4c00-b0f2-1318b278f0bb"
+                },
+                {
+                    "Text": "For each concept S, if the concept is saliently activated on a set of samples, then interaction effects I (S) of the same concept are supposed to push the classification of these samples towards the same category in most cases.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8602766394615173,
+                        "Height": 0.1224837452173233,
+                        "Left": 0.0806051567196846,
+                        "Top": 0.18538843095302582
+                    },
+                    "Id": "d1e529a1-969b-4c45-89e2-d480df6b4b8d"
+                },
+                {
+                    "Text": "tic-tac-toe wifi MNIST-3 CelebA-eyeglasses ShapeNet (samples with pattern (samples in the 4th category) (positive samples) (positive samples) (samples in the motorbike 1.0 X5 = X6 = 1 1.0 1.0 1.0 1.0 category) B=0.98 0.9 0.9 =0.99 0.9 0.9 0.9 B=0.95 0.8 0.8 0.8 LeNet 0.8 B =0.83 0.8 B=0.89 B 0.89 ResNet-20 0.7 B=0.81 B 0.85 B =0.88 0.7 0.7 ResNet-32 0.7 0.7 B=0.81 B 0.85 ResNet-44 AlexNet B=0.87 0.6 MLP-5 0.6 MLP-5 0.6 B 0.86 VGG-13 0.6 ResNet-18 0.6 PointNet B 0.92 ResMLP-5 ResMLP-5 VGG-16 ResNet-34 PointNet- 0.5 0.5 0.5 B=0.88 0.5 0.5 0.0 0.2 0.4 0.6 0.8 1.0 0.0 0.2 0.4 0.6 0.8 1.0 0.0 0.2 0.4 0.6 0.8 1.0 0.0 0.2 0.4 0.6 0.8 1.0 0.0 0.2 0.4 0.6 0.8 1.0 frequency a frequency a frequency a frequency a frequency a",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.7043013572692871,
+                        "Height": 0.2684646546840668,
+                        "Left": 0.13112561404705048,
+                        "Top": 0.5176823139190674
+                    },
+                    "Id": "601e0580-0f6b-41fe-be18-ffb616f346ab"
+                },
+                {
+                    "Text": "The average discrimination power B of concepts was usually higher than 0.8, which verified the discrimination power of extracted concepts.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8176149725914001,
+                        "Height": 0.08177220821380615,
+                        "Left": 0.08886725455522537,
+                        "Top": 0.8433576226234436
+                    },
+                    "Id": "dfe552f1-d773-4d65-9d42-bd0303becbcb"
+                }
+            ]
+        }
+    ]
+}

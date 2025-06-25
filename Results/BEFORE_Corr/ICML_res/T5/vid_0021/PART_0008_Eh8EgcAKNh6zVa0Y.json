@@ -1,0 +1,51 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,710",
+            "end_time": "00:00:08,600",
+            "transcript": "In the subsample setting, we compare against, again, the DAC on four different subsampling rates, sampling every 10, 20, 50, and 100th transition.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.22453825175762177,
+                        "Height": 0.07316954433917999,
+                        "Left": 0.08184050768613815,
+                        "Top": 0.13137564063072205
+                    },
+                    "Id": "e6edf114-312f-47be-bdb7-717f6a3d5e37"
+                },
+                {
+                    "Text": "Subsampled setting",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.15347595512866974,
+                        "Height": 0.03435438871383667,
+                        "Left": 0.4219026267528534,
+                        "Top": 0.33464372158050537
+                    },
+                    "Id": "f23e9703-dad2-4728-9a98-6d54a4c936b5"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,981",
+            "end_time": "00:00:15,109",
+            "transcript": "The final rate implies running from 10 state-action pairs along with CFL once again demonstrating stellar performance.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.22453825175762177,
+                        "Height": 0.07316954433917999,
+                        "Left": 0.08184050768613815,
+                        "Top": 0.13137564063072205
+                    },
+                    "Id": "e6edf114-312f-47be-bdb7-717f6a3d5e37"
+                }
+            ]
+        }
+    ]
+}

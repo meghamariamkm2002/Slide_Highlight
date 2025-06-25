@@ -1,0 +1,88 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,390",
+            "end_time": "00:00:05,153",
+            "transcript": "We used the open source color simulator to collect data for our source domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset Collection - Simulation",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.45717042684555054,
+                        "Height": 0.053360141813755035,
+                        "Left": 0.037500690668821335,
+                        "Top": 0.03334933519363403
+                    },
+                    "Id": "ae042f8d-d9ea-4701-ab5d-aebda6f3a6c9"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,713",
+            "end_time": "00:00:09,956",
+            "transcript": "During the data collection process, we randomized multiple aspects of the agent and environment.",
+            "MatchedRegion": [
+                {
+                    "Text": "Randomize multiple aspects of the agent and environment:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5184683203697205,
+                        "Height": 0.04056868329644203,
+                        "Left": 0.035123471170663834,
+                        "Top": 0.2190413773059845
+                    },
+                    "Id": "8dc010e0-d825-466a-8967-e0b02cc9001d"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,837",
+            "end_time": "00:00:18,042",
+            "transcript": "A comparison of agent and environmental variations to other private unit data sets for land detection can be seen in the table on the slide.",
+            "MatchedRegion": [
+                {
+                    "Text": "Randomize multiple aspects of the agent and environment:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5184683203697205,
+                        "Height": 0.04056868329644203,
+                        "Left": 0.035123471170663834,
+                        "Top": 0.2190413773059845
+                    },
+                    "Id": "8dc010e0-d825-466a-8967-e0b02cc9001d"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,743",
+            "end_time": "00:00:21,965",
+            "transcript": "Please note that none of the other data sets is publicly available at",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.10932081192731857,
+                        "Height": 0.08308461308479309,
+                        "Left": 0.8870413899421692,
+                        "Top": 0.011332846246659756
+                    },
+                    "Id": "ead8c43c-6b2a-4579-b4fc-d33a2b7a1207"
+                },
+                {
+                    "Text": "At this point, none of the other datasets is publicly available",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.19395320117473602,
+                        "Height": 0.10615502297878265,
+                        "Left": 0.507716953754425,
+                        "Top": 0.6326955556869507
+                    },
+                    "Id": "69afe0bb-d6f2-402f-a074-a5847c48198e"
+                }
+            ]
+        }
+    ]
+}

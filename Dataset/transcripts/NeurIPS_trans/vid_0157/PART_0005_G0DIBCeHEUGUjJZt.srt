@@ -1,0 +1,12 @@
+1
+00:00:00,109 --> 00:00:06,756
+And then achieve new SOTA results in PDV blind dataset.
+
+2
+00:00:07,717 --> 00:00:16,968
+We have a larger fraction of predictions with lower IMSD and better binding affinity prediction.
+
+3
+00:00:17,829 --> 00:00:19,991
+And we also have higher inference efficiency.
+

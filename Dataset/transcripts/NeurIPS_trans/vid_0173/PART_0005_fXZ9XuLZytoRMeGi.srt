@@ -1,0 +1,32 @@
+1
+00:00:00,129 --> 00:00:00,650
+have a bidder.
+
+2
+00:00:02,252 --> 00:00:03,073
+Here's the problem.
+
+3
+00:00:03,093 --> 00:00:06,377
+Each bidder has a valid distribution DI.
+
+4
+00:00:07,338 --> 00:00:13,246
+The seller observes all these valid distributions and computes a single price P for all bidders.
+
+5
+00:00:14,656 --> 00:00:17,918
+Now the auction begins, bidders arrive one by one.
+
+6
+00:00:18,458 --> 00:00:35,869
+Each bidder observes their own value VI, which is drawing from the distribution DI, and of course the price P. And then the bidder decides whether they want to accept or reject the price P. If they accept the price, then the seller gets revenue P and the auction terminates.
+
+7
+00:00:36,589 --> 00:00:41,452
+If they reject the price, then the bidder leaves and the next bidder arrives and the procedure continues.
+
+8
+00:00:42,742 --> 00:00:59,002
+The seller's goal is to choose a price P in the proper way so they can maximize the expected revenue, which is the product of the price and the probability that the item is sold, which is the probability that at least one bidder accepts the price.
+

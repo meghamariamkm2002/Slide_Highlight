@@ -1,0 +1,114 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,130",
+            "end_time": "00:00:04,663",
+            "transcript": "This is the outline of this presentation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Outline",
+                    "BoundingBox": {
+                        "Width": 0.18884305655956268,
+                        "Height": 0.06474348902702332,
+                        "Left": 0.009832295589148998,
+                        "Top": 0.11967305094003677
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "d30059c1-7921-48a8-b39e-b1aaceb70b0b",
+                    "Score": 0.8657408952713013
+                },
+                {
+                    "Text": "Background",
+                    "BoundingBox": {
+                        "Width": 0.2346334457397461,
+                        "Height": 0.0518421046435833,
+                        "Left": 0.06205221265554428,
+                        "Top": 0.37167829275131226
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "70e52bae-0f35-4794-9c42-bc8fe5f03961",
+                    "Score": 0.9141091704368591
+                },
+                {
+                    "Text": "Backtrack Historical Models",
+                    "BoundingBox": {
+                        "Width": 0.520186185836792,
+                        "Height": 0.04284023120999336,
+                        "Left": 0.06152856722474098,
+                        "Top": 0.45355331897735596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1e8ea531-f95e-4ef3-846f-1eb94f6593d4",
+                    "Score": 0.8316212892532349
+                },
+                {
+                    "Text": "Summary",
+                    "BoundingBox": {
+                        "Width": 0.19544678926467896,
+                        "Height": 0.051083844155073166,
+                        "Left": 0.06179738789796829,
+                        "Top": 0.6202099323272705
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "40091f63-fef0-4e43-b895-6918cd9e8a2c",
+                    "Score": 0.8498271703720093
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:04,885",
+            "end_time": "00:00:06,372",
+            "transcript": "The first part is background.",
+            "MatchedRegion": [
+                {
+                    "Text": "Outline",
+                    "BoundingBox": {
+                        "Width": 0.18884305655956268,
+                        "Height": 0.06474348902702332,
+                        "Left": 0.009832295589148998,
+                        "Top": 0.11967305094003677
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "d30059c1-7921-48a8-b39e-b1aaceb70b0b",
+                    "Score": 0.8657408952713013
+                },
+                {
+                    "Text": "Background",
+                    "BoundingBox": {
+                        "Width": 0.2346334457397461,
+                        "Height": 0.0518421046435833,
+                        "Left": 0.06205221265554428,
+                        "Top": 0.37167829275131226
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "70e52bae-0f35-4794-9c42-bc8fe5f03961",
+                    "Score": 0.9141091704368591
+                },
+                {
+                    "Text": "Backtrack Historical Models",
+                    "BoundingBox": {
+                        "Width": 0.520186185836792,
+                        "Height": 0.04284023120999336,
+                        "Left": 0.06152856722474098,
+                        "Top": 0.45355331897735596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1e8ea531-f95e-4ef3-846f-1eb94f6593d4",
+                    "Score": 0.8316212892532349
+                },
+                {
+                    "Text": "Summary",
+                    "BoundingBox": {
+                        "Width": 0.19544678926467896,
+                        "Height": 0.051083844155073166,
+                        "Left": 0.06179738789796829,
+                        "Top": 0.6202099323272705
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "40091f63-fef0-4e43-b895-6918cd9e8a2c",
+                    "Score": 0.8498271703720093
+                }
+            ]
+        }
+    ]
+}

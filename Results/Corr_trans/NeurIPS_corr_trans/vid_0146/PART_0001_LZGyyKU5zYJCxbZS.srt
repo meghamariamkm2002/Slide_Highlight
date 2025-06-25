@@ -1,0 +1,32 @@
+1
+00:00:01,775 --> 00:00:04,876
+First, let's describe the problem the paper aims to address.
+
+2
+00:00:05,757 --> 00:00:10,238
+It is a known fact that vision models tend to rely on spurious cues to make their predictions.
+
+3
+00:00:11,419 --> 00:00:17,501
+In this work, we examine the spurious cues used by vision transformers and find that they suffer from two main issues.
+
+4
+00:00:18,362 --> 00:00:24,864
+The first is over-reliance on the image background, and the second is a sparse consideration of the foreground pixels.
+
+5
+00:00:25,865 --> 00:00:28,306
+The figure here represents examples of both cases.
+
+6
+00:00:29,130 --> 00:00:40,176
+For example, the image here is classified by the model as a chestnut with a confidence of 100%, but the saliency map shows that the model used only the background to make its prediction.
+
+7
+00:00:41,577 --> 00:00:45,979
+This can lead to lack of robustness to distribution shifts, i.e., poor generalization.
+
+8
+00:00:46,759 --> 00:00:49,521
+We ask ourselves, can we correct the model's logic?
+

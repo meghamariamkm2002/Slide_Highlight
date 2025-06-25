@@ -1,0 +1,20 @@
+1
+00:00:01,570 --> 00:00:08,613
+possible extensions to this work are one can develop a new class of semantic parsing models that can handle unanswerable questions.
+
+2
+00:00:09,174 --> 00:00:13,856
+The data set itself can be extended to interactive and conversational settings.
+
+3
+00:00:14,556 --> 00:00:19,198
+And this is a great starting point for creating multi-modal EHRQA data sets.
+
+4
+00:00:20,119 --> 00:00:24,921
+Our data set is currently available on GitHub, and their leaderboard can be found in this link.
+
+5
+00:00:25,421 --> 00:00:26,322
+Thank you for listening.
+

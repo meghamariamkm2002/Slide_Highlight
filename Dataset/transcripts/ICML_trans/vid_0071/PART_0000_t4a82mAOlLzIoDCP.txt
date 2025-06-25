@@ -1,0 +1,3 @@
+Hi, this is Mingjie Li from Shanghai Jiao Tong University.
+Today, I would like to share our work.
+Does a neural network really encode symbolic concepts?

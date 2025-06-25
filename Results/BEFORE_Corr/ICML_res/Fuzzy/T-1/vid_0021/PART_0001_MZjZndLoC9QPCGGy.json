@@ -1,0 +1,66 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,210",
+            "end_time": "00:00:06,476",
+            "transcript": "In reinforcement and imitation learning, the agent's policy induces a discounted state distribution and state action distribution.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,011",
+            "end_time": "00:00:09,672",
+            "transcript": "They are of central importance, appearing all across the literature.",
+            "MatchedRegion": [
+                {
+                    "Text": "They are of central importance, appearing all across the literature:",
+                    "BoundingBox": {
+                        "Width": 0.5164313316345215,
+                        "Height": 0.03070523776113987,
+                        "Left": 0.08655297011137009,
+                        "Top": 0.34929364919662476
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a91c0711-79e1-4748-afc4-5c2a6ecbc1b9",
+                    "Score": 0.9852941176470589
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,692",
+            "end_time": "00:00:14,694",
+            "transcript": "They form the basis of policy gradient methods in RL and are core to the distribution matching formulation of imitation.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:15,254",
+            "end_time": "00:00:21,096",
+            "transcript": "They are also foundational to other applications like curiosity-based exploration, constrained RL, batch RL, and convex RL.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:21,616",
+            "end_time": "00:00:28,739",
+            "transcript": "Despite this ubiquity across the literature, the distributions are mostly discussed indirectly and theoretically, rather than being modeled explicitly.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,219",
+            "end_time": "00:00:35,621",
+            "transcript": "And so this would concentrate on modeling them explicitly with modern density estimators, specifically normalizing flows, focusing on imitation.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:36,806",
+            "end_time": "00:00:43,188",
+            "transcript": "The simplest approach to imitation is behavioral cloning, which reforms supervised regression and maximum likelihood on given expert state action pairs.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:43,909",
+            "end_time": "00:00:49,971",
+            "transcript": "Modern approaches to imitation instead attempt to match the agent's state action distribution with the experts by minimizing some f diverged",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

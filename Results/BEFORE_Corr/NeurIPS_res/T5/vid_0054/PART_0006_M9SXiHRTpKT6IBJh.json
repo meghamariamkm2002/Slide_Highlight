@@ -1,0 +1,100 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,689",
+            "end_time": "00:00:10,472",
+            "transcript": "First, in single-frame animal pose estimations, we benchmark simple baseline HRNet, HRFormer, and VIT pose method.",
+            "MatchedRegion": [
+                {
+                    "Text": "Single-frame animal pose estimation(SF)",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.5049900412559509,
+                        "Height": 0.04929318279027939,
+                        "Left": 0.01511473674327135,
+                        "Top": 0.05734691023826599
+                    },
+                    "Id": "694577b8-dee8-45e6-8a9c-65ef51068437"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,132",
+            "end_time": "00:00:21,915",
+            "transcript": "We set up three settings to benchmark their performance, including user network weights per trend on ImageNet, Cocoa, and AP10000 dataset.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. Settings:",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.08851318806409836,
+                        "Height": 0.02880430407822132,
+                        "Left": 0.09634621441364288,
+                        "Top": 0.4579847753047943
+                    },
+                    "Id": "cbf2b879-746c-420a-9080-29432f40778b"
+                },
+                {
+                    "Text": "2. We set up three settings to benchmark their performance, including using network weights pre-trained on the ImageNet-IK dataset, the MS COCO human pose estimation dataset, and the AP-10K dataset, respectively.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7309826612472534,
+                        "Height": 0.10129302740097046,
+                        "Left": 0.13311152160167694,
+                        "Top": 0.56454998254776
+                    },
+                    "Id": "c18e4d5e-a9cb-44b8-9a88-f521fe295149"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,455",
+            "end_time": "00:00:26,716",
+            "transcript": "With human pose per training, both scene-based and vision-transformer",
+            "MatchedRegion": [
+                {
+                    "Text": "2. Findings",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.08997876942157745,
+                        "Height": 0.028599552810192108,
+                        "Left": 0.09590403735637665,
+                        "Top": 0.7079871296882629
+                    },
+                    "Id": "213569f3-a20c-4e0e-a5a4-8265f55bdd12"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:27,296",
+            "end_time": "00:00:29,499",
+            "transcript": "These methods show performance gains.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,999",
+            "end_time": "00:00:38,789",
+            "transcript": "Besides, the benefit of using AP1000 for pre-training is less than that of using the human post data set for pre-training.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:39,390",
+            "end_time": "00:00:48,801",
+            "transcript": "We suspect that it is caused by differences of distribution and data source and as well as the scale differences.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. We suspect such performance drop is caused by the difference of distribution and data source between the AP-10K and APT-36K dataset, as well as the scale different of MS COCO and AP-10K.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7000420689582825,
+                        "Height": 0.06311198323965073,
+                        "Left": 0.17267058789730072,
+                        "Top": 0.8863859176635742
+                    },
+                    "Id": "5efca252-2f89-4232-861a-660fffdc7dd5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,529",
+            "end_time": "00:00:14,361",
+            "transcript": "So, to fill this gap, we proposed APT36000, the first large scale dataset with high-quality animal pulse initiation from consecutive frames for animal pulse estimation and tracking.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:14,862",
+            "end_time": "00:00:27,232",
+            "transcript": "It contains not only the continuous time information needed for tracking tasks, but also a very detailed initiation of pulse key points with a wide range of different animal species.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_kIvSfeSA5dfzhobv",
+            "Score": 0.8283792734146118
+        },
+        {
+            "slide": "PART_0001_C7IfFsQ2BsVmjgqb",
+            "Score": 0.870417594909668
+        }
+    ]
+}

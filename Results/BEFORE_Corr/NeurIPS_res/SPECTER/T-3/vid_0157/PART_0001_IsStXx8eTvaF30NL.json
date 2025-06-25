@@ -1,0 +1,334 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,069",
+            "end_time": "00:00:00,549",
+            "transcript": "protein.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background of drug-protein interaction prediction.",
+                    "BoundingBox": {
+                        "Width": 0.6153836250305176,
+                        "Height": 0.06328784674406052,
+                        "Left": 0.06290510296821594,
+                        "Top": 0.05679821968078613
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "b37fe3e2-ee1b-4177-a8db-0b22b10cd677",
+                    "Score": 0.7276079058647156
+                },
+                {
+                    "Text": "Structure-based drug design (SBDD) is a well-adopted approach for modern drug discovery. A key problem in SBDD is to predict whether a candidate drug molecule will bind to the target protein, and how. The structures of proteins and drug molecules are measured in unit of Angstrom (0.1 nm, 10-10 m). This extremely small length scale makes the prediction of protein-drug interaction a very challenging task.",
+                    "BoundingBox": {
+                        "Width": 0.8194847106933594,
+                        "Height": 0.2079940289258957,
+                        "Left": 0.07183803617954254,
+                        "Top": 0.20737217366695404
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "599dc631-bdb3-4cb1-9179-17cb43affb25",
+                    "Score": 0.7099138498306274
+                },
+                {
+                    "Text": "?",
+                    "BoundingBox": {
+                        "Width": 0.7745233774185181,
+                        "Height": 0.42522773146629333,
+                        "Left": 0.21937641501426697,
+                        "Top": 0.5007832646369934
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "840daf61-75d7-48e5-b06e-429e8496237b",
+                    "Score": 0.7993596196174622
+                },
+                {
+                    "Text": "2",
+                    "BoundingBox": {
+                        "Width": 0.007915202528238297,
+                        "Height": 0.018722470849752426,
+                        "Left": 0.9252896904945374,
+                        "Top": 0.9421573281288147
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "63a56246-69a7-4515-b3d4-545554c87918",
+                    "Score": 0.8511217832565308
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,871",
+            "end_time": "00:00:08,894",
+            "transcript": "For modern drug discovery, a commonly used approach is structure-based drug design.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background of drug-protein interaction prediction.",
+                    "BoundingBox": {
+                        "Width": 0.6153836250305176,
+                        "Height": 0.06328784674406052,
+                        "Left": 0.06290510296821594,
+                        "Top": 0.05679821968078613
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "b37fe3e2-ee1b-4177-a8db-0b22b10cd677",
+                    "Score": 0.7276079058647156
+                },
+                {
+                    "Text": "Structure-based drug design (SBDD) is a well-adopted approach for modern drug discovery. A key problem in SBDD is to predict whether a candidate drug molecule will bind to the target protein, and how. The structures of proteins and drug molecules are measured in unit of Angstrom (0.1 nm, 10-10 m). This extremely small length scale makes the prediction of protein-drug interaction a very challenging task.",
+                    "BoundingBox": {
+                        "Width": 0.8194847106933594,
+                        "Height": 0.2079940289258957,
+                        "Left": 0.07183803617954254,
+                        "Top": 0.20737217366695404
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "599dc631-bdb3-4cb1-9179-17cb43affb25",
+                    "Score": 0.7099138498306274
+                },
+                {
+                    "Text": "?",
+                    "BoundingBox": {
+                        "Width": 0.7745233774185181,
+                        "Height": 0.42522773146629333,
+                        "Left": 0.21937641501426697,
+                        "Top": 0.5007832646369934
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "840daf61-75d7-48e5-b06e-429e8496237b",
+                    "Score": 0.7993596196174622
+                },
+                {
+                    "Text": "2",
+                    "BoundingBox": {
+                        "Width": 0.007915202528238297,
+                        "Height": 0.018722470849752426,
+                        "Left": 0.9252896904945374,
+                        "Top": 0.9421573281288147
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "63a56246-69a7-4515-b3d4-545554c87918",
+                    "Score": 0.8511217832565308
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,694",
+            "end_time": "00:00:21,401",
+            "transcript": "And a key problem in structure-based drug design is to predict whether a candidate drug molecule will bind to the target protein and how it will bind.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background of drug-protein interaction prediction.",
+                    "BoundingBox": {
+                        "Width": 0.6153836250305176,
+                        "Height": 0.06328784674406052,
+                        "Left": 0.06290510296821594,
+                        "Top": 0.05679821968078613
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "b37fe3e2-ee1b-4177-a8db-0b22b10cd677",
+                    "Score": 0.7276079058647156
+                },
+                {
+                    "Text": "Structure-based drug design (SBDD) is a well-adopted approach for modern drug discovery. A key problem in SBDD is to predict whether a candidate drug molecule will bind to the target protein, and how. The structures of proteins and drug molecules are measured in unit of Angstrom (0.1 nm, 10-10 m). This extremely small length scale makes the prediction of protein-drug interaction a very challenging task.",
+                    "BoundingBox": {
+                        "Width": 0.8194847106933594,
+                        "Height": 0.2079940289258957,
+                        "Left": 0.07183803617954254,
+                        "Top": 0.20737217366695404
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "599dc631-bdb3-4cb1-9179-17cb43affb25",
+                    "Score": 0.7099138498306274
+                },
+                {
+                    "Text": "?",
+                    "BoundingBox": {
+                        "Width": 0.7745233774185181,
+                        "Height": 0.42522773146629333,
+                        "Left": 0.21937641501426697,
+                        "Top": 0.5007832646369934
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "840daf61-75d7-48e5-b06e-429e8496237b",
+                    "Score": 0.7993596196174622
+                },
+                {
+                    "Text": "2",
+                    "BoundingBox": {
+                        "Width": 0.007915202528238297,
+                        "Height": 0.018722470849752426,
+                        "Left": 0.9252896904945374,
+                        "Top": 0.9421573281288147
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "63a56246-69a7-4515-b3d4-545554c87918",
+                    "Score": 0.8511217832565308
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,560",
+            "end_time": "00:00:33,647",
+            "transcript": "This is an extremely challenging problem because the structure of proteins and drug molecules are measured in unit of Armstrong, 0.1 nanometer.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background of drug-protein interaction prediction.",
+                    "BoundingBox": {
+                        "Width": 0.6153836250305176,
+                        "Height": 0.06328784674406052,
+                        "Left": 0.06290510296821594,
+                        "Top": 0.05679821968078613
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "b37fe3e2-ee1b-4177-a8db-0b22b10cd677",
+                    "Score": 0.7276079058647156
+                },
+                {
+                    "Text": "Structure-based drug design (SBDD) is a well-adopted approach for modern drug discovery. A key problem in SBDD is to predict whether a candidate drug molecule will bind to the target protein, and how. The structures of proteins and drug molecules are measured in unit of Angstrom (0.1 nm, 10-10 m). This extremely small length scale makes the prediction of protein-drug interaction a very challenging task.",
+                    "BoundingBox": {
+                        "Width": 0.8194847106933594,
+                        "Height": 0.2079940289258957,
+                        "Left": 0.07183803617954254,
+                        "Top": 0.20737217366695404
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "599dc631-bdb3-4cb1-9179-17cb43affb25",
+                    "Score": 0.7099138498306274
+                },
+                {
+                    "Text": "?",
+                    "BoundingBox": {
+                        "Width": 0.7745233774185181,
+                        "Height": 0.42522773146629333,
+                        "Left": 0.21937641501426697,
+                        "Top": 0.5007832646369934
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "840daf61-75d7-48e5-b06e-429e8496237b",
+                    "Score": 0.7993596196174622
+                },
+                {
+                    "Text": "2",
+                    "BoundingBox": {
+                        "Width": 0.007915202528238297,
+                        "Height": 0.018722470849752426,
+                        "Left": 0.9252896904945374,
+                        "Top": 0.9421573281288147
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "63a56246-69a7-4515-b3d4-545554c87918",
+                    "Score": 0.8511217832565308
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:34,787",
+            "end_time": "00:00:38,549",
+            "transcript": "They are so small that are invisible to the naked eyes.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background of drug-protein interaction prediction.",
+                    "BoundingBox": {
+                        "Width": 0.6153836250305176,
+                        "Height": 0.06328784674406052,
+                        "Left": 0.06290510296821594,
+                        "Top": 0.05679821968078613
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "b37fe3e2-ee1b-4177-a8db-0b22b10cd677",
+                    "Score": 0.7276079058647156
+                },
+                {
+                    "Text": "Structure-based drug design (SBDD) is a well-adopted approach for modern drug discovery. A key problem in SBDD is to predict whether a candidate drug molecule will bind to the target protein, and how. The structures of proteins and drug molecules are measured in unit of Angstrom (0.1 nm, 10-10 m). This extremely small length scale makes the prediction of protein-drug interaction a very challenging task.",
+                    "BoundingBox": {
+                        "Width": 0.8194847106933594,
+                        "Height": 0.2079940289258957,
+                        "Left": 0.07183803617954254,
+                        "Top": 0.20737217366695404
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "599dc631-bdb3-4cb1-9179-17cb43affb25",
+                    "Score": 0.7099138498306274
+                },
+                {
+                    "Text": "?",
+                    "BoundingBox": {
+                        "Width": 0.7745233774185181,
+                        "Height": 0.42522773146629333,
+                        "Left": 0.21937641501426697,
+                        "Top": 0.5007832646369934
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "840daf61-75d7-48e5-b06e-429e8496237b",
+                    "Score": 0.7993596196174622
+                },
+                {
+                    "Text": "2",
+                    "BoundingBox": {
+                        "Width": 0.007915202528238297,
+                        "Height": 0.018722470849752426,
+                        "Left": 0.9252896904945374,
+                        "Top": 0.9421573281288147
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "63a56246-69a7-4515-b3d4-545554c87918",
+                    "Score": 0.8511217832565308
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:39,570",
+            "end_time": "00:00:47,995",
+            "transcript": "Sophisticated experiments have to be built to determine their structures and to study their dynamics is even harder.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background of drug-protein interaction prediction.",
+                    "BoundingBox": {
+                        "Width": 0.6153836250305176,
+                        "Height": 0.06328784674406052,
+                        "Left": 0.06290510296821594,
+                        "Top": 0.05679821968078613
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "b37fe3e2-ee1b-4177-a8db-0b22b10cd677",
+                    "Score": 0.7276079058647156
+                },
+                {
+                    "Text": "Structure-based drug design (SBDD) is a well-adopted approach for modern drug discovery. A key problem in SBDD is to predict whether a candidate drug molecule will bind to the target protein, and how. The structures of proteins and drug molecules are measured in unit of Angstrom (0.1 nm, 10-10 m). This extremely small length scale makes the prediction of protein-drug interaction a very challenging task.",
+                    "BoundingBox": {
+                        "Width": 0.8194847106933594,
+                        "Height": 0.2079940289258957,
+                        "Left": 0.07183803617954254,
+                        "Top": 0.20737217366695404
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "599dc631-bdb3-4cb1-9179-17cb43affb25",
+                    "Score": 0.7099138498306274
+                },
+                {
+                    "Text": "?",
+                    "BoundingBox": {
+                        "Width": 0.7745233774185181,
+                        "Height": 0.42522773146629333,
+                        "Left": 0.21937641501426697,
+                        "Top": 0.5007832646369934
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "840daf61-75d7-48e5-b06e-429e8496237b",
+                    "Score": 0.7993596196174622
+                },
+                {
+                    "Text": "2",
+                    "BoundingBox": {
+                        "Width": 0.007915202528238297,
+                        "Height": 0.018722470849752426,
+                        "Left": 0.9252896904945374,
+                        "Top": 0.9421573281288147
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "63a56246-69a7-4515-b3d4-545554c87918",
+                    "Score": 0.8511217832565308
+                }
+            ]
+        }
+    ]
+}

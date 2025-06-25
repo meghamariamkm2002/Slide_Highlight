@@ -1,0 +1,80 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,829",
+            "end_time": "00:00:02,690",
+            "transcript": "Our method can be seen in the upper figure.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:03,390",
+            "end_time": "00:00:06,772",
+            "transcript": "Features of the source and target domain are aligned by cluster prototypes.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,592",
+            "end_time": "00:00:15,055",
+            "transcript": "To cluster memory bank features into prototypes, we build upon PCS and perform spherical k-means with a momentum of 0.5.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,562",
+            "end_time": "00:00:25,190",
+            "transcript": "Similar to PCS, we perform in-domain contrastive learning and cross-domain self-supervised learning between the features of the feature extractor and the prototypes.",
+            "MatchedRegion": [
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.7346938775510203
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,850",
+            "end_time": "00:00:30,675",
+            "transcript": "To further improve performance, we add our pseudo-loss formulation for grid-based lane detection.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:31,655",
+            "end_time": "00:00:38,562",
+            "transcript": "Overall, our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD and all",
+            "MatchedRegion": [
+                {
+                    "Text": "Our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD, and our pseudo loss for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.8981481194496155,
+                        "Height": 0.07419376075267792,
+                        "Left": 0.035986706614494324,
+                        "Top": 0.724291205406189
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d87f5b5-b67c-4812-b8fa-27103f916237",
+                    "Score": 0.8
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_Cx54Xgy86xzmhZ9m",
+            "Score": 0.6256809234619141
+        },
+        {
+            "slide": "PART_0002_VPQBRKPuZ5gIgtxw",
+            "Score": 0.642970085144043
+        },
+        {
+            "slide": "PART_0008_Kmdtc9MGey4QaMVQ",
+            "Score": 0.6131291389465332
+        }
+    ]
+}

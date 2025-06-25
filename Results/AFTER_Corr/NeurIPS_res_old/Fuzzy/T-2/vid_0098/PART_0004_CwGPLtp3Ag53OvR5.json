@@ -1,0 +1,51 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,390",
+            "end_time": "00:00:05,153",
+            "transcript": "We used the open-source CARLA simulator to collect data for our source domains.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,713",
+            "end_time": "00:00:09,956",
+            "transcript": "During the dataset collection process, we randomized multiple aspects of the agent and environment.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,837",
+            "end_time": "00:00:18,042",
+            "transcript": "A comparison of agent and environmental variations to other private unit data sets for lane detection can be seen in the table on the slide.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:18,743",
+            "end_time": "00:00:21,965",
+            "transcript": "Please note that none of the other datasets is publicly available at",
+            "MatchedRegion": [
+                {
+                    "Text": "At this point, none of the other datasets is publicly available",
+                    "BoundingBox": {
+                        "Width": 0.19395320117473602,
+                        "Height": 0.10615502297878265,
+                        "Left": 0.507716953754425,
+                        "Top": 0.6326955556869507
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "69afe0bb-d6f2-402f-a074-a5847c48198e",
+                    "Score": 0.8244274809160305
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0002_VPQBRKPuZ5gIgtxw",
+            "Score": 0.7482962012290955
+        },
+        {
+            "slide": "PART_0003_AVYdxgQ3ohclNiow",
+            "Score": 0.7020231485366821
+        }
+    ]
+}

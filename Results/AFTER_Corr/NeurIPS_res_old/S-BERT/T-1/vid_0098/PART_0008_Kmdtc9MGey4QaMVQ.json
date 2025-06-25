@@ -1,0 +1,128 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,209",
+            "end_time": "00:00:03,892",
+            "transcript": "We use the ultra-fast lane detection method as a backbone for lane detection.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:04,593",
+            "end_time": "00:00:06,715",
+            "transcript": "The following UDA methods are evaluated.",
+            "MatchedRegion": [
+                {
+                    "Text": "The following UDA methods are evaluated: DANN[3], ADDA[6], SGADA[7], and SGPCS (ours)",
+                    "BoundingBox": {
+                        "Width": 0.4272581934928894,
+                        "Height": 0.07505735009908676,
+                        "Left": 0.03620203211903572,
+                        "Top": 0.33435165882110596
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "180a1bfe-74cc-4e23-9676-9f714a3c4d38",
+                    "Score": 0.8503804802894592
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,155",
+            "end_time": "00:00:10,558",
+            "transcript": "Done, DANN, ADDA and our SGADA.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,319",
+            "end_time": "00:00:17,865",
+            "transcript": "To work with UFLD, the UDA methods had to be adopted for grid-based lane detection, which is not always a trivial task.",
+            "MatchedRegion": [
+                {
+                    "Text": "To work with UFLD the UDA methods had to be adopted for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.41562148928642273,
+                        "Height": 0.07559280097484589,
+                        "Left": 0.03589600697159767,
+                        "Top": 0.435763418674469
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6f2902a4-eed3-4f3d-ada6-e23000273866",
+                    "Score": 0.9633265733718872
+                },
+                {
+                    "Text": "UFLD's grid-based lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.20423173904418945,
+                        "Height": 0.024618634954094887,
+                        "Left": 0.6439679861068726,
+                        "Top": 0.5960946679115295
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0e942122-f98b-4a25-80c2-76a17f4bd4b3",
+                    "Score": 0.8291969895362854
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,760",
+            "end_time": "00:00:25,707",
+            "transcript": "As can be seen on the right-side figure, grid-based lane detection divides the image into grid cells and classifies different lane types.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:26,548",
+            "end_time": "00:00:29,111",
+            "transcript": "Results are given as an average over five runs.",
+            "MatchedRegion": [
+                {
+                    "Text": "Results are given as an average over five runs",
+                    "BoundingBox": {
+                        "Width": 0.39909783005714417,
+                        "Height": 0.03504176437854767,
+                        "Left": 0.036028336733579636,
+                        "Top": 0.5384353995323181
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6b44208b-fee0-46c0-8725-65fde1a3814a",
+                    "Score": 0.9736141562461853
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,712",
+            "end_time": "00:00:32,995",
+            "transcript": "Baselines, implementations and weights are publicly available.",
+            "MatchedRegion": [
+                {
+                    "Text": "Baselines, implementations, and weights are publicly available",
+                    "BoundingBox": {
+                        "Width": 0.39453282952308655,
+                        "Height": 0.0754508525133133,
+                        "Left": 0.035965003073215485,
+                        "Top": 0.6009238362312317
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f924ce56-4e54-4c10-95aa-69e714828d0a",
+                    "Score": 0.97648024559021
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0002_VPQBRKPuZ5gIgtxw",
+            "Score": 0.7026798129081726
+        },
+        {
+            "slide": "PART_0003_AVYdxgQ3ohclNiow",
+            "Score": 0.6404337882995605
+        },
+        {
+            "slide": "PART_0004_CwGPLtp3Ag53OvR5",
+            "Score": 0.6794402599334717
+        },
+        {
+            "slide": "PART_0006_E2dTEyTGwuVrT8Cb",
+            "Score": 0.6145157814025879
+        }
+    ]
+}

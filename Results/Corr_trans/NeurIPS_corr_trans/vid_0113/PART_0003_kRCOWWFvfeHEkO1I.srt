@@ -1,0 +1,40 @@
+1
+00:00:01,729 --> 00:00:09,051
+We collect COVID-19 related tweets ranging from February 1, 2020 to September 30, 2021.
+
+2
+00:00:10,991 --> 00:00:15,972
+For data pre-processing, we first remove non-English tweets and retweets.
+
+3
+00:00:16,733 --> 00:00:19,493
+Then we filter out the tweets containing URLs.
+
+4
+00:00:20,193 --> 00:00:27,095
+Afterwards, we use a list of symptoms as keywords to match the tweets to extract medical-related tweets.
+
+5
+00:00:28,499 --> 00:00:31,341
+Finally, 10,000 tweets are annotated.
+
+6
+00:00:32,102 --> 00:00:39,026
+Among them, 6000 are randomly sampled, and the other 4000 are from the model labeled data.
+
+7
+00:00:39,667 --> 00:00:41,248
+All of them are manually checked.
+
+8
+00:00:42,229 --> 00:00:46,532
+We define seven entity types based on public health research needs.
+
+9
+00:00:47,333 --> 00:00:52,260
+including three general entity types and four medical entity types for annotation.
+
+10
+00:00:53,221 --> 00:01:02,955
+In particular, we select four entity types for additional sentiment annotation with three types of sentiment labels, positive, negative, neutral.
+

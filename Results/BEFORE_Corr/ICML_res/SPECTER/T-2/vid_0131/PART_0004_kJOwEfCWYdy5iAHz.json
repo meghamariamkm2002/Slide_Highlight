@@ -1,0 +1,59 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,521",
+            "end_time": "00:00:18,493",
+            "transcript": "So we propose the memorization discrepancy which is constructed by backtracking the historical models and we studied the empirical property of memorization discrepancy identifying clean samples from poignant samples.",
+            "MatchedRegion": [
+                {
+                    "Text": "Exploring Model Dynamics for Accumulative Poisoning Discovery",
+                    "BoundingBox": {
+                        "Width": 0.6332190036773682,
+                        "Height": 0.03312285244464874,
+                        "Left": 0.008007592521607876,
+                        "Top": 0.023512303829193115
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "a50c9c67-6bf2-415b-b568-1431be190a4c",
+                    "Score": 0.7107192277908325
+                },
+                {
+                    "Text": "Memorization Discrepancy",
+                    "BoundingBox": {
+                        "Width": 0.6962684392929077,
+                        "Height": 0.0802658349275589,
+                        "Left": 0.013257458806037903,
+                        "Top": 0.12018798291683197
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "6459fbe9-3393-4db7-95fc-891bdb333b13",
+                    "Score": 0.7947041988372803
+                },
+                {
+                    "Text": "Definition 1. (Memorization Discrepancy). Consider f: Rd Ac that maps the input feature to the C-dimensional simplex, () is perturbed from x on the model f ( ; 0t), and Ot-k means the parameters of the k-interval historical model compared to the current t. Then, we define Memorization Discrepancy on () based on the current parameter At and the historical parameter Ot-k as,",
+                    "BoundingBox": {
+                        "Width": 0.7941103577613831,
+                        "Height": 0.09570176154375076,
+                        "Left": 0.09265220165252686,
+                        "Top": 0.2993829548358917
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "792adc4d-4dcc-4b6f-b1ac-f86a88d28659",
+                    "Score": 0.7462630867958069
+                },
+                {
+                    "Text": "0.8 0.8 0.8 clean clean clean 0.7 poison 0.7 poison 0.7 poison 0.6 0.6 0.6 0.5 20.5 70.5 0.4 0.4 0.4 0.3 0.3 0.3 2 0.2 0.2 0.2 0.1 0.1 0.1 0.0 0 2 4 6 8 10 12 0.0 0 2 4 6 8 0.0 0 2 4 6 8 Memorization Discrepancy (E=0.4) Memorization Discrepancy (\u00a3=0.2) Memorization Discrepancy (E=0.1) (a) Under different poisoning capacities (k=1) (a) Visualization of clean, poison, and out-of-distribution data 0.8 clean 0.7 0.8 0.8 clean clean 0.8 1.2 clean clean k=20 0.7 poison 0.6 poison 0.7 poison 0.7 poison 0.7 poison 1.0 k=1 0.6 0.6 0.6 OOD 0.6 OOD 0.5 0.5 0.5 0.5 0.5 0.8 0.4 0.4 0.4 0.4 0.4 0.6 0.3 0.3 0.3 0.3 0.3 0.2 0.4 0.2 0.2 0.2 0.2 0.1 0.1 0.1 0.1 0.1 0.2 0 R 0 2 -2.5 0.0 2.5 5.0 7.5 10012515.0 0.0 4 6 0 10 0.0 2 4 0.0 0 0 6 -2 0 2 4 6 8 10 12 14 0.0 Memorization Discrepancy (k=1) Memorization Discrepancy (k=5) Memorization Discrepancy (k=20) Memorization Discrepancy (k=1) Memorization Discrepancy (k=20) Clean Poison OOD (b) Under different backtracking intervals (e=0.1) (b) Comparisons of the above three type of data",
+                    "BoundingBox": {
+                        "Width": 0.8030886054039001,
+                        "Height": 0.3982029855251312,
+                        "Left": 0.09533403813838959,
+                        "Top": 0.49096351861953735
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "2681aa5f-7376-4d33-adea-fffd9f890275",
+                    "Score": 0.7111887335777283
+                }
+            ]
+        }
+    ]
+}

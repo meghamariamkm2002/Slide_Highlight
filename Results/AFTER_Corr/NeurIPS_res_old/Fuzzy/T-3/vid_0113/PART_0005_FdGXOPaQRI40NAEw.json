@@ -1,0 +1,16 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,570",
+            "end_time": "00:00:20,996",
+            "transcript": "We evaluated the performance of four kinds of models, traditional statistical machine learning models, neural networks, general-domain large-scale pre-trained language models, and COVID-19-related pre-trained language models for the NER task and the TSA task on MassCov dataset.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0002_L6pLWK5w83eRrPzI",
+            "Score": 0.6022398471832275
+        }
+    ]
+}

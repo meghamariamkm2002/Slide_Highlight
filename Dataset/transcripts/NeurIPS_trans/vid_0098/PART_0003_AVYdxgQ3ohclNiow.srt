@@ -1,0 +1,24 @@
+1
+00:00:00,009 --> 00:00:00,669
+the well-domained.
+
+2
+00:00:01,770 --> 00:00:07,052
+The Carl and Benchmark consists of three distinct simtary data sets, which we built from all three different domains.
+
+3
+00:00:07,812 --> 00:00:11,694
+Moline focuses on upcycling markings in the domain of a 1A model vehicle.
+
+4
+00:00:12,395 --> 00:00:19,798
+Tulane incorporates balanced and domain randomized images from simulation as the source domain and the well-known to simple data set as the target domain.
+
+5
+00:00:20,558 --> 00:00:24,520
+Moline is a balanced combination of Moline and Tulane with two target domains.
+
+6
+00:00:25,220 --> 00:00:28,822
+Samples of the source and target domains can be seen in the image on the right.
+

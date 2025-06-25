@@ -1,0 +1,22 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:08,962",
+            "end_time": "00:00:13,681",
+            "transcript": "I'll be presenting a new class of energy-based memory models capable of storing and recalling of",
+            "MatchedRegion": [
+                {
+                    "Text": "HANTENS",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.052350372076034546,
+                        "Height": 0.023919304832816124,
+                        "Left": 0.5179750323295593,
+                        "Top": 0.0007202917477115989
+                    },
+                    "Id": "73f64a88-9c1d-4ae3-906d-e5b12ae2f269"
+                }
+            ]
+        }
+    ]
+}

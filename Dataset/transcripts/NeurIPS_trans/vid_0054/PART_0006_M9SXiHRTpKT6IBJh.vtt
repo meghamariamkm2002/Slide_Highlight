@@ -1,0 +1,20 @@
+WEBVTT
+
+00:00.689 --> 00:10.472
+First, in single-frame animal pose estimations, we benchmark simple baseline HRNet, HRFormer, and VIT pose method.
+
+00:11.132 --> 00:21.915
+We set up three settings to benchmark their performance, including user network weights per trend on ImageNet, Cocoa, and AP10000 dataset.
+
+00:22.455 --> 00:26.716
+With human pose per training, both scene-based and vision-transformer
+
+00:27.296 --> 00:29.499
+These methods show performance gains.
+
+00:29.999 --> 00:38.789
+Besides, the benefit of using AP1000 for pre-training is less than that of using the human post data set for pre-training.
+
+00:39.390 --> 00:48.801
+We suspect that it is caused by differences of distribution and data source and as well as the scale differences.
+

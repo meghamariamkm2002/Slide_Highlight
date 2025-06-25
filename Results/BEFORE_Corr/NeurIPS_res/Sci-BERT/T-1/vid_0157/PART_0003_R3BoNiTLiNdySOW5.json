@@ -1,0 +1,164 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,966",
+            "end_time": "00:00:05,489",
+            "transcript": "little more about our intermolecular trigonometry module.",
+            "MatchedRegion": [
+                {
+                    "Text": "n Piktkj Updating Zij matrix t, t' k m matrixp E L'KCK'J kr=1 k matrix",
+                    "BoundingBox": {
+                        "Width": 0.3014789819717407,
+                        "Height": 0.39847058057785034,
+                        "Left": 0.673904299736023,
+                        "Top": 0.16601043939590454
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e7205856-48c6-4b52-a645-46c505b9a5cb",
+                    "Score": 0.6599202156066895
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,710",
+            "end_time": "00:00:22,985",
+            "transcript": "For interaction between i and j, they are updated by every edge coming from i and every edge coming from node j. And they are updated together in a very efficient way.",
+            "MatchedRegion": [
+                {
+                    "Text": "Every update to the yellow boxed embedding is based on all red and blue boxed embeddings.",
+                    "BoundingBox": {
+                        "Width": 0.5303128957748413,
+                        "Height": 0.06101926416158676,
+                        "Left": 0.10225839912891388,
+                        "Top": 0.2417411059141159
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "31c76874-34f8-4bb5-a526-bf5084e3f246",
+                    "Score": 0.8151137828826904
+                },
+                {
+                    "Text": "The computation cost is manageable, O(NM(N+M)). N is the number of protein nodes and M is the number of ligand nodes.",
+                    "BoundingBox": {
+                        "Width": 0.5514554381370544,
+                        "Height": 0.06142991781234741,
+                        "Left": 0.10228873044252396,
+                        "Top": 0.31414681673049927
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "882b1106-8a96-4eed-9453-6be1287c955b",
+                    "Score": 0.8433661460876465
+                },
+                {
+                    "Text": "n Piktkj Updating Zij matrix t, t' k m matrixp E L'KCK'J kr=1 k matrix",
+                    "BoundingBox": {
+                        "Width": 0.3014789819717407,
+                        "Height": 0.39847058057785034,
+                        "Left": 0.673904299736023,
+                        "Top": 0.16601043939590454
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e7205856-48c6-4b52-a645-46c505b9a5cb",
+                    "Score": 0.6599202156066895
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,335",
+            "end_time": "00:00:35,538",
+            "transcript": "And the interaction energy landscape is smoother than traditional scoring functions because they move beyond the pairwise interaction.",
+            "MatchedRegion": [
+                {
+                    "Text": "Every update to the yellow boxed embedding is based on all red and blue boxed embeddings.",
+                    "BoundingBox": {
+                        "Width": 0.5303128957748413,
+                        "Height": 0.06101926416158676,
+                        "Left": 0.10225839912891388,
+                        "Top": 0.2417411059141159
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "31c76874-34f8-4bb5-a526-bf5084e3f246",
+                    "Score": 0.8151137828826904
+                },
+                {
+                    "Text": "2. The interaction energy landscape is smoother than traditional scoring functions by completely allowing the model to learn the potential form.",
+                    "BoundingBox": {
+                        "Width": 0.6081438660621643,
+                        "Height": 0.07143086940050125,
+                        "Left": 0.044522639364004135,
+                        "Top": 0.3893001973628998
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fe8e7ab5-04b0-4308-a5cc-e69b36bf43c5",
+                    "Score": 0.824372410774231
+                },
+                {
+                    "Text": "3. The interaction energy landscape is more accurate than traditional machine learning potentials by implicitly restricting to physically allowed conformations,.",
+                    "BoundingBox": {
+                        "Width": 0.6028600335121155,
+                        "Height": 0.07255871593952179,
+                        "Left": 0.04482055455446243,
+                        "Top": 0.48316994309425354
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2141b5ba-e209-4f9e-b729-34fdbe619898",
+                    "Score": 0.8031020760536194
+                },
+                {
+                    "Text": "n Piktkj Updating Zij matrix t, t' k m matrixp E L'KCK'J kr=1 k matrix",
+                    "BoundingBox": {
+                        "Width": 0.3014789819717407,
+                        "Height": 0.39847058057785034,
+                        "Left": 0.673904299736023,
+                        "Top": 0.16601043939590454
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e7205856-48c6-4b52-a645-46c505b9a5cb",
+                    "Score": 0.6599202156066895
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,779",
+            "end_time": "00:00:48,962",
+            "transcript": "And the energy landscape is more accurate than traditional machine learning methods because we explicitly model the triangle inequality series.",
+            "MatchedRegion": [
+                {
+                    "Text": "2. The interaction energy landscape is smoother than traditional scoring functions by completely allowing the model to learn the potential form.",
+                    "BoundingBox": {
+                        "Width": 0.6081438660621643,
+                        "Height": 0.07143086940050125,
+                        "Left": 0.044522639364004135,
+                        "Top": 0.3893001973628998
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fe8e7ab5-04b0-4308-a5cc-e69b36bf43c5",
+                    "Score": 0.824372410774231
+                },
+                {
+                    "Text": "3. The interaction energy landscape is more accurate than traditional machine learning potentials by implicitly restricting to physically allowed conformations,.",
+                    "BoundingBox": {
+                        "Width": 0.6028600335121155,
+                        "Height": 0.07255871593952179,
+                        "Left": 0.04482055455446243,
+                        "Top": 0.48316994309425354
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2141b5ba-e209-4f9e-b729-34fdbe619898",
+                    "Score": 0.8031020760536194
+                },
+                {
+                    "Text": "n Piktkj Updating Zij matrix t, t' k m matrixp E L'KCK'J kr=1 k matrix",
+                    "BoundingBox": {
+                        "Width": 0.3014789819717407,
+                        "Height": 0.39847058057785034,
+                        "Left": 0.673904299736023,
+                        "Top": 0.16601043939590454
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e7205856-48c6-4b52-a645-46c505b9a5cb",
+                    "Score": 0.6599202156066895
+                }
+            ]
+        }
+    ]
+}

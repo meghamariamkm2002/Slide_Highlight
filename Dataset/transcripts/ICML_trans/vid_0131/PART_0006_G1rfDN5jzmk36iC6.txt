@@ -1,0 +1,2 @@
+We conduct various experiments from different perspectives of the proposed information measure to show its properties.
+And we also compare the performance of our DSC with the representative method.

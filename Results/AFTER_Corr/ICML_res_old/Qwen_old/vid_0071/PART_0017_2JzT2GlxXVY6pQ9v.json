@@ -1,0 +1,40 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,028",
+            "end_time": "00:00:02,451",
+            "transcript": "That's all.",
+            "MatchedRegion": [
+                {
+                    "Text": "Extensive empirical studies have verified that a well-trained DNN usually encodes sparse, transferable, and discriminative interaction concepts.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7862481474876404,
+                        "Height": 0.08673670887947083,
+                        "Left": 0.09795326739549637,
+                        "Top": 0.4097194969654083
+                    },
+                    "Id": "7c7b5640-bafe-4e25-9947-dca628dbdbb7"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,853",
+            "end_time": "00:00:03,979",
+            "transcript": "Thanks for your attenion.",
+            "MatchedRegion": [
+                {
+                    "Text": "Besides, we also discussed three cases in which a DNN is unlikely to learn transferable concepts.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7267569899559021,
+                        "Height": 0.09466919302940369,
+                        "Left": 0.09820744395256042,
+                        "Top": 0.6530847549438477
+                    },
+                    "Id": "1ef32ef1-8d20-4bf2-b5fe-231051ffde93"
+                }
+            ]
+        }
+    ]
+}

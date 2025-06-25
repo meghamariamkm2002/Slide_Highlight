@@ -1,0 +1,128 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,069",
+            "end_time": "00:00:00,709",
+            "transcript": "zero sum games.",
+            "MatchedRegion": [
+                {
+                    "Text": "When using MMWU, the rate of change in the sum of quantum relative entropies between a Nash equilibrium and the player's strategies in a two- player zero-sum quantum game tends to zero when step-size u 0.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7475790977478027,
+                        "Height": 0.11901399493217468,
+                        "Left": 0.12539128959178925,
+                        "Top": 0.740114688873291
+                    },
+                    "Id": "615226d3-2df2-444f-99b8-8b8007fa4d67"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,210",
+            "end_time": "00:00:20,496",
+            "transcript": "So in terms of MNWU, we consider the quantum relative entropy between density matrices rho and sigma which is given by trace of rho times log rho minus log sigma and in this setting the matrix MWU algorithm is simply a matrix extension so you're playing using density matrices instead of",
+            "MatchedRegion": [
+                {
+                    "Text": "Matrix MWU",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.11116687953472137,
+                        "Height": 0.028917407616972923,
+                        "Left": 0.6053099036216736,
+                        "Top": 0.2779983878135681
+                    },
+                    "Id": "5dd517bd-2df3-4e46-8895-63100c43e5d0"
+                },
+                {
+                    "Text": "Theorem 1",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.10016410052776337,
+                        "Height": 0.029752537608146667,
+                        "Left": 0.12474115192890167,
+                        "Top": 0.6819782853126526
+                    },
+                    "Id": "995d0a93-3bdf-416f-8bcd-557575fca458"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:21,617",
+            "end_time": "00:00:23,019",
+            "transcript": "classical probability distributions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:23,580",
+            "end_time": "00:00:25,443",
+            "transcript": "And in this setting, we have the following main theorem.",
+            "MatchedRegion": [
+                {
+                    "Text": "Theorem 1",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.10016410052776337,
+                        "Height": 0.029752537608146667,
+                        "Left": 0.12474115192890167,
+                        "Top": 0.6819782853126526
+                    },
+                    "Id": "995d0a93-3bdf-416f-8bcd-557575fca458"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,983",
+            "end_time": "00:00:37,180",
+            "transcript": "When using MMWU, the rate of change in the sum of quantum relative entropies between the Nash equilibrium and the player strategies in a two-player zero sum quantum game tends to zero when the step size mu goes to zero.",
+            "MatchedRegion": [
+                {
+                    "Text": "Results - MMWU",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.3158396780490875,
+                        "Height": 0.05864359438419342,
+                        "Left": 0.07741346210241318,
+                        "Top": 0.11489880084991455
+                    },
+                    "Id": "eb271f0c-e370-45f2-a2d9-823ac5c6322c"
+                },
+                {
+                    "Text": "Matrix MWU",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.11116687953472137,
+                        "Height": 0.028917407616972923,
+                        "Left": 0.6053099036216736,
+                        "Top": 0.2779983878135681
+                    },
+                    "Id": "5dd517bd-2df3-4e46-8895-63100c43e5d0"
+                },
+                {
+                    "Text": "When using MMWU, the rate of change in the sum of quantum relative entropies between a Nash equilibrium and the player's strategies in a two- player zero-sum quantum game tends to zero when step-size u 0.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7475790977478027,
+                        "Height": 0.11901399493217468,
+                        "Left": 0.12539128959178925,
+                        "Top": 0.740114688873291
+                    },
+                    "Id": "615226d3-2df2-444f-99b8-8b8007fa4d67"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:37,987",
+            "end_time": "00:00:47,139",
+            "transcript": "This means essentially that when agents are using MNW, there's some notion or some notion of volume which is essentially conserved.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:47,880",
+            "end_time": "00:00:52,005",
+            "transcript": "And we use this fact and use this result to study the continuous time",
+            "MatchedRegion": []
+        }
+    ]
+}

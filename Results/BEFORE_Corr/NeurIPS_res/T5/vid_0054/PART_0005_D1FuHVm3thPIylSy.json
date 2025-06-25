@@ -1,0 +1,58 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,738",
+            "end_time": "00:00:09,369",
+            "transcript": "And after that, we benchmark representative CNN-based and vision-transformer-based post-estimation method on three tracks.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. We benchmark representative CNN-based and vision transformer-based pose estimation methods on three tracks.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7828651070594788,
+                        "Height": 0.02932637743651867,
+                        "Left": 0.043123748153448105,
+                        "Top": 0.17958670854568481
+                    },
+                    "Id": "6245a9b5-4588-4cdc-9c25-cf7148d2132a"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,070",
+            "end_time": "00:00:13,213",
+            "transcript": "There are SF-track, IS-track, and APT-track.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:13,914",
+            "end_time": "00:00:21,183",
+            "transcript": "In all the experiments, we use average precision as a primary metric to evaluate the performance of different models.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiment settings",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.24808184802532196,
+                        "Height": 0.04878685623407364,
+                        "Left": 0.020629363134503365,
+                        "Top": 0.05735692381858826
+                    },
+                    "Id": "a47a6ebe-8142-4561-87b2-a87428b97749"
+                },
+                {
+                    "Text": "2. We use the average precision (AP) as the primary metric to evaluate the performance of different models.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7328026294708252,
+                        "Height": 0.02954811230301857,
+                        "Left": 0.040854956954717636,
+                        "Top": 0.35841360688209534
+                    },
+                    "Id": "2c127ef6-d435-4724-943c-5095f6dd8ee6"
+                }
+            ]
+        }
+    ]
+}

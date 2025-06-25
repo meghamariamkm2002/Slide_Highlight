@@ -1,0 +1,68 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,030",
+            "end_time": "00:00:09,634",
+            "transcript": "In our experiments, the evaluated UDA methods achieved a maximum accuracy gain of around 4% and high positives and negative rates.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,435",
+            "end_time": "00:00:15,978",
+            "transcript": "This shows that the methods are not able to achieve comparable results to the supervised baselines.",
+            "MatchedRegion": [
+                {
+                    "Text": "Adaptation methods are not able to achieve comparable results to the supervised baselines (UFLD-TO):",
+                    "BoundingBox": {
+                        "Width": 0.8894064426422119,
+                        "Height": 0.033779218792915344,
+                        "Left": 0.03510523587465286,
+                        "Top": 0.1607089638710022
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c8eb30e3-ad38-4707-a60f-f5f369bdbbbb",
+                    "Score": 0.7138490676879883
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,778",
+            "end_time": "00:00:23,705",
+            "transcript": "Furthermore, we observe FP and FN rates increase significantly on the multi-target task of MuLane.",
+            "MatchedRegion": [
+                {
+                    "Text": "FP and FN rates increase significantly on the multi-target task of MuLane",
+                    "BoundingBox": {
+                        "Width": 0.6298749446868896,
+                        "Height": 0.03404204174876213,
+                        "Left": 0.03552503138780594,
+                        "Top": 0.3392248749732971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "14cdf07c-bbb9-4b2b-8ed4-26aee4222c62",
+                    "Score": 0.9804463982582092
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,246",
+            "end_time": "00:00:32,995",
+            "transcript": "We want to emphasize that FP and FN represent strongly detected and missing lanes, which can lead to crucial impacts on autonomous driving.",
+            "MatchedRegion": [
+                {
+                    "Text": "FP and FN represent wrongly detected and missing lanes, which can lead to crucial impacts on autonomous driving functions",
+                    "BoundingBox": {
+                        "Width": 0.9204299449920654,
+                        "Height": 0.030705302953720093,
+                        "Left": 0.055972564965486526,
+                        "Top": 0.8392157554626465
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e10fa744-9aae-4a2c-a033-198eac6ccaea",
+                    "Score": 0.897965133190155
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

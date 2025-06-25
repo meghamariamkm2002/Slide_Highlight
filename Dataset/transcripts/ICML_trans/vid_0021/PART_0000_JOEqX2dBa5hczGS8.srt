@@ -1,0 +1,4 @@
+1
+00:00:08,626 --> 00:00:12,693
+Howdy, I'm Gideon Freud and I'll be presenting a coupled flow approach to imitation learning.
+

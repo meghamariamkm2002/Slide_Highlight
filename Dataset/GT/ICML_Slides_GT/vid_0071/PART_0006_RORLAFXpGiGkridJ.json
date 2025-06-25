@@ -1,0 +1,29 @@
+{
+  "MatchedRegions": [
+      {
+          "start_time": "00:00:01,527",
+          "end_time": "00:00:07,674",
+          "transcript": "However, there still lacks sufficient support to claim that these interactions really represent concepts.",
+          "MatchedRegion": []
+      },
+      {
+        "start_time": "00:00:08,636",
+        "end_time": "00:00:14,002",
+        "transcript": "Because this interaction metric may simply be a meaningless mathematical transformation.",
+        "MatchedRegion": [
+          {
+            "Id": "c274df50-5a64-49bf-b98b-66f89488428c",
+            "Text": "can be just a meaningless transformation on each individual sample",
+            "BoundingBox": {
+                "Width": 0.5365966558456421,
+                "Height": 0.029767177999019623,
+                "Left": 0.1992415487766266,
+                "Top": 0.5778927206993103
+            },
+            "BlockType": "LAYOUT_TEXT"
+          }
+        ]
+    }
+  ],
+  "MatchedSlides": []
+}

@@ -1,0 +1,23 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,230",
+            "end_time": "00:00:01,076",
+            "transcript": "Thanks for watching.",
+            "MatchedRegion": [
+                {
+                    "Text": "Thanks!",
+                    "BoundingBox": {
+                        "Width": 0.14776387810707092,
+                        "Height": 0.06028442084789276,
+                        "Left": 0.39424487948417664,
+                        "Top": 0.48692575097084045
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2d6af533-f0d9-4e74-acce-c9ae5a35757e",
+                    "Score": 0.764262855052948
+                }
+            ]
+        }
+    ]
+}

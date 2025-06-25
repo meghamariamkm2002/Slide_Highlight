@@ -1,0 +1,7 @@
+models.
+This figure shows the accuracy of cell-based models from our search base, consisting of uniform blocks denoted in blue, and macro models consisting of different blocks denoted in red.
+Probable optimal points are additionally emphasised with markers.
+There are two highlights.
+First, the probability of frontier models with different blocks clearly dominate that of models with uniform blocks.
+2.
+The macro sphere is much larger, posting a challenge to the searching area.

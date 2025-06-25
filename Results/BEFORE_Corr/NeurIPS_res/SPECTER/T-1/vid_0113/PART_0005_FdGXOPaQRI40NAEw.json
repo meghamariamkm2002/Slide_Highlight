@@ -1,0 +1,71 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,570",
+            "end_time": "00:00:20,996",
+            "transcript": "We evaluated the performance of four kinds of models, statistic, machine learning models, neural networks, general-domain large-scale pre-trained language models, and COVID-19-related pre-trained language models for the NER task and the TSA task on MassCov dataset.",
+            "MatchedRegion": [
+                {
+                    "Text": "3.1 Named Entity Recognition (NER) Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.5259122848510742,
+                        "Height": 0.041582200676202774,
+                        "Left": 0.027423763647675514,
+                        "Top": 0.140104278922081
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "ee06a31f-d3d1-498b-a562-fe2f56b5c2da",
+                    "Score": 0.8066120147705078
+                },
+                {
+                    "Text": "(1) A BiLSTM for word-level feature extraction",
+                    "BoundingBox": {
+                        "Width": 0.4115103781223297,
+                        "Height": 0.03481994569301605,
+                        "Left": 0.1393926590681076,
+                        "Top": 0.35187235474586487
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "82bd401d-11a7-4638-b32b-165644fd3791",
+                    "Score": 0.8385369777679443
+                },
+                {
+                    "Text": "(2) CRF or non-CRF as the inference layer or (3) without character information or encoding character feature with structure CNN, LSTM (denoted as CCNN and CLSTM respectively)",
+                    "BoundingBox": {
+                        "Width": 0.7875378727912903,
+                        "Height": 0.08037618547677994,
+                        "Left": 0.13935622572898865,
+                        "Top": 0.3961019217967987
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f8180f65-a0e1-4dda-a8ab-d9cbf672c175",
+                    "Score": 0.8002641201019287
+                },
+                {
+                    "Text": "Train-dev-test ratio is 70:15:15.",
+                    "BoundingBox": {
+                        "Width": 0.26241636276245117,
+                        "Height": 0.027587708085775375,
+                        "Left": 0.12232817709445953,
+                        "Top": 0.6357335448265076
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "71d47f16-2875-4b66-bfb4-e47a559aafcc",
+                    "Score": 0.8087063431739807
+                },
+                {
+                    "Text": "All the experiments of NER models are conducted using NCRF+ (Yang and Zhang, 2018)",
+                    "BoundingBox": {
+                        "Width": 0.7623849511146545,
+                        "Height": 0.0345710813999176,
+                        "Left": 0.10169412940740585,
+                        "Top": 0.7285919189453125
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "af21de6a-52e6-4750-bfab-5590d24e4919",
+                    "Score": 0.8133115768432617
+                }
+            ]
+        }
+    ]
+}

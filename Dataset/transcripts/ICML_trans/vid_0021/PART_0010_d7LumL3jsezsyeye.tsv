@@ -1,0 +1,5 @@
+start	end	text
+109	229	them.
+1210	4851	In conclusion, we presented CFIL, a unique approach to imitation learning.
+5231	17637	It outperforms the state-of-the-art in a variety of settings and introduces many novelties including its estimator for the log ratio, its smoothing and regularization, and more generally its employment of flows, while we also performed a unique analysis using BC routes.
+18374	30858	Overall, we point out the great potential that demonstrated the utility of explicitly modeling the state and state action distributions and aim to inspire more research incorporating such models all across the reinforcement learning literature.

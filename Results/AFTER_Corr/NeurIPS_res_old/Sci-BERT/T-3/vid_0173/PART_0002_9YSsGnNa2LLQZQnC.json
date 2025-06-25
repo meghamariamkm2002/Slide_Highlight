@@ -1,0 +1,1154 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,790",
+            "end_time": "00:00:05,592",
+            "transcript": "These are very different from traditional bidders who are value maximizers.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.859299898147583,
+                        "Height": 0.07358276098966599,
+                        "Left": 0.06899639219045639,
+                        "Top": 0.06920124590396881
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7171204686164856
+                },
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.20874199271202087,
+                        "Height": 0.035364117473363876,
+                        "Left": 0.07403749227523804,
+                        "Top": 0.32331106066703796
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7431005239486694
+                },
+                {
+                    "Text": "autobidders:",
+                    "BoundingBox": {
+                        "Width": 0.1404428780078888,
+                        "Height": 0.034835334867239,
+                        "Left": 0.5183690786361694,
+                        "Top": 0.34476423263549805
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7048982381820679
+                },
+                {
+                    "Text": "maximize E[utility] = E[value - payment]",
+                    "BoundingBox": {
+                        "Width": 0.387010782957077,
+                        "Height": 0.10683700442314148,
+                        "Left": 0.07687248289585114,
+                        "Top": 0.43065541982650757
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7398592829704285
+                },
+                {
+                    "Text": "maximize E[value]",
+                    "BoundingBox": {
+                        "Width": 0.23341326415538788,
+                        "Height": 0.0487869456410408,
+                        "Left": 0.520421028137207,
+                        "Top": 0.4570671617984772
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7160351276397705
+                },
+                {
+                    "Text": "don't care about value / payment",
+                    "BoundingBox": {
+                        "Width": 0.39544177055358887,
+                        "Height": 0.04484296962618828,
+                        "Left": 0.07672583311796188,
+                        "Top": 0.6017541885375977
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6901978254318237
+                },
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.3693433701992035,
+                        "Height": 0.09619355201721191,
+                        "Left": 0.0761318951845169,
+                        "Top": 0.7102848887443542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8391759395599365
+                },
+                {
+                    "Text": "s.t. E[value]/E[payment] > T",
+                    "BoundingBox": {
+                        "Width": 0.36401256918907166,
+                        "Height": 0.04803207516670227,
+                        "Left": 0.5204197764396667,
+                        "Top": 0.5759791731834412
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7396290302276611
+                },
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BoundingBox": {
+                        "Width": 0.37008872628211975,
+                        "Height": 0.09569762647151947,
+                        "Left": 0.5204179883003235,
+                        "Top": 0.6904134154319763
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8159717321395874
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,992",
+            "end_time": "00:00:10,714",
+            "transcript": "They want to maximize their expected utility, which is the difference between the value and the payment.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.859299898147583,
+                        "Height": 0.07358276098966599,
+                        "Left": 0.06899639219045639,
+                        "Top": 0.06920124590396881
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7171204686164856
+                },
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.20874199271202087,
+                        "Height": 0.035364117473363876,
+                        "Left": 0.07403749227523804,
+                        "Top": 0.32331106066703796
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7431005239486694
+                },
+                {
+                    "Text": "autobidders:",
+                    "BoundingBox": {
+                        "Width": 0.1404428780078888,
+                        "Height": 0.034835334867239,
+                        "Left": 0.5183690786361694,
+                        "Top": 0.34476423263549805
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7048982381820679
+                },
+                {
+                    "Text": "maximize E[utility] = E[value - payment]",
+                    "BoundingBox": {
+                        "Width": 0.387010782957077,
+                        "Height": 0.10683700442314148,
+                        "Left": 0.07687248289585114,
+                        "Top": 0.43065541982650757
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7398592829704285
+                },
+                {
+                    "Text": "maximize E[value]",
+                    "BoundingBox": {
+                        "Width": 0.23341326415538788,
+                        "Height": 0.0487869456410408,
+                        "Left": 0.520421028137207,
+                        "Top": 0.4570671617984772
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7160351276397705
+                },
+                {
+                    "Text": "don't care about value / payment",
+                    "BoundingBox": {
+                        "Width": 0.39544177055358887,
+                        "Height": 0.04484296962618828,
+                        "Left": 0.07672583311796188,
+                        "Top": 0.6017541885375977
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6901978254318237
+                },
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.3693433701992035,
+                        "Height": 0.09619355201721191,
+                        "Left": 0.0761318951845169,
+                        "Top": 0.7102848887443542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8391759395599365
+                },
+                {
+                    "Text": "s.t. E[value]/E[payment] > T",
+                    "BoundingBox": {
+                        "Width": 0.36401256918907166,
+                        "Height": 0.04803207516670227,
+                        "Left": 0.5204197764396667,
+                        "Top": 0.5759791731834412
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7396290302276611
+                },
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BoundingBox": {
+                        "Width": 0.37008872628211975,
+                        "Height": 0.09569762647151947,
+                        "Left": 0.5204179883003235,
+                        "Top": 0.6904134154319763
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8159717321395874
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,415",
+            "end_time": "00:00:15,677",
+            "transcript": "And they don't care about the value, the ratio between value and payment.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.859299898147583,
+                        "Height": 0.07358276098966599,
+                        "Left": 0.06899639219045639,
+                        "Top": 0.06920124590396881
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7171204686164856
+                },
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.20874199271202087,
+                        "Height": 0.035364117473363876,
+                        "Left": 0.07403749227523804,
+                        "Top": 0.32331106066703796
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7431005239486694
+                },
+                {
+                    "Text": "autobidders:",
+                    "BoundingBox": {
+                        "Width": 0.1404428780078888,
+                        "Height": 0.034835334867239,
+                        "Left": 0.5183690786361694,
+                        "Top": 0.34476423263549805
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7048982381820679
+                },
+                {
+                    "Text": "maximize E[utility] = E[value - payment]",
+                    "BoundingBox": {
+                        "Width": 0.387010782957077,
+                        "Height": 0.10683700442314148,
+                        "Left": 0.07687248289585114,
+                        "Top": 0.43065541982650757
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7398592829704285
+                },
+                {
+                    "Text": "maximize E[value]",
+                    "BoundingBox": {
+                        "Width": 0.23341326415538788,
+                        "Height": 0.0487869456410408,
+                        "Left": 0.520421028137207,
+                        "Top": 0.4570671617984772
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7160351276397705
+                },
+                {
+                    "Text": "don't care about value / payment",
+                    "BoundingBox": {
+                        "Width": 0.39544177055358887,
+                        "Height": 0.04484296962618828,
+                        "Left": 0.07672583311796188,
+                        "Top": 0.6017541885375977
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6901978254318237
+                },
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.3693433701992035,
+                        "Height": 0.09619355201721191,
+                        "Left": 0.0761318951845169,
+                        "Top": 0.7102848887443542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8391759395599365
+                },
+                {
+                    "Text": "s.t. E[value]/E[payment] > T",
+                    "BoundingBox": {
+                        "Width": 0.36401256918907166,
+                        "Height": 0.04803207516670227,
+                        "Left": 0.5204197764396667,
+                        "Top": 0.5759791731834412
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7396290302276611
+                },
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BoundingBox": {
+                        "Width": 0.37008872628211975,
+                        "Height": 0.09569762647151947,
+                        "Left": 0.5204179883003235,
+                        "Top": 0.6904134154319763
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8159717321395874
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,698",
+            "end_time": "00:00:19,019",
+            "transcript": "So we understand these bidders quite well.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.859299898147583,
+                        "Height": 0.07358276098966599,
+                        "Left": 0.06899639219045639,
+                        "Top": 0.06920124590396881
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7171204686164856
+                },
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.20874199271202087,
+                        "Height": 0.035364117473363876,
+                        "Left": 0.07403749227523804,
+                        "Top": 0.32331106066703796
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7431005239486694
+                },
+                {
+                    "Text": "autobidders:",
+                    "BoundingBox": {
+                        "Width": 0.1404428780078888,
+                        "Height": 0.034835334867239,
+                        "Left": 0.5183690786361694,
+                        "Top": 0.34476423263549805
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7048982381820679
+                },
+                {
+                    "Text": "maximize E[utility] = E[value - payment]",
+                    "BoundingBox": {
+                        "Width": 0.387010782957077,
+                        "Height": 0.10683700442314148,
+                        "Left": 0.07687248289585114,
+                        "Top": 0.43065541982650757
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7398592829704285
+                },
+                {
+                    "Text": "maximize E[value]",
+                    "BoundingBox": {
+                        "Width": 0.23341326415538788,
+                        "Height": 0.0487869456410408,
+                        "Left": 0.520421028137207,
+                        "Top": 0.4570671617984772
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7160351276397705
+                },
+                {
+                    "Text": "don't care about value / payment",
+                    "BoundingBox": {
+                        "Width": 0.39544177055358887,
+                        "Height": 0.04484296962618828,
+                        "Left": 0.07672583311796188,
+                        "Top": 0.6017541885375977
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6901978254318237
+                },
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.3693433701992035,
+                        "Height": 0.09619355201721191,
+                        "Left": 0.0761318951845169,
+                        "Top": 0.7102848887443542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8391759395599365
+                },
+                {
+                    "Text": "s.t. E[value]/E[payment] > T",
+                    "BoundingBox": {
+                        "Width": 0.36401256918907166,
+                        "Height": 0.04803207516670227,
+                        "Left": 0.5204197764396667,
+                        "Top": 0.5759791731834412
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7396290302276611
+                },
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BoundingBox": {
+                        "Width": 0.37008872628211975,
+                        "Height": 0.09569762647151947,
+                        "Left": 0.5204179883003235,
+                        "Top": 0.6904134154319763
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8159717321395874
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,199",
+            "end_time": "00:00:26,803",
+            "transcript": "We have many maxims for them, like Myerson's, VCG, posted pricing, and others.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.859299898147583,
+                        "Height": 0.07358276098966599,
+                        "Left": 0.06899639219045639,
+                        "Top": 0.06920124590396881
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7171204686164856
+                },
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.20874199271202087,
+                        "Height": 0.035364117473363876,
+                        "Left": 0.07403749227523804,
+                        "Top": 0.32331106066703796
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7431005239486694
+                },
+                {
+                    "Text": "autobidders:",
+                    "BoundingBox": {
+                        "Width": 0.1404428780078888,
+                        "Height": 0.034835334867239,
+                        "Left": 0.5183690786361694,
+                        "Top": 0.34476423263549805
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7048982381820679
+                },
+                {
+                    "Text": "maximize E[utility] = E[value - payment]",
+                    "BoundingBox": {
+                        "Width": 0.387010782957077,
+                        "Height": 0.10683700442314148,
+                        "Left": 0.07687248289585114,
+                        "Top": 0.43065541982650757
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7398592829704285
+                },
+                {
+                    "Text": "maximize E[value]",
+                    "BoundingBox": {
+                        "Width": 0.23341326415538788,
+                        "Height": 0.0487869456410408,
+                        "Left": 0.520421028137207,
+                        "Top": 0.4570671617984772
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7160351276397705
+                },
+                {
+                    "Text": "don't care about value / payment",
+                    "BoundingBox": {
+                        "Width": 0.39544177055358887,
+                        "Height": 0.04484296962618828,
+                        "Left": 0.07672583311796188,
+                        "Top": 0.6017541885375977
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6901978254318237
+                },
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.3693433701992035,
+                        "Height": 0.09619355201721191,
+                        "Left": 0.0761318951845169,
+                        "Top": 0.7102848887443542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8391759395599365
+                },
+                {
+                    "Text": "s.t. E[value]/E[payment] > T",
+                    "BoundingBox": {
+                        "Width": 0.36401256918907166,
+                        "Height": 0.04803207516670227,
+                        "Left": 0.5204197764396667,
+                        "Top": 0.5759791731834412
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7396290302276611
+                },
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BoundingBox": {
+                        "Width": 0.37008872628211975,
+                        "Height": 0.09569762647151947,
+                        "Left": 0.5204179883003235,
+                        "Top": 0.6904134154319763
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8159717321395874
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:27,603",
+            "end_time": "00:00:28,664",
+            "transcript": "They are well studied.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.859299898147583,
+                        "Height": 0.07358276098966599,
+                        "Left": 0.06899639219045639,
+                        "Top": 0.06920124590396881
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7171204686164856
+                },
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.20874199271202087,
+                        "Height": 0.035364117473363876,
+                        "Left": 0.07403749227523804,
+                        "Top": 0.32331106066703796
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7431005239486694
+                },
+                {
+                    "Text": "autobidders:",
+                    "BoundingBox": {
+                        "Width": 0.1404428780078888,
+                        "Height": 0.034835334867239,
+                        "Left": 0.5183690786361694,
+                        "Top": 0.34476423263549805
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7048982381820679
+                },
+                {
+                    "Text": "maximize E[utility] = E[value - payment]",
+                    "BoundingBox": {
+                        "Width": 0.387010782957077,
+                        "Height": 0.10683700442314148,
+                        "Left": 0.07687248289585114,
+                        "Top": 0.43065541982650757
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7398592829704285
+                },
+                {
+                    "Text": "maximize E[value]",
+                    "BoundingBox": {
+                        "Width": 0.23341326415538788,
+                        "Height": 0.0487869456410408,
+                        "Left": 0.520421028137207,
+                        "Top": 0.4570671617984772
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7160351276397705
+                },
+                {
+                    "Text": "don't care about value / payment",
+                    "BoundingBox": {
+                        "Width": 0.39544177055358887,
+                        "Height": 0.04484296962618828,
+                        "Left": 0.07672583311796188,
+                        "Top": 0.6017541885375977
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6901978254318237
+                },
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.3693433701992035,
+                        "Height": 0.09619355201721191,
+                        "Left": 0.0761318951845169,
+                        "Top": 0.7102848887443542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8391759395599365
+                },
+                {
+                    "Text": "s.t. E[value]/E[payment] > T",
+                    "BoundingBox": {
+                        "Width": 0.36401256918907166,
+                        "Height": 0.04803207516670227,
+                        "Left": 0.5204197764396667,
+                        "Top": 0.5759791731834412
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7396290302276611
+                },
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BoundingBox": {
+                        "Width": 0.37008872628211975,
+                        "Height": 0.09569762647151947,
+                        "Left": 0.5204179883003235,
+                        "Top": 0.6904134154319763
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8159717321395874
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,344",
+            "end_time": "00:00:32,225",
+            "transcript": "On the other hand, for autobidders, we don't know so much.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.859299898147583,
+                        "Height": 0.07358276098966599,
+                        "Left": 0.06899639219045639,
+                        "Top": 0.06920124590396881
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7171204686164856
+                },
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.20874199271202087,
+                        "Height": 0.035364117473363876,
+                        "Left": 0.07403749227523804,
+                        "Top": 0.32331106066703796
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7431005239486694
+                },
+                {
+                    "Text": "autobidders:",
+                    "BoundingBox": {
+                        "Width": 0.1404428780078888,
+                        "Height": 0.034835334867239,
+                        "Left": 0.5183690786361694,
+                        "Top": 0.34476423263549805
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7048982381820679
+                },
+                {
+                    "Text": "maximize E[utility] = E[value - payment]",
+                    "BoundingBox": {
+                        "Width": 0.387010782957077,
+                        "Height": 0.10683700442314148,
+                        "Left": 0.07687248289585114,
+                        "Top": 0.43065541982650757
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7398592829704285
+                },
+                {
+                    "Text": "maximize E[value]",
+                    "BoundingBox": {
+                        "Width": 0.23341326415538788,
+                        "Height": 0.0487869456410408,
+                        "Left": 0.520421028137207,
+                        "Top": 0.4570671617984772
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7160351276397705
+                },
+                {
+                    "Text": "don't care about value / payment",
+                    "BoundingBox": {
+                        "Width": 0.39544177055358887,
+                        "Height": 0.04484296962618828,
+                        "Left": 0.07672583311796188,
+                        "Top": 0.6017541885375977
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6901978254318237
+                },
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.3693433701992035,
+                        "Height": 0.09619355201721191,
+                        "Left": 0.0761318951845169,
+                        "Top": 0.7102848887443542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8391759395599365
+                },
+                {
+                    "Text": "s.t. E[value]/E[payment] > T",
+                    "BoundingBox": {
+                        "Width": 0.36401256918907166,
+                        "Height": 0.04803207516670227,
+                        "Left": 0.5204197764396667,
+                        "Top": 0.5759791731834412
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7396290302276611
+                },
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BoundingBox": {
+                        "Width": 0.37008872628211975,
+                        "Height": 0.09569762647151947,
+                        "Left": 0.5204179883003235,
+                        "Top": 0.6904134154319763
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8159717321395874
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:33,826",
+            "end_time": "00:00:43,711",
+            "transcript": "Alibiders want to maximize their expected value, subject to the ROI constraint, which means the ratio between the expected value and the expected payment should be large enough.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.859299898147583,
+                        "Height": 0.07358276098966599,
+                        "Left": 0.06899639219045639,
+                        "Top": 0.06920124590396881
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7171204686164856
+                },
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.20874199271202087,
+                        "Height": 0.035364117473363876,
+                        "Left": 0.07403749227523804,
+                        "Top": 0.32331106066703796
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7431005239486694
+                },
+                {
+                    "Text": "autobidders:",
+                    "BoundingBox": {
+                        "Width": 0.1404428780078888,
+                        "Height": 0.034835334867239,
+                        "Left": 0.5183690786361694,
+                        "Top": 0.34476423263549805
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7048982381820679
+                },
+                {
+                    "Text": "maximize E[utility] = E[value - payment]",
+                    "BoundingBox": {
+                        "Width": 0.387010782957077,
+                        "Height": 0.10683700442314148,
+                        "Left": 0.07687248289585114,
+                        "Top": 0.43065541982650757
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7398592829704285
+                },
+                {
+                    "Text": "maximize E[value]",
+                    "BoundingBox": {
+                        "Width": 0.23341326415538788,
+                        "Height": 0.0487869456410408,
+                        "Left": 0.520421028137207,
+                        "Top": 0.4570671617984772
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7160351276397705
+                },
+                {
+                    "Text": "don't care about value / payment",
+                    "BoundingBox": {
+                        "Width": 0.39544177055358887,
+                        "Height": 0.04484296962618828,
+                        "Left": 0.07672583311796188,
+                        "Top": 0.6017541885375977
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6901978254318237
+                },
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.3693433701992035,
+                        "Height": 0.09619355201721191,
+                        "Left": 0.0761318951845169,
+                        "Top": 0.7102848887443542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8391759395599365
+                },
+                {
+                    "Text": "s.t. E[value]/E[payment] > T",
+                    "BoundingBox": {
+                        "Width": 0.36401256918907166,
+                        "Height": 0.04803207516670227,
+                        "Left": 0.5204197764396667,
+                        "Top": 0.5759791731834412
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7396290302276611
+                },
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BoundingBox": {
+                        "Width": 0.37008872628211975,
+                        "Height": 0.09569762647151947,
+                        "Left": 0.5204179883003235,
+                        "Top": 0.6904134154319763
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8159717321395874
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:44,731",
+            "end_time": "00:00:46,272",
+            "transcript": "We do have some maxims for them.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.859299898147583,
+                        "Height": 0.07358276098966599,
+                        "Left": 0.06899639219045639,
+                        "Top": 0.06920124590396881
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7171204686164856
+                },
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.20874199271202087,
+                        "Height": 0.035364117473363876,
+                        "Left": 0.07403749227523804,
+                        "Top": 0.32331106066703796
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7431005239486694
+                },
+                {
+                    "Text": "autobidders:",
+                    "BoundingBox": {
+                        "Width": 0.1404428780078888,
+                        "Height": 0.034835334867239,
+                        "Left": 0.5183690786361694,
+                        "Top": 0.34476423263549805
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7048982381820679
+                },
+                {
+                    "Text": "maximize E[utility] = E[value - payment]",
+                    "BoundingBox": {
+                        "Width": 0.387010782957077,
+                        "Height": 0.10683700442314148,
+                        "Left": 0.07687248289585114,
+                        "Top": 0.43065541982650757
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7398592829704285
+                },
+                {
+                    "Text": "maximize E[value]",
+                    "BoundingBox": {
+                        "Width": 0.23341326415538788,
+                        "Height": 0.0487869456410408,
+                        "Left": 0.520421028137207,
+                        "Top": 0.4570671617984772
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7160351276397705
+                },
+                {
+                    "Text": "don't care about value / payment",
+                    "BoundingBox": {
+                        "Width": 0.39544177055358887,
+                        "Height": 0.04484296962618828,
+                        "Left": 0.07672583311796188,
+                        "Top": 0.6017541885375977
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6901978254318237
+                },
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.3693433701992035,
+                        "Height": 0.09619355201721191,
+                        "Left": 0.0761318951845169,
+                        "Top": 0.7102848887443542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8391759395599365
+                },
+                {
+                    "Text": "s.t. E[value]/E[payment] > T",
+                    "BoundingBox": {
+                        "Width": 0.36401256918907166,
+                        "Height": 0.04803207516670227,
+                        "Left": 0.5204197764396667,
+                        "Top": 0.5759791731834412
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7396290302276611
+                },
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BoundingBox": {
+                        "Width": 0.37008872628211975,
+                        "Height": 0.09569762647151947,
+                        "Left": 0.5204179883003235,
+                        "Top": 0.6904134154319763
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8159717321395874
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:47,232",
+            "end_time": "00:00:52,815",
+            "transcript": "These maxims involve payment scalers, and sometimes we do prior-free approximations.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.859299898147583,
+                        "Height": 0.07358276098966599,
+                        "Left": 0.06899639219045639,
+                        "Top": 0.06920124590396881
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7171204686164856
+                },
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.20874199271202087,
+                        "Height": 0.035364117473363876,
+                        "Left": 0.07403749227523804,
+                        "Top": 0.32331106066703796
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7431005239486694
+                },
+                {
+                    "Text": "autobidders:",
+                    "BoundingBox": {
+                        "Width": 0.1404428780078888,
+                        "Height": 0.034835334867239,
+                        "Left": 0.5183690786361694,
+                        "Top": 0.34476423263549805
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.7048982381820679
+                },
+                {
+                    "Text": "maximize E[utility] = E[value - payment]",
+                    "BoundingBox": {
+                        "Width": 0.387010782957077,
+                        "Height": 0.10683700442314148,
+                        "Left": 0.07687248289585114,
+                        "Top": 0.43065541982650757
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7398592829704285
+                },
+                {
+                    "Text": "maximize E[value]",
+                    "BoundingBox": {
+                        "Width": 0.23341326415538788,
+                        "Height": 0.0487869456410408,
+                        "Left": 0.520421028137207,
+                        "Top": 0.4570671617984772
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7160351276397705
+                },
+                {
+                    "Text": "don't care about value / payment",
+                    "BoundingBox": {
+                        "Width": 0.39544177055358887,
+                        "Height": 0.04484296962618828,
+                        "Left": 0.07672583311796188,
+                        "Top": 0.6017541885375977
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6901978254318237
+                },
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.3693433701992035,
+                        "Height": 0.09619355201721191,
+                        "Left": 0.0761318951845169,
+                        "Top": 0.7102848887443542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8391759395599365
+                },
+                {
+                    "Text": "s.t. E[value]/E[payment] > T",
+                    "BoundingBox": {
+                        "Width": 0.36401256918907166,
+                        "Height": 0.04803207516670227,
+                        "Left": 0.5204197764396667,
+                        "Top": 0.5759791731834412
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7396290302276611
+                },
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BoundingBox": {
+                        "Width": 0.37008872628211975,
+                        "Height": 0.09569762647151947,
+                        "Left": 0.5204179883003235,
+                        "Top": 0.6904134154319763
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8159717321395874
+                }
+            ]
+        }
+    ]
+}

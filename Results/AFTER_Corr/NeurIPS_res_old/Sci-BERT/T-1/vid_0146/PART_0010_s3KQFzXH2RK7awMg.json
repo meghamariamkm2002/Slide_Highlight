@@ -1,0 +1,77 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,479",
+            "end_time": "00:00:03,109",
+            "transcript": "Thank you very much for your attention.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:03,512",
+            "end_time": "00:00:05,082",
+            "transcript": "Please check out our code and paper.",
+            "MatchedRegion": [
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.11796467006206512,
+                        "Height": 0.09341698884963989,
+                        "Left": 0.42262348532676697,
+                        "Top": 0.5636034607887268
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "51acf7df-4731-4bc2-b78f-07776408b22a",
+                    "Score": 0.6278778314590454
+                },
+                {
+                    "Text": "CODE",
+                    "BoundingBox": {
+                        "Width": 0.10257451981306076,
+                        "Height": 0.2580249607563019,
+                        "Left": 0.104679174721241,
+                        "Top": 0.6848087310791016
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "44da0dfc-3817-4d6f-ba04-b58b8232f978",
+                    "Score": 0.6755847334861755
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.12005393207073212,
+                        "Height": 0.08741435408592224,
+                        "Left": 0.42186588048934937,
+                        "Top": 0.7161266803741455
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "50e8d544-f805-4a68-b47e-5c837e839db7",
+                    "Score": 0.6278778314590454
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.11850717663764954,
+                        "Height": 0.08743228763341904,
+                        "Left": 0.42216530442237854,
+                        "Top": 0.8765813112258911
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4a6ed641-2b95-44e7-ac4e-d53b6f3b921d",
+                    "Score": 0.6278778314590454
+                },
+                {
+                    "Text": "CODE",
+                    "BoundingBox": {
+                        "Width": 0.10276293754577637,
+                        "Height": 0.25759974122047424,
+                        "Left": 0.7929330468177795,
+                        "Top": 0.6857414841651917
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6eeff139-2e0c-43cd-acbd-37e4bf595d77",
+                    "Score": 0.6755847334861755
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,880",
+            "end_time": "00:00:12,955",
+            "transcript": "For NER benchmarking, we found that COVID Twitter BERT is a strong baseline, but I F values of disease and organization entities are suboptimal.",
+            "MatchedRegion": [
+                {
+                    "Text": "COVID-TWITTER-BERT can be regarded as a strong baseline on the METS-CoV-NER, and there is still vast room for improvement.",
+                    "BoundingBox": {
+                        "Width": 0.8585659861564636,
+                        "Height": 0.06562283635139465,
+                        "Left": 0.060623496770858765,
+                        "Top": 0.2704038918018341
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b7495a4d-12d7-4885-aef1-80e4d0a5f0c3",
+                    "Score": 0.6709532737731934
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0004_3suSCQRxOQhIjsGF",
+            "Score": 0.6245472431182861
+        },
+        {
+            "slide": "PART_0005_FdGXOPaQRI40NAEw",
+            "Score": 0.6718839406967163
+        }
+    ]
+}

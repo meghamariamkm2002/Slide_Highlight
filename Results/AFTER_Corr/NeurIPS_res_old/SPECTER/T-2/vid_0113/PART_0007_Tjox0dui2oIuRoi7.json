@@ -1,0 +1,215 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,636",
+            "end_time": "00:00:04,047",
+            "transcript": "For TSA task, we selected 18 models for",
+            "MatchedRegion": [
+                {
+                    "Text": "3 Model Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.2938781678676605,
+                        "Height": 0.04685599356889725,
+                        "Left": 0.027763856574892998,
+                        "Top": 0.0504620261490345
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "06521b7b-e0ca-4435-8824-a486bf908dba",
+                    "Score": 0.7615218162536621
+                },
+                {
+                    "Text": "3.2 Targeted Sentiment Analysis (TSA) Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.5450794696807861,
+                        "Height": 0.0415225587785244,
+                        "Left": 0.027458462864160538,
+                        "Top": 0.14050330221652985
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "3cbb6dde-101e-48e2-b66c-af024c6dbff0",
+                    "Score": 0.7050245404243469
+                },
+                {
+                    "Text": "TSA Models",
+                    "BoundingBox": {
+                        "Width": 0.10235267132520676,
+                        "Height": 0.02826162613928318,
+                        "Left": 0.06352730095386505,
+                        "Top": 0.2193138301372528
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ebfe425a-912f-4578-b91b-6b55f370ee31",
+                    "Score": 0.8529773950576782
+                },
+                {
+                    "Text": "1 statistical machine learning model: SVM",
+                    "BoundingBox": {
+                        "Width": 0.37413179874420166,
+                        "Height": 0.033846572041511536,
+                        "Left": 0.10176096111536026,
+                        "Top": 0.26377737522125244
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f28b4a8d-ff6e-4253-b7ed-25e06a8c9640",
+                    "Score": 0.8152483701705933
+                },
+                {
+                    "Text": "7 traditional neural network models",
+                    "BoundingBox": {
+                        "Width": 0.324792742729187,
+                        "Height": 0.02843771129846573,
+                        "Left": 0.10211483389139175,
+                        "Top": 0.30858665704727173
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab67e873-69ee-4354-9f05-36a63edbaf4e",
+                    "Score": 0.7859145998954773
+                },
+                {
+                    "Text": "ASGCN, LSTM, TDLSTM, MemNet, IAN, MGAN and TNet-LF",
+                    "BoundingBox": {
+                        "Width": 0.5141461491584778,
+                        "Height": 0.03226231411099434,
+                        "Left": 0.1393832564353943,
+                        "Top": 0.35344192385673523
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03635a37-85e3-479b-9ec8-6175425b6e31",
+                    "Score": 0.8111459612846375
+                },
+                {
+                    "Text": "6 general domain PLM (BERT-base-uncased):",
+                    "BoundingBox": {
+                        "Width": 0.3963431417942047,
+                        "Height": 0.03458653390407562,
+                        "Left": 0.10202217102050781,
+                        "Top": 0.39676445722579956
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f4ead939-8f96-4b58-bbf4-49a6bb70e9f6",
+                    "Score": 0.7024810314178467
+                },
+                {
+                    "Text": "AEN, LCF, BERT-SPC, depGCN, kumaGCN and dotGCN",
+                    "BoundingBox": {
+                        "Width": 0.46393725275993347,
+                        "Height": 0.033781085163354874,
+                        "Left": 0.13929255306720734,
+                        "Top": 0.4423106610774994
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d239c168-4eb7-414e-81af-11ebe77b96a1",
+                    "Score": 0.7061705589294434
+                },
+                {
+                    "Text": "4 models (BERT-SPC, depGCN, kumaGCN and dotGCN) with COVID-19 related PLM (COVID- TWITTER-BERT)",
+                    "BoundingBox": {
+                        "Width": 0.788621723651886,
+                        "Height": 0.07875664532184601,
+                        "Left": 0.10178869217634201,
+                        "Top": 0.486139178276062
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c257f9f7-15ef-4d93-9aea-9a6d88bd1442",
+                    "Score": 0.7077022194862366
+                },
+                {
+                    "Text": "Training and Test Sets",
+                    "BoundingBox": {
+                        "Width": 0.18639619648456573,
+                        "Height": 0.03301606327295303,
+                        "Left": 0.06338813155889511,
+                        "Top": 0.5924287438392639
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "230b3514-b101-458e-babc-156d66cc849f",
+                    "Score": 0.8330633640289307
+                },
+                {
+                    "Text": "Train-dev-test splitting ratio is 70:15:15.",
+                    "BoundingBox": {
+                        "Width": 0.35564249753952026,
+                        "Height": 0.033801451325416565,
+                        "Left": 0.10166801512241364,
+                        "Top": 0.6364259719848633
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f8596220-8fe4-4dbc-94e4-982b8a6eca73",
+                    "Score": 0.8055635094642639
+                },
+                {
+                    "Text": "The TSA training/dev/test dataset is the subset of the NER training/dev/test dataset.",
+                    "BoundingBox": {
+                        "Width": 0.7348119616508484,
+                        "Height": 0.0351930670440197,
+                        "Left": 0.10144069045782089,
+                        "Top": 0.6804136037826538
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2de15124-33b2-4631-9674-156f9bd36530",
+                    "Score": 0.8546640276908875
+                },
+                {
+                    "Text": "Implementation Details",
+                    "BoundingBox": {
+                        "Width": 0.20280370116233826,
+                        "Height": 0.03312421962618828,
+                        "Left": 0.06465530395507812,
+                        "Top": 0.7859787940979004
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "69861e57-890a-4f99-836b-0ae8b80e49ac",
+                    "Score": 0.7576397061347961
+                },
+                {
+                    "Text": "We reported the results based on experiments on 5 different random seeds: 22, 32, 42, 52 and 62.",
+                    "BoundingBox": {
+                        "Width": 0.8592742085456848,
+                        "Height": 0.03372962772846222,
+                        "Left": 0.10160727053880692,
+                        "Top": 0.8298081755638123
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19cb4313-8864-42ee-a118-bf8da346ca45",
+                    "Score": 0.7544716596603394
+                },
+                {
+                    "Text": "All the experimental details and hyper-parameters can be found in the supplementary file.",
+                    "BoundingBox": {
+                        "Width": 0.7818492650985718,
+                        "Height": 0.034333810210227966,
+                        "Left": 0.10174436122179031,
+                        "Top": 0.8747414946556091
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5b3bc012-d69a-44be-b05a-0f1c939efc09",
+                    "Score": 0.7853704690933228
+                },
+                {
+                    "Text": "->",
+                    "BoundingBox": {
+                        "Width": 0.00958514679223299,
+                        "Height": 0.01652158610522747,
+                        "Left": 0.08795719593763351,
+                        "Top": 0.9771118760108948
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "84485404-ad8c-460e-9bb5-d20f002d60d7",
+                    "Score": 0.7391116619110107
+                },
+                {
+                    "Text": "8",
+                    "BoundingBox": {
+                        "Width": 0.006842311471700668,
+                        "Height": 0.018198326230049133,
+                        "Left": 0.9166724681854248,
+                        "Top": 0.9435272216796875
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "90ebf924-de8f-45c2-9d5a-ed6e89598415",
+                    "Score": 0.7537699937820435
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,910",
+            "end_time": "00:00:04,596",
+            "transcript": "In this slide, we show qualitative results of target domain predictions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,277",
+            "end_time": "00:00:08,822",
+            "transcript": "Ground truth lane annotations are marked in blue, predictions in red.",
+            "MatchedRegion": [
+                {
+                    "Text": "Qualitative results of target domain predictions. Ground truth lane annotations are marked in blue, predictions in red.",
+                    "BoundingBox": {
+                        "Width": 0.36110904812812805,
+                        "Height": 0.052711647003889084,
+                        "Left": 0.3184841275215149,
+                        "Top": 0.791182279586792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bdb595d-a816-4b17-9df5-415a138974e1",
+                    "Score": 0.7340425531914893
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0011_GOV2LqBfxDaoOG8r",
+            "Score": 0.6067225933074951
+        }
+    ]
+}

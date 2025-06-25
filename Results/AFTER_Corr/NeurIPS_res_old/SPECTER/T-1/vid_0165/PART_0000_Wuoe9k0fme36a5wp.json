@@ -1,0 +1,121 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,568",
+            "end_time": "00:00:06,249",
+            "transcript": "Hello, my name is Yizhou Zhang.",
+            "MatchedRegion": [
+                {
+                    "Text": "@@@",
+                    "BoundingBox": {
+                        "Width": 0.05332648754119873,
+                        "Height": 0.08619073033332825,
+                        "Left": 0.915312647819519,
+                        "Top": 0.04757983610033989
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0e031f29-44e1-44bf-b174-1667d86b9f61",
+                    "Score": 0.6985810995101929
+                },
+                {
+                    "Text": "Yizhou Zhang*, Defu Cao* and Yan Liu Department of Computer Science Viterbi School of Engineering University of Southern California",
+                    "BoundingBox": {
+                        "Width": 0.5421971678733826,
+                        "Height": 0.19974185526371002,
+                        "Left": 0.23051178455352783,
+                        "Top": 0.5089072585105896
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "14d0a74c-fec3-44ad-ab84-b33b69c5ffc3",
+                    "Score": 0.8229176998138428
+                },
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19272182881832123,
+                        "Height": 0.06975401937961578,
+                        "Left": 0.02981054224073887,
+                        "Top": 0.8906419277191162
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "8b09d41a-55d8-47b8-81f0-aeb746e356f6",
+                    "Score": 0.8012195229530334
+                },
+                {
+                    "Text": "University of Southern California",
+                    "BoundingBox": {
+                        "Width": 0.20104056596755981,
+                        "Height": 0.023706503212451935,
+                        "Left": 0.7684984803199768,
+                        "Top": 0.9377927780151367
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "b8c71200-7f2e-430e-bfb4-7aceb6ae241c",
+                    "Score": 0.8091602325439453
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,789",
+            "end_time": "00:00:11,091",
+            "transcript": "Today, I will present our work with Du Fucao and Professor Yan Liu.",
+            "MatchedRegion": [
+                {
+                    "Text": "@@@",
+                    "BoundingBox": {
+                        "Width": 0.05332648754119873,
+                        "Height": 0.08619073033332825,
+                        "Left": 0.915312647819519,
+                        "Top": 0.04757983610033989
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0e031f29-44e1-44bf-b174-1667d86b9f61",
+                    "Score": 0.6985810995101929
+                },
+                {
+                    "Text": "Yizhou Zhang*, Defu Cao* and Yan Liu Department of Computer Science Viterbi School of Engineering University of Southern California",
+                    "BoundingBox": {
+                        "Width": 0.5421971678733826,
+                        "Height": 0.19974185526371002,
+                        "Left": 0.23051178455352783,
+                        "Top": 0.5089072585105896
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "14d0a74c-fec3-44ad-ab84-b33b69c5ffc3",
+                    "Score": 0.8229176998138428
+                },
+                {
+                    "Text": "University of Southern California",
+                    "BoundingBox": {
+                        "Width": 0.20104056596755981,
+                        "Height": 0.023706503212451935,
+                        "Left": 0.7684984803199768,
+                        "Top": 0.9377927780151367
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "b8c71200-7f2e-430e-bfb4-7aceb6ae241c",
+                    "Score": 0.8091602325439453
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,672",
+            "end_time": "00:00:17,835",
+            "transcript": "The title is Counterfactual Neural Temporal Point Process for Estimating Causal Influence of Misinformation on Social Media.",
+            "MatchedRegion": [
+                {
+                    "Text": "Counterfactual Neural Temporal Point Process for Estimating Causal Influence of Misinformation on Social Media",
+                    "BoundingBox": {
+                        "Width": 0.9088357090950012,
+                        "Height": 0.188595712184906,
+                        "Left": 0.04855317622423172,
+                        "Top": 0.26075267791748047
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "207711ba-544a-44a4-8828-d2c9417e391f",
+                    "Score": 0.9406508207321167
+                }
+            ]
+        }
+    ]
+}

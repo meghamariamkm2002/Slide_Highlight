@@ -1,0 +1,6 @@
+the well-domained.
+The Carl and Benchmark consists of three distinct simtary data sets, which we built from all three different domains.
+Moline focuses on upcycling markings in the domain of a 1A model vehicle.
+Tulane incorporates balanced and domain randomized images from simulation as the source domain and the well-known to simple data set as the target domain.
+Moline is a balanced combination of Moline and Tulane with two target domains.
+Samples of the source and target domains can be seen in the image on the right.

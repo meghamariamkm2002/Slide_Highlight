@@ -1,0 +1,49 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:06,752",
+            "transcript": "However, even if there exists meaningful patterns in the training data, the DNM may still not learn these concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Even if there exist meaningful patterns in training data, the DNN may still not learn these concepts.",
+                    "BoundingBox": {
+                        "Width": 0.8440961241722107,
+                        "Height": 0.0863301083445549,
+                        "Left": 0.07173945009708405,
+                        "Top": 0.1724153310060501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f4d34d29-5829-4423-9da3-1a2fe354963e",
+                    "Score": 0.9166666666666665
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,592",
+            "end_time": "00:00:12,554",
+            "transcript": "A typical example is when the task can be conducted with some shortcut solutions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:13,635",
+            "end_time": "00:00:20,118",
+            "transcript": "In this case, the DNM probably converges to the shortcut solution, without encoding complex concepts.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0011_QYBR13eaxxglkli4",
+            "Score": 0.6569067239761353
+        },
+        {
+            "slide": "PART_0013_NO0WUP4NfsuD5QTx",
+            "Score": 0.6748106479644775
+        },
+        {
+            "slide": "PART_0015_9NDegvL7rhPtDnsF",
+            "Score": 0.621009111404419
+        }
+    ]
+}

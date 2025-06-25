@@ -1,0 +1,4 @@
+1
+00:00:02,151 --> 00:00:16,745
+So, to address the drawbacks of these works, we propose to design a data-driven framework that can help us identify the causal effect of misinformation by doing counterfactual analysis on social media data.
+

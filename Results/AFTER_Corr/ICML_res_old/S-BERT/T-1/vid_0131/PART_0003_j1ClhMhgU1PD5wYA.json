@@ -1,0 +1,30 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,210",
+            "end_time": "00:00:11,616",
+            "transcript": "We surprisingly find that utilizing the discrepancy information constructed by backtracking historical models can distinguish clean and poignant samples.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:12,336",
+            "end_time": "00:00:22,462",
+            "transcript": "For the underlying mechanism, we attribute it to model dynamics, which reflects different poisoning effects of the same sample and different model statuses.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_rr0nhllbgyhEHg7P",
+            "Score": 0.7387444972991943
+        },
+        {
+            "slide": "PART_0001_R7Vln9RC6tI0pbWc",
+            "Score": 0.8486597537994385
+        },
+        {
+            "slide": "PART_0002_iffnO1aqYieLSNQl",
+            "Score": 0.7067753076553345
+        }
+    ]
+}

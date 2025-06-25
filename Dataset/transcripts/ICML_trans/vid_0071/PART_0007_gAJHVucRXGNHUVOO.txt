@@ -1,0 +1,2 @@
+Therefore, we believe that we need more aspects to verify this metric can be used to quantify concepts learned by a DNN.
+Specifically, we propose four perspectives.

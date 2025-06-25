@@ -1,0 +1,87 @@
+{
+  "MatchedRegions": [
+      {
+          "start_time": "00:00:00,029",
+          "end_time": "00:00:09,676",
+          "transcript": "And in GSM, the state of the system converges to the nearest attractor, while that change in state results in the creation of a new attractor state where the system subsequently transitions.",
+          "MatchedRegion": [
+            {
+              "Id": "e23a9d4d-d85b-4c81-b177-fca8b7666b0b",
+              "Text": "-60 -120 $6 -180 -240 $5 -300 -360 $4 -420 $7 -480 -540 -600 57 E4 55 $6 Vf",
+              "BoundingBox": {
+                  "Width": 0.3646561801433563,
+                  "Height": 0.6761496663093567,
+                  "Left": 0.5315494537353516,
+                  "Top": 0.2611154019832611
+              },
+              "BlockType": "LAYOUT_FIGURE"
+          }
+          ]
+      },
+      {
+          "start_time": "00:00:10,716",
+          "end_time": "00:00:17,521",
+          "transcript": "The energy surface of GSM have two parameters, the state of the system VF and the delay signal VED governing its minima.",
+          "MatchedRegion": [
+            {
+              "Id": "e23a9d4d-d85b-4c81-b177-fca8b7666b0b",
+              "Text": "-60 -120 $6 -180 -240 $5 -300 -360 $4 -420 $7 -480 -540 -600 57 E4 55 $6 Vf",
+              "BoundingBox": {
+                  "Width": 0.3646561801433563,
+                  "Height": 0.6761496663093567,
+                  "Left": 0.5315494537353516,
+                  "Top": 0.2611154019832611
+              },
+              "BlockType": "LAYOUT_FIGURE"
+           },
+           {
+            "Id": "d9a0b2a1-29bf-49c4-a21c-cd729e74cebe",
+            "Text": "Vd",
+            "BoundingBox": {
+                "Width": 0.021193845197558403,
+                "Height": 0.034313030540943146,
+                "Left": 0.5078684091567993,
+                "Top": 0.5495134592056274
+            },
+            "BlockType": "LAYOUT_TEXT"
+            },
+            {
+              "Id": "4e194e32-6e18-4b31-afc0-d26b4af12964",
+              "Text": "The energy surface diagram shows how V controls the minima of the energy surface",
+              "BoundingBox": {
+                  "Width": 0.4104316830635071,
+                  "Height": 0.09346546232700348,
+                  "Left": 0.05416811630129814,
+                  "Top": 0.7843864560127258
+              },
+              "BlockType": "LAYOUT_TEXT"
+          }
+          ]
+      },
+      {
+          "start_time": "00:00:18,221",
+          "end_time": "00:00:27,388",
+          "transcript": "The figure shows the minima of this system changes over time as VD changes when a cyclical sequence of memories, memory 4 to 5, 6, 7 and then back to 4.",
+          "MatchedRegion": [
+            {
+              "Id": "e23a9d4d-d85b-4c81-b177-fca8b7666b0b",
+              "Text": "-60 -120 $6 -180 -240 $5 -300 -360 $4 -420 $7 -480 -540 -600 57 E4 55 $6 Vf",
+              "BoundingBox": {
+                  "Width": 0.3646561801433563,
+                  "Height": 0.6761496663093567,
+                  "Left": 0.5315494537353516,
+                  "Top": 0.2611154019832611
+              },
+              "BlockType": "LAYOUT_FIGURE"
+           }
+          ]
+      },
+      {
+          "start_time": "00:00:29,938",
+          "end_time": "00:00:37,975",
+          "transcript": "Since VD is delayed VF, the cyclical sequence that is stored results in a system that is never in equilibrium, always transitioning to the next",
+          "MatchedRegion": []
+      }
+  ],
+  "MatchedSlides": []
+}

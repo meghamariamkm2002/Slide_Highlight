@@ -1,0 +1,37 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,521",
+            "end_time": "00:00:18,493",
+            "transcript": "So we propose the memorization discrepancy which is constructed by backtracking the historical models and we studied the empirical properties of memorization discrepancy identifying clean samples from poignant samples.",
+            "MatchedRegion": [
+                {
+                    "Text": "Memorization Discrepancy",
+                    "BoundingBox": {
+                        "Width": 0.6962684392929077,
+                        "Height": 0.0802658349275589,
+                        "Left": 0.013257458806037903,
+                        "Top": 0.12018798291683197
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "6459fbe9-3393-4db7-95fc-891bdb333b13",
+                    "Score": 0.7491482496261597
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_R7Vln9RC6tI0pbWc",
+            "Score": 0.6399632692337036
+        },
+        {
+            "slide": "PART_0002_iffnO1aqYieLSNQl",
+            "Score": 0.654555082321167
+        },
+        {
+            "slide": "PART_0003_j1ClhMhgU1PD5wYA",
+            "Score": 0.6539945602416992
+        }
+    ]
+}

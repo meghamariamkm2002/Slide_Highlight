@@ -1,0 +1,2 @@
+In this case, each interaction pattern represents an end relationship between variables.
+Thus can be taken as a symbolic concept encoded by a DNN.

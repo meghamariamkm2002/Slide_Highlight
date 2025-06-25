@@ -1,0 +1,162 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,588",
+            "end_time": "00:00:06,290",
+            "transcript": "Hey, everyone, I'm Peilin Zhou.",
+            "MatchedRegion": [
+                {
+                    "Text": "METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets",
+                    "BoundingBox": {
+                        "Width": 0.8003619909286499,
+                        "Height": 0.256885826587677,
+                        "Left": 0.08870193362236023,
+                        "Top": 0.2403709441423416
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.8195319175720215
+                },
+                {
+                    "Text": "Peilin Zhou, Zeqiang Wang, Dading Chong, Zhijiang Guo, Yining Hua, Zichang Su, Zhiyang Teng, Jiageng Wu, Jie Yang",
+                    "BoundingBox": {
+                        "Width": 0.6822492480278015,
+                        "Height": 0.08867660164833069,
+                        "Left": 0.1722615510225296,
+                        "Top": 0.5539889335632324
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6921225786209106
+                },
+                {
+                    "Text": "Zhejiang University, Peking University, University of Cambridge, Harvard Medical School and Westlake University",
+                    "BoundingBox": {
+                        "Width": 0.7552862167358398,
+                        "Height": 0.028176749125123024,
+                        "Left": 0.13580341637134552,
+                        "Top": 0.6664050817489624
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6207829713821411
+                },
+                {
+                    "Text": "ALL 1898",
+                    "BoundingBox": {
+                        "Width": 0.06520602852106094,
+                        "Height": 0.11859739571809769,
+                        "Left": 0.31799933314323425,
+                        "Top": 0.7364268898963928
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6404925584793091
+                },
+                {
+                    "Text": "UNIVERSITY * # *",
+                    "BoundingBox": {
+                        "Width": 0.06377482414245605,
+                        "Height": 0.11963608115911484,
+                        "Left": 0.5174807906150818,
+                        "Top": 0.7371171712875366
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6282087564468384
+                },
+                {
+                    "Text": "Dataset and Codes: https://github.com/YLab-Open/METS-CoV",
+                    "BoundingBox": {
+                        "Width": 0.41875550150871277,
+                        "Height": 0.028439398854970932,
+                        "Left": 0.006275285501033068,
+                        "Top": 0.9637174010276794
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.7573750019073486
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,550",
+            "end_time": "00:00:15,938",
+            "transcript": "I'm so glad to introduce our paper, Mets-CoV, a dataset of medical entity and targeted sentiment on COVID-19 related tweets.",
+            "MatchedRegion": [
+                {
+                    "Text": "METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets",
+                    "BoundingBox": {
+                        "Width": 0.8003619909286499,
+                        "Height": 0.256885826587677,
+                        "Left": 0.08870193362236023,
+                        "Top": 0.2403709441423416
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.8195319175720215
+                },
+                {
+                    "Text": "Peilin Zhou, Zeqiang Wang, Dading Chong, Zhijiang Guo, Yining Hua, Zichang Su, Zhiyang Teng, Jiageng Wu, Jie Yang",
+                    "BoundingBox": {
+                        "Width": 0.6822492480278015,
+                        "Height": 0.08867660164833069,
+                        "Left": 0.1722615510225296,
+                        "Top": 0.5539889335632324
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6921225786209106
+                },
+                {
+                    "Text": "Zhejiang University, Peking University, University of Cambridge, Harvard Medical School and Westlake University",
+                    "BoundingBox": {
+                        "Width": 0.7552862167358398,
+                        "Height": 0.028176749125123024,
+                        "Left": 0.13580341637134552,
+                        "Top": 0.6664050817489624
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6207829713821411
+                },
+                {
+                    "Text": "ALL 1898",
+                    "BoundingBox": {
+                        "Width": 0.06520602852106094,
+                        "Height": 0.11859739571809769,
+                        "Left": 0.31799933314323425,
+                        "Top": 0.7364268898963928
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6404925584793091
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.11858503520488739,
+                        "Height": 0.03435814380645752,
+                        "Left": 0.6471439003944397,
+                        "Top": 0.7789181470870972
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6149449944496155
+                },
+                {
+                    "Text": "Dataset and Codes: https://github.com/YLab-Open/METS-CoV",
+                    "BoundingBox": {
+                        "Width": 0.41875550150871277,
+                        "Height": 0.028439398854970932,
+                        "Left": 0.006275285501033068,
+                        "Top": 0.9637174010276794
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.7573750019073486
+                }
+            ]
+        }
+    ]
+}

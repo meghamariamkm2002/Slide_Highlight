@@ -1,0 +1,59 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,189",
+            "end_time": "00:00:23,982",
+            "transcript": "models and also we run our model on a real-world data but it does not have a ground truth label so we can only write and evaluate some intermediate metrics but even for this metrics we can see the identifiability from our model between misinformation and information on influencing people's narrative",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments - Real world data",
+                    "BoundingBox": {
+                        "Width": 0.6005905270576477,
+                        "Height": 0.05375403165817261,
+                        "Left": 0.06047099828720093,
+                        "Top": 0.06814710050821304
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "6dc10092-3dd2-414a-a04f-597ff4900aa8",
+                    "Score": 0.7085260152816772
+                },
+                {
+                    "Text": "Collect 16,9008 tweets with labels from 24,192 users over a 5-month period from 2020/12/09 to 2021/04/24",
+                    "BoundingBox": {
+                        "Width": 0.8019216656684875,
+                        "Height": 0.07320411503314972,
+                        "Left": 0.06095391884446144,
+                        "Top": 0.1820673644542694
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5eb5ed49-833c-47d5-abd0-300071a5e068",
+                    "Score": 0.714587926864624
+                },
+                {
+                    "Text": "Identifiability between misinformation and information in influencing people's narratives:",
+                    "BoundingBox": {
+                        "Width": 0.7833312749862671,
+                        "Height": 0.07288803905248642,
+                        "Left": 0.06066703796386719,
+                        "Top": 0.3023405373096466
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a91f41ab-1ab1-4fc0-be80-b78fd2960160",
+                    "Score": 0.8624351024627686
+                },
+                {
+                    "Text": "Methods ASDJ ASDin ASDmis Event Feature 0.123 0.123 0.122 FullyNN 0.073 0.069 0.072 CNTPP (Ours) 0.045 0.042 0.044",
+                    "BoundingBox": {
+                        "Width": 0.4585125148296356,
+                        "Height": 0.13141590356826782,
+                        "Left": 0.277518093585968,
+                        "Top": 0.5655388236045837
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "4db17494-74f8-4477-aa20-2987be9bf438",
+                    "Score": 0.7707458734512329
+                }
+            ]
+        }
+    ]
+}

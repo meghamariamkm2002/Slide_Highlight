@@ -1,0 +1,247 @@
+{
+    "MatchedSlides": [
+        "PART_0001_Oebou1BZy8jTFyby"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,616",
+            "end_time": "00:00:03,777",
+            "transcript": "So first, let's talk about our motivation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Motivation",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.2082662284374237,
+                        "Height": 0.04249342158436775,
+                        "Left": 0.05512478947639465,
+                        "Top": 0.09134884923696518
+                    },
+                    "Id": "9846f351-cb4a-431f-b29c-57f78c71a74b"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:04,578",
+            "end_time": "00:00:17,024",
+            "transcript": "As many previous works pointed out, misinformation campaigns are manipulating public opinions on hotspot topics, such as COVID-19 epidemic and vaccines.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "Id": "5e00547f-a4d1-4b13-9416-1ef469e11020"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,585",
+            "end_time": "00:00:28,711",
+            "transcript": "For example, a publication pointed out that in those places where misinformation from misinformation campaigns spreads faster, the vaccination rate in these places is also",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "Id": "5e00547f-a4d1-4b13-9416-1ef469e11020"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,980",
+            "end_time": "00:00:31,961",
+            "transcript": "relatively lower than other places.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:33,302",
+            "end_time": "00:00:43,347",
+            "transcript": "So, to design mitigation strategies to reduce user susceptibility to misinformation, we have to understand how misinformation influences user beliefs and activities.",
+            "MatchedRegion": [
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.9177643656730652,
+                        "Height": 0.06796851754188538,
+                        "Left": 0.030052637681365013,
+                        "Top": 0.28831857442855835
+                    },
+                    "Id": "acf7144f-7c83-4f51-b623-d153ef7669ea"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:43,947",
+            "end_time": "00:00:49,950",
+            "transcript": "However, most of the existing works suffers from one or more of the following limitations.",
+            "MatchedRegion": [
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8523910641670227,
+                        "Height": 0.06739003211259842,
+                        "Left": 0.0304045882076025,
+                        "Top": 0.3863195776939392
+                    },
+                    "Id": "e4db05cf-2fad-4142-b8b6-e075e8909eea"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:50,663",
+            "end_time": "00:01:02,327",
+            "transcript": "So first, almost all the data-driven methodologies or data-driven analysis focus on correlation between misinformation and user activities.",
+            "MatchedRegion": [
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "Id": "55e4c7ad-c3fe-4eec-8ea4-fc1369dd3360"
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:02,888",
+            "end_time": "00:01:07,950",
+            "transcript": "And it is well known that causality is different from correlation.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:08,530",
+            "end_time": "00:01:14,072",
+            "transcript": "So they cannot distinguish causal effect of misinformation from user prior beliefs.",
+            "MatchedRegion": [
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "Id": "55e4c7ad-c3fe-4eec-8ea4-fc1369dd3360"
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:15,275",
+            "end_time": "00:01:19,136",
+            "transcript": "Let us use the case of misinformation and the vaccination rate.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:19,916",
+            "end_time": "00:01:30,839",
+            "transcript": "One explanation could be that in this place, people primarily do not trust vaccines, so they do not take vaccines and they spread a lot of misinformation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.9077087640762329,
+                        "Height": 0.07357989996671677,
+                        "Left": 0.029947955161333084,
+                        "Top": 0.18997903168201447
+                    },
+                    "Id": "5e00547f-a4d1-4b13-9416-1ef469e11020"
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:31,359",
+            "end_time": "00:01:36,360",
+            "transcript": "That could be true, but the correlation analysis cannot help us distinguish them.",
+            "MatchedRegion": [
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2]. Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.807408332824707,
+                        "Height": 0.09055938571691513,
+                        "Left": 0.08064404875040054,
+                        "Top": 0.4841648042201996
+                    },
+                    "Id": "55e4c7ad-c3fe-4eec-8ea4-fc1369dd3360"
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:37,940",
+            "end_time": "00:01:41,981",
+            "transcript": "And there are some other works trying to understand the real causal effect.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:42,674",
+            "end_time": "00:01:46,716",
+            "transcript": "But they mainly rely on random controlled experiments and surveys.",
+            "MatchedRegion": [
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6737132668495178,
+                        "Height": 0.034740664064884186,
+                        "Left": 0.08052139729261398,
+                        "Top": 0.6040497422218323
+                    },
+                    "Id": "e7938831-23d0-45b9-baf7-d9d1f33a96c9"
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:47,296",
+            "end_time": "00:01:50,518",
+            "transcript": "So, first, they are very costly.",
+            "MatchedRegion": [
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "Id": "050da14c-0ab2-45df-a4fc-5446878f65f1"
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:50,878",
+            "end_time": "00:01:59,002",
+            "transcript": "And secondly, they may bring some ethical risk if we apply them on very large social media platforms.",
+            "MatchedRegion": [
+                {
+                    "Text": "High cost & Ethical risk",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.19960421323776245,
+                        "Height": 0.026091067120432854,
+                        "Left": 0.210871160030365,
+                        "Top": 0.6748064160346985
+                    },
+                    "Id": "050da14c-0ab2-45df-a4fc-5446878f65f1"
+                }
+            ]
+        }
+    ]
+}

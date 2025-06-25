@@ -1,0 +1,170 @@
+{
+    "DocumentMetadata": {
+        "Pages": 1
+    },
+    "Blocks": [
+        {
+            "BlockType": "PAGE",
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 1.0,
+                    "Height": 1.0,
+                    "Left": 0.0,
+                    "Top": 0.0
+                },
+                "Polygon": [
+                    {
+                        "X": 0.0,
+                        "Y": 3.817321214683034e-07
+                    },
+                    {
+                        "X": 1.0,
+                        "Y": 0.0
+                    },
+                    {
+                        "X": 1.0,
+                        "Y": 1.0
+                    },
+                    {
+                        "X": 0.00040601211367174983,
+                        "Y": 1.0
+                    }
+                ]
+            },
+            "Id": "86b94b29-354e-4f79-bec6-91ddc378eade",
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "a58bdd71-1f84-42e3-9738-7d53dfbb5d79",
+                        "cf230c60-bbbb-4d48-88eb-673e98bef753"
+                    ]
+                }
+            ]
+        },
+        {
+            "BlockType": "LINE",
+            "Confidence": 99.8407974243164,
+            "Text": "Mahalo",
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.1522902101278305,
+                    "Height": 0.06417681276798248,
+                    "Left": 0.4228441119194031,
+                    "Top": 0.3570963442325592
+                },
+                "Polygon": [
+                    {
+                        "X": 0.4228441119194031,
+                        "Y": 0.35724666714668274
+                    },
+                    {
+                        "X": 0.5750874876976013,
+                        "Y": 0.3570963442325592
+                    },
+                    {
+                        "X": 0.5751343369483948,
+                        "Y": 0.4211275279521942
+                    },
+                    {
+                        "X": 0.4228891432285309,
+                        "Y": 0.4212731420993805
+                    }
+                ]
+            },
+            "Id": "a58bdd71-1f84-42e3-9738-7d53dfbb5d79",
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "b293f92d-fe76-4f73-b10f-879ec2c78b45"
+                    ]
+                }
+            ]
+        },
+        {
+            "BlockType": "WORD",
+            "Confidence": 99.8407974243164,
+            "Text": "Mahalo",
+            "TextType": "PRINTED",
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.1522902101278305,
+                    "Height": 0.06417681276798248,
+                    "Left": 0.4228441119194031,
+                    "Top": 0.3570963442325592
+                },
+                "Polygon": [
+                    {
+                        "X": 0.4228441119194031,
+                        "Y": 0.35724666714668274
+                    },
+                    {
+                        "X": 0.5750874876976013,
+                        "Y": 0.3570963442325592
+                    },
+                    {
+                        "X": 0.5751343369483948,
+                        "Y": 0.4211275279521942
+                    },
+                    {
+                        "X": 0.4228891432285309,
+                        "Y": 0.4212731420993805
+                    }
+                ]
+            },
+            "Id": "b293f92d-fe76-4f73-b10f-879ec2c78b45"
+        },
+        {
+            "BlockType": "LAYOUT_SECTION_HEADER",
+            "Confidence": 30.2734375,
+            "Geometry": {
+                "BoundingBox": {
+                    "Width": 0.1522902101278305,
+                    "Height": 0.06417681276798248,
+                    "Left": 0.4228441119194031,
+                    "Top": 0.3570963442325592
+                },
+                "Polygon": [
+                    {
+                        "X": 0.4228441119194031,
+                        "Y": 0.35724666714668274
+                    },
+                    {
+                        "X": 0.5750874876976013,
+                        "Y": 0.3570963442325592
+                    },
+                    {
+                        "X": 0.5751343369483948,
+                        "Y": 0.4211275279521942
+                    },
+                    {
+                        "X": 0.4228891432285309,
+                        "Y": 0.4212731420993805
+                    }
+                ]
+            },
+            "Id": "cf230c60-bbbb-4d48-88eb-673e98bef753",
+            "Relationships": [
+                {
+                    "Type": "CHILD",
+                    "Ids": [
+                        "a58bdd71-1f84-42e3-9738-7d53dfbb5d79"
+                    ]
+                }
+            ]
+        }
+    ],
+    "AnalyzeDocumentModelVersion": "1.0",
+    "ResponseMetadata": {
+        "RequestId": "df4c4343-7e0c-4329-97fd-edffca47e811",
+        "HTTPStatusCode": 200,
+        "HTTPHeaders": {
+            "x-amzn-requestid": "df4c4343-7e0c-4329-97fd-edffca47e811",
+            "content-type": "application/x-amz-json-1.1",
+            "content-length": "1995",
+            "date": "Fri, 14 Mar 2025 02:48:36 GMT"
+        },
+        "RetryAttempts": 0
+    }
+}

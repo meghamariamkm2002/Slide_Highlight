@@ -1,0 +1,143 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,129",
+            "end_time": "00:00:06,610",
+            "transcript": "improvements in capacity observed in singleton memory models, dense GSM improves the capacity of existing sequence models.",
+            "MatchedRegion": [
+                {
+                    "Text": "Exponential Capacity Improvement in Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.5766553282737732,
+                        "Height": 0.04567442461848259,
+                        "Left": 0.04030651971697807,
+                        "Top": 0.048298098146915436
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "326f4367-0446-4862-8596-3ae5a9e787ae",
+                    "Score": 0.626396656036377
+                },
+                {
+                    "Text": "Comparison of Linear GSEMM and Dense GSEMM based on their ability to store and retrieve cyclical memories with varying sequence lengths in a 100-neuron system.",
+                    "BoundingBox": {
+                        "Width": 0.82259601354599,
+                        "Height": 0.06976888328790665,
+                        "Left": 0.08165843039751053,
+                        "Top": 0.17606627941131592
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a56fa472-a0fe-4f5d-935a-8ba14b1a7304",
+                    "Score": 0.6164001226425171
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,170",
+            "end_time": "00:00:13,232",
+            "transcript": "It can be seen that current memory models fall in the low end of the capacity spectrum suggested by the dense GSM.",
+            "MatchedRegion": [
+                {
+                    "Text": "Exponential Capacity Improvement in Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.5766553282737732,
+                        "Height": 0.04567442461848259,
+                        "Left": 0.04030651971697807,
+                        "Top": 0.048298098146915436
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "326f4367-0446-4862-8596-3ae5a9e787ae",
+                    "Score": 0.626396656036377
+                },
+                {
+                    "Text": "Comparison of Linear GSEMM and Dense GSEMM based on their ability to store and retrieve cyclical memories with varying sequence lengths in a 100-neuron system.",
+                    "BoundingBox": {
+                        "Width": 0.82259601354599,
+                        "Height": 0.06976888328790665,
+                        "Left": 0.08165843039751053,
+                        "Top": 0.17606627941131592
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a56fa472-a0fe-4f5d-935a-8ba14b1a7304",
+                    "Score": 0.6164001226425171
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,932",
+            "end_time": "00:00:18,273",
+            "transcript": "Models that have dense capacity can be found in degree 15 end of the spectrum.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:18,893",
+            "end_time": "00:00:24,194",
+            "transcript": "In summary, we introduced a new theoretical paradigm of adiabatic energy for the design of temporal memory models.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:24,733",
+            "end_time": "00:00:30,055",
+            "transcript": "This unified the static and dynamic properties of memory under a single theoretical paradigm of energy.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:30,515",
+            "end_time": "00:00:35,997",
+            "transcript": "We hope that future works can utilize the theory to improve existing memory models.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:36,477",
+            "end_time": "00:00:43,100",
+            "transcript": "Further, dense GSM may be directly used in applications requiring low overhead, high capacity sequence memory storage.",
+            "MatchedRegion": [
+                {
+                    "Text": "Exponential Capacity Improvement in Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.5766553282737732,
+                        "Height": 0.04567442461848259,
+                        "Left": 0.04030651971697807,
+                        "Top": 0.048298098146915436
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "326f4367-0446-4862-8596-3ae5a9e787ae",
+                    "Score": 0.626396656036377
+                },
+                {
+                    "Text": "Comparison of Linear GSEMM and Dense GSEMM based on their ability to store and retrieve cyclical memories with varying sequence lengths in a 100-neuron system.",
+                    "BoundingBox": {
+                        "Width": 0.82259601354599,
+                        "Height": 0.06976888328790665,
+                        "Left": 0.08165843039751053,
+                        "Top": 0.17606627941131592
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a56fa472-a0fe-4f5d-935a-8ba14b1a7304",
+                    "Score": 0.6164001226425171
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_MEOJKJ3n58NsNxBI",
+            "Score": 0.6332010626792908
+        },
+        {
+            "slide": "PART_0004_ZMHVjywHsjjN8XqN",
+            "Score": 0.6122797131538391
+        },
+        {
+            "slide": "PART_0006_MkvL6zHxWWhc14ba",
+            "Score": 0.6129083633422852
+        },
+        {
+            "slide": "PART_0009_nkcr96X4nlbONCUC",
+            "Score": 0.6176161766052246
+        },
+        {
+            "slide": "PART_0011_gcHp5Is8KsVgZgQZ",
+            "Score": 0.7339205145835876
+        }
+    ]
+}

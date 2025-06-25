@@ -1,0 +1,32 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,249",
+            "end_time": "00:00:00,629",
+            "transcript": "functions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,510",
+            "end_time": "00:00:08,254",
+            "transcript": "As shown in the Disney visualizations, there's a noticeable separation between the source and target domains of Moulin.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,894",
+            "end_time": "00:00:15,918",
+            "transcript": "Therefore, we only observe a slight adaption of the source and target domain features for other SKR and SKP",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_Cx54Xgy86xzmhZ9m",
+            "Score": 0.6185351014137268
+        },
+        {
+            "slide": "PART_0003_AVYdxgQ3ohclNiow",
+            "Score": 0.6933542490005493
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,636",
+            "end_time": "00:00:04,047",
+            "transcript": "For TSA task, we selected 18 models for",
+            "MatchedRegion": [
+                {
+                    "Text": "TSA Models",
+                    "BoundingBox": {
+                        "Width": 0.10235267132520676,
+                        "Height": 0.02826162613928318,
+                        "Left": 0.06352730095386505,
+                        "Top": 0.2193138301372528
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ebfe425a-912f-4578-b91b-6b55f370ee31",
+                    "Score": 0.7900286912918091
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0002_L6pLWK5w83eRrPzI",
+            "Score": 0.6038105487823486
+        },
+        {
+            "slide": "PART_0005_FdGXOPaQRI40NAEw",
+            "Score": 0.6882636547088623
+        }
+    ]
+}

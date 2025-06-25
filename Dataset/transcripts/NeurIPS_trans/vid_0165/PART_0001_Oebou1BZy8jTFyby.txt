@@ -1,0 +1,16 @@
+So first, let's talk about our motivation.
+As many previous works pointed out, misinformation campaigns are manipulating public opinions on hotspot topics, such as COVID-19 epidemic and vaccines.
+For example, a publication pointed out that in those places where misinformation from misinformation campaigns spread faster, the vaccination ratio of these places is also
+relatively lower than other places.
+So, to design mitigation strategies to reduce user susceptibility to misinformation, we have to understand how misinformation influence user beliefs and activities.
+However, most of the existing works suffers from one or more of the following limitations.
+So first, almost all the data-driven methodologies or data-driven analysis focus on correlation between misinformation and user activities.
+And it is well known that causality is different from correlation.
+So they cannot distinguish causal effect of misinformation from user prior beliefs.
+Let us use the case of misinformation and the vaccination ratio.
+One explanation could be that in this place, people primarily don't trust vaccines, so they don't take vaccines and they spread a lot of misinformation.
+That could be true, but the correlation analysis cannot help us distinguish them.
+And there are some other works trying to understand the real causal effect.
+But they mainly rely on random controlled experiments and surveys.
+So, first, they are very expensive.
+And secondly, they may bring some ethical risk if we apply them on very huge social media platforms.

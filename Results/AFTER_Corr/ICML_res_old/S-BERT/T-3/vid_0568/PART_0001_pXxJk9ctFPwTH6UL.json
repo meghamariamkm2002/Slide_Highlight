@@ -1,0 +1,110 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,890",
+            "end_time": "00:00:06,031",
+            "transcript": "First, I will describe the generalized associative memory model which we extend in our work.",
+            "MatchedRegion": [
+                {
+                    "Text": "Generalized Associative Memory Model (GAMM)",
+                    "BoundingBox": {
+                        "Width": 0.5227490663528442,
+                        "Height": 0.04576373100280762,
+                        "Left": 0.03881083056330681,
+                        "Top": 0.04832099750638008
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "13b82b60-f8ea-4792-bbb5-256e7067cf98",
+                    "Score": 0.8065239787101746
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,631",
+            "end_time": "00:00:11,372",
+            "transcript": "Until recently, energy models were constrained to retrieve single memories from a set of stored memories.",
+            "MatchedRegion": [
+                {
+                    "Text": "Memories are the local minima states of the energy function.",
+                    "BoundingBox": {
+                        "Width": 0.3903518319129944,
+                        "Height": 0.06927502900362015,
+                        "Left": 0.5650189518928528,
+                        "Top": 0.39409998059272766
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1953e85f-d9fb-4fa1-b1d9-06d7f4e28937",
+                    "Score": 0.6518296599388123
+                },
+                {
+                    "Text": "The contribution of each memory to the energy function depends on the interaction between the memories",
+                    "BoundingBox": {
+                        "Width": 0.3890177309513092,
+                        "Height": 0.09904463589191437,
+                        "Left": 0.5656252503395081,
+                        "Top": 0.48362961411476135
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "98dd4943-4de1-453a-bb7b-97dd2adeed7f",
+                    "Score": 0.6362463235855103
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,912",
+            "end_time": "00:00:18,294",
+            "transcript": "These models have a generalized associative memory model (GAMM), composed of two layers of neurons with symmetric interactions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Generalized Associative Memory Model (GAMM)",
+                    "BoundingBox": {
+                        "Width": 0.5227490663528442,
+                        "Height": 0.04576373100280762,
+                        "Left": 0.03881083056330681,
+                        "Top": 0.04832099750638008
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "13b82b60-f8ea-4792-bbb5-256e7067cf98",
+                    "Score": 0.8065239787101746
+                },
+                {
+                    "Text": "GAMM is a two-layer architecture of neurons with symmetric interactions.",
+                    "BoundingBox": {
+                        "Width": 0.35851016640663147,
+                        "Height": 0.06901958584785461,
+                        "Left": 0.5647041201591492,
+                        "Top": 0.1424138993024826
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "25253fe9-49e4-49ad-a3ae-b1212e07a208",
+                    "Score": 0.7814897298812866
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,935",
+            "end_time": "00:00:23,876",
+            "transcript": "The symmetry leads to a dissipative dynamical system that converges to a single state under mild conditions.",
+            "MatchedRegion": [
+                {
+                    "Text": "The symmetric interactions result in a dissipative dynamical system whose dynamical behavior can be explained using an energy function.",
+                    "BoundingBox": {
+                        "Width": 0.3783704340457916,
+                        "Height": 0.14020109176635742,
+                        "Left": 0.5650098919868469,
+                        "Top": 0.2331220656633377
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "afd74315-721e-4cab-9c71-7576f2ec1ee0",
+                    "Score": 0.741719126701355
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_MEOJKJ3n58NsNxBI",
+            "Score": 0.6920417547225952
+        }
+    ]
+}

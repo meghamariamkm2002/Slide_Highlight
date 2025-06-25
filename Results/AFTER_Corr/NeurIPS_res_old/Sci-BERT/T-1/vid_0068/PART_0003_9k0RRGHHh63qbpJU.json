@@ -1,0 +1,42 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,753",
+            "end_time": "00:00:07,720",
+            "transcript": "We decided to use block architectures to allow for interesting and diverse connectivity to trade operations.",
+            "MatchedRegion": [
+                {
+                    "Text": "ST1 ST2 ST3 ST4 ST5 ST6 Input Input Input Input Input Input m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv Reduction Reduction Reduction Reduction Reduction Reduction",
+                    "BoundingBox": {
+                        "Width": 0.8246603012084961,
+                        "Height": 0.43467584252357483,
+                        "Left": 0.09016641229391098,
+                        "Top": 0.24162757396697998
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "35205d0e-d007-4409-8f62-a81c861d80c7",
+                    "Score": 0.6140149831771851
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,461",
+            "end_time": "00:00:14,170",
+            "transcript": "In total, there are 45 unique blocks leading to a search base size of more than 91,125 models.",
+            "MatchedRegion": [
+                {
+                    "Text": "45 unique blocks 91,125 models.",
+                    "BoundingBox": {
+                        "Width": 0.3077075481414795,
+                        "Height": 0.03415105864405632,
+                        "Left": 0.06741202622652054,
+                        "Top": 0.9083415865898132
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7928aa8c-13ba-4526-87bc-f9de561c3555",
+                    "Score": 0.808013916015625
+                }
+            ]
+        }
+    ]
+}

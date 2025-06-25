@@ -1,0 +1,26 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,874",
+            "end_time": "00:00:18,260",
+            "transcript": "handband take input the structure of protein and structure of ligands and divide the protein into pockets, functional blocks, and model their interaction with the ligand through the trigonometry margin.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:19,080",
+            "end_time": "00:00:23,922",
+            "transcript": "And we also build a contrastive loss to prioritize the native",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_JTz6kDtffaFhmgXo",
+            "Score": 0.6698786020278931
+        },
+        {
+            "slide": "PART_0002_J7vlELIHBi3iCNTj",
+            "Score": 0.6259739995002747
+        }
+    ]
+}

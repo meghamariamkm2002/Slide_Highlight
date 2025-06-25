@@ -1,0 +1,8 @@
+1
+00:00:02,753 --> 00:00:07,720
+We decided to use block architectures to allow for interesting and diverse connectivity to trade operations.
+
+2
+00:00:08,461 --> 00:00:14,170
+In total, there are 45 unique blocks leading to a search base size of more than 91,125 models.
+

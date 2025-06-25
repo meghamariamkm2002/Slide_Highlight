@@ -1,0 +1,20 @@
+1
+00:00:00,600 --> 00:00:05,863
+First of all, I would like to introduce the motivation of our work.
+
+2
+00:00:07,543 --> 00:00:17,208
+As we all know, animal pose estimation is crucial in animal behavior understanding and wildlife conservation.
+
+3
+00:00:17,708 --> 00:00:21,650
+But animal pose estimation datasets are largely ignored.
+
+4
+00:00:22,131 --> 00:00:24,212
+And existing datasets
+
+5
+00:00:25,117 --> 00:00:31,347
+You really don't have continuous time information or lack detailed keypoint annotations.
+

@@ -1,0 +1,8 @@
+start	end	text
+69	709	zero sum games.
+2210	20496	So in terms of MNWU, we consider the quantum relative entropy between density matrices rho and sigma which is given by trace of rho times log rho minus log sigma and in this setting the matrix MWU algorithm is simply a matrix extension so you're playing using density matrices instead of
+21617	23019	classical probability distributions.
+23580	25443	And in this setting, we have the following main theorem.
+25983	37180	When using MMWU, the rate of change in the sum of quantum relative entropies between the Nash equilibrium and the player strategies in a two-player zero sum quantum game tends to zero when the step size mu goes to zero.
+37987	47139	This means essentially that when agents are using MNW, there's some notion or some notion of volume which is essentially conserved.
+47880	52005	And we use this fact and use this result to study the continuous time

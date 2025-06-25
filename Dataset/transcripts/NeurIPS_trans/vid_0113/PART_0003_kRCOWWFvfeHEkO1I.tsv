@@ -1,0 +1,11 @@
+start	end	text
+1729	9051	We collect COVID-19 related tweets ranging from February 1, 2020 to September 30, 2021.
+10991	15972	For data preprocessing, we first remove non-English tweets and retweets.
+16733	19493	Then we filter out the tweets containing URL.
+20193	27095	Afterwards, we use a list of symptoms as keywords to match the tweets to extract medical related tweets.
+28499	31341	Finally, 10,000 tweets are annotated.
+32102	39026	Among them, 6,000 are randomly sampled, and the other 4,000 are from the model label data.
+39667	41248	All of them are manually checked.
+42229	46532	We define seven entity types based on public health research needs.
+47333	52260	including three general entity tabs and four medical entity tabs for annotation.
+53221	62955	In particular, we select four entity tabs for additional sentiment annotation with three types of sentiment labels, positive, negative,

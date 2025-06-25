@@ -1,0 +1,39 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:02,028",
+            "end_time": "00:00:02,451",
+            "transcript": "That's all.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,853",
+            "end_time": "00:00:03,979",
+            "transcript": "Thanks for your attenion.",
+            "MatchedRegion": [
+                {
+                    "Text": "In this study,",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.10434383898973465,
+                        "Height": 0.03226735070347786,
+                        "Left": 0.09850621968507767,
+                        "Top": 0.20732958614826202
+                    },
+                    "Id": "5fbfa867-ae97-4e50-9b8c-572067c98da3"
+                },
+                {
+                    "Text": "We quantitatively examine the concept-emerging phenomenon of a DNN from four perspectives.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7336599230766296,
+                        "Height": 0.09463577717542648,
+                        "Left": 0.09770362079143524,
+                        "Top": 0.27472808957099915
+                    },
+                    "Id": "6efacd27-3b6c-4752-b7d6-a9d8c94fd54b"
+                }
+            ]
+        }
+    ]
+}

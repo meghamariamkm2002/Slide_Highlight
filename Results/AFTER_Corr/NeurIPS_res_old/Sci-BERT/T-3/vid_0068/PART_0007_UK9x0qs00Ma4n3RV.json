@@ -1,0 +1,219 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,029",
+            "end_time": "00:00:00,249",
+            "transcript": "used.",
+            "MatchedRegion": [
+                {
+                    "Text": "Does fine-tuning accuracy correlate to training-from-scratch accuracy?",
+                    "BoundingBox": {
+                        "Width": 0.8630226850509644,
+                        "Height": 0.06008785590529442,
+                        "Left": 0.0687173530459404,
+                        "Top": 0.10842900723218918
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6810771226882935
+                },
+                {
+                    "Text": "Improvement upon their own training-from-scratch accuracy",
+                    "BoundingBox": {
+                        "Width": 0.5116194486618042,
+                        "Height": 0.04042353481054306,
+                        "Left": 0.4737986624240875,
+                        "Top": 0.17760786414146423
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7575263381004333
+                },
+                {
+                    "Text": "77 76 75 74 Improvement upon the teacher 73 72 Teacher - Spearman-p 71 M1 - 0.25 M5 - 0.31 72 73 74 75 76 77 78 79 80 Acc. when trained from stratch",
+                    "BoundingBox": {
+                        "Width": 0.6278022527694702,
+                        "Height": 0.6684235334396362,
+                        "Left": 0.23767848312854767,
+                        "Top": 0.21945644915103912
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7549049854278564
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,990",
+            "end_time": "00:00:06,231",
+            "transcript": "Motor exhibits vastly different performance when distributed compared to normal training.",
+            "MatchedRegion": [
+                {
+                    "Text": "Does fine-tuning accuracy correlate to training-from-scratch accuracy?",
+                    "BoundingBox": {
+                        "Width": 0.8630226850509644,
+                        "Height": 0.06008785590529442,
+                        "Left": 0.0687173530459404,
+                        "Top": 0.10842900723218918
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6810771226882935
+                },
+                {
+                    "Text": "Improvement upon their own training-from-scratch accuracy",
+                    "BoundingBox": {
+                        "Width": 0.5116194486618042,
+                        "Height": 0.04042353481054306,
+                        "Left": 0.4737986624240875,
+                        "Top": 0.17760786414146423
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7575263381004333
+                },
+                {
+                    "Text": "77 76 75 74 Improvement upon the teacher 73 72 Teacher - Spearman-p 71 M1 - 0.25 M5 - 0.31 72 73 74 75 76 77 78 79 80 Acc. when trained from stratch",
+                    "BoundingBox": {
+                        "Width": 0.6278022527694702,
+                        "Height": 0.6684235334396362,
+                        "Left": 0.23767848312854767,
+                        "Top": 0.21945644915103912
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7549049854278564
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,311",
+            "end_time": "00:00:14,613",
+            "transcript": "We scale up our analysis to a thousand random student networks which are distributed with good and bad teachers respectively.",
+            "MatchedRegion": [
+                {
+                    "Text": "Does fine-tuning accuracy correlate to training-from-scratch accuracy?",
+                    "BoundingBox": {
+                        "Width": 0.8630226850509644,
+                        "Height": 0.06008785590529442,
+                        "Left": 0.0687173530459404,
+                        "Top": 0.10842900723218918
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6810771226882935
+                },
+                {
+                    "Text": "Improvement upon their own training-from-scratch accuracy",
+                    "BoundingBox": {
+                        "Width": 0.5116194486618042,
+                        "Height": 0.04042353481054306,
+                        "Left": 0.4737986624240875,
+                        "Top": 0.17760786414146423
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7575263381004333
+                },
+                {
+                    "Text": "77 76 75 74 Improvement upon the teacher 73 72 Teacher - Spearman-p 71 M1 - 0.25 M5 - 0.31 72 73 74 75 76 77 78 79 80 Acc. when trained from stratch",
+                    "BoundingBox": {
+                        "Width": 0.6278022527694702,
+                        "Height": 0.6684235334396362,
+                        "Left": 0.23767848312854767,
+                        "Top": 0.21945644915103912
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7549049854278564
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,233",
+            "end_time": "00:00:19,214",
+            "transcript": "Then we coordinate their training from scratch accuracy to the fine-tuning accuracy.",
+            "MatchedRegion": [
+                {
+                    "Text": "Does fine-tuning accuracy correlate to training-from-scratch accuracy?",
+                    "BoundingBox": {
+                        "Width": 0.8630226850509644,
+                        "Height": 0.06008785590529442,
+                        "Left": 0.0687173530459404,
+                        "Top": 0.10842900723218918
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6810771226882935
+                },
+                {
+                    "Text": "Improvement upon their own training-from-scratch accuracy",
+                    "BoundingBox": {
+                        "Width": 0.5116194486618042,
+                        "Height": 0.04042353481054306,
+                        "Left": 0.4737986624240875,
+                        "Top": 0.17760786414146423
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7575263381004333
+                },
+                {
+                    "Text": "77 76 75 74 Improvement upon the teacher 73 72 Teacher - Spearman-p 71 M1 - 0.25 M5 - 0.31 72 73 74 75 76 77 78 79 80 Acc. when trained from stratch",
+                    "BoundingBox": {
+                        "Width": 0.6278022527694702,
+                        "Height": 0.6684235334396362,
+                        "Left": 0.23767848312854767,
+                        "Top": 0.21945644915103912
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7549049854278564
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,874",
+            "end_time": "00:00:22,995",
+            "transcript": "We see that fine-tuning is only beneficial if a good teacher",
+            "MatchedRegion": [
+                {
+                    "Text": "Does fine-tuning accuracy correlate to training-from-scratch accuracy?",
+                    "BoundingBox": {
+                        "Width": 0.8630226850509644,
+                        "Height": 0.06008785590529442,
+                        "Left": 0.0687173530459404,
+                        "Top": 0.10842900723218918
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6810771226882935
+                },
+                {
+                    "Text": "Improvement upon their own training-from-scratch accuracy",
+                    "BoundingBox": {
+                        "Width": 0.5116194486618042,
+                        "Height": 0.04042353481054306,
+                        "Left": 0.4737986624240875,
+                        "Top": 0.17760786414146423
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7575263381004333
+                },
+                {
+                    "Text": "77 76 75 74 Improvement upon the teacher 73 72 Teacher - Spearman-p 71 M1 - 0.25 M5 - 0.31 72 73 74 75 76 77 78 79 80 Acc. when trained from stratch",
+                    "BoundingBox": {
+                        "Width": 0.6278022527694702,
+                        "Height": 0.6684235334396362,
+                        "Left": 0.23767848312854767,
+                        "Top": 0.21945644915103912
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7549049854278564
+                }
+            ]
+        }
+    ]
+}

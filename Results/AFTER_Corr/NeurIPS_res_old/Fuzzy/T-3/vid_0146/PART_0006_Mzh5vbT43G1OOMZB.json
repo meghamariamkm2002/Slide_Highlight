@@ -1,0 +1,81 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,982",
+            "end_time": "00:00:09,309",
+            "transcript": "Our tests employ three different types of vision transformers, vanilla ViT, DeiT, and ViT with improved augmentations and regularization.",
+            "MatchedRegion": [
+                {
+                    "Text": "We test on 3 different types of Vision Transformers- - Vanilla ViT, DeiT, and ViT with improved augmentations and regularization (ViT-AR).",
+                    "BoundingBox": {
+                        "Width": 0.7916622757911682,
+                        "Height": 0.0736851766705513,
+                        "Left": 0.07639680802822113,
+                        "Top": 0.22241495549678802
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0fdfed2d-a340-4c55-8f91-38dcd772668e",
+                    "Score": 0.8654545454545455
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,270",
+            "end_time": "00:00:14,354",
+            "transcript": "We measure the increase in robustness to distribution shifts, i.e.",
+            "MatchedRegion": [
+                {
+                    "Text": "We measure the increase in robustness to distribution shifts, i.e., the increase in accuracy for datasets with shifted distributions.",
+                    "BoundingBox": {
+                        "Width": 0.8194248080253601,
+                        "Height": 0.0670778900384903,
+                        "Left": 0.06082751229405403,
+                        "Top": 0.36435237526893616
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5333359f-9357-497f-9dd8-b6332202a0a1",
+                    "Score": 0.6565656565656566
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,494",
+            "end_time": "00:00:17,656",
+            "transcript": "the increase in accuracy for datasets with shifted distributions.",
+            "MatchedRegion": [
+                {
+                    "Text": "We measure the increase in robustness to distribution shifts, i.e., the increase in accuracy for datasets with shifted distributions.",
+                    "BoundingBox": {
+                        "Width": 0.8194248080253601,
+                        "Height": 0.0670778900384903,
+                        "Left": 0.06082751229405403,
+                        "Top": 0.36435237526893616
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5333359f-9357-497f-9dd8-b6332202a0a1",
+                    "Score": 0.6565656565656566
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,417",
+            "end_time": "00:00:21,920",
+            "transcript": "We use adversarial, real-world, and synthetic datasets.",
+            "MatchedRegion": [
+                {
+                    "Text": "We use adversarial, real-world, and synthetic datasets and observe a significant increase in robustness in all cases.",
+                    "BoundingBox": {
+                        "Width": 0.7872620224952698,
+                        "Height": 0.028045441955327988,
+                        "Left": 0.11290813982486725,
+                        "Top": 0.45424968004226685
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "103c1baa-97c7-49e8-b476-cb8d89907cde",
+                    "Score": 0.6395348837209303
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

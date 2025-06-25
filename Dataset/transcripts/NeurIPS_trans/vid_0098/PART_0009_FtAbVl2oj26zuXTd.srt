@@ -1,0 +1,24 @@
+1
+00:00:00,829 --> 00:00:02,690
+Our method can be seen in the upper figure.
+
+2
+00:00:03,390 --> 00:00:06,772
+Features of the source and target domain are aligned by cluster prototypes.
+
+3
+00:00:07,592 --> 00:00:15,055
+To cluster memory bank features into prototypes, we build upon PCS and perform spherical k-means with a momentum of 0.5.
+
+4
+00:00:16,562 --> 00:00:25,190
+Similar to PCS, we perform in-domain contrastive learning and cross-domain self-supervised learning between the features of the feature extractor and the prototypes.
+
+5
+00:00:25,850 --> 00:00:30,675
+To further improve performance, we add our pseudo-loss formulation for grid-based lane detection.
+
+6
+00:00:31,655 --> 00:00:38,562
+Overall, our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD and all
+

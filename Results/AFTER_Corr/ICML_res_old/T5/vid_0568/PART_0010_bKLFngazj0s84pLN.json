@@ -1,0 +1,80 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,749",
+            "transcript": "state in the cycle.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,110",
+            "end_time": "00:00:06,992",
+            "transcript": "The figure shows how the state of the system is influenced by the instantaneous minima of the energy surface.",
+            "MatchedRegion": [
+                {
+                    "Text": "(top) The first principal component of the dynamical evolution of the nearest fixed point (red circle) of the energy surface and the current state of the fast sub- system (green cross).",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3397536873817444,
+                        "Height": 0.15224914252758026,
+                        "Left": 0.01907839998602867,
+                        "Top": 0.6612651944160461
+                    },
+                    "Id": "0897c1d0-5f09-4a90-9da2-6b016580f28b"
+                },
+                {
+                    "Text": "(bottom) The figure shows how the system is attracted to the nearest fixed point from the current state of the energy surface at each point in time.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.34589165449142456,
+                        "Height": 0.1235780194401741,
+                        "Left": 0.018843313679099083,
+                        "Top": 0.8279460072517395
+                    },
+                    "Id": "55234928-4775-4595-a9cf-f606c25f7010"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,472",
+            "end_time": "00:00:13,514",
+            "transcript": "The black line VD is slow-changing and modulates the minima near the memory states depicted by colored circles.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:14,094",
+            "end_time": "00:00:20,977",
+            "transcript": "VF which are green crosses always follow the instantaneous minima red circle which in turn is modulated by VD.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:21,886",
+            "end_time": "00:00:35,243",
+            "transcript": "The resulting system is a two-scale time-scale dynamic system where in short time scale the system behaves as a static associative memory model attracting to its fixed point while in longer time scales the attractor states can change over time.",
+            "MatchedRegion": [
+                {
+                    "Text": "(bottom) The figure shows how the system is attracted to the nearest fixed point from the current state of the energy surface at each point in time.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.34589165449142456,
+                        "Height": 0.1235780194401741,
+                        "Left": 0.018843313679099083,
+                        "Top": 0.8279460072517395
+                    },
+                    "Id": "55234928-4775-4595-a9cf-f606c25f7010"
+                },
+                {
+                    "Text": "Attractor dynamics",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1748097538948059,
+                        "Height": 0.035859398543834686,
+                        "Left": 0.6460391283035278,
+                        "Top": 0.3869079053401947
+                    },
+                    "Id": "0a4bdfb0-07a7-4654-8616-729b66ede467"
+                }
+            ]
+        }
+    ]
+}

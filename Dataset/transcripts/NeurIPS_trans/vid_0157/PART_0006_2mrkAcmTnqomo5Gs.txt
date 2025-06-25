@@ -1,0 +1,5 @@
+Here we present two cases in which we correctly identify the native pocket, where previous method cannot.
+In conclusion, we build the first intermolecular trigonometry-aware neural network for the production of protein-drug interaction.
+And we also achieved a soda result in both binding structure production and binding affinity production.
+In the future, we will explicitly model the protein dynamics because proteins are intrinsically dynamic.
+And we will also incorporate a larger amount binding affinity data because we have much more affinity data than structured data.

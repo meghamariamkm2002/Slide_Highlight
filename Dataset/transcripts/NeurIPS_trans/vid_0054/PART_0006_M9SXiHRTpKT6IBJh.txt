@@ -1,0 +1,6 @@
+First, in single-frame animal pose estimations, we benchmark simple baseline HRNet, HRFormer, and VIT pose method.
+We set up three settings to benchmark their performance, including user network weights per trend on ImageNet, Cocoa, and AP10000 dataset.
+With human pose per training, both scene-based and vision-transformer
+These methods show performance gains.
+Besides, the benefit of using AP1000 for pre-training is less than that of using the human post data set for pre-training.
+We suspect that it is caused by differences of distribution and data source and as well as the scale differences.

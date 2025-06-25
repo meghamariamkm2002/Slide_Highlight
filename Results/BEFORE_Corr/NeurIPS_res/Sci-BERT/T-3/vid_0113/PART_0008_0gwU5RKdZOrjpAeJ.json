@@ -1,0 +1,162 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,169",
+            "end_time": "00:00:00,809",
+            "transcript": "benchmarking.",
+            "MatchedRegion": [
+                {
+                    "Text": "3 Model Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.2927423119544983,
+                        "Height": 0.046421151608228683,
+                        "Left": 0.02827976457774639,
+                        "Top": 0.05057132989168167
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "71f52b0a-68de-4fd6-90d1-3edcda4b0187",
+                    "Score": 0.6047554016113281
+                },
+                {
+                    "Text": "3.2 Targeted Sentiment Analysis (TSA) Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.5449218153953552,
+                        "Height": 0.04028749838471413,
+                        "Left": 0.0276185255497694,
+                        "Top": 0.14098258316516876
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "c7bd48f0-e81f-4d7b-874b-91c8ce42a289",
+                    "Score": 0.6967589855194092
+                },
+                {
+                    "Text": "Overall Performance",
+                    "BoundingBox": {
+                        "Width": 0.17737993597984314,
+                        "Height": 0.0267608854919672,
+                        "Left": 0.0585303008556366,
+                        "Top": 0.21560664474964142
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "6bc2fbb6-6cf1-4bd2-bfe8-d8686f8beb7d",
+                    "Score": 0.634303092956543
+                },
+                {
+                    "Text": "The pre-trained models on COVID-19 tweets, such as COVID-TWITTER-BERT, can be utilized to further improve the performance of previous TSA models on the METS-CoV-TSA.",
+                    "BoundingBox": {
+                        "Width": 0.8601208329200745,
+                        "Height": 0.06591028720140457,
+                        "Left": 0.0812235176563263,
+                        "Top": 0.27065807580947876
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fa1b285f-f3d0-485a-8615-f9c7484998ea",
+                    "Score": 0.8307925462722778
+                },
+                {
+                    "Text": "Table 4: Model performance on METS-CoV-TSA dataset. (t means our implementation. The standard deviation of SVM model is not reported because the prediction of LibSVM4 is not affected by random seeds when the dataset splitting is fixed.)",
+                    "BoundingBox": {
+                        "Width": 0.7927069664001465,
+                        "Height": 0.11446083337068558,
+                        "Left": 0.0914791002869606,
+                        "Top": 0.3899111747741699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ff7ad35c-1ee7-4de4-8a9e-f30920705963",
+                    "Score": 0.7281621694564819
+                },
+                {
+                    "Text": "9",
+                    "BoundingBox": {
+                        "Width": 0.006414103787392378,
+                        "Height": 0.016852259635925293,
+                        "Left": 0.9168398976325989,
+                        "Top": 0.9450480937957764
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "3dfc839d-99ca-44f2-8720-252504518ca6",
+                    "Score": 0.6093140840530396
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,870",
+            "end_time": "00:00:12,995",
+            "transcript": "We can observe that models incorporating COVID trigger birds as feature extractor significantly outperform other types of models on these TSA subsets.",
+            "MatchedRegion": [
+                {
+                    "Text": "3 Model Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.2927423119544983,
+                        "Height": 0.046421151608228683,
+                        "Left": 0.02827976457774639,
+                        "Top": 0.05057132989168167
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "71f52b0a-68de-4fd6-90d1-3edcda4b0187",
+                    "Score": 0.6047554016113281
+                },
+                {
+                    "Text": "3.2 Targeted Sentiment Analysis (TSA) Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.5449218153953552,
+                        "Height": 0.04028749838471413,
+                        "Left": 0.0276185255497694,
+                        "Top": 0.14098258316516876
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "c7bd48f0-e81f-4d7b-874b-91c8ce42a289",
+                    "Score": 0.6967589855194092
+                },
+                {
+                    "Text": "Overall Performance",
+                    "BoundingBox": {
+                        "Width": 0.17737993597984314,
+                        "Height": 0.0267608854919672,
+                        "Left": 0.0585303008556366,
+                        "Top": 0.21560664474964142
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "6bc2fbb6-6cf1-4bd2-bfe8-d8686f8beb7d",
+                    "Score": 0.634303092956543
+                },
+                {
+                    "Text": "The pre-trained models on COVID-19 tweets, such as COVID-TWITTER-BERT, can be utilized to further improve the performance of previous TSA models on the METS-CoV-TSA.",
+                    "BoundingBox": {
+                        "Width": 0.8601208329200745,
+                        "Height": 0.06591028720140457,
+                        "Left": 0.0812235176563263,
+                        "Top": 0.27065807580947876
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fa1b285f-f3d0-485a-8615-f9c7484998ea",
+                    "Score": 0.8307925462722778
+                },
+                {
+                    "Text": "Table 4: Model performance on METS-CoV-TSA dataset. (t means our implementation. The standard deviation of SVM model is not reported because the prediction of LibSVM4 is not affected by random seeds when the dataset splitting is fixed.)",
+                    "BoundingBox": {
+                        "Width": 0.7927069664001465,
+                        "Height": 0.11446083337068558,
+                        "Left": 0.0914791002869606,
+                        "Top": 0.3899111747741699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ff7ad35c-1ee7-4de4-8a9e-f30920705963",
+                    "Score": 0.7281621694564819
+                },
+                {
+                    "Text": "Person Organization Drug Vaccine Overall Model (mean + std) Acc F1 Acc F1 Acc F1 Acc F1 Acc F1 SVM (Vo and Zhang, 2015) 50.72 36.99 64.57 42.02 58.15 30.17 70.89 46.09 59.53 38.73 LSTM (Hochreiter and Schmidhuber, 1997) 58.56+1.79 50.41+2.48 61.00+0.95 45.64+0.47 56.39+2.18 41.53+1.92 65.99+2.41 40.03+3.62 60.21+1.53 49.08+1.58 TD-LSTM (Tang et al., 2016b) 59.26+0.98 49.54+1.81 63.90+2.19 41.57+2.76 59.91+1.72 41.04+2.22 73.08+0.77 38.14+2.73 63.16+0.65 48.26+1.09 MemNet (Tang et al., 2016a) 59.79+1.57 43.97+3.30 64.79+2.48 37.98+1.92 59.21+1.86 40.24+1.19 74.43+1.21 36.98+2.79 63.73+0.85 45.04+1.65 IAN (Ma et al., 2017) 52.81+1.72 32.75+2.65 67.68+0.45 36.701.94 59.73+0.45 25.22+0.10 77.22+0.00 30.88+0.00 62.59+0.55 34.62+1.77 MGAN (Fan et al., 2018) 57.17+2.00 43.84+4.70 63.84+2.68 40.09+1.20 58.33+2.22 35.32+5.01 72.49+0.98 37.05+5.10 62.00+1.10 42.55+3.17 TNet-LF (Li et al., 2018) 58.07+1.19 51.17+2.10 63.16+1.52 47.68+1.59 60.00+2.00 46.30+2.51 68.52+3.15 41.57+2.17 61.71+1.01 50.80+1.22 ASGCN(Zhang et al., 2019) 58.89+0.63 42.48+2.61 63.89+0.84 39.73+2.62 58.41+1.90 31.12+3.91 72.66+2.02 38.24+2.95 62.69+0.23 41.32+2.22 AEN (Song et al., 2019) 56.84+2.54 47.91+4.12 60.63+4.22 45.68+3.58 52.51+3.12 37.08+4.31 69.12+4.59 41.46+3.31 59.37+2.43 46.28+3.73 LCF (Zeng et al., 2019) 60.29+2.10 52.43+2.31 68.58+1.06 50.15+4.17 58.42+3.16 44.01+1.64 71.14+2.73 41.75+1.90 64.27+1.61 51.29+2.06 BERT-SPC (Devlin et al., 2019) t 64.39+0.91 60.06+1.01 73.28+0.93 58.48+1.50 62.38+1.33 49.11+2.90 77.22+0.96 50.28+5.09 68.87+0.34 59.31+1.18 depGCN (Zhang et al., 2019) 67.39+1.16 62.35+2.08 74.02+0.71 58.62+1.06 63.61+1.07 49.32+0.74 77.13+1.54 47.50+2.73 70.38+0.40 59.96+0.77 kumaGCN (Chen et al., 2020b)t 66.28+1.33 61.84+2.46 72.86+0.59 58.01+2.04 63.61+0.77 49.67+3.14 76.88+0.73 50.17+4.56 69.59+0.73 59.91+2.48 dotGCN (Chen et al.,2022)t 67.06+1.63 62.56+1.54 73.33+0.68 58.34+1.52 63.35+2.13 50.20+1.98 77.55+0.77 45.98+2.90 70.09+0.75 60.05+1.41 BERT-SPC(COVID-TWITTER-BERT)t 73.72+1.47 70.25+2.10 78.53+0.61 66.24+1.59 75.07+1.06 62.67+3.10 79.15+1.02 61.68+3.70 76.29+0.57 70.03+0.92 depGCN (COVID-TWITTER-BERT) t 75.85+1.22 72.70+1.78 79.42+1.25 66.94+2.66 76.92+1.49 67.35+2.45 77.89+2.14 59.85+4.45 77.42+0.77 71.39+1.65 kumaGCN (COVID-TWITTER-BERT) 74.37+1.39 71.46+1.43 78.48+1.46 64.56+1.61 76.30+2.38 62.96+7.41 78.73+1.50 58.87+2.63 76.65+1.20 70.20+1.95 dotGCN (COVID-TWITTER-BERT) 74.95+1.60 72.53+1.54 79.11+0.89 65.21+2.06 74.10+1.90 61.26+2.14 78.65+1.72 59.41+2.92 76.65+0.49 70.32+0.96",
+                    "BoundingBox": {
+                        "Width": 0.8173989057540894,
+                        "Height": 0.4342198073863983,
+                        "Left": 0.0813952088356018,
+                        "Top": 0.528911292552948
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "60dbb45b-998d-4b69-8224-d2358ef3ff73",
+                    "Score": 0.6652970314025879
+                }
+            ]
+        }
+    ]
+}

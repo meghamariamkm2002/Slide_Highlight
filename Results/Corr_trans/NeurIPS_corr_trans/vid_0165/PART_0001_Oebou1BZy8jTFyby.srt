@@ -1,0 +1,64 @@
+1
+00:00:01,616 --> 00:00:03,777
+So first, let's talk about our motivation.
+
+2
+00:00:04,578 --> 00:00:17,024
+As many previous works have pointed out, misinformation campaigns are manipulating public opinions on hotspot topics, such as COVID-19 epidemic and vaccines.
+
+3
+00:00:17,585 --> 00:00:28,711
+For example, a publication pointed out that in those places where misinformation from misinformation campaigns spreads faster, the vaccination rate in these places is also higher.
+
+4
+00:00:29,980 --> 00:00:31,961
+relatively lower than other places.
+
+5
+00:00:33,302 --> 00:00:43,347
+So, to design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influences user beliefs and activities.
+
+6
+00:00:43,947 --> 00:00:49,950
+However, most of the existing works suffers from one or more of the following limitations.
+
+7
+00:00:50,663 --> 00:01:02,327
+So first, almost all the data-driven methodologies or data-driven analysis focus on correlation between misinformation and user activities.
+
+8
+00:01:02,888 --> 00:01:07,950
+And it is well known that causality is different from correlation.
+
+9
+00:01:08,530 --> 00:01:14,072
+So they cannot distinguish causal effect of misinformation from user prior beliefs.
+
+10
+00:01:15,275 --> 00:01:19,136
+Let us use the case of misinformation and the vaccine ratio.
+
+11
+00:01:19,916 --> 00:01:30,839
+One explanation could be that in this place, people primarily do not trust vaccines, so they do not take vaccines and they spread a lot of misinformation.
+
+12
+00:01:31,359 --> 00:01:36,360
+That could be true, but the correlation analysis cannot help us distinguish causality.
+
+13
+00:01:37,940 --> 00:01:41,981
+And there are some other works trying to understand the real causal effect.
+
+14
+00:01:42,674 --> 00:01:46,716
+But they mainly rely on random controlled experiments and surveys.
+
+15
+00:01:47,296 --> 00:01:50,518
+So, first, they are very costly.
+
+16
+00:01:50,878 --> 00:01:59,002
+And secondly, they may bring some ethical risk if we apply them on very large social media platforms.
+

@@ -1,0 +1,48 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,842",
+            "end_time": "00:00:09,147",
+            "transcript": "In the state-only or LFO setting, we compare against Apollo, once again using only a single extra trajectory, and importantly, CFO uses identical hyperparameters as the pre-rate setting.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:09,767",
+            "end_time": "00:00:16,591",
+            "transcript": "The figure shows two versions of CFO compared with Apollo, one estimating the next state distribution and the other limiting itself to the single state distribution.",
+            "MatchedRegion": [
+                {
+                    "Text": "HalfCheetah-v2 Walker2d-v2 Ant-v2 Hopper-v2 Humanoid-v2 7000 4000 3500 5000 6000 5000 3000 4000 5000 3000 2500 4000 3000 4000 2000 2000 3000 2000 3000 1500 1000 CFIL_state_next_state 1000 2000 1000 2000 CFIL_state 0 500 OPOLO 1000 1000 0 -1000 0 expert 0 -1000 -500 0 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 Env int 1e5 Env int 1e5 Env int 1e5 Env int le5 Env int 1e5",
+                    "BoundingBox": {
+                        "Width": 0.8054854869842529,
+                        "Height": 0.32969942688941956,
+                        "Left": 0.10885651409626007,
+                        "Top": 0.45543161034584045
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e69f99a5-d8c0-4ff5-8ba0-3e3d577cab48",
+                    "Score": 0.6001641750335693
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,252",
+            "end_time": "00:00:22,835",
+            "transcript": "Both incarnations of CFO distinctly outperform the LFO-tailored Apollo on every imitation learning metric.",
+            "MatchedRegion": [
+                {
+                    "Text": "HalfCheetah-v2 Walker2d-v2 Ant-v2 Hopper-v2 Humanoid-v2 7000 4000 3500 5000 6000 5000 3000 4000 5000 3000 2500 4000 3000 4000 2000 2000 3000 2000 3000 1500 1000 CFIL_state_next_state 1000 2000 1000 2000 CFIL_state 0 500 OPOLO 1000 1000 0 -1000 0 expert 0 -1000 -500 0 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 Env int 1e5 Env int 1e5 Env int 1e5 Env int le5 Env int 1e5",
+                    "BoundingBox": {
+                        "Width": 0.8054854869842529,
+                        "Height": 0.32969942688941956,
+                        "Left": 0.10885651409626007,
+                        "Top": 0.45543161034584045
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e69f99a5-d8c0-4ff5-8ba0-3e3d577cab48",
+                    "Score": 0.6001641750335693
+                }
+            ]
+        }
+    ]
+}

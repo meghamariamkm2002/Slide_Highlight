@@ -1,0 +1,320 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,390",
+            "end_time": "00:00:05,153",
+            "transcript": "We used the open source color simulator to collect data for our source domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "We use the open-source CARLA simulator",
+                    "BoundingBox": {
+                        "Width": 0.36963438987731934,
+                        "Height": 0.03722042590379715,
+                        "Left": 0.035336658358573914,
+                        "Top": 0.15807127952575684
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d9c8b62d-f3c7-4545-b988-d0d5c34f89cc",
+                    "Score": 0.8124709725379944
+                },
+                {
+                    "Text": "Dataset [4] [19] [5] ours",
+                    "BoundingBox": {
+                        "Width": 0.4499727487564087,
+                        "Height": 0.31418511271476746,
+                        "Left": 0.045199718326330185,
+                        "Top": 0.49356040358543396
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "60809d07-bb06-4b1a-bda5-b355a22d3362",
+                    "Score": 0.8694397211074829
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.08154667913913727,
+                        "Height": 0.06537598371505737,
+                        "Left": 0.34931790828704834,
+                        "Top": 0.9233594536781311
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "967e2912-c1a1-4610-b667-3c982ccf836f",
+                    "Score": 0.7436281442642212
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06995028257369995,
+                        "Height": 0.06809300929307938,
+                        "Left": 0.4437646269798279,
+                        "Top": 0.920911431312561
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b31b7e6f-b6ec-426e-a69b-be5e1994f96d",
+                    "Score": 0.7936227917671204
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,713",
+            "end_time": "00:00:09,956",
+            "transcript": "During the data collection process, we randomized multiple aspects of the agent and environment.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset Collection - Simulation",
+                    "BoundingBox": {
+                        "Width": 0.45717042684555054,
+                        "Height": 0.053360141813755035,
+                        "Left": 0.037500690668821335,
+                        "Top": 0.03334933519363403
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "ae042f8d-d9ea-4701-ab5d-aebda6f3a6c9",
+                    "Score": 0.8138776421546936
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10932081192731857,
+                        "Height": 0.08308461308479309,
+                        "Left": 0.8870413899421692,
+                        "Top": 0.011332846246659756
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ead8c43c-6b2a-4579-b4fc-d33a2b7a1207",
+                    "Score": 0.7132023572921753
+                },
+                {
+                    "Text": "Randomize multiple aspects of the agent and environment:",
+                    "BoundingBox": {
+                        "Width": 0.5184683203697205,
+                        "Height": 0.04056868329644203,
+                        "Left": 0.035123471170663834,
+                        "Top": 0.2190413773059845
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8dc010e0-d825-466a-8967-e0b02cc9001d",
+                    "Score": 0.8374588489532471
+                },
+                {
+                    "Text": "up to five neighbor vehicles are spawned randomly in the vicinity of the agent",
+                    "BoundingBox": {
+                        "Width": 0.6110031008720398,
+                        "Height": 0.04062272235751152,
+                        "Left": 0.07264310866594315,
+                        "Top": 0.3374454975128174
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "32f07415-a60c-4896-80f3-bcb97650d5d5",
+                    "Score": 0.8038963079452515
+                },
+                {
+                    "Text": "Dataset [4] [19] [5] ours",
+                    "BoundingBox": {
+                        "Width": 0.4499727487564087,
+                        "Height": 0.31418511271476746,
+                        "Left": 0.045199718326330185,
+                        "Top": 0.49356040358543396
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "60809d07-bb06-4b1a-bda5-b355a22d3362",
+                    "Score": 0.8694397211074829
+                },
+                {
+                    "Text": "At this point, none of the other datasets is publicly available",
+                    "BoundingBox": {
+                        "Width": 0.19395320117473602,
+                        "Height": 0.10615502297878265,
+                        "Left": 0.507716953754425,
+                        "Top": 0.6326955556869507
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "69afe0bb-d6f2-402f-a074-a5847c48198e",
+                    "Score": 0.9820185303688049
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.08154667913913727,
+                        "Height": 0.06537598371505737,
+                        "Left": 0.34931790828704834,
+                        "Top": 0.9233594536781311
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "967e2912-c1a1-4610-b667-3c982ccf836f",
+                    "Score": 0.7436281442642212
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06995028257369995,
+                        "Height": 0.06809300929307938,
+                        "Left": 0.4437646269798279,
+                        "Top": 0.920911431312561
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b31b7e6f-b6ec-426e-a69b-be5e1994f96d",
+                    "Score": 0.7936227917671204
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,837",
+            "end_time": "00:00:18,042",
+            "transcript": "A comparison of agent and environmental variations to other private unit data sets for land detection can be seen in the table on the slide.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset [4] [19] [5] ours",
+                    "BoundingBox": {
+                        "Width": 0.4499727487564087,
+                        "Height": 0.31418511271476746,
+                        "Left": 0.045199718326330185,
+                        "Top": 0.49356040358543396
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "60809d07-bb06-4b1a-bda5-b355a22d3362",
+                    "Score": 0.8694397211074829
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.08154667913913727,
+                        "Height": 0.06537598371505737,
+                        "Left": 0.34931790828704834,
+                        "Top": 0.9233594536781311
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "967e2912-c1a1-4610-b667-3c982ccf836f",
+                    "Score": 0.7436281442642212
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06995028257369995,
+                        "Height": 0.06809300929307938,
+                        "Left": 0.4437646269798279,
+                        "Top": 0.920911431312561
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b31b7e6f-b6ec-426e-a69b-be5e1994f96d",
+                    "Score": 0.7936227917671204
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,743",
+            "end_time": "00:00:21,965",
+            "transcript": "Please note that none of the other data sets is publicly available at",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset Collection - Simulation",
+                    "BoundingBox": {
+                        "Width": 0.45717042684555054,
+                        "Height": 0.053360141813755035,
+                        "Left": 0.037500690668821335,
+                        "Top": 0.03334933519363403
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "ae042f8d-d9ea-4701-ab5d-aebda6f3a6c9",
+                    "Score": 0.8138776421546936
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10932081192731857,
+                        "Height": 0.08308461308479309,
+                        "Left": 0.8870413899421692,
+                        "Top": 0.011332846246659756
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ead8c43c-6b2a-4579-b4fc-d33a2b7a1207",
+                    "Score": 0.7132023572921753
+                },
+                {
+                    "Text": "We use the open-source CARLA simulator",
+                    "BoundingBox": {
+                        "Width": 0.36963438987731934,
+                        "Height": 0.03722042590379715,
+                        "Left": 0.035336658358573914,
+                        "Top": 0.15807127952575684
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d9c8b62d-f3c7-4545-b988-d0d5c34f89cc",
+                    "Score": 0.8124709725379944
+                },
+                {
+                    "Text": "Randomize multiple aspects of the agent and environment:",
+                    "BoundingBox": {
+                        "Width": 0.5184683203697205,
+                        "Height": 0.04056868329644203,
+                        "Left": 0.035123471170663834,
+                        "Top": 0.2190413773059845
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8dc010e0-d825-466a-8967-e0b02cc9001d",
+                    "Score": 0.8374588489532471
+                },
+                {
+                    "Text": "Dataset [4] [19] [5] ours",
+                    "BoundingBox": {
+                        "Width": 0.4499727487564087,
+                        "Height": 0.31418511271476746,
+                        "Left": 0.045199718326330185,
+                        "Top": 0.49356040358543396
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "60809d07-bb06-4b1a-bda5-b355a22d3362",
+                    "Score": 0.8694397211074829
+                },
+                {
+                    "Text": "At this point, none of the other datasets is publicly available",
+                    "BoundingBox": {
+                        "Width": 0.19395320117473602,
+                        "Height": 0.10615502297878265,
+                        "Left": 0.507716953754425,
+                        "Top": 0.6326955556869507
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "69afe0bb-d6f2-402f-a074-a5847c48198e",
+                    "Score": 0.9820185303688049
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.08154667913913727,
+                        "Height": 0.06537598371505737,
+                        "Left": 0.34931790828704834,
+                        "Top": 0.9233594536781311
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "967e2912-c1a1-4610-b667-3c982ccf836f",
+                    "Score": 0.7436281442642212
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06995028257369995,
+                        "Height": 0.06809300929307938,
+                        "Left": 0.4437646269798279,
+                        "Top": 0.920911431312561
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b31b7e6f-b6ec-426e-a69b-be5e1994f96d",
+                    "Score": 0.7936227917671204
+                },
+                {
+                    "Text": "5",
+                    "BoundingBox": {
+                        "Width": 0.006179014686495066,
+                        "Height": 0.015401050448417664,
+                        "Left": 0.9542571306228638,
+                        "Top": 0.9463216066360474
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "2dcb591f-0222-45a9-964e-43ba3a98d38e",
+                    "Score": 0.8581953048706055
+                }
+            ]
+        }
+    ]
+}

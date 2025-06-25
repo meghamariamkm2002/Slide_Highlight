@@ -1,0 +1,24 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,072",
+            "end_time": "00:00:03,349",
+            "transcript": "Mahalo for your time, and see you in Hawaii.",
+            "MatchedRegion": [
+                {
+                    "Text": "Mahalo",
+                    "BoundingBox": {
+                        "Width": 0.1522902101278305,
+                        "Height": 0.06417681276798248,
+                        "Left": 0.4228441119194031,
+                        "Top": 0.3570963442325592
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "cf230c60-bbbb-4d48-88eb-673e98bef753",
+                    "Score": 0.6608430743217468
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

@@ -1,0 +1,60 @@
+{
+    "MatchedSlides": [
+        "PART_0006_i0GByLdBl7yaEpjE"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,015",
+            "end_time": "00:00:13,406",
+            "transcript": "For base lines, we use T5 and T5 bischema serialization, and then we use three threshold methods to evaluate how well each method can distinguish between answerable and unanswerable questions.",
+            "MatchedRegion": [
+                {
+                    "Text": "T5 Baselines",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.1586601734161377,
+                        "Height": 0.03788045793771744,
+                        "Left": 0.10544493049383163,
+                        "Top": 0.20614685118198395
+                    },
+                    "Id": "238e0e9b-8a44-479a-affd-8f624da8628c"
+                },
+                {
+                    "Text": "Valid Test Valid Test Model Model Flans Pere Rexe Flexe Flans Pere Rexe Flere Flans Pere Rere Flere Flans Pere Rexe Flere exe Threshold: None Threshold: None T5 80.8 65.2 96.2 77.7 80.3 64.0 95.4 76.6 T5 80.7 65.2 96.4 77.8 80.4 64.0 95.2 76.5 T5 + Schema 80.8 65.3 96.4 77.9 80.3 64.0 95.3 76.6 T5 + Schema 80.7 64.4 95.2 76.8 80.4 64.1 95.4 76.7 Threshold: Clustering boundary Threshold: Clustering boundary T5 93.1 89.3 94.5 91.8 90.1 83.6 93.1 88.1 T5 92.4 89.4 92.8 91.1 89.5 82.1 93.2 87.3 T5 + Schema 92.2 86.7 95.0 90.6 89.8 82.5 93.8 87.8 T5 + Schema 92.7 86.8 94.0 90.3 89.5 79.9 95.0 86.8 Threshold: Percentile-based Threshold: Percentile-based T5 94.8 94.1 93.2 93.7 91.4 88.8 91.1 89.9 T5 93.0 92.5 91.7 92.1 90.8 87.5 91.6 89.5 T5 + Schema 93.5 93.0 92.0 92.5 90.6 88.4 89.7 89.1 T5 + Schema 94.2 92.5 91.7 92.1 90.9 84.8 93.5 88.9",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.8296986222267151,
+                        "Height": 0.3549003601074219,
+                        "Left": 0.10914357006549835,
+                        "Top": 0.27688053250312805
+                    },
+                    "Id": "3d95cdc0-d504-47ff-80b4-2d9a46c37067"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,067",
+            "end_time": "00:00:20,072",
+            "transcript": "The methods include no threshold based on clustering boundary, threshold based on percentile.",
+            "MatchedRegion": [
+                {
+                    "Text": "Valid Test Valid Test Model Model Flans Pere Rexe Flexe Flans Pere Rexe Flere Flans Pere Rere Flere Flans Pere Rexe Flere exe Threshold: None Threshold: None T5 80.8 65.2 96.2 77.7 80.3 64.0 95.4 76.6 T5 80.7 65.2 96.4 77.8 80.4 64.0 95.2 76.5 T5 + Schema 80.8 65.3 96.4 77.9 80.3 64.0 95.3 76.6 T5 + Schema 80.7 64.4 95.2 76.8 80.4 64.1 95.4 76.7 Threshold: Clustering boundary Threshold: Clustering boundary T5 93.1 89.3 94.5 91.8 90.1 83.6 93.1 88.1 T5 92.4 89.4 92.8 91.1 89.5 82.1 93.2 87.3 T5 + Schema 92.2 86.7 95.0 90.6 89.8 82.5 93.8 87.8 T5 + Schema 92.7 86.8 94.0 90.3 89.5 79.9 95.0 86.8 Threshold: Percentile-based Threshold: Percentile-based T5 94.8 94.1 93.2 93.7 91.4 88.8 91.1 89.9 T5 93.0 92.5 91.7 92.1 90.8 87.5 91.6 89.5 T5 + Schema 93.5 93.0 92.0 92.5 90.6 88.4 89.7 89.1 T5 + Schema 94.2 92.5 91.7 92.1 90.9 84.8 93.5 88.9",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.8296986222267151,
+                        "Height": 0.3549003601074219,
+                        "Left": 0.10914357006549835,
+                        "Top": 0.27688053250312805
+                    },
+                    "Id": "3d95cdc0-d504-47ff-80b4-2d9a46c37067"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,593",
+            "end_time": "00:00:22,995",
+            "transcript": "For mor details, pleae refer to our paper.",
+            "MatchedRegion": []
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,030",
+            "end_time": "00:00:04,951",
+            "transcript": "This figure shows an overview of the block search space.",
+            "MatchedRegion": [
+                {
+                    "Text": "Search space",
+                    "BoundingBox": {
+                        "Width": 0.23608358204364777,
+                        "Height": 0.06464575976133347,
+                        "Left": 0.3818242847919464,
+                        "Top": 0.12055683135986328
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "1e130015-70d8-4315-b6c0-2881aeb34c66",
+                    "Score": 0.8162927031517029
+                },
+                {
+                    "Text": "Block Architecture 2 3 0 Operation set Skip Zero 1 4 Conv BConv MBConv Network Stage 1 Stage 2 Stage 3 Architecture",
+                    "BoundingBox": {
+                        "Width": 0.8327062129974365,
+                        "Height": 0.7429144382476807,
+                        "Left": 0.12214028090238571,
+                        "Top": 0.21697860956192017
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0465a677-349a-42ac-bdbc-508f6c0f658a",
+                    "Score": 0.7325193881988525
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,852",
+            "end_time": "00:00:12,034",
+            "transcript": "The network architecture consists of three stages, each containing a searchable block and a fixed reduction block.",
+            "MatchedRegion": [
+                {
+                    "Text": "Search space",
+                    "BoundingBox": {
+                        "Width": 0.23608358204364777,
+                        "Height": 0.06464575976133347,
+                        "Left": 0.3818242847919464,
+                        "Top": 0.12055683135986328
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "1e130015-70d8-4315-b6c0-2881aeb34c66",
+                    "Score": 0.8162927031517029
+                },
+                {
+                    "Text": "Block Architecture 2 3 0 Operation set Skip Zero 1 4 Conv BConv MBConv Network Stage 1 Stage 2 Stage 3 Architecture",
+                    "BoundingBox": {
+                        "Width": 0.8327062129974365,
+                        "Height": 0.7429144382476807,
+                        "Left": 0.12214028090238571,
+                        "Top": 0.21697860956192017
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0465a677-349a-42ac-bdbc-508f6c0f658a",
+                    "Score": 0.7325193881988525
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,694",
+            "end_time": "00:00:16,476",
+            "transcript": "The searchable block architecture can be expressed as a defensible supernet.",
+            "MatchedRegion": [
+                {
+                    "Text": "Search space",
+                    "BoundingBox": {
+                        "Width": 0.23608358204364777,
+                        "Height": 0.06464575976133347,
+                        "Left": 0.3818242847919464,
+                        "Top": 0.12055683135986328
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "1e130015-70d8-4315-b6c0-2881aeb34c66",
+                    "Score": 0.8162927031517029
+                },
+                {
+                    "Text": "Block Architecture 2 3 0 Operation set Skip Zero 1 4 Conv BConv MBConv Network Stage 1 Stage 2 Stage 3 Architecture",
+                    "BoundingBox": {
+                        "Width": 0.8327062129974365,
+                        "Height": 0.7429144382476807,
+                        "Left": 0.12214028090238571,
+                        "Top": 0.21697860956192017
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0465a677-349a-42ac-bdbc-508f6c0f658a",
+                    "Score": 0.7325193881988525
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,156",
+            "end_time": "00:00:20,878",
+            "transcript": "Each stage is allowed to be different to construct the",
+            "MatchedRegion": [
+                {
+                    "Text": "Search space",
+                    "BoundingBox": {
+                        "Width": 0.23608358204364777,
+                        "Height": 0.06464575976133347,
+                        "Left": 0.3818242847919464,
+                        "Top": 0.12055683135986328
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "1e130015-70d8-4315-b6c0-2881aeb34c66",
+                    "Score": 0.8162927031517029
+                },
+                {
+                    "Text": "Block Architecture 2 3 0 Operation set Skip Zero 1 4 Conv BConv MBConv Network Stage 1 Stage 2 Stage 3 Architecture",
+                    "BoundingBox": {
+                        "Width": 0.8327062129974365,
+                        "Height": 0.7429144382476807,
+                        "Left": 0.12214028090238571,
+                        "Top": 0.21697860956192017
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0465a677-349a-42ac-bdbc-508f6c0f658a",
+                    "Score": 0.7325193881988525
+                }
+            ]
+        }
+    ]
+}

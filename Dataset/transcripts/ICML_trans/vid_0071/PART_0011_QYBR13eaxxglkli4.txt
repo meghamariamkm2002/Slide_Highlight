@@ -1,0 +1,2 @@
+Certainly, we verify the model-wise transferability of extracted concepts.
+That is to say, concept extracted from a DNN can be transferred to another DNN trained for the same task.

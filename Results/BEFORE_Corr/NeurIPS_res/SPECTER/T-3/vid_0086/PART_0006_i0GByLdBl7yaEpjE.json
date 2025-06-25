@@ -1,0 +1,900 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,311",
+            "end_time": "00:00:10,057",
+            "transcript": "Trustworthy Semantic Parsing is a new test that we propose to evaluate text-to-escalant models under the practical challenges mentioned in the previous slides.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.31490033864974976,
+                        "Height": 0.05471857637166977,
+                        "Left": 0.045687709003686905,
+                        "Top": 0.06594913452863693
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "51fd14c5-0f55-4244-b271-9b42cf1030bf",
+                    "Score": 0.7849827408790588
+                },
+                {
+                    "Text": "Trustworthy Semantic Parsing",
+                    "BoundingBox": {
+                        "Width": 0.36922869086265564,
+                        "Height": 0.05008293688297272,
+                        "Left": 0.1052887886762619,
+                        "Top": 0.2200460433959961
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "bdf0bd9c-74da-4317-accc-28ae1d57a4ec",
+                    "Score": 0.7467913627624512
+                },
+                {
+                    "Text": "0.0009 what is the method for ingestion of danazol? 0.0012 tell me the length of the last hospital stay of patient 3745. Trustworthy Text-to-SQL Model count the number of patients who were prescribed aspirin ec within 2 months after having received a venous cath nec procedure until 4 years ago. what are the side effects of long term insulin administration? 3.3638",
+                    "BoundingBox": {
+                        "Width": 0.35617122054100037,
+                        "Height": 0.49554407596588135,
+                        "Left": 0.12574315071105957,
+                        "Top": 0.32266488671302795
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "318f465d-b974-4f00-a169-20c2ccdd86bd",
+                    "Score": 0.6643288135528564
+                },
+                {
+                    "Text": "Query Execution",
+                    "BoundingBox": {
+                        "Width": 0.04215939715504646,
+                        "Height": 0.03491005301475525,
+                        "Left": 0.8724434971809387,
+                        "Top": 0.3031925559043884
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3031ae52-483b-4640-9073-2adcc07b11b9",
+                    "Score": 0.8061224222183228
+                },
+                {
+                    "Text": "EHR Database",
+                    "BoundingBox": {
+                        "Width": 0.04075443372130394,
+                        "Height": 0.034573379904031754,
+                        "Left": 0.8906903266906738,
+                        "Top": 0.4363272786140442
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9fd096bb-8cbc-4169-bcfb-86575fde7544",
+                    "Score": 0.7655516862869263
+                },
+                {
+                    "Text": "null",
+                    "BoundingBox": {
+                        "Width": 0.015775728970766068,
+                        "Height": 0.013966605067253113,
+                        "Left": 0.4779275953769684,
+                        "Top": 0.791498601436615
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c0405dbd-c3a8-4a31-a6ff-8c6d1415acec",
+                    "Score": 0.7845660448074341
+                },
+                {
+                    "Text": "Metrics: F1ans and F1exe",
+                    "BoundingBox": {
+                        "Width": 0.2294272929430008,
+                        "Height": 0.03258039057254791,
+                        "Left": 0.15624625980854034,
+                        "Top": 0.8733363747596741
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "52a59785-b490-421c-a281-5c0ac8500228",
+                    "Score": 0.7748280763626099
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,898",
+            "end_time": "00:00:17,923",
+            "transcript": "In Trustworthy Semantic Parsing, the model should only answer answerable questions and refuse to answer if they are unanswerable.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.31490033864974976,
+                        "Height": 0.05471857637166977,
+                        "Left": 0.045687709003686905,
+                        "Top": 0.06594913452863693
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "51fd14c5-0f55-4244-b271-9b42cf1030bf",
+                    "Score": 0.7849827408790588
+                },
+                {
+                    "Text": "Trustworthy Semantic Parsing",
+                    "BoundingBox": {
+                        "Width": 0.36922869086265564,
+                        "Height": 0.05008293688297272,
+                        "Left": 0.1052887886762619,
+                        "Top": 0.2200460433959961
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "bdf0bd9c-74da-4317-accc-28ae1d57a4ec",
+                    "Score": 0.7467913627624512
+                },
+                {
+                    "Text": "Query Execution",
+                    "BoundingBox": {
+                        "Width": 0.04215939715504646,
+                        "Height": 0.03491005301475525,
+                        "Left": 0.8724434971809387,
+                        "Top": 0.3031925559043884
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3031ae52-483b-4640-9073-2adcc07b11b9",
+                    "Score": 0.8061224222183228
+                },
+                {
+                    "Text": "EHR Database",
+                    "BoundingBox": {
+                        "Width": 0.04075443372130394,
+                        "Height": 0.034573379904031754,
+                        "Left": 0.8906903266906738,
+                        "Top": 0.4363272786140442
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9fd096bb-8cbc-4169-bcfb-86575fde7544",
+                    "Score": 0.7655516862869263
+                },
+                {
+                    "Text": "null",
+                    "BoundingBox": {
+                        "Width": 0.015775728970766068,
+                        "Height": 0.013966605067253113,
+                        "Left": 0.4779275953769684,
+                        "Top": 0.791498601436615
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c0405dbd-c3a8-4a31-a6ff-8c6d1415acec",
+                    "Score": 0.7845660448074341
+                },
+                {
+                    "Text": "Metrics: F1ans and F1exe",
+                    "BoundingBox": {
+                        "Width": 0.2294272929430008,
+                        "Height": 0.03258039057254791,
+                        "Left": 0.15624625980854034,
+                        "Top": 0.8733363747596741
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "52a59785-b490-421c-a281-5c0ac8500228",
+                    "Score": 0.7748280763626099
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,581",
+            "end_time": "00:00:29,010",
+            "transcript": "Because the answer from the EHR database may be directly used for clinical decision making, the model should have a strategy to predict whether it can confidently answer the question or not.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.31490033864974976,
+                        "Height": 0.05471857637166977,
+                        "Left": 0.045687709003686905,
+                        "Top": 0.06594913452863693
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "51fd14c5-0f55-4244-b271-9b42cf1030bf",
+                    "Score": 0.7849827408790588
+                },
+                {
+                    "Text": "Trustworthy Semantic Parsing",
+                    "BoundingBox": {
+                        "Width": 0.36922869086265564,
+                        "Height": 0.05008293688297272,
+                        "Left": 0.1052887886762619,
+                        "Top": 0.2200460433959961
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "bdf0bd9c-74da-4317-accc-28ae1d57a4ec",
+                    "Score": 0.7467913627624512
+                },
+                {
+                    "Text": "0.0009 what is the method for ingestion of danazol? 0.0012 tell me the length of the last hospital stay of patient 3745. Trustworthy Text-to-SQL Model count the number of patients who were prescribed aspirin ec within 2 months after having received a venous cath nec procedure until 4 years ago. what are the side effects of long term insulin administration? 3.3638",
+                    "BoundingBox": {
+                        "Width": 0.35617122054100037,
+                        "Height": 0.49554407596588135,
+                        "Left": 0.12574315071105957,
+                        "Top": 0.32266488671302795
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "318f465d-b974-4f00-a169-20c2ccdd86bd",
+                    "Score": 0.6643288135528564
+                },
+                {
+                    "Text": "SELECT DISTINCT prescriptions.route FROM prescriptions WHERE prescriptions.drug 'danazol .",
+                    "BoundingBox": {
+                        "Width": 0.2382706254720688,
+                        "Height": 0.044504016637802124,
+                        "Left": 0.444267213344574,
+                        "Top": 0.3166150450706482
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "844fa062-4814-4ccf-8b7f-6fa6e38b0350",
+                    "Score": 0.6511471271514893
+                },
+                {
+                    "Text": "Query Execution",
+                    "BoundingBox": {
+                        "Width": 0.04215939715504646,
+                        "Height": 0.03491005301475525,
+                        "Left": 0.8724434971809387,
+                        "Top": 0.3031925559043884
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3031ae52-483b-4640-9073-2adcc07b11b9",
+                    "Score": 0.8061224222183228
+                },
+                {
+                    "Text": "SELECT strftime ('SJ', admissions.dischtime) - strftime ('BJ', admissions.admittime) FROM admissions WHERE admissions.subject id - 3745 AND admissions.dischtime IS NOT NULL ORDER BY admissions.admittimed DESC LIMIT 1",
+                    "BoundingBox": {
+                        "Width": 0.25141939520835876,
+                        "Height": 0.10259808599948883,
+                        "Left": 0.45939362049102783,
+                        "Top": 0.3979666233062744
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0729440-404b-4d2d-8fa4-e6e9742281d3",
+                    "Score": 0.6920127868652344
+                },
+                {
+                    "Text": "SELECT count ( DISTINCT t1.subject_id ) FROM ( SELECT admissions.subjectid, procedures_icd.charttime FROM procedures_icd JOIN admissions ON procedures_icd.hadm_id - admissions.hadm_id WHERE procedures_icd.icd9_code - WHERE t1.charttime < t2.startdate AND datetime (t2.startdate) BETWEEN datetime ( tl.charttime) AND datetime (t1.charttime, '+2 month')",
+                    "BoundingBox": {
+                        "Width": 0.3534931242465973,
+                        "Height": 0.19678960740566254,
+                        "Left": 0.4501149356365204,
+                        "Top": 0.5428897738456726
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7b2f8ef6-0feb-4f06-a2c0-74c7b6b8a911",
+                    "Score": 0.6871427893638611
+                },
+                {
+                    "Text": "EHR Database",
+                    "BoundingBox": {
+                        "Width": 0.04075443372130394,
+                        "Height": 0.034573379904031754,
+                        "Left": 0.8906903266906738,
+                        "Top": 0.4363272786140442
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9fd096bb-8cbc-4169-bcfb-86575fde7544",
+                    "Score": 0.7655516862869263
+                },
+                {
+                    "Text": "null",
+                    "BoundingBox": {
+                        "Width": 0.015775728970766068,
+                        "Height": 0.013966605067253113,
+                        "Left": 0.4779275953769684,
+                        "Top": 0.791498601436615
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c0405dbd-c3a8-4a31-a6ff-8c6d1415acec",
+                    "Score": 0.7845660448074341
+                },
+                {
+                    "Text": "Metrics: F1ans and F1exe",
+                    "BoundingBox": {
+                        "Width": 0.2294272929430008,
+                        "Height": 0.03258039057254791,
+                        "Left": 0.15624625980854034,
+                        "Top": 0.8733363747596741
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "52a59785-b490-421c-a281-5c0ac8500228",
+                    "Score": 0.7748280763626099
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,670",
+            "end_time": "00:00:33,033",
+            "transcript": "We use two metrics here to measure the performance of this task.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.31490033864974976,
+                        "Height": 0.05471857637166977,
+                        "Left": 0.045687709003686905,
+                        "Top": 0.06594913452863693
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "51fd14c5-0f55-4244-b271-9b42cf1030bf",
+                    "Score": 0.7849827408790588
+                },
+                {
+                    "Text": "Trustworthy Semantic Parsing",
+                    "BoundingBox": {
+                        "Width": 0.36922869086265564,
+                        "Height": 0.05008293688297272,
+                        "Left": 0.1052887886762619,
+                        "Top": 0.2200460433959961
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "bdf0bd9c-74da-4317-accc-28ae1d57a4ec",
+                    "Score": 0.7467913627624512
+                },
+                {
+                    "Text": "0.0009 what is the method for ingestion of danazol? 0.0012 tell me the length of the last hospital stay of patient 3745. Trustworthy Text-to-SQL Model count the number of patients who were prescribed aspirin ec within 2 months after having received a venous cath nec procedure until 4 years ago. what are the side effects of long term insulin administration? 3.3638",
+                    "BoundingBox": {
+                        "Width": 0.35617122054100037,
+                        "Height": 0.49554407596588135,
+                        "Left": 0.12574315071105957,
+                        "Top": 0.32266488671302795
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "318f465d-b974-4f00-a169-20c2ccdd86bd",
+                    "Score": 0.6643288135528564
+                },
+                {
+                    "Text": "SELECT DISTINCT prescriptions.route FROM prescriptions WHERE prescriptions.drug 'danazol .",
+                    "BoundingBox": {
+                        "Width": 0.2382706254720688,
+                        "Height": 0.044504016637802124,
+                        "Left": 0.444267213344574,
+                        "Top": 0.3166150450706482
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "844fa062-4814-4ccf-8b7f-6fa6e38b0350",
+                    "Score": 0.6511471271514893
+                },
+                {
+                    "Text": "Query Execution",
+                    "BoundingBox": {
+                        "Width": 0.04215939715504646,
+                        "Height": 0.03491005301475525,
+                        "Left": 0.8724434971809387,
+                        "Top": 0.3031925559043884
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3031ae52-483b-4640-9073-2adcc07b11b9",
+                    "Score": 0.8061224222183228
+                },
+                {
+                    "Text": "SELECT strftime ('SJ', admissions.dischtime) - strftime ('BJ', admissions.admittime) FROM admissions WHERE admissions.subject id - 3745 AND admissions.dischtime IS NOT NULL ORDER BY admissions.admittimed DESC LIMIT 1",
+                    "BoundingBox": {
+                        "Width": 0.25141939520835876,
+                        "Height": 0.10259808599948883,
+                        "Left": 0.45939362049102783,
+                        "Top": 0.3979666233062744
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0729440-404b-4d2d-8fa4-e6e9742281d3",
+                    "Score": 0.6920127868652344
+                },
+                {
+                    "Text": "SELECT count ( DISTINCT t1.subject_id ) FROM ( SELECT admissions.subjectid, procedures_icd.charttime FROM procedures_icd JOIN admissions ON procedures_icd.hadm_id - admissions.hadm_id WHERE procedures_icd.icd9_code - WHERE t1.charttime < t2.startdate AND datetime (t2.startdate) BETWEEN datetime ( tl.charttime) AND datetime (t1.charttime, '+2 month')",
+                    "BoundingBox": {
+                        "Width": 0.3534931242465973,
+                        "Height": 0.19678960740566254,
+                        "Left": 0.4501149356365204,
+                        "Top": 0.5428897738456726
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7b2f8ef6-0feb-4f06-a2c0-74c7b6b8a911",
+                    "Score": 0.6871427893638611
+                },
+                {
+                    "Text": "EHR Database",
+                    "BoundingBox": {
+                        "Width": 0.04075443372130394,
+                        "Height": 0.034573379904031754,
+                        "Left": 0.8906903266906738,
+                        "Top": 0.4363272786140442
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9fd096bb-8cbc-4169-bcfb-86575fde7544",
+                    "Score": 0.7655516862869263
+                },
+                {
+                    "Text": "null",
+                    "BoundingBox": {
+                        "Width": 0.015775728970766068,
+                        "Height": 0.013966605067253113,
+                        "Left": 0.4779275953769684,
+                        "Top": 0.791498601436615
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c0405dbd-c3a8-4a31-a6ff-8c6d1415acec",
+                    "Score": 0.7845660448074341
+                },
+                {
+                    "Text": "Metrics: F1ans and F1exe",
+                    "BoundingBox": {
+                        "Width": 0.2294272929430008,
+                        "Height": 0.03258039057254791,
+                        "Left": 0.15624625980854034,
+                        "Top": 0.8733363747596741
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "52a59785-b490-421c-a281-5c0ac8500228",
+                    "Score": 0.7748280763626099
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:33,654",
+            "end_time": "00:00:35,756",
+            "transcript": "F1 answer and effort execution.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.31490033864974976,
+                        "Height": 0.05471857637166977,
+                        "Left": 0.045687709003686905,
+                        "Top": 0.06594913452863693
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "51fd14c5-0f55-4244-b271-9b42cf1030bf",
+                    "Score": 0.7849827408790588
+                },
+                {
+                    "Text": "Trustworthy Semantic Parsing",
+                    "BoundingBox": {
+                        "Width": 0.36922869086265564,
+                        "Height": 0.05008293688297272,
+                        "Left": 0.1052887886762619,
+                        "Top": 0.2200460433959961
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "bdf0bd9c-74da-4317-accc-28ae1d57a4ec",
+                    "Score": 0.7467913627624512
+                },
+                {
+                    "Text": "0.0009 what is the method for ingestion of danazol? 0.0012 tell me the length of the last hospital stay of patient 3745. Trustworthy Text-to-SQL Model count the number of patients who were prescribed aspirin ec within 2 months after having received a venous cath nec procedure until 4 years ago. what are the side effects of long term insulin administration? 3.3638",
+                    "BoundingBox": {
+                        "Width": 0.35617122054100037,
+                        "Height": 0.49554407596588135,
+                        "Left": 0.12574315071105957,
+                        "Top": 0.32266488671302795
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "318f465d-b974-4f00-a169-20c2ccdd86bd",
+                    "Score": 0.6643288135528564
+                },
+                {
+                    "Text": "Query Execution",
+                    "BoundingBox": {
+                        "Width": 0.04215939715504646,
+                        "Height": 0.03491005301475525,
+                        "Left": 0.8724434971809387,
+                        "Top": 0.3031925559043884
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3031ae52-483b-4640-9073-2adcc07b11b9",
+                    "Score": 0.8061224222183228
+                },
+                {
+                    "Text": "SELECT strftime ('SJ', admissions.dischtime) - strftime ('BJ', admissions.admittime) FROM admissions WHERE admissions.subject id - 3745 AND admissions.dischtime IS NOT NULL ORDER BY admissions.admittimed DESC LIMIT 1",
+                    "BoundingBox": {
+                        "Width": 0.25141939520835876,
+                        "Height": 0.10259808599948883,
+                        "Left": 0.45939362049102783,
+                        "Top": 0.3979666233062744
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0729440-404b-4d2d-8fa4-e6e9742281d3",
+                    "Score": 0.6920127868652344
+                },
+                {
+                    "Text": "SELECT count ( DISTINCT t1.subject_id ) FROM ( SELECT admissions.subjectid, procedures_icd.charttime FROM procedures_icd JOIN admissions ON procedures_icd.hadm_id - admissions.hadm_id WHERE procedures_icd.icd9_code - WHERE t1.charttime < t2.startdate AND datetime (t2.startdate) BETWEEN datetime ( tl.charttime) AND datetime (t1.charttime, '+2 month')",
+                    "BoundingBox": {
+                        "Width": 0.3534931242465973,
+                        "Height": 0.19678960740566254,
+                        "Left": 0.4501149356365204,
+                        "Top": 0.5428897738456726
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7b2f8ef6-0feb-4f06-a2c0-74c7b6b8a911",
+                    "Score": 0.6871427893638611
+                },
+                {
+                    "Text": "EHR Database",
+                    "BoundingBox": {
+                        "Width": 0.04075443372130394,
+                        "Height": 0.034573379904031754,
+                        "Left": 0.8906903266906738,
+                        "Top": 0.4363272786140442
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9fd096bb-8cbc-4169-bcfb-86575fde7544",
+                    "Score": 0.7655516862869263
+                },
+                {
+                    "Text": "null",
+                    "BoundingBox": {
+                        "Width": 0.015775728970766068,
+                        "Height": 0.013966605067253113,
+                        "Left": 0.4779275953769684,
+                        "Top": 0.791498601436615
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c0405dbd-c3a8-4a31-a6ff-8c6d1415acec",
+                    "Score": 0.7845660448074341
+                },
+                {
+                    "Text": "Metrics: F1ans and F1exe",
+                    "BoundingBox": {
+                        "Width": 0.2294272929430008,
+                        "Height": 0.03258039057254791,
+                        "Left": 0.15624625980854034,
+                        "Top": 0.8733363747596741
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "52a59785-b490-421c-a281-5c0ac8500228",
+                    "Score": 0.7748280763626099
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,396",
+            "end_time": "00:00:42,101",
+            "transcript": "Effort answer measures how well the model distinguishes between answerable and unanswerable questions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.31490033864974976,
+                        "Height": 0.05471857637166977,
+                        "Left": 0.045687709003686905,
+                        "Top": 0.06594913452863693
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "51fd14c5-0f55-4244-b271-9b42cf1030bf",
+                    "Score": 0.7849827408790588
+                },
+                {
+                    "Text": "Trustworthy Semantic Parsing",
+                    "BoundingBox": {
+                        "Width": 0.36922869086265564,
+                        "Height": 0.05008293688297272,
+                        "Left": 0.1052887886762619,
+                        "Top": 0.2200460433959961
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "bdf0bd9c-74da-4317-accc-28ae1d57a4ec",
+                    "Score": 0.7467913627624512
+                },
+                {
+                    "Text": "0.0009 what is the method for ingestion of danazol? 0.0012 tell me the length of the last hospital stay of patient 3745. Trustworthy Text-to-SQL Model count the number of patients who were prescribed aspirin ec within 2 months after having received a venous cath nec procedure until 4 years ago. what are the side effects of long term insulin administration? 3.3638",
+                    "BoundingBox": {
+                        "Width": 0.35617122054100037,
+                        "Height": 0.49554407596588135,
+                        "Left": 0.12574315071105957,
+                        "Top": 0.32266488671302795
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "318f465d-b974-4f00-a169-20c2ccdd86bd",
+                    "Score": 0.6643288135528564
+                },
+                {
+                    "Text": "Query Execution",
+                    "BoundingBox": {
+                        "Width": 0.04215939715504646,
+                        "Height": 0.03491005301475525,
+                        "Left": 0.8724434971809387,
+                        "Top": 0.3031925559043884
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3031ae52-483b-4640-9073-2adcc07b11b9",
+                    "Score": 0.8061224222183228
+                },
+                {
+                    "Text": "SELECT strftime ('SJ', admissions.dischtime) - strftime ('BJ', admissions.admittime) FROM admissions WHERE admissions.subject id - 3745 AND admissions.dischtime IS NOT NULL ORDER BY admissions.admittimed DESC LIMIT 1",
+                    "BoundingBox": {
+                        "Width": 0.25141939520835876,
+                        "Height": 0.10259808599948883,
+                        "Left": 0.45939362049102783,
+                        "Top": 0.3979666233062744
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0729440-404b-4d2d-8fa4-e6e9742281d3",
+                    "Score": 0.6920127868652344
+                },
+                {
+                    "Text": "SELECT count ( DISTINCT t1.subject_id ) FROM ( SELECT admissions.subjectid, procedures_icd.charttime FROM procedures_icd JOIN admissions ON procedures_icd.hadm_id - admissions.hadm_id WHERE procedures_icd.icd9_code - WHERE t1.charttime < t2.startdate AND datetime (t2.startdate) BETWEEN datetime ( tl.charttime) AND datetime (t1.charttime, '+2 month')",
+                    "BoundingBox": {
+                        "Width": 0.3534931242465973,
+                        "Height": 0.19678960740566254,
+                        "Left": 0.4501149356365204,
+                        "Top": 0.5428897738456726
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7b2f8ef6-0feb-4f06-a2c0-74c7b6b8a911",
+                    "Score": 0.6871427893638611
+                },
+                {
+                    "Text": "EHR Database",
+                    "BoundingBox": {
+                        "Width": 0.04075443372130394,
+                        "Height": 0.034573379904031754,
+                        "Left": 0.8906903266906738,
+                        "Top": 0.4363272786140442
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9fd096bb-8cbc-4169-bcfb-86575fde7544",
+                    "Score": 0.7655516862869263
+                },
+                {
+                    "Text": "null",
+                    "BoundingBox": {
+                        "Width": 0.015775728970766068,
+                        "Height": 0.013966605067253113,
+                        "Left": 0.4779275953769684,
+                        "Top": 0.791498601436615
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c0405dbd-c3a8-4a31-a6ff-8c6d1415acec",
+                    "Score": 0.7845660448074341
+                },
+                {
+                    "Text": "Metrics: F1ans and F1exe",
+                    "BoundingBox": {
+                        "Width": 0.2294272929430008,
+                        "Height": 0.03258039057254791,
+                        "Left": 0.15624625980854034,
+                        "Top": 0.8733363747596741
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "52a59785-b490-421c-a281-5c0ac8500228",
+                    "Score": 0.7748280763626099
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:42,741",
+            "end_time": "00:00:44,803",
+            "transcript": "F1 execution is a more strict metric.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.31490033864974976,
+                        "Height": 0.05471857637166977,
+                        "Left": 0.045687709003686905,
+                        "Top": 0.06594913452863693
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "51fd14c5-0f55-4244-b271-9b42cf1030bf",
+                    "Score": 0.7849827408790588
+                },
+                {
+                    "Text": "Trustworthy Semantic Parsing",
+                    "BoundingBox": {
+                        "Width": 0.36922869086265564,
+                        "Height": 0.05008293688297272,
+                        "Left": 0.1052887886762619,
+                        "Top": 0.2200460433959961
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "bdf0bd9c-74da-4317-accc-28ae1d57a4ec",
+                    "Score": 0.7467913627624512
+                },
+                {
+                    "Text": "0.0009 what is the method for ingestion of danazol? 0.0012 tell me the length of the last hospital stay of patient 3745. Trustworthy Text-to-SQL Model count the number of patients who were prescribed aspirin ec within 2 months after having received a venous cath nec procedure until 4 years ago. what are the side effects of long term insulin administration? 3.3638",
+                    "BoundingBox": {
+                        "Width": 0.35617122054100037,
+                        "Height": 0.49554407596588135,
+                        "Left": 0.12574315071105957,
+                        "Top": 0.32266488671302795
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "318f465d-b974-4f00-a169-20c2ccdd86bd",
+                    "Score": 0.6643288135528564
+                },
+                {
+                    "Text": "Query Execution",
+                    "BoundingBox": {
+                        "Width": 0.04215939715504646,
+                        "Height": 0.03491005301475525,
+                        "Left": 0.8724434971809387,
+                        "Top": 0.3031925559043884
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3031ae52-483b-4640-9073-2adcc07b11b9",
+                    "Score": 0.8061224222183228
+                },
+                {
+                    "Text": "SELECT strftime ('SJ', admissions.dischtime) - strftime ('BJ', admissions.admittime) FROM admissions WHERE admissions.subject id - 3745 AND admissions.dischtime IS NOT NULL ORDER BY admissions.admittimed DESC LIMIT 1",
+                    "BoundingBox": {
+                        "Width": 0.25141939520835876,
+                        "Height": 0.10259808599948883,
+                        "Left": 0.45939362049102783,
+                        "Top": 0.3979666233062744
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0729440-404b-4d2d-8fa4-e6e9742281d3",
+                    "Score": 0.6920127868652344
+                },
+                {
+                    "Text": "SELECT count ( DISTINCT t1.subject_id ) FROM ( SELECT admissions.subjectid, procedures_icd.charttime FROM procedures_icd JOIN admissions ON procedures_icd.hadm_id - admissions.hadm_id WHERE procedures_icd.icd9_code - WHERE t1.charttime < t2.startdate AND datetime (t2.startdate) BETWEEN datetime ( tl.charttime) AND datetime (t1.charttime, '+2 month')",
+                    "BoundingBox": {
+                        "Width": 0.3534931242465973,
+                        "Height": 0.19678960740566254,
+                        "Left": 0.4501149356365204,
+                        "Top": 0.5428897738456726
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7b2f8ef6-0feb-4f06-a2c0-74c7b6b8a911",
+                    "Score": 0.6871427893638611
+                },
+                {
+                    "Text": "EHR Database",
+                    "BoundingBox": {
+                        "Width": 0.04075443372130394,
+                        "Height": 0.034573379904031754,
+                        "Left": 0.8906903266906738,
+                        "Top": 0.4363272786140442
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9fd096bb-8cbc-4169-bcfb-86575fde7544",
+                    "Score": 0.7655516862869263
+                },
+                {
+                    "Text": "null",
+                    "BoundingBox": {
+                        "Width": 0.015775728970766068,
+                        "Height": 0.013966605067253113,
+                        "Left": 0.4779275953769684,
+                        "Top": 0.791498601436615
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c0405dbd-c3a8-4a31-a6ff-8c6d1415acec",
+                    "Score": 0.7845660448074341
+                },
+                {
+                    "Text": "Metrics: F1ans and F1exe",
+                    "BoundingBox": {
+                        "Width": 0.2294272929430008,
+                        "Height": 0.03258039057254791,
+                        "Left": 0.15624625980854034,
+                        "Top": 0.8733363747596741
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "52a59785-b490-421c-a281-5c0ac8500228",
+                    "Score": 0.7748280763626099
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:45,264",
+            "end_time": "00:00:46,945",
+            "transcript": "It only counts when the retrieved answer",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.31490033864974976,
+                        "Height": 0.05471857637166977,
+                        "Left": 0.045687709003686905,
+                        "Top": 0.06594913452863693
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "51fd14c5-0f55-4244-b271-9b42cf1030bf",
+                    "Score": 0.7849827408790588
+                },
+                {
+                    "Text": "Trustworthy Semantic Parsing",
+                    "BoundingBox": {
+                        "Width": 0.36922869086265564,
+                        "Height": 0.05008293688297272,
+                        "Left": 0.1052887886762619,
+                        "Top": 0.2200460433959961
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "bdf0bd9c-74da-4317-accc-28ae1d57a4ec",
+                    "Score": 0.7467913627624512
+                },
+                {
+                    "Text": "0.0009 what is the method for ingestion of danazol? 0.0012 tell me the length of the last hospital stay of patient 3745. Trustworthy Text-to-SQL Model count the number of patients who were prescribed aspirin ec within 2 months after having received a venous cath nec procedure until 4 years ago. what are the side effects of long term insulin administration? 3.3638",
+                    "BoundingBox": {
+                        "Width": 0.35617122054100037,
+                        "Height": 0.49554407596588135,
+                        "Left": 0.12574315071105957,
+                        "Top": 0.32266488671302795
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "318f465d-b974-4f00-a169-20c2ccdd86bd",
+                    "Score": 0.6643288135528564
+                },
+                {
+                    "Text": "SELECT DISTINCT prescriptions.route FROM prescriptions WHERE prescriptions.drug 'danazol .",
+                    "BoundingBox": {
+                        "Width": 0.2382706254720688,
+                        "Height": 0.044504016637802124,
+                        "Left": 0.444267213344574,
+                        "Top": 0.3166150450706482
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "844fa062-4814-4ccf-8b7f-6fa6e38b0350",
+                    "Score": 0.6511471271514893
+                },
+                {
+                    "Text": "Query Execution",
+                    "BoundingBox": {
+                        "Width": 0.04215939715504646,
+                        "Height": 0.03491005301475525,
+                        "Left": 0.8724434971809387,
+                        "Top": 0.3031925559043884
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3031ae52-483b-4640-9073-2adcc07b11b9",
+                    "Score": 0.8061224222183228
+                },
+                {
+                    "Text": "SELECT strftime ('SJ', admissions.dischtime) - strftime ('BJ', admissions.admittime) FROM admissions WHERE admissions.subject id - 3745 AND admissions.dischtime IS NOT NULL ORDER BY admissions.admittimed DESC LIMIT 1",
+                    "BoundingBox": {
+                        "Width": 0.25141939520835876,
+                        "Height": 0.10259808599948883,
+                        "Left": 0.45939362049102783,
+                        "Top": 0.3979666233062744
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0729440-404b-4d2d-8fa4-e6e9742281d3",
+                    "Score": 0.6920127868652344
+                },
+                {
+                    "Text": "SELECT count ( DISTINCT t1.subject_id ) FROM ( SELECT admissions.subjectid, procedures_icd.charttime FROM procedures_icd JOIN admissions ON procedures_icd.hadm_id - admissions.hadm_id WHERE procedures_icd.icd9_code - WHERE t1.charttime < t2.startdate AND datetime (t2.startdate) BETWEEN datetime ( tl.charttime) AND datetime (t1.charttime, '+2 month')",
+                    "BoundingBox": {
+                        "Width": 0.3534931242465973,
+                        "Height": 0.19678960740566254,
+                        "Left": 0.4501149356365204,
+                        "Top": 0.5428897738456726
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7b2f8ef6-0feb-4f06-a2c0-74c7b6b8a911",
+                    "Score": 0.6871427893638611
+                },
+                {
+                    "Text": "EHR Database",
+                    "BoundingBox": {
+                        "Width": 0.04075443372130394,
+                        "Height": 0.034573379904031754,
+                        "Left": 0.8906903266906738,
+                        "Top": 0.4363272786140442
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9fd096bb-8cbc-4169-bcfb-86575fde7544",
+                    "Score": 0.7655516862869263
+                },
+                {
+                    "Text": "null",
+                    "BoundingBox": {
+                        "Width": 0.015775728970766068,
+                        "Height": 0.013966605067253113,
+                        "Left": 0.4779275953769684,
+                        "Top": 0.791498601436615
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c0405dbd-c3a8-4a31-a6ff-8c6d1415acec",
+                    "Score": 0.7845660448074341
+                },
+                {
+                    "Text": "Metrics: F1ans and F1exe",
+                    "BoundingBox": {
+                        "Width": 0.2294272929430008,
+                        "Height": 0.03258039057254791,
+                        "Left": 0.15624625980854034,
+                        "Top": 0.8733363747596741
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "52a59785-b490-421c-a281-5c0ac8500228",
+                    "Score": 0.7748280763626099
+                }
+            ]
+        }
+    ]
+}

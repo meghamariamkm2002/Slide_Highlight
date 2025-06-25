@@ -1,0 +1,4 @@
+To construct a dataset for such systems, we collaborated with the Ganyang University Hospital and asked people what questions they would ask an AI speaker for information stored in the EHR tables.
+After the poll, we templatized the questions and filtered out the ones that are not compatible with Mimic 3 and EICU schemas.
+The compatible questions were labeled with the corresponding SQL queries.
+The incompatible ones were considered unanswerable questions.

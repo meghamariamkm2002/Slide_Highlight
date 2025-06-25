@@ -1,0 +1,46 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,210",
+            "end_time": "00:00:13,454",
+            "transcript": "Our work is motivated by accumulative poisoning attack, which utilizes the sequential order property of real-time data streaming for sneaky poisoning generation.",
+            "MatchedRegion": [
+                {
+                    "Text": "As the accumulative poisoning attack utilize the sequential order property of real-time data streaming for sneaky poisoning generation, we raise the following question:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8318005800247192,
+                        "Height": 0.06233128160238266,
+                        "Left": 0.05948998034000397,
+                        "Top": 0.6958681344985962
+                    },
+                    "Id": "553fb4d1-390a-4a11-bcdc-a45845693664"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,414",
+            "end_time": "00:00:15,855",
+            "transcript": "We raised the following question.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,455",
+            "end_time": "00:00:25,938",
+            "transcript": "Can we also explore the information of model dynamics to gain some useful clues to identify the imperceptible accumulative poisoning attacks?",
+            "MatchedRegion": [
+                {
+                    "Text": "Can we also exploit the information of model dynamics to gain some useful clues to identify the imperceptible accumulative poisoning attacks?",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7576057314872742,
+                        "Height": 0.05720315873622894,
+                        "Left": 0.11334364116191864,
+                        "Top": 0.7795817852020264
+                    },
+                    "Id": "38eed38d-b045-47e8-bf30-69db85b50196"
+                }
+            ]
+        }
+    ]
+}

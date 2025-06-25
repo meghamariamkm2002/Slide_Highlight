@@ -1,0 +1,17 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,492",
+            "end_time": "00:00:14,178",
+            "transcript": "The intuition behind our method is to directly manipulate the relevance maps to solve both issues that we saw before, i.e., demand less relevance on the background and more relevance on the entire foreground, as can be seen in the examples here.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:14,978",
+            "end_time": "00:00:26,023",
+            "transcript": "For example, originally the model predicted a snowplow based solely on the snow in the background, but after applying our method, the model still predicts a snowplow but based on the right reasons.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

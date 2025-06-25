@@ -1,0 +1,76 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,050",
+            "end_time": "00:00:02,870",
+            "transcript": "Here's our results.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:03,530",
+            "end_time": "00:00:18,355",
+            "transcript": "On the positive side, we show there is a price P and we show how to compute this price P that achieves an approximation factor of 1 minus 1 over e divided by 2, which is about 0.316 against the first best welfare.",
+            "MatchedRegion": [
+                {
+                    "Text": "positive: a price p that achieves approximation factor of (1 - 1/e)/2 22 0.316 against first-best welfare",
+                    "BoundingBox": {
+                        "Width": 0.8540698289871216,
+                        "Height": 0.09861914068460464,
+                        "Left": 0.07007338106632233,
+                        "Top": 0.24481281638145447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f0edbbe1-5a0b-4d9f-8a3d-768d0ada47e6",
+                    "Score": 0.6037735849056604
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,676",
+            "end_time": "00:00:24,697",
+            "transcript": "On the negative side, we show there's no price P that achieves an approximation ratio better than 0.479.",
+            "MatchedRegion": [
+                {
+                    "Text": "negative: no price p achieves approximation ratio better than 0.479",
+                    "BoundingBox": {
+                        "Width": 0.7424963712692261,
+                        "Height": 0.047371793538331985,
+                        "Left": 0.07037194818258286,
+                        "Top": 0.4087483286857605
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22c0c4de-9d90-4ad7-8464-037f306ce9ed",
+                    "Score": 0.7602339181286549
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:26,892",
+            "end_time": "00:00:35,479",
+            "transcript": "For comparison, we know that with utility maximizers or traditional bidders, positive price maxim can achieve an approximation ratio of 0.5.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:36,300",
+            "end_time": "00:00:46,989",
+            "transcript": "So this means positive price maximizers with allocators are strictly harder than the positive price maximizers with traditional bidders.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:48,080",
+            "end_time": "00:01:00,998",
+            "transcript": "As by-products, we give a one-quarter approximation for combinatorial auctions with all the bitters, and a one-month one-hour E divided by two-year approximation in the long run for dynamic auctions with all the bitters.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0003_NQCryUPuZLRMlxkY",
+            "Score": 0.6130750179290771
+        },
+        {
+            "slide": "PART_0004_aBpsU5A4BQKbR274",
+            "Score": 0.6509690284729004
+        }
+    ]
+}

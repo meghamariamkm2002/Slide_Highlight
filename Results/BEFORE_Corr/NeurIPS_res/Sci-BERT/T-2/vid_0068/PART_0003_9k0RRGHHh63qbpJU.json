@@ -1,0 +1,66 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,753",
+            "end_time": "00:00:07,720",
+            "transcript": "We decided to block architecture to allow for interesting and diverse connectivity to trade operations.",
+            "MatchedRegion": [
+                {
+                    "Text": "Block architectures",
+                    "BoundingBox": {
+                        "Width": 0.32712841033935547,
+                        "Height": 0.05429581180214882,
+                        "Left": 0.3369843363761902,
+                        "Top": 0.11942058056592941
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "0e2fe90f-7c21-4793-b2c4-350b6c4256b5",
+                    "Score": 0.7073227167129517
+                },
+                {
+                    "Text": "45 unique blocks 91,125 models.",
+                    "BoundingBox": {
+                        "Width": 0.3077075481414795,
+                        "Height": 0.03415105864405632,
+                        "Left": 0.06741202622652054,
+                        "Top": 0.9083415865898132
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7928aa8c-13ba-4526-87bc-f9de561c3555",
+                    "Score": 0.8061265349388123
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,461",
+            "end_time": "00:00:14,170",
+            "transcript": "In total, there are 45 release blocks leading to a search base size of more than 91,000 models.",
+            "MatchedRegion": [
+                {
+                    "Text": "BConv: Resnet-style bottleneck with 5x5 depthwise separable convolutions.",
+                    "BoundingBox": {
+                        "Width": 0.6786305904388428,
+                        "Height": 0.03504187613725662,
+                        "Left": 0.0375216118991375,
+                        "Top": 0.7845882177352905
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4f18a70d-25a4-4833-9b27-dabd413ab744",
+                    "Score": 0.7086772918701172
+                },
+                {
+                    "Text": "45 unique blocks 91,125 models.",
+                    "BoundingBox": {
+                        "Width": 0.3077075481414795,
+                        "Height": 0.03415105864405632,
+                        "Left": 0.06741202622652054,
+                        "Top": 0.9083415865898132
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7928aa8c-13ba-4526-87bc-f9de561c3555",
+                    "Score": 0.8061265349388123
+                }
+            ]
+        }
+    ]
+}

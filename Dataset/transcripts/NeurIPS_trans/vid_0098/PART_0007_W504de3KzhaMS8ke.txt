@@ -1,0 +1,4 @@
+In total, our carline benchmark contains 163,000 unique images, of which 180,000 images are annotated.
+The distribution of the images can be seen in the table on the slide.
+For dama, we show the distribution of the annotated lanes for each dataset in the right-hand figure.
+You observe that the source and target domain annotations are well aligned.

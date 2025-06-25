@@ -1,0 +1,150 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,609",
+            "end_time": "00:00:15,458",
+            "transcript": "It consists of 2,400 video clips collected and filtered from 30 different animal species with 15 frames for each video, resulting in 36,000 frames in total.",
+            "MatchedRegion": [
+                {
+                    "Text": "THE",
+                    "BoundingBox": {
+                        "Width": 0.03839154914021492,
+                        "Height": 0.026030467823147774,
+                        "Left": 0.855609118938446,
+                        "Top": 0.032048359513282776
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "a8c3c8ca-0303-4d47-87d8-bad427c1dc24",
+                    "Score": 0.8593332767486572
+                },
+                {
+                    "Text": "Introduction",
+                    "BoundingBox": {
+                        "Width": 0.15761446952819824,
+                        "Height": 0.03766057267785072,
+                        "Left": 0.020240474492311478,
+                        "Top": 0.05797252804040909
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "6c6d35ea-5b72-47c5-9585-e07ab4af0373",
+                    "Score": 0.8120462894439697
+                },
+                {
+                    "Text": "#Species #Family #Labeled image #Keypoint #Sequence #Instance #Background type Horses-10 [20] 1 1 8,100 22 N/A 8,110 N/A Animal-Pose Dataset ] 5 N/A 4,666 20 N/A 6,117 N/A Animal kingdom 850 6 33,099 23 N/A N/A 9 AP-10K [40] 54 23 10,015 17 N/A 13,028 N/A Animal track [44] 10 N/A 24,700 N/A 58 429,000 N/A APT-36K 30 15 36,000 17 2,400 53,006 10",
+                    "BoundingBox": {
+                        "Width": 0.6575210690498352,
+                        "Height": 0.2123601883649826,
+                        "Left": 0.13548947870731354,
+                        "Top": 0.15091945230960846
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "67207858-5a67-4801-a539-67002a80905e",
+                    "Score": 0.8223161101341248
+                },
+                {
+                    "Text": "Comparison of different animal pose datasets",
+                    "BoundingBox": {
+                        "Width": 0.33982545137405396,
+                        "Height": 0.03234536573290825,
+                        "Left": 0.29957300424575806,
+                        "Top": 0.3718357980251312
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "515c1f81-3182-47f1-b8cc-1bc6b232d7f9",
+                    "Score": 0.8068981170654297
+                },
+                {
+                    "Text": "Detail animal species and classification information in APT-36K",
+                    "BoundingBox": {
+                        "Width": 0.4866716265678406,
+                        "Height": 0.0316031277179718,
+                        "Left": 0.25057777762413025,
+                        "Top": 0.7235846519470215
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "74c85337-5ecf-4c39-8cb6-57d572b0afe6",
+                    "Score": 0.8087154626846313
+                },
+                {
+                    "Text": "APT-36K consists of 2,400 video clips collected and filtered from 30 different animal species with 15 frames for each video, resulting in 36,000 frames in total. These animals can be further classified into 15 animal families following taxonomic rank to facilitate the evaluation of inter-species and inter-family generalization ability of pose estimation models. Above is the comparison between APT-36K and existing datasets and the detailed category information of APT-36K",
+                    "BoundingBox": {
+                        "Width": 0.8342397212982178,
+                        "Height": 0.13733236491680145,
+                        "Left": 0.03806576505303383,
+                        "Top": 0.810293436050415
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d466367-d526-43f6-8bea-a9b2163d1266",
+                    "Score": 0.8157988786697388
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,078",
+            "end_time": "00:00:23,383",
+            "transcript": "Above is a comparison between existing datasets and detailed category information of it.",
+            "MatchedRegion": [
+                {
+                    "Text": "THE",
+                    "BoundingBox": {
+                        "Width": 0.03839154914021492,
+                        "Height": 0.026030467823147774,
+                        "Left": 0.855609118938446,
+                        "Top": 0.032048359513282776
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "a8c3c8ca-0303-4d47-87d8-bad427c1dc24",
+                    "Score": 0.8593332767486572
+                },
+                {
+                    "Text": "Introduction",
+                    "BoundingBox": {
+                        "Width": 0.15761446952819824,
+                        "Height": 0.03766057267785072,
+                        "Left": 0.020240474492311478,
+                        "Top": 0.05797252804040909
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "6c6d35ea-5b72-47c5-9585-e07ab4af0373",
+                    "Score": 0.8120462894439697
+                },
+                {
+                    "Text": "#Species #Family #Labeled image #Keypoint #Sequence #Instance #Background type Horses-10 [20] 1 1 8,100 22 N/A 8,110 N/A Animal-Pose Dataset ] 5 N/A 4,666 20 N/A 6,117 N/A Animal kingdom 850 6 33,099 23 N/A N/A 9 AP-10K [40] 54 23 10,015 17 N/A 13,028 N/A Animal track [44] 10 N/A 24,700 N/A 58 429,000 N/A APT-36K 30 15 36,000 17 2,400 53,006 10",
+                    "BoundingBox": {
+                        "Width": 0.6575210690498352,
+                        "Height": 0.2123601883649826,
+                        "Left": 0.13548947870731354,
+                        "Top": 0.15091945230960846
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "67207858-5a67-4801-a539-67002a80905e",
+                    "Score": 0.8223161101341248
+                },
+                {
+                    "Text": "Comparison of different animal pose datasets",
+                    "BoundingBox": {
+                        "Width": 0.33982545137405396,
+                        "Height": 0.03234536573290825,
+                        "Left": 0.29957300424575806,
+                        "Top": 0.3718357980251312
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "515c1f81-3182-47f1-b8cc-1bc6b232d7f9",
+                    "Score": 0.8068981170654297
+                },
+                {
+                    "Text": "APT-36K consists of 2,400 video clips collected and filtered from 30 different animal species with 15 frames for each video, resulting in 36,000 frames in total. These animals can be further classified into 15 animal families following taxonomic rank to facilitate the evaluation of inter-species and inter-family generalization ability of pose estimation models. Above is the comparison between APT-36K and existing datasets and the detailed category information of APT-36K",
+                    "BoundingBox": {
+                        "Width": 0.8342397212982178,
+                        "Height": 0.13733236491680145,
+                        "Left": 0.03806576505303383,
+                        "Top": 0.810293436050415
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d466367-d526-43f6-8bea-a9b2163d1266",
+                    "Score": 0.8157988786697388
+                }
+            ]
+        }
+    ]
+}

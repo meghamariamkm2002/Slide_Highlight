@@ -1,0 +1,3 @@
+start	end	text
+814	14960	In these tables, the results demonstrate that our method increases the accuracy significantly on shifted data sets across all the tested data sets that are not from the ImageNet distribution, i.e., not ImageNetVal and not ImageNet V2.
+16587	28816	For example, the accuracy on the ImageNet A dataset is increased by 5.8% on average across all the architectures with human annotations and by 6.1% on average with dino annotations.

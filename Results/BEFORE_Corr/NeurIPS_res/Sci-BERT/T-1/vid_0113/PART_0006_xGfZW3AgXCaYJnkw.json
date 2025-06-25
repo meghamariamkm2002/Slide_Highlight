@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,880",
+            "end_time": "00:00:12,955",
+            "transcript": "For NER benchmarking, we found that COVID Twitter verge is a strong baseline, but I FE values of disease and organization entities are suboptimal.",
+            "MatchedRegion": [
+                {
+                    "Text": "COVID-TWITTER-BERT can be regarded as a strong baseline on the METS-CoV-NER, and there is still vast room for improvement.",
+                    "BoundingBox": {
+                        "Width": 0.8585659861564636,
+                        "Height": 0.06562283635139465,
+                        "Left": 0.060623496770858765,
+                        "Top": 0.2704038918018341
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b7495a4d-12d7-4885-aef1-80e4d0a5f0c3",
+                    "Score": 0.8607311248779297
+                },
+                {
+                    "Text": "The F1 value of Disease and Organization entities is suboptimal.",
+                    "BoundingBox": {
+                        "Width": 0.557369589805603,
+                        "Height": 0.03351979702711105,
+                        "Left": 0.06093050166964531,
+                        "Top": 0.35642939805984497
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b26fa314-d781-4803-8ce6-a87218158312",
+                    "Score": 0.8677929639816284
+                }
+            ]
+        }
+    ]
+}

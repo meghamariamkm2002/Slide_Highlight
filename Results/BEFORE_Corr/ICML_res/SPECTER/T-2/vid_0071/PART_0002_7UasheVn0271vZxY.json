@@ -1,0 +1,320 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,323",
+            "end_time": "00:00:06,766",
+            "transcript": "Before diving into the main topic, let us understand concepts from the perspective of a DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Preliminaries: Understanding concepts encoded by a DNN",
+                    "BoundingBox": {
+                        "Width": 0.827545166015625,
+                        "Height": 0.05766775459051132,
+                        "Left": 0.09811194986104965,
+                        "Top": 0.06659873574972153
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "2de4ae58-f8e1-49b0-a464-0375adaa7861",
+                    "Score": 0.7282275557518005
+                },
+                {
+                    "Text": "Each concept represents an AND relationship between input variables, i.e., a concept is activated only when all variables in this concept exist (not masked).",
+                    "BoundingBox": {
+                        "Width": 0.6567968130111694,
+                        "Height": 0.07813157141208649,
+                        "Left": 0.18507501482963562,
+                        "Top": 0.206549271941185
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "508012c9-68ca-4a81-8603-d6b1aab7008b",
+                    "Score": 0.8272182941436768
+                },
+                {
+                    "Text": "Example in a vision task",
+                    "BoundingBox": {
+                        "Width": 0.1786850243806839,
+                        "Height": 0.028927788138389587,
+                        "Left": 0.1401623636484146,
+                        "Top": 0.34072166681289673
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "15c38627-ed45-4e16-b1f1-d07be5f88d5b",
+                    "Score": 0.7656508684158325
+                },
+                {
+                    "Text": "input image activated concepts (semantic regions) (None)",
+                    "BoundingBox": {
+                        "Width": 0.4357546865940094,
+                        "Height": 0.5529811382293701,
+                        "Left": 0.04702353477478027,
+                        "Top": 0.39411255717277527
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3ef5a744-95d8-4f3c-9ff7-9af26cb7384b",
+                    "Score": 0.7795810699462891
+                },
+                {
+                    "Text": "input sentence activated concepts (phrases) (None) . He is just not is not just not . He is just is smart very smart very smart. not smart very smart is not He is just not is smart very smart. just not very just not",
+                    "BoundingBox": {
+                        "Width": 0.41162699460983276,
+                        "Height": 0.5707088112831116,
+                        "Left": 0.5474653244018555,
+                        "Top": 0.3895842730998993
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "20d63f2d-681c-468d-8117-8193804790ce",
+                    "Score": 0.712761402130127
+                },
+                {
+                    "Text": "Example in an NLP task",
+                    "BoundingBox": {
+                        "Width": 0.1742016226053238,
+                        "Height": 0.02887902967631817,
+                        "Left": 0.6421084403991699,
+                        "Top": 0.340349942445755
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "3e4e7032-ec2c-4cc1-9fd9-86dc24ea2e04",
+                    "Score": 0.7301387190818787
+                },
+                {
+                    "Text": "3",
+                    "BoundingBox": {
+                        "Width": 0.015036443248391151,
+                        "Height": 0.043897829949855804,
+                        "Left": 0.9637898802757263,
+                        "Top": 0.9268918633460999
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "5653ac68-daf6-4b44-ab9d-e69e1427bde6",
+                    "Score": 0.7556098699569702
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,807",
+            "end_time": "00:00:14,650",
+            "transcript": "Briefly speaking, each concept is activated when all pixels or words composing this concept exist.",
+            "MatchedRegion": [
+                {
+                    "Text": "Preliminaries: Understanding concepts encoded by a DNN",
+                    "BoundingBox": {
+                        "Width": 0.827545166015625,
+                        "Height": 0.05766775459051132,
+                        "Left": 0.09811194986104965,
+                        "Top": 0.06659873574972153
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "2de4ae58-f8e1-49b0-a464-0375adaa7861",
+                    "Score": 0.7282275557518005
+                },
+                {
+                    "Text": "Each concept represents an AND relationship between input variables, i.e., a concept is activated only when all variables in this concept exist (not masked).",
+                    "BoundingBox": {
+                        "Width": 0.6567968130111694,
+                        "Height": 0.07813157141208649,
+                        "Left": 0.18507501482963562,
+                        "Top": 0.206549271941185
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "508012c9-68ca-4a81-8603-d6b1aab7008b",
+                    "Score": 0.8272182941436768
+                },
+                {
+                    "Text": "Example in a vision task",
+                    "BoundingBox": {
+                        "Width": 0.1786850243806839,
+                        "Height": 0.028927788138389587,
+                        "Left": 0.1401623636484146,
+                        "Top": 0.34072166681289673
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "15c38627-ed45-4e16-b1f1-d07be5f88d5b",
+                    "Score": 0.7656508684158325
+                },
+                {
+                    "Text": "input image activated concepts (semantic regions) (None)",
+                    "BoundingBox": {
+                        "Width": 0.4357546865940094,
+                        "Height": 0.5529811382293701,
+                        "Left": 0.04702353477478027,
+                        "Top": 0.39411255717277527
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3ef5a744-95d8-4f3c-9ff7-9af26cb7384b",
+                    "Score": 0.7795810699462891
+                },
+                {
+                    "Text": "input sentence activated concepts (phrases) (None) . He is just not is not just not . He is just is smart very smart very smart. not smart very smart is not He is just not is smart very smart. just not very just not",
+                    "BoundingBox": {
+                        "Width": 0.41162699460983276,
+                        "Height": 0.5707088112831116,
+                        "Left": 0.5474653244018555,
+                        "Top": 0.3895842730998993
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "20d63f2d-681c-468d-8117-8193804790ce",
+                    "Score": 0.712761402130127
+                },
+                {
+                    "Text": "3",
+                    "BoundingBox": {
+                        "Width": 0.015036443248391151,
+                        "Height": 0.043897829949855804,
+                        "Left": 0.9637898802757263,
+                        "Top": 0.9268918633460999
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "5653ac68-daf6-4b44-ab9d-e69e1427bde6",
+                    "Score": 0.7556098699569702
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,591",
+            "end_time": "00:00:22,615",
+            "transcript": "For example, when we feed a basket image or a basket sentence to the DNN, no concept will be activated.",
+            "MatchedRegion": [
+                {
+                    "Text": "Preliminaries: Understanding concepts encoded by a DNN",
+                    "BoundingBox": {
+                        "Width": 0.827545166015625,
+                        "Height": 0.05766775459051132,
+                        "Left": 0.09811194986104965,
+                        "Top": 0.06659873574972153
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "2de4ae58-f8e1-49b0-a464-0375adaa7861",
+                    "Score": 0.7282275557518005
+                },
+                {
+                    "Text": "Each concept represents an AND relationship between input variables, i.e., a concept is activated only when all variables in this concept exist (not masked).",
+                    "BoundingBox": {
+                        "Width": 0.6567968130111694,
+                        "Height": 0.07813157141208649,
+                        "Left": 0.18507501482963562,
+                        "Top": 0.206549271941185
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "508012c9-68ca-4a81-8603-d6b1aab7008b",
+                    "Score": 0.8272182941436768
+                },
+                {
+                    "Text": "Example in a vision task",
+                    "BoundingBox": {
+                        "Width": 0.1786850243806839,
+                        "Height": 0.028927788138389587,
+                        "Left": 0.1401623636484146,
+                        "Top": 0.34072166681289673
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "15c38627-ed45-4e16-b1f1-d07be5f88d5b",
+                    "Score": 0.7656508684158325
+                },
+                {
+                    "Text": "input image activated concepts (semantic regions) (None)",
+                    "BoundingBox": {
+                        "Width": 0.4357546865940094,
+                        "Height": 0.5529811382293701,
+                        "Left": 0.04702353477478027,
+                        "Top": 0.39411255717277527
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3ef5a744-95d8-4f3c-9ff7-9af26cb7384b",
+                    "Score": 0.7795810699462891
+                },
+                {
+                    "Text": "input sentence activated concepts (phrases) (None) . He is just not is not just not . He is just is smart very smart very smart. not smart very smart is not He is just not is smart very smart. just not very just not",
+                    "BoundingBox": {
+                        "Width": 0.41162699460983276,
+                        "Height": 0.5707088112831116,
+                        "Left": 0.5474653244018555,
+                        "Top": 0.3895842730998993
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "20d63f2d-681c-468d-8117-8193804790ce",
+                    "Score": 0.712761402130127
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:23,885",
+            "end_time": "00:00:31,837",
+            "transcript": "However, when less portion of the input sample is masked, as shown in these two examples, more concepts will emerge.",
+            "MatchedRegion": [
+                {
+                    "Text": "Preliminaries: Understanding concepts encoded by a DNN",
+                    "BoundingBox": {
+                        "Width": 0.827545166015625,
+                        "Height": 0.05766775459051132,
+                        "Left": 0.09811194986104965,
+                        "Top": 0.06659873574972153
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "2de4ae58-f8e1-49b0-a464-0375adaa7861",
+                    "Score": 0.7282275557518005
+                },
+                {
+                    "Text": "Each concept represents an AND relationship between input variables, i.e., a concept is activated only when all variables in this concept exist (not masked).",
+                    "BoundingBox": {
+                        "Width": 0.6567968130111694,
+                        "Height": 0.07813157141208649,
+                        "Left": 0.18507501482963562,
+                        "Top": 0.206549271941185
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "508012c9-68ca-4a81-8603-d6b1aab7008b",
+                    "Score": 0.8272182941436768
+                },
+                {
+                    "Text": "Example in a vision task",
+                    "BoundingBox": {
+                        "Width": 0.1786850243806839,
+                        "Height": 0.028927788138389587,
+                        "Left": 0.1401623636484146,
+                        "Top": 0.34072166681289673
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "15c38627-ed45-4e16-b1f1-d07be5f88d5b",
+                    "Score": 0.7656508684158325
+                },
+                {
+                    "Text": "input image activated concepts (semantic regions) (None)",
+                    "BoundingBox": {
+                        "Width": 0.4357546865940094,
+                        "Height": 0.5529811382293701,
+                        "Left": 0.04702353477478027,
+                        "Top": 0.39411255717277527
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3ef5a744-95d8-4f3c-9ff7-9af26cb7384b",
+                    "Score": 0.7795810699462891
+                },
+                {
+                    "Text": "input sentence activated concepts (phrases) (None) . He is just not is not just not . He is just is smart very smart very smart. not smart very smart is not He is just not is smart very smart. just not very just not",
+                    "BoundingBox": {
+                        "Width": 0.41162699460983276,
+                        "Height": 0.5707088112831116,
+                        "Left": 0.5474653244018555,
+                        "Top": 0.3895842730998993
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "20d63f2d-681c-468d-8117-8193804790ce",
+                    "Score": 0.712761402130127
+                },
+                {
+                    "Text": "3",
+                    "BoundingBox": {
+                        "Width": 0.015036443248391151,
+                        "Height": 0.043897829949855804,
+                        "Left": 0.9637898802757263,
+                        "Top": 0.9268918633460999
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "5653ac68-daf6-4b44-ab9d-e69e1427bde6",
+                    "Score": 0.7556098699569702
+                }
+            ]
+        }
+    ]
+}

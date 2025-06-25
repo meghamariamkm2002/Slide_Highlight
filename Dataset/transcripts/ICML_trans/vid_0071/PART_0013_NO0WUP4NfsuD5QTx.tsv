@@ -1,0 +1,4 @@
+start	end	text
+1601	6005	We also discussed cases when DNNs fail to learn transferable concepts.
+6725	14812	And in these cases, the concepts extracted by the metric IS can reflect some representation flaws of the DNN.
+15593	17895	In this study, we discussed three of them.

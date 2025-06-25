@@ -1,0 +1,8 @@
+1
+00:00:00,589 --> 00:00:06,894
+And we also calculated the distribution of the key point motion, IOU and the aspect ratio.
+
+2
+00:00:07,394 --> 00:00:19,823
+In our dataset, it can be observed that APT36000 has a rich diversity of distribution in motion and the aspect ratio of bounding boxes.
+

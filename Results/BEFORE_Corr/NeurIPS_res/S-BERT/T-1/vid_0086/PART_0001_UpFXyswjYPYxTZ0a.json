@@ -1,0 +1,70 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,172",
+            "end_time": "00:00:09,280",
+            "transcript": "The EHR SQL dataset consists of 24,000 questions to SQL pairs, frequently asked on structured EHR data.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,410",
+            "end_time": "00:00:23,835",
+            "transcript": "The questions were collected from a poll conducted at a university hospital and more than 200 hospital staff, including doctors, nurses, insurance review staff, infection control staff, and more participated in the poll.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:24,716",
+            "end_time": "00:00:30,658",
+            "transcript": "The label SQL queries are linked to two open source EHR databases, Mimic 3 and EICU.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:31,621",
+            "end_time": "00:00:39,206",
+            "transcript": "The unique challenges of the dataset are, first, we have a wide range of real-world questions frequently asked on structured EHR data.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:39,987",
+            "end_time": "00:00:53,276",
+            "transcript": "From retrieving a patient's test results, to summing of a patient's total hospital cost, and calculating the survival rate of a certain group of patients, the questions in the dataset reflect the diverse needs of staff in the hospital.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:55,074",
+            "end_time": "00:00:57,635",
+            "transcript": "Second, time is very important in healthcare.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:58,115",
+            "end_time": "00:01:04,498",
+            "transcript": "To reflect that, we templatize time and combine them with the questions to make the data set more realistic.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:05,418",
+            "end_time": "00:01:09,800",
+            "transcript": "Lastly, we have unanswerable questions that were collected together from the poll.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:10,480",
+            "end_time": "00:01:16,023",
+            "transcript": "The questions were unanswerable because they were either ambiguous or went beyond the database schemas.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:16,843",
+            "end_time": "00:01:21,745",
+            "transcript": "These questions are later used to test the trustworthiness of text to SQL models.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_BHBLBUvmaFfzLpHD",
+            "Score": 0.6579551696777344
+        }
+    ]
+}

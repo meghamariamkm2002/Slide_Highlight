@@ -1,0 +1,1 @@
+More experiments such as K&N experiments, comparison of training and non-training classes, and a comparison to self-supervised vision transformers can be found in our appendices.

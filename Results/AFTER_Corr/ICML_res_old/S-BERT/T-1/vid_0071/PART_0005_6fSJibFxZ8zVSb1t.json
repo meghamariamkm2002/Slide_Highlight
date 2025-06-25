@@ -1,0 +1,22 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,393",
+            "end_time": "00:00:05,382",
+            "transcript": "In this case, each interaction pattern represents an AND relationship between variables.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,184",
+            "end_time": "00:00:09,630",
+            "transcript": "Thus can be taken as a symbolic concept encoded by the DNN.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0003_IJo3k2vKnh6kX0I6",
+            "Score": 0.8141152858734131
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,370",
+            "end_time": "00:00:06,053",
+            "transcript": "The general sequential episodic memory model, or GSEMM, deals with these two limitations.",
+            "MatchedRegion": [
+                {
+                    "Text": "hidden layer feature layer input/output",
+                    "BoundingBox": {
+                        "Width": 0.3808075785636902,
+                        "Height": 0.7624911665916443,
+                        "Left": 0.5642779469490051,
+                        "Top": 0.1044498011469841
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "83b57ab0-fcb9-4026-8b11-5de9c4a5e5ae",
+                    "Score": 0.6603607535362244
+                },
+                {
+                    "Text": "Traditional energy-based models are restricted to single memory retrieval.",
+                    "BoundingBox": {
+                        "Width": 0.47347673773765564,
+                        "Height": 0.0709928646683693,
+                        "Left": 0.05477078631520271,
+                        "Top": 0.3012034296989441
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "68aba76c-0ab9-4677-98ce-79b394d3bf3e",
+                    "Score": 0.8336915969848633
+                },
+                {
+                    "Text": "General Sequential Episodic Memory Model (GSEMM) has a dynamic energy landscape capable of storing and retrieving of temporal memories in its dynamical evolution.",
+                    "BoundingBox": {
+                        "Width": 0.4362073540687561,
+                        "Height": 0.14139100909233093,
+                        "Left": 0.054878998547792435,
+                        "Top": 0.391903817653656
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60e93f30-2261-4edd-a667-7403bc364a86",
+                    "Score": 0.890677809715271
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,533",
+            "end_time": "00:00:11,597",
+            "transcript": "We derive GSEMM by introducing asymmetric synapses with signal propagation delays in the GAMM.",
+            "MatchedRegion": [
+                {
+                    "Text": "hidden layer feature layer input/output",
+                    "BoundingBox": {
+                        "Width": 0.3808075785636902,
+                        "Height": 0.7624911665916443,
+                        "Left": 0.5642779469490051,
+                        "Top": 0.1044498011469841
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "83b57ab0-fcb9-4026-8b11-5de9c4a5e5ae",
+                    "Score": 0.6603607535362244
+                },
+                {
+                    "Text": "Traditional energy-based models are restricted to single memory retrieval.",
+                    "BoundingBox": {
+                        "Width": 0.47347673773765564,
+                        "Height": 0.0709928646683693,
+                        "Left": 0.05477078631520271,
+                        "Top": 0.3012034296989441
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "68aba76c-0ab9-4677-98ce-79b394d3bf3e",
+                    "Score": 0.8336915969848633
+                },
+                {
+                    "Text": "General Sequential Episodic Memory Model (GSEMM) has a dynamic energy landscape capable of storing and retrieving of temporal memories in its dynamical evolution.",
+                    "BoundingBox": {
+                        "Width": 0.4362073540687561,
+                        "Height": 0.14139100909233093,
+                        "Left": 0.054878998547792435,
+                        "Top": 0.391903817653656
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60e93f30-2261-4edd-a667-7403bc364a86",
+                    "Score": 0.890677809715271
+                },
+                {
+                    "Text": "The system consists of two layers of neurons organized analogous to General Associative Memory Model (GAMM) with additional delay- based intra-hidden layer connectivity.",
+                    "BoundingBox": {
+                        "Width": 0.4523355960845947,
+                        "Height": 0.14070415496826172,
+                        "Left": 0.05469614639878273,
+                        "Top": 0.5533865094184875
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ad4147f0-e3a4-466e-bde1-0ef7d32be13b",
+                    "Score": 0.8671671152114868
+                },
+                {
+                    "Text": "In contrast to GAMM, GSEMM exhibits a dynamic energy surface controlled by the delay signal resulting in a system with instantaneous fixed-point dynamics",
+                    "BoundingBox": {
+                        "Width": 0.4822145700454712,
+                        "Height": 0.14131785929203033,
+                        "Left": 0.054626014083623886,
+                        "Top": 0.7150548100471497
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "17f0b8ce-1da5-4868-9d68-8199f20ff81b",
+                    "Score": 0.8366668224334717
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,257",
+            "end_time": "00:00:19,002",
+            "transcript": "The asymmetric synapses result in the temporal behavior of the model and the delay stabilizes individual memories over time.",
+            "MatchedRegion": [
+                {
+                    "Text": "hidden layer feature layer input/output",
+                    "BoundingBox": {
+                        "Width": 0.3808075785636902,
+                        "Height": 0.7624911665916443,
+                        "Left": 0.5642779469490051,
+                        "Top": 0.1044498011469841
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "83b57ab0-fcb9-4026-8b11-5de9c4a5e5ae",
+                    "Score": 0.6603607535362244
+                },
+                {
+                    "Text": "Traditional energy-based models are restricted to single memory retrieval.",
+                    "BoundingBox": {
+                        "Width": 0.47347673773765564,
+                        "Height": 0.0709928646683693,
+                        "Left": 0.05477078631520271,
+                        "Top": 0.3012034296989441
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "68aba76c-0ab9-4677-98ce-79b394d3bf3e",
+                    "Score": 0.8336915969848633
+                },
+                {
+                    "Text": "General Sequential Episodic Memory Model (GSEMM) has a dynamic energy landscape capable of storing and retrieving of temporal memories in its dynamical evolution.",
+                    "BoundingBox": {
+                        "Width": 0.4362073540687561,
+                        "Height": 0.14139100909233093,
+                        "Left": 0.054878998547792435,
+                        "Top": 0.391903817653656
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60e93f30-2261-4edd-a667-7403bc364a86",
+                    "Score": 0.890677809715271
+                },
+                {
+                    "Text": "The system consists of two layers of neurons organized analogous to General Associative Memory Model (GAMM) with additional delay- based intra-hidden layer connectivity.",
+                    "BoundingBox": {
+                        "Width": 0.4523355960845947,
+                        "Height": 0.14070415496826172,
+                        "Left": 0.05469614639878273,
+                        "Top": 0.5533865094184875
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ad4147f0-e3a4-466e-bde1-0ef7d32be13b",
+                    "Score": 0.8671671152114868
+                },
+                {
+                    "Text": "In contrast to GAMM, GSEMM exhibits a dynamic energy surface controlled by the delay signal resulting in a system with instantaneous fixed-point dynamics",
+                    "BoundingBox": {
+                        "Width": 0.4822145700454712,
+                        "Height": 0.14131785929203033,
+                        "Left": 0.054626014083623886,
+                        "Top": 0.7150548100471497
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "17f0b8ce-1da5-4868-9d68-8199f20ff81b",
+                    "Score": 0.8366668224334717
+                }
+            ]
+        }
+    ]
+}

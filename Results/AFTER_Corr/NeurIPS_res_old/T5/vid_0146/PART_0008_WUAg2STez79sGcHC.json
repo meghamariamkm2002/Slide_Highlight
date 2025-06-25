@@ -1,0 +1,59 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,896",
+            "end_time": "00:00:02,998",
+            "transcript": "Next, we present some qualitative results.",
+            "MatchedRegion": [
+                {
+                    "Text": "Results",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.09362427890300751,
+                        "Height": 0.04420570284128189,
+                        "Left": 0.07848312705755234,
+                        "Top": 0.12313307821750641
+                    },
+                    "Id": "f05f29f4-3258-4f61-9ce3-f181b5210a9c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,758",
+            "end_time": "00:00:09,202",
+            "transcript": "As you can see, the different models are able to correct the wrong predictions after applying their method.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:09,942",
+            "end_time": "00:00:15,546",
+            "transcript": "For example, the model here predicts that this cool bus is a snowplow due to the presence of the snow in the backgroud.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,347",
+            "end_time": "00:00:23,972",
+            "transcript": "An additional example is this model that classifies the teddy bear as a ping-pong ball due to a sports consideration of only its path.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:24,907",
+            "end_time": "00:00:31,876",
+            "transcript": "In both cases, our method is able to correct the wrong predictions by allowing the model to focus on the correct parts of the image.",
+            "MatchedRegion": [
+                {
+                    "Text": "Results",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.09362427890300751,
+                        "Height": 0.04420570284128189,
+                        "Left": 0.07848312705755234,
+                        "Top": 0.12313307821750641
+                    },
+                    "Id": "f05f29f4-3258-4f61-9ce3-f181b5210a9c"
+                }
+            ]
+        }
+    ]
+}

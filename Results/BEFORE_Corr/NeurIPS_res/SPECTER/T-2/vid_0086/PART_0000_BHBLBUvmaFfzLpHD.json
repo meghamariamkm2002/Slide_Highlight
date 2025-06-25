@@ -1,0 +1,78 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,699",
+            "end_time": "00:00:06,062",
+            "transcript": "Hi, my name is Cuba.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records",
+                    "BoundingBox": {
+                        "Width": 0.7748316526412964,
+                        "Height": 0.15453927218914032,
+                        "Left": 0.11337125301361084,
+                        "Top": 0.41333064436912537
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "85d8dbfe-5865-4735-96b0-68dcb8ca295a",
+                    "Score": 0.9669406414031982
+                },
+                {
+                    "Text": "Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, Seongjun Yang, Minjoon Seo, Jong-Yeup Kim, Edward Choi",
+                    "BoundingBox": {
+                        "Width": 0.5631826519966125,
+                        "Height": 0.08403725922107697,
+                        "Left": 0.21910952031612396,
+                        "Top": 0.6475555896759033
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d6092d0c-4565-49fb-9a4a-0f48ade6307f",
+                    "Score": 0.7086280584335327
+                },
+                {
+                    "Text": "NeurIPS 2022 Datasets and Benchmarks",
+                    "BoundingBox": {
+                        "Width": 0.4549340307712555,
+                        "Height": 0.03659997135400772,
+                        "Left": 0.2723100781440735,
+                        "Top": 0.830389142036438
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "867f0527-aa4c-45c4-9509-1d2fc5d6a1a5",
+                    "Score": 0.7426403164863586
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,443",
+            "end_time": "00:00:12,895",
+            "transcript": "Today, I would like to introduce our EHR SQL, a practical text to SQL benchmark for electronic health record.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records",
+                    "BoundingBox": {
+                        "Width": 0.7748316526412964,
+                        "Height": 0.15453927218914032,
+                        "Left": 0.11337125301361084,
+                        "Top": 0.41333064436912537
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "85d8dbfe-5865-4735-96b0-68dcb8ca295a",
+                    "Score": 0.9669406414031982
+                },
+                {
+                    "Text": "Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, Seongjun Yang, Minjoon Seo, Jong-Yeup Kim, Edward Choi",
+                    "BoundingBox": {
+                        "Width": 0.5631826519966125,
+                        "Height": 0.08403725922107697,
+                        "Left": 0.21910952031612396,
+                        "Top": 0.6475555896759033
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d6092d0c-4565-49fb-9a4a-0f48ade6307f",
+                    "Score": 0.7086280584335327
+                }
+            ]
+        }
+    ]
+}

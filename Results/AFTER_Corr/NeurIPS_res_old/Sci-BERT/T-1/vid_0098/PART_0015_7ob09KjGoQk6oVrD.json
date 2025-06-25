@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,349",
+            "end_time": "00:00:07,054",
+            "transcript": "We invite everyone to check out our benchmark, paper, Kaggle site, implementation and baseline weights on our homepage.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10511034727096558,
+                        "Height": 0.0791890099644661,
+                        "Left": 0.8886436223983765,
+                        "Top": 0.013426950201392174
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0b13505a-37aa-4f09-8bd1-333e74c20b69",
+                    "Score": 0.6111772656440735
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07893365621566772,
+                        "Height": 0.06639697402715683,
+                        "Left": 0.3506011664867401,
+                        "Top": 0.9227938652038574
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ff688c45-c997-4f7d-8b5d-4579bfe14b5c",
+                    "Score": 0.6132128238677979
+                }
+            ]
+        }
+    ]
+}

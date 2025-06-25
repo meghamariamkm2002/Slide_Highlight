@@ -1,0 +1,12 @@
+1
+00:00:04,625 --> 00:00:05,266
+Hello, everyone.
+
+2
+00:00:05,607 --> 00:00:13,760
+My name is Bonifat Stur, and today we present our work, Carlane, a lane detection benchmark for unsupervised domain adaptation from simulation to multiple real-world domains.
+
+3
+00:00:14,661 --> 00:00:16,985
+This is joint work with Johann Haselberger and Julian
+

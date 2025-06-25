@@ -1,0 +1,71 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:08,962",
+            "end_time": "00:00:13,681",
+            "transcript": "I'll be presenting a new class of energy-based memory models capable of storing and recalling of",
+            "MatchedRegion": [
+                {
+                    "Text": "THSTER",
+                    "BoundingBox": {
+                        "Width": 0.04282250255346298,
+                        "Height": 0.024321168661117554,
+                        "Left": 0.432219535112381,
+                        "Top": 0.00046916434075683355
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "93c5906c-8675-4426-8a21-d1291e539125",
+                    "Score": 0.6963720917701721
+                },
+                {
+                    "Text": "HANTENS",
+                    "BoundingBox": {
+                        "Width": 0.052350372076034546,
+                        "Height": 0.023919304832816124,
+                        "Left": 0.5179750323295593,
+                        "Top": 0.0007202917477115989
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "73f64a88-9c1d-4ae3-906d-e5b12ae2f269",
+                    "Score": 0.6749393939971924
+                },
+                {
+                    "Text": "General Sequential",
+                    "BoundingBox": {
+                        "Width": 0.5219987630844116,
+                        "Height": 0.09977457672357559,
+                        "Left": 0.2220977544784546,
+                        "Top": 0.47030362486839294
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a603390f-669b-4474-a687-055266e5f016",
+                    "Score": 0.7097888588905334
+                },
+                {
+                    "Text": "Episodic Memory Model",
+                    "BoundingBox": {
+                        "Width": 0.6482318043708801,
+                        "Height": 0.10382983088493347,
+                        "Left": 0.22455483675003052,
+                        "Top": 0.589904248714447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e337891f-8e61-4211-9a43-b279308c4376",
+                    "Score": 0.8175444006919861
+                },
+                {
+                    "Text": "Arjun Karuyally, Terrence J. Sejnowski, Hava T. Siegelmann, ICML 2023",
+                    "BoundingBox": {
+                        "Width": 0.6304117441177368,
+                        "Height": 0.03648149594664574,
+                        "Left": 0.2198065221309662,
+                        "Top": 0.7034431099891663
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a5159c08-799b-4009-a912-1ae1ad4f5e4e",
+                    "Score": 0.6444211602210999
+                }
+            ]
+        }
+    ]
+}

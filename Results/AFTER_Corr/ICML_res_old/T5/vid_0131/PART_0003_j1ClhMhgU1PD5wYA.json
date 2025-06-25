@@ -1,0 +1,62 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,210",
+            "end_time": "00:00:11,616",
+            "transcript": "We surprisingly find that utilizing the discrepancy information constructed by backtracking historical models can distinguish clean and poignant samples.",
+            "MatchedRegion": [
+                {
+                    "Text": "Backtrack Historical Models",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.7167961001396179,
+                        "Height": 0.0683412253856659,
+                        "Left": 0.010234705172479153,
+                        "Top": 0.11790084838867188
+                    },
+                    "Id": "15e4c552-8d29-443d-a875-80b0f2419c66"
+                },
+                {
+                    "Text": "We surprisingly find that utilizing the discrepancy information constructed by backtracking historical models can distinguish clean and poison samples. For the underlying mechanism, we attribute it to model dynamics, which reflects different poisoning effects of the same sample on different model status.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8219687938690186,
+                        "Height": 0.08997365087270737,
+                        "Left": 0.07977378368377686,
+                        "Top": 0.824152946472168
+                    },
+                    "Id": "027da363-6812-4ca3-ac96-ade430f3ae62"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,336",
+            "end_time": "00:00:22,462",
+            "transcript": "For the underlying mechanism, we attribute it to model dynamics, which reflects different poisoning effects of the same sample and different model statuses.",
+            "MatchedRegion": [
+                {
+                    "Text": "Exploring Model Dynamics for Accumulative Poisoning Discovery",
+                    "BlockType": "LAYOUT_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.6333989500999451,
+                        "Height": 0.0332820899784565,
+                        "Left": 0.007720933761447668,
+                        "Top": 0.023419305682182312
+                    },
+                    "Id": "2c766801-af30-4465-bd81-fcfd80645e43"
+                },
+                {
+                    "Text": "We surprisingly find that utilizing the discrepancy information constructed by backtracking historical models can distinguish clean and poison samples. For the underlying mechanism, we attribute it to model dynamics, which reflects different poisoning effects of the same sample on different model status.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8219687938690186,
+                        "Height": 0.08997365087270737,
+                        "Left": 0.07977378368377686,
+                        "Top": 0.824152946472168
+                    },
+                    "Id": "027da363-6812-4ca3-ac96-ade430f3ae62"
+                }
+            ]
+        }
+    ]
+}

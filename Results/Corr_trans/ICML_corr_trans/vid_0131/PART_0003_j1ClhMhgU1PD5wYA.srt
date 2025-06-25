@@ -1,0 +1,8 @@
+1
+00:00:02,210 --> 00:00:11,616
+We surprisingly find that utilizing the discrepancy information constructed by backtracking historical models can distinguish clean and poignant samples.
+
+2
+00:00:12,336 --> 00:00:22,462
+For the underlying mechanism, we attribute it to model dynamics, which reflects different poisoning effects of the same sample and different model statuses.
+

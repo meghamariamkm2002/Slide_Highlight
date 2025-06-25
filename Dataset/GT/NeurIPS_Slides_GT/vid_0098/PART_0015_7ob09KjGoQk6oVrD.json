@@ -1,0 +1,26 @@
+{
+    "MatchedSlides": [
+        "PART_0001_Cx54Xgy86xzmhZ9m",
+        "PART_0002_VPQBRKPuZ5gIgtxw"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,349",
+            "end_time": "00:00:07,054",
+            "transcript": "We invite everyone to check out our benchmark, paper, Kaggle site, implementation and baseline weights on our homepage.",
+            "MatchedRegion": [
+                {
+                    "Text": "https://carlanebenchmark.github.io/",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.4349784851074219,
+                        "Height": 0.05043179914355278,
+                        "Left": 0.2827509641647339,
+                        "Top": 0.6307854056358337
+                    },
+                    "Id": "728095d6-772a-4f5a-9f02-82e19bbe9e89"
+                }
+            ]
+        }
+    ]
+}

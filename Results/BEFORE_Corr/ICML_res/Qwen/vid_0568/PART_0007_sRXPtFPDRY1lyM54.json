@@ -1,0 +1,22 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:02,979",
+            "transcript": "surface of GSM has different behavior compared to GSM.",
+            "MatchedRegion": [
+                {
+                    "Text": "When the delay is sufficiently high in GSEMM, it has a sequence of meta-stable attractors that the system visits in the dynamical evolution.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4111469089984894,
+                        "Height": 0.1469734013080597,
+                        "Left": 0.5739815831184387,
+                        "Top": 0.8357248306274414
+                    },
+                    "Id": "b2738c05-fd25-45ac-a40c-7d97002e2392"
+                }
+            ]
+        }
+    ]
+}

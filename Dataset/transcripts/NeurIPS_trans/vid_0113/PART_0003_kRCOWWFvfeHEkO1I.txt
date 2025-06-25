@@ -1,0 +1,10 @@
+We collect COVID-19 related tweets ranging from February 1, 2020 to September 30, 2021.
+For data preprocessing, we first remove non-English tweets and retweets.
+Then we filter out the tweets containing URL.
+Afterwards, we use a list of symptoms as keywords to match the tweets to extract medical related tweets.
+Finally, 10,000 tweets are annotated.
+Among them, 6,000 are randomly sampled, and the other 4,000 are from the model label data.
+All of them are manually checked.
+We define seven entity types based on public health research needs.
+including three general entity tabs and four medical entity tabs for annotation.
+In particular, we select four entity tabs for additional sentiment annotation with three types of sentiment labels, positive, negative,

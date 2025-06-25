@@ -1,0 +1,36 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,625",
+            "end_time": "00:00:05,266",
+            "transcript": "Hello, everyone.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,607",
+            "end_time": "00:00:13,760",
+            "transcript": "My name is Bonifat Stur, and today we present our work, Carlane, a lane detection benchmark for unsupervised domain adaptation from simulation to multiple real-world domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "CARLANE: A Lane Detection Benchmark for Unsupervised Domain Adaptation from Simulation to multiple Real-World Domains",
+                    "BoundingBox": {
+                        "Width": 0.740811288356781,
+                        "Height": 0.20649506151676178,
+                        "Left": 0.03581993654370308,
+                        "Top": 0.34182584285736084
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "020aa9a7-15ec-42c8-b91d-811622948e47",
+                    "Score": 0.9217075109481812
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,661",
+            "end_time": "00:00:16,985",
+            "transcript": "This is joint work with Johann Haselberger and Julian Gebele.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

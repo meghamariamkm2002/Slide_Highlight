@@ -1,0 +1,62 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,689",
+            "end_time": "00:00:10,472",
+            "transcript": "First, in single-frame animal pose estimations, we benchmark simple baseline HRNet, HRFormer, and VIT pose method.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,132",
+            "end_time": "00:00:21,915",
+            "transcript": "We set up three settings to benchmark their performance, including user network weights per trend on ImageNet, Cocoa, and AP10000 dataset.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:22,455",
+            "end_time": "00:00:26,716",
+            "transcript": "With human pose per training, both scene-based and vision-transformer",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:27,296",
+            "end_time": "00:00:29,499",
+            "transcript": "These methods show performance gains.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,999",
+            "end_time": "00:00:38,789",
+            "transcript": "Besides, the benefit of using AP1000 for pre-training is less than that of using the human post data set for pre-training.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:39,390",
+            "end_time": "00:00:48,801",
+            "transcript": "We suspect that it is caused by differences of distribution and data source and as well as the scale differences.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_kIvSfeSA5dfzhobv",
+            "Score": 0.7145793437957764
+        },
+        {
+            "slide": "PART_0001_C7IfFsQ2BsVmjgqb",
+            "Score": 0.6343880891799927
+        },
+        {
+            "slide": "PART_0002_M8xJHwtfvrTIpy16",
+            "Score": 0.6785663366317749
+        },
+        {
+            "slide": "PART_0003_cKichVdin6XycgAq",
+            "Score": 0.6554818749427795
+        },
+        {
+            "slide": "PART_0005_D1FuHVm3thPIylSy",
+            "Score": 0.6919965744018555
+        }
+    ]
+}

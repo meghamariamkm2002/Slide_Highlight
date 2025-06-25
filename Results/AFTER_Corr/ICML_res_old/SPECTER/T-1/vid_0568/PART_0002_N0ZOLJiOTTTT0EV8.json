@@ -1,0 +1,344 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,313",
+            "end_time": "00:00:05,977",
+            "transcript": "The energy function has driven progress in singleton memory modeling with their capacity driven by the inter-memory interactions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dense Associative Memory (2016)",
+                    "BoundingBox": {
+                        "Width": 0.1452987641096115,
+                        "Height": 0.06287881731987,
+                        "Left": 0.29290324449539185,
+                        "Top": 0.384477436542511
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "89fb091d-fd09-4a2b-b484-cdd4ac343e2c",
+                    "Score": 0.8703877925872803
+                },
+                {
+                    "Text": "Linear memory interaction",
+                    "BoundingBox": {
+                        "Width": 0.1580868512392044,
+                        "Height": 0.06747268885374069,
+                        "Left": 0.057294368743896484,
+                        "Top": 0.6386110186576843
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "71110407-311f-4126-8242-1b68898d3cd9",
+                    "Score": 0.8711786866188049
+                },
+                {
+                    "Text": "Polynomial memory interaction",
+                    "BoundingBox": {
+                        "Width": 0.12132701277732849,
+                        "Height": 0.10733100026845932,
+                        "Left": 0.30479541420936584,
+                        "Top": 0.6337363123893738
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "636be318-05a2-49b5-ab95-6c1918464cab",
+                    "Score": 0.8758010268211365
+                },
+                {
+                    "Text": "general associative memory (2021)",
+                    "BoundingBox": {
+                        "Width": 0.1563294231891632,
+                        "Height": 0.06283431500196457,
+                        "Left": 0.788066029548645,
+                        "Top": 0.38428688049316406
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2f66ccaa-55d5-4b85-bfcb-e42ab2c1b7da",
+                    "Score": 0.8510745763778687
+                },
+                {
+                    "Text": "Exponential memory interaction",
+                    "BoundingBox": {
+                        "Width": 0.12918239831924438,
+                        "Height": 0.10737775266170502,
+                        "Left": 0.5206272602081299,
+                        "Top": 0.669539213180542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c641b50c-1232-438a-885e-371c609ea431",
+                    "Score": 0.8389972448348999
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,297",
+            "end_time": "00:00:11,681",
+            "transcript": "The increase in capacity shown in the timeline where the initial model had a capacity much lower than the number of neurons.",
+            "MatchedRegion": [
+                {
+                    "Text": "classical Hopfield model (1982)",
+                    "BoundingBox": {
+                        "Width": 0.13895466923713684,
+                        "Height": 0.06334546953439713,
+                        "Left": 0.08669190108776093,
+                        "Top": 0.23492316901683807
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "574bdfba-1d82-47d0-a822-59ecc1f73ce3",
+                    "Score": 0.8081487417221069
+                },
+                {
+                    "Text": "Dense Associative Memory (2016)",
+                    "BoundingBox": {
+                        "Width": 0.1452987641096115,
+                        "Height": 0.06287881731987,
+                        "Left": 0.29290324449539185,
+                        "Top": 0.384477436542511
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "89fb091d-fd09-4a2b-b484-cdd4ac343e2c",
+                    "Score": 0.8703877925872803
+                },
+                {
+                    "Text": "Low capacity (0.14 N)",
+                    "BoundingBox": {
+                        "Width": 0.1448911726474762,
+                        "Height": 0.07345175743103027,
+                        "Left": 0.05749853700399399,
+                        "Top": 0.7184814214706421
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f4211cdd-c2ab-4cc0-a3a3-c8d7e6eb899b",
+                    "Score": 0.8854048252105713
+                },
+                {
+                    "Text": "High capacity (Nd-1)",
+                    "BoundingBox": {
+                        "Width": 0.15079328417778015,
+                        "Height": 0.07404074817895889,
+                        "Left": 0.30475112795829773,
+                        "Top": 0.753436267375946
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1ba5a6a8-1c09-454b-9b2b-b7b53bdc4fe7",
+                    "Score": 0.877085268497467
+                },
+                {
+                    "Text": "general associative memory (2021)",
+                    "BoundingBox": {
+                        "Width": 0.1563294231891632,
+                        "Height": 0.06283431500196457,
+                        "Left": 0.788066029548645,
+                        "Top": 0.38428688049316406
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2f66ccaa-55d5-4b85-bfcb-e42ab2c1b7da",
+                    "Score": 0.8510745763778687
+                },
+                {
+                    "Text": "High capacity (2N/2)",
+                    "BoundingBox": {
+                        "Width": 0.1510174572467804,
+                        "Height": 0.07394040375947952,
+                        "Left": 0.5205960869789124,
+                        "Top": 0.789120614528656
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19139b9f-392d-4808-820a-e6fa880720ae",
+                    "Score": 0.8929608464241028
+                },
+                {
+                    "Text": "Unified theory for associative memory explaining capacity by the hidden layer activation function",
+                    "BoundingBox": {
+                        "Width": 0.16817782819271088,
+                        "Height": 0.3072131276130676,
+                        "Left": 0.7767640352249146,
+                        "Top": 0.6584762334823608
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b91c2ffc-fb27-4adc-9e0c-b8f09a118cf8",
+                    "Score": 0.8842595815658569
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,221",
+            "end_time": "00:00:22,668",
+            "transcript": "Later polynomial inter-memory interactions were introduced that made the capacity dense in the number of neurons, meaning the number of memories that can be stored was larger than the number of neurons in the system.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dense Associative Memory (2016)",
+                    "BoundingBox": {
+                        "Width": 0.1452987641096115,
+                        "Height": 0.06287881731987,
+                        "Left": 0.29290324449539185,
+                        "Top": 0.384477436542511
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "89fb091d-fd09-4a2b-b484-cdd4ac343e2c",
+                    "Score": 0.8703877925872803
+                },
+                {
+                    "Text": "Linear memory interaction",
+                    "BoundingBox": {
+                        "Width": 0.1580868512392044,
+                        "Height": 0.06747268885374069,
+                        "Left": 0.057294368743896484,
+                        "Top": 0.6386110186576843
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "71110407-311f-4126-8242-1b68898d3cd9",
+                    "Score": 0.8711786866188049
+                },
+                {
+                    "Text": "Polynomial memory interaction",
+                    "BoundingBox": {
+                        "Width": 0.12132701277732849,
+                        "Height": 0.10733100026845932,
+                        "Left": 0.30479541420936584,
+                        "Top": 0.6337363123893738
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "636be318-05a2-49b5-ab95-6c1918464cab",
+                    "Score": 0.8758010268211365
+                },
+                {
+                    "Text": "general associative memory (2021)",
+                    "BoundingBox": {
+                        "Width": 0.1563294231891632,
+                        "Height": 0.06283431500196457,
+                        "Left": 0.788066029548645,
+                        "Top": 0.38428688049316406
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2f66ccaa-55d5-4b85-bfcb-e42ab2c1b7da",
+                    "Score": 0.8510745763778687
+                },
+                {
+                    "Text": "Exponential memory interaction",
+                    "BoundingBox": {
+                        "Width": 0.12918239831924438,
+                        "Height": 0.10737775266170502,
+                        "Left": 0.5206272602081299,
+                        "Top": 0.669539213180542
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c641b50c-1232-438a-885e-371c609ea431",
+                    "Score": 0.8389972448348999
+                },
+                {
+                    "Text": "High capacity (2N/2)",
+                    "BoundingBox": {
+                        "Width": 0.1510174572467804,
+                        "Height": 0.07394040375947952,
+                        "Left": 0.5205960869789124,
+                        "Top": 0.789120614528656
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19139b9f-392d-4808-820a-e6fa880720ae",
+                    "Score": 0.8929608464241028
+                },
+                {
+                    "Text": "Unified theory for associative memory explaining capacity by the hidden layer activation function",
+                    "BoundingBox": {
+                        "Width": 0.16817782819271088,
+                        "Height": 0.3072131276130676,
+                        "Left": 0.7767640352249146,
+                        "Top": 0.6584762334823608
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b91c2ffc-fb27-4adc-9e0c-b8f09a118cf8",
+                    "Score": 0.8842595815658569
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:23,469",
+            "end_time": "00:00:27,932",
+            "transcript": "Recent works improved the capacity even further to be exponential in the number of neurons.",
+            "MatchedRegion": [
+                {
+                    "Text": "classical Hopfield model (1982)",
+                    "BoundingBox": {
+                        "Width": 0.13895466923713684,
+                        "Height": 0.06334546953439713,
+                        "Left": 0.08669190108776093,
+                        "Top": 0.23492316901683807
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "574bdfba-1d82-47d0-a822-59ecc1f73ce3",
+                    "Score": 0.8081487417221069
+                },
+                {
+                    "Text": "Dense Associative Memory (2016)",
+                    "BoundingBox": {
+                        "Width": 0.1452987641096115,
+                        "Height": 0.06287881731987,
+                        "Left": 0.29290324449539185,
+                        "Top": 0.384477436542511
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "89fb091d-fd09-4a2b-b484-cdd4ac343e2c",
+                    "Score": 0.8703877925872803
+                },
+                {
+                    "Text": "Low capacity (0.14 N)",
+                    "BoundingBox": {
+                        "Width": 0.1448911726474762,
+                        "Height": 0.07345175743103027,
+                        "Left": 0.05749853700399399,
+                        "Top": 0.7184814214706421
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f4211cdd-c2ab-4cc0-a3a3-c8d7e6eb899b",
+                    "Score": 0.8854048252105713
+                },
+                {
+                    "Text": "High capacity (Nd-1)",
+                    "BoundingBox": {
+                        "Width": 0.15079328417778015,
+                        "Height": 0.07404074817895889,
+                        "Left": 0.30475112795829773,
+                        "Top": 0.753436267375946
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1ba5a6a8-1c09-454b-9b2b-b7b53bdc4fe7",
+                    "Score": 0.877085268497467
+                },
+                {
+                    "Text": "general associative memory (2021)",
+                    "BoundingBox": {
+                        "Width": 0.1563294231891632,
+                        "Height": 0.06283431500196457,
+                        "Left": 0.788066029548645,
+                        "Top": 0.38428688049316406
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2f66ccaa-55d5-4b85-bfcb-e42ab2c1b7da",
+                    "Score": 0.8510745763778687
+                },
+                {
+                    "Text": "High capacity (2N/2)",
+                    "BoundingBox": {
+                        "Width": 0.1510174572467804,
+                        "Height": 0.07394040375947952,
+                        "Left": 0.5205960869789124,
+                        "Top": 0.789120614528656
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19139b9f-392d-4808-820a-e6fa880720ae",
+                    "Score": 0.8929608464241028
+                },
+                {
+                    "Text": "Unified theory for associative memory explaining capacity by the hidden layer activation function",
+                    "BoundingBox": {
+                        "Width": 0.16817782819271088,
+                        "Height": 0.3072131276130676,
+                        "Left": 0.7767640352249146,
+                        "Top": 0.6584762334823608
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b91c2ffc-fb27-4adc-9e0c-b8f09a118cf8",
+                    "Score": 0.8842595815658569
+                }
+            ]
+        }
+    ]
+}

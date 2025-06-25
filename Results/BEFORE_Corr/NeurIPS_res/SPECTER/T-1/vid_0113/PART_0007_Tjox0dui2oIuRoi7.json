@@ -1,0 +1,83 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,636",
+            "end_time": "00:00:04,047",
+            "transcript": "For TSA task, we selected 18 models for",
+            "MatchedRegion": [
+                {
+                    "Text": "TSA Models",
+                    "BoundingBox": {
+                        "Width": 0.10235267132520676,
+                        "Height": 0.02826162613928318,
+                        "Left": 0.06352730095386505,
+                        "Top": 0.2193138301372528
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ebfe425a-912f-4578-b91b-6b55f370ee31",
+                    "Score": 0.8529773950576782
+                },
+                {
+                    "Text": "1 statistical machine learning model: SVM",
+                    "BoundingBox": {
+                        "Width": 0.37413179874420166,
+                        "Height": 0.033846572041511536,
+                        "Left": 0.10176096111536026,
+                        "Top": 0.26377737522125244
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f28b4a8d-ff6e-4253-b7ed-25e06a8c9640",
+                    "Score": 0.8152483701705933
+                },
+                {
+                    "Text": "ASGCN, LSTM, TDLSTM, MemNet, IAN, MGAN and TNet-LF",
+                    "BoundingBox": {
+                        "Width": 0.5141461491584778,
+                        "Height": 0.03226231411099434,
+                        "Left": 0.1393832564353943,
+                        "Top": 0.35344192385673523
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03635a37-85e3-479b-9ec8-6175425b6e31",
+                    "Score": 0.8111459612846375
+                },
+                {
+                    "Text": "Training and Test Sets",
+                    "BoundingBox": {
+                        "Width": 0.18639619648456573,
+                        "Height": 0.03301606327295303,
+                        "Left": 0.06338813155889511,
+                        "Top": 0.5924287438392639
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "230b3514-b101-458e-babc-156d66cc849f",
+                    "Score": 0.8330633640289307
+                },
+                {
+                    "Text": "Train-dev-test splitting ratio is 70:15:15.",
+                    "BoundingBox": {
+                        "Width": 0.35564249753952026,
+                        "Height": 0.033801451325416565,
+                        "Left": 0.10166801512241364,
+                        "Top": 0.6364259719848633
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f8596220-8fe4-4dbc-94e4-982b8a6eca73",
+                    "Score": 0.8055635094642639
+                },
+                {
+                    "Text": "The TSA training/dev/test dataset is the subset of the NER training/dev/test dataset.",
+                    "BoundingBox": {
+                        "Width": 0.7348119616508484,
+                        "Height": 0.0351930670440197,
+                        "Left": 0.10144069045782089,
+                        "Top": 0.6804136037826538
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2de15124-33b2-4631-9674-156f9bd36530",
+                    "Score": 0.8546640276908875
+                }
+            ]
+        }
+    ]
+}

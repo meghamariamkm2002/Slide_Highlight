@@ -1,0 +1,13 @@
+{
+    "MatchedSlides": [
+        "PART_0005_g9dLMZx6jqDOT7eA"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,271",
+            "end_time": "00:00:11,624",
+            "transcript": "Furthermore, we paraphrased the question templates using human labor and machine learning paraphrasers, and then we hired crowd workers to review whether the paraphrases were correct or not.",
+            "MatchedRegion": []
+        }
+    ]
+}

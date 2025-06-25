@@ -1,0 +1,3 @@
+start	end	text
+9	6213	Certainly, we verify the model-wise transferability of extracted concepts.
+6834	12758	That is to say, concept extracted from a DNN can be transferred to another DNN trained for the same task.

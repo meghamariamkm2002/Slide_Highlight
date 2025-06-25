@@ -1,0 +1,464 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,030",
+            "end_time": "00:00:09,634",
+            "transcript": "In our experiments, the evaluated UDA methods achieved a maximum accuracy gain of around 4% and high positives and negative rates.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.36301112174987793,
+                        "Height": 0.06138002127408981,
+                        "Left": 0.037130460143089294,
+                        "Top": 0.033321551978588104
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "eba6ec55-f2f4-4ef8-ab9a-eada5ec4f4f4",
+                    "Score": 0.7945769429206848
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10692441463470459,
+                        "Height": 0.08050431311130524,
+                        "Left": 0.8885690569877625,
+                        "Top": 0.012494550086557865
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e0774e26-a6c4-4f43-99bd-497412a3e797",
+                    "Score": 0.607816219329834
+                },
+                {
+                    "Text": "Adaptation methods are not able to achieve comparable results to the supervised baselines (UFLD-TO):",
+                    "BoundingBox": {
+                        "Width": 0.8894064426422119,
+                        "Height": 0.033779218792915344,
+                        "Left": 0.03510523587465286,
+                        "Top": 0.1607089638710022
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c8eb30e3-ad38-4707-a60f-f5f369bdbbbb",
+                    "Score": 0.8927490711212158
+                },
+                {
+                    "Text": "Maximum accuracy gain of 4.55%",
+                    "BoundingBox": {
+                        "Width": 0.27232062816619873,
+                        "Height": 0.029999367892742157,
+                        "Left": 0.07306234538555145,
+                        "Top": 0.22271420061588287
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a22ffc7-766a-4684-b3af-8ab58b58bb8e",
+                    "Score": 0.7522606253623962
+                },
+                {
+                    "Text": "High false positive (FP) and false negative (FN) rates",
+                    "BoundingBox": {
+                        "Width": 0.4098438024520874,
+                        "Height": 0.03011905588209629,
+                        "Left": 0.07360711693763733,
+                        "Top": 0.28047001361846924
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7b7a01c3-8082-4103-9d82-6d6d8a2ad9eb",
+                    "Score": 0.7689235806465149
+                },
+                {
+                    "Text": "FP and FN rates increase significantly on the multi-target task of MuLane",
+                    "BoundingBox": {
+                        "Width": 0.6298749446868896,
+                        "Height": 0.03404204174876213,
+                        "Left": 0.03552503138780594,
+                        "Top": 0.3392248749732971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "14cdf07c-bbb9-4b2b-8ed4-26aee4222c62",
+                    "Score": 0.7375434637069702
+                },
+                {
+                    "Text": "MoLane TuLane MuLane ResNet-18 LA FP & FN LA FP FN LA FP FN UFLD-SO 89.39 25.25 87.43 34.21 23.48 88.02 50.24 26.08 DANN [12] 87.65 0048 29.97+1.21 88.74+0.32 32.71+0.52 21.64-0.65 86.01-0.67 55.33+1.22 36.30-1.90 ADDA [13] 92.85 0017 10.61 +0.77 90.720.15 29.73 0036 17.67.0.42 89.83 00.33 46.79 10.43 20.57 i 0.63 SGADA [21] 93.82 +0.10 7.1340.22 91.70-0.13 28.42 0034 16.10 L0.43 90.71-0.10 45.13-0.32 17.26-0.36 SGPCS (ours) 93.94 00.04 7.16+0.16 91.55 40.13 28.52+0.21 16.16+0.26 91.57 +0.22 45.49 00.63 17.39+0.88 UFLD-TO 97.35 0.50 94.97 18.05 3.84 96.57 34.06 2.49 ResNet-34 LA FP & FN LA FP FN LA FP FN UFLD-SO 90.35 22.25 89.42 32.35 21.19 89.17 48.86 23.67 DANN [12] 90.91+0.42 19.73+1.51 91.06+0.14 30.17+0.20 18.54 0.25 88.76 0022 48.9310.47 24.1610.89 ADDA [13] 92.39+0.26 12.17.0.84 91.39 0016 28.76+0.30 16.63 +0.36 90.22+0.39 45.84 0054 19.49-0.90 SGADA [21] 93.3140.10 9.41 +0.16 92.04-0.09 28.18-0.20 15.99.0.24 91.6340.03 44.18+0.12 16.23-0.16 SGPCS (ours) 93.53-0.25 8.24 - 0.91 93.29 i 0.18 25.68 - 0.48 12.73 0059 91.55-0.17 44.75 L0.28 16.41 +0.44 UFLD-TO 97.21 0.30 94.43 20.74 7.20 96.54 33.76 2.03",
+                    "BoundingBox": {
+                        "Width": 0.5106039047241211,
+                        "Height": 0.3663020133972168,
+                        "Left": 0.24490250647068024,
+                        "Top": 0.4175404906272888
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "e3bb70a7-392f-4917-a96f-e77e6bde6a1d",
+                    "Score": 0.8164728283882141
+                },
+                {
+                    "Text": "FP and FN represent wrongly detected and missing lanes, which can lead to crucial impacts on autonomous driving functions",
+                    "BoundingBox": {
+                        "Width": 0.9204299449920654,
+                        "Height": 0.030705302953720093,
+                        "Left": 0.055972564965486526,
+                        "Top": 0.8392157554626465
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e10fa744-9aae-4a2c-a033-198eac6ccaea",
+                    "Score": 0.9806634187698364
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04334999993443489,
+                        "Height": 0.04202838987112045,
+                        "Left": 0.14660052955150604,
+                        "Top": 0.929226815700531
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c7c8604b-04c7-42d0-9ba4-cde5371dab79",
+                    "Score": 0.7073886394500732
+                },
+                {
+                    "Text": "University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07274112850427628,
+                        "Height": 0.012001569382846355,
+                        "Left": 0.3508058190345764,
+                        "Top": 0.9752122163772583
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "779af785-cc95-435f-8508-6503f4901b85",
+                    "Score": 0.7190155982971191
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06675960123538971,
+                        "Height": 0.06729678064584732,
+                        "Left": 0.44557985663414,
+                        "Top": 0.9215837717056274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8d054485-8445-4d56-bfea-ba5f3e4b7798",
+                    "Score": 0.6899479627609253
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.06020423769950867,
+                        "Height": 0.018515242263674736,
+                        "Left": 0.859182596206665,
+                        "Top": 0.9455631971359253
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "f012abac-69f7-4bd5-b4d4-95d96ea0943a",
+                    "Score": 0.761573314666748
+                },
+                {
+                    "Text": "11",
+                    "BoundingBox": {
+                        "Width": 0.011579076759517193,
+                        "Height": 0.015442299656569958,
+                        "Left": 0.9569882154464722,
+                        "Top": 0.9466453790664673
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "acba36a6-a7e9-4cb9-8fc6-d8f347a17bd9",
+                    "Score": 0.7293909788131714
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,435",
+            "end_time": "00:00:15,978",
+            "transcript": "This shows that the methods are not able to achieve comparable results to the supervised baselines.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.36301112174987793,
+                        "Height": 0.06138002127408981,
+                        "Left": 0.037130460143089294,
+                        "Top": 0.033321551978588104
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "eba6ec55-f2f4-4ef8-ab9a-eada5ec4f4f4",
+                    "Score": 0.7945769429206848
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10692441463470459,
+                        "Height": 0.08050431311130524,
+                        "Left": 0.8885690569877625,
+                        "Top": 0.012494550086557865
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e0774e26-a6c4-4f43-99bd-497412a3e797",
+                    "Score": 0.607816219329834
+                },
+                {
+                    "Text": "Adaptation methods are not able to achieve comparable results to the supervised baselines (UFLD-TO):",
+                    "BoundingBox": {
+                        "Width": 0.8894064426422119,
+                        "Height": 0.033779218792915344,
+                        "Left": 0.03510523587465286,
+                        "Top": 0.1607089638710022
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c8eb30e3-ad38-4707-a60f-f5f369bdbbbb",
+                    "Score": 0.8927490711212158
+                },
+                {
+                    "Text": "Maximum accuracy gain of 4.55%",
+                    "BoundingBox": {
+                        "Width": 0.27232062816619873,
+                        "Height": 0.029999367892742157,
+                        "Left": 0.07306234538555145,
+                        "Top": 0.22271420061588287
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a22ffc7-766a-4684-b3af-8ab58b58bb8e",
+                    "Score": 0.7522606253623962
+                },
+                {
+                    "Text": "High false positive (FP) and false negative (FN) rates",
+                    "BoundingBox": {
+                        "Width": 0.4098438024520874,
+                        "Height": 0.03011905588209629,
+                        "Left": 0.07360711693763733,
+                        "Top": 0.28047001361846924
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7b7a01c3-8082-4103-9d82-6d6d8a2ad9eb",
+                    "Score": 0.7689235806465149
+                },
+                {
+                    "Text": "FP and FN rates increase significantly on the multi-target task of MuLane",
+                    "BoundingBox": {
+                        "Width": 0.6298749446868896,
+                        "Height": 0.03404204174876213,
+                        "Left": 0.03552503138780594,
+                        "Top": 0.3392248749732971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "14cdf07c-bbb9-4b2b-8ed4-26aee4222c62",
+                    "Score": 0.7375434637069702
+                },
+                {
+                    "Text": "MoLane TuLane MuLane ResNet-18 LA FP & FN LA FP FN LA FP FN UFLD-SO 89.39 25.25 87.43 34.21 23.48 88.02 50.24 26.08 DANN [12] 87.65 0048 29.97+1.21 88.74+0.32 32.71+0.52 21.64-0.65 86.01-0.67 55.33+1.22 36.30-1.90 ADDA [13] 92.85 0017 10.61 +0.77 90.720.15 29.73 0036 17.67.0.42 89.83 00.33 46.79 10.43 20.57 i 0.63 SGADA [21] 93.82 +0.10 7.1340.22 91.70-0.13 28.42 0034 16.10 L0.43 90.71-0.10 45.13-0.32 17.26-0.36 SGPCS (ours) 93.94 00.04 7.16+0.16 91.55 40.13 28.52+0.21 16.16+0.26 91.57 +0.22 45.49 00.63 17.39+0.88 UFLD-TO 97.35 0.50 94.97 18.05 3.84 96.57 34.06 2.49 ResNet-34 LA FP & FN LA FP FN LA FP FN UFLD-SO 90.35 22.25 89.42 32.35 21.19 89.17 48.86 23.67 DANN [12] 90.91+0.42 19.73+1.51 91.06+0.14 30.17+0.20 18.54 0.25 88.76 0022 48.9310.47 24.1610.89 ADDA [13] 92.39+0.26 12.17.0.84 91.39 0016 28.76+0.30 16.63 +0.36 90.22+0.39 45.84 0054 19.49-0.90 SGADA [21] 93.3140.10 9.41 +0.16 92.04-0.09 28.18-0.20 15.99.0.24 91.6340.03 44.18+0.12 16.23-0.16 SGPCS (ours) 93.53-0.25 8.24 - 0.91 93.29 i 0.18 25.68 - 0.48 12.73 0059 91.55-0.17 44.75 L0.28 16.41 +0.44 UFLD-TO 97.21 0.30 94.43 20.74 7.20 96.54 33.76 2.03",
+                    "BoundingBox": {
+                        "Width": 0.5106039047241211,
+                        "Height": 0.3663020133972168,
+                        "Left": 0.24490250647068024,
+                        "Top": 0.4175404906272888
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "e3bb70a7-392f-4917-a96f-e77e6bde6a1d",
+                    "Score": 0.8164728283882141
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04334999993443489,
+                        "Height": 0.04202838987112045,
+                        "Left": 0.14660052955150604,
+                        "Top": 0.929226815700531
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c7c8604b-04c7-42d0-9ba4-cde5371dab79",
+                    "Score": 0.7073886394500732
+                },
+                {
+                    "Text": "University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07274112850427628,
+                        "Height": 0.012001569382846355,
+                        "Left": 0.3508058190345764,
+                        "Top": 0.9752122163772583
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "779af785-cc95-435f-8508-6503f4901b85",
+                    "Score": 0.7190155982971191
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06675960123538971,
+                        "Height": 0.06729678064584732,
+                        "Left": 0.44557985663414,
+                        "Top": 0.9215837717056274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8d054485-8445-4d56-bfea-ba5f3e4b7798",
+                    "Score": 0.6899479627609253
+                },
+                {
+                    "Text": "06/22/2021",
+                    "BoundingBox": {
+                        "Width": 0.06020423769950867,
+                        "Height": 0.018515242263674736,
+                        "Left": 0.859182596206665,
+                        "Top": 0.9455631971359253
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "f012abac-69f7-4bd5-b4d4-95d96ea0943a",
+                    "Score": 0.761573314666748
+                },
+                {
+                    "Text": "11",
+                    "BoundingBox": {
+                        "Width": 0.011579076759517193,
+                        "Height": 0.015442299656569958,
+                        "Left": 0.9569882154464722,
+                        "Top": 0.9466453790664673
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "acba36a6-a7e9-4cb9-8fc6-d8f347a17bd9",
+                    "Score": 0.7293909788131714
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,778",
+            "end_time": "00:00:23,705",
+            "transcript": "Furthermore, we observe FP and FN rates increase significantly on the multi-target task of MuLane.",
+            "MatchedRegion": [
+                {
+                    "Text": "FP and FN rates increase significantly on the multi-target task of MuLane",
+                    "BoundingBox": {
+                        "Width": 0.6298749446868896,
+                        "Height": 0.03404204174876213,
+                        "Left": 0.03552503138780594,
+                        "Top": 0.3392248749732971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "14cdf07c-bbb9-4b2b-8ed4-26aee4222c62",
+                    "Score": 0.7375434637069702
+                },
+                {
+                    "Text": "MoLane TuLane MuLane ResNet-18 LA FP & FN LA FP FN LA FP FN UFLD-SO 89.39 25.25 87.43 34.21 23.48 88.02 50.24 26.08 DANN [12] 87.65 0048 29.97+1.21 88.74+0.32 32.71+0.52 21.64-0.65 86.01-0.67 55.33+1.22 36.30-1.90 ADDA [13] 92.85 0017 10.61 +0.77 90.720.15 29.73 0036 17.67.0.42 89.83 00.33 46.79 10.43 20.57 i 0.63 SGADA [21] 93.82 +0.10 7.1340.22 91.70-0.13 28.42 0034 16.10 L0.43 90.71-0.10 45.13-0.32 17.26-0.36 SGPCS (ours) 93.94 00.04 7.16+0.16 91.55 40.13 28.52+0.21 16.16+0.26 91.57 +0.22 45.49 00.63 17.39+0.88 UFLD-TO 97.35 0.50 94.97 18.05 3.84 96.57 34.06 2.49 ResNet-34 LA FP & FN LA FP FN LA FP FN UFLD-SO 90.35 22.25 89.42 32.35 21.19 89.17 48.86 23.67 DANN [12] 90.91+0.42 19.73+1.51 91.06+0.14 30.17+0.20 18.54 0.25 88.76 0022 48.9310.47 24.1610.89 ADDA [13] 92.39+0.26 12.17.0.84 91.39 0016 28.76+0.30 16.63 +0.36 90.22+0.39 45.84 0054 19.49-0.90 SGADA [21] 93.3140.10 9.41 +0.16 92.04-0.09 28.18-0.20 15.99.0.24 91.6340.03 44.18+0.12 16.23-0.16 SGPCS (ours) 93.53-0.25 8.24 - 0.91 93.29 i 0.18 25.68 - 0.48 12.73 0059 91.55-0.17 44.75 L0.28 16.41 +0.44 UFLD-TO 97.21 0.30 94.43 20.74 7.20 96.54 33.76 2.03",
+                    "BoundingBox": {
+                        "Width": 0.5106039047241211,
+                        "Height": 0.3663020133972168,
+                        "Left": 0.24490250647068024,
+                        "Top": 0.4175404906272888
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "e3bb70a7-392f-4917-a96f-e77e6bde6a1d",
+                    "Score": 0.8164728283882141
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06675960123538971,
+                        "Height": 0.06729678064584732,
+                        "Left": 0.44557985663414,
+                        "Top": 0.9215837717056274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8d054485-8445-4d56-bfea-ba5f3e4b7798",
+                    "Score": 0.6899479627609253
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,246",
+            "end_time": "00:00:32,995",
+            "transcript": "We want to emphasize that FP and FN represent strongly detected and missing lanes, which can lead to crucial impacts on autonomous driving.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10692441463470459,
+                        "Height": 0.08050431311130524,
+                        "Left": 0.8885690569877625,
+                        "Top": 0.012494550086557865
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e0774e26-a6c4-4f43-99bd-497412a3e797",
+                    "Score": 0.607816219329834
+                },
+                {
+                    "Text": "Maximum accuracy gain of 4.55%",
+                    "BoundingBox": {
+                        "Width": 0.27232062816619873,
+                        "Height": 0.029999367892742157,
+                        "Left": 0.07306234538555145,
+                        "Top": 0.22271420061588287
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a22ffc7-766a-4684-b3af-8ab58b58bb8e",
+                    "Score": 0.7522606253623962
+                },
+                {
+                    "Text": "High false positive (FP) and false negative (FN) rates",
+                    "BoundingBox": {
+                        "Width": 0.4098438024520874,
+                        "Height": 0.03011905588209629,
+                        "Left": 0.07360711693763733,
+                        "Top": 0.28047001361846924
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7b7a01c3-8082-4103-9d82-6d6d8a2ad9eb",
+                    "Score": 0.7689235806465149
+                },
+                {
+                    "Text": "FP and FN rates increase significantly on the multi-target task of MuLane",
+                    "BoundingBox": {
+                        "Width": 0.6298749446868896,
+                        "Height": 0.03404204174876213,
+                        "Left": 0.03552503138780594,
+                        "Top": 0.3392248749732971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "14cdf07c-bbb9-4b2b-8ed4-26aee4222c62",
+                    "Score": 0.7375434637069702
+                },
+                {
+                    "Text": "FP and FN represent wrongly detected and missing lanes, which can lead to crucial impacts on autonomous driving functions",
+                    "BoundingBox": {
+                        "Width": 0.9204299449920654,
+                        "Height": 0.030705302953720093,
+                        "Left": 0.055972564965486526,
+                        "Top": 0.8392157554626465
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e10fa744-9aae-4a2c-a033-198eac6ccaea",
+                    "Score": 0.9806634187698364
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04334999993443489,
+                        "Height": 0.04202838987112045,
+                        "Left": 0.14660052955150604,
+                        "Top": 0.929226815700531
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c7c8604b-04c7-42d0-9ba4-cde5371dab79",
+                    "Score": 0.7073886394500732
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06675960123538971,
+                        "Height": 0.06729678064584732,
+                        "Left": 0.44557985663414,
+                        "Top": 0.9215837717056274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8d054485-8445-4d56-bfea-ba5f3e4b7798",
+                    "Score": 0.6899479627609253
+                },
+                {
+                    "Text": "11",
+                    "BoundingBox": {
+                        "Width": 0.011579076759517193,
+                        "Height": 0.015442299656569958,
+                        "Left": 0.9569882154464722,
+                        "Top": 0.9466453790664673
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "acba36a6-a7e9-4cb9-8fc6-d8f347a17bd9",
+                    "Score": 0.7293909788131714
+                }
+            ]
+        }
+    ]
+}

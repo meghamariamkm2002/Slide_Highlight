@@ -1,0 +1,154 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,033",
+            "end_time": "00:00:09,075",
+            "transcript": "Unlike other methods, our method employs the losses during a short fine-tuning process on models that were already pre-trained on ImageNet.",
+            "MatchedRegion": [
+                {
+                    "Text": "Method overview",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.23800265789031982,
+                        "Height": 0.04529628902673721,
+                        "Left": 0.07818490266799927,
+                        "Top": 0.12243842333555222
+                    },
+                    "Id": "81acb773-956b-4249-9d3e-a026bd4bd1db"
+                },
+                {
+                    "Text": "Our method employs the losses during a short finetuning process on models pretrained on ImageNet.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8197826743125916,
+                        "Height": 0.073668472468853,
+                        "Left": 0.07627316564321518,
+                        "Top": 0.2884747385978699
+                    },
+                    "Id": "f399b31e-9aaf-4cf1-b095-8cfe63a623a9"
+                },
+                {
+                    "Text": "We add a classification loss (Lclassification) to ensure that the accuracy of the model does not decrease due to the finetuning process.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8146907091140747,
+                        "Height": 0.07732146233320236,
+                        "Left": 0.07634074240922928,
+                        "Top": 0.3804417848587036
+                    },
+                    "Id": "68bd6c26-54f8-462f-8285-3449c6047342"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,016",
+            "end_time": "00:00:17,418",
+            "transcript": "We add a classification loss at classification to ensure that the accuracy of the models does not decrease due to the fine-tuning process.",
+            "MatchedRegion": [
+                {
+                    "Text": "Method overview",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.23800265789031982,
+                        "Height": 0.04529628902673721,
+                        "Left": 0.07818490266799927,
+                        "Top": 0.12243842333555222
+                    },
+                    "Id": "81acb773-956b-4249-9d3e-a026bd4bd1db"
+                },
+                {
+                    "Text": "Our method employs the losses during a short finetuning process on models pretrained on ImageNet.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8197826743125916,
+                        "Height": 0.073668472468853,
+                        "Left": 0.07627316564321518,
+                        "Top": 0.2884747385978699
+                    },
+                    "Id": "f399b31e-9aaf-4cf1-b095-8cfe63a623a9"
+                },
+                {
+                    "Text": "We add a classification loss (Lclassification) to ensure that the accuracy of the model does not decrease due to the finetuning process.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8146907091140747,
+                        "Height": 0.07732146233320236,
+                        "Left": 0.07634074240922928,
+                        "Top": 0.3804417848587036
+                    },
+                    "Id": "68bd6c26-54f8-462f-8285-3449c6047342"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,418",
+            "end_time": "00:00:24,800",
+            "transcript": "The formulation of our classification loss is as follows, and it encourages the model to have high confidence on its predictions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Method overview",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.23800265789031982,
+                        "Height": 0.04529628902673721,
+                        "Left": 0.07818490266799927,
+                        "Top": 0.12243842333555222
+                    },
+                    "Id": "81acb773-956b-4249-9d3e-a026bd4bd1db"
+                },
+                {
+                    "Text": "We add a classification loss (Lclassification) to ensure that the accuracy of the model does not decrease due to the finetuning process.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8146907091140747,
+                        "Height": 0.07732146233320236,
+                        "Left": 0.07634074240922928,
+                        "Top": 0.3804417848587036
+                    },
+                    "Id": "68bd6c26-54f8-462f-8285-3449c6047342"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,970",
+            "end_time": "00:00:32,154",
+            "transcript": "Thus, our final loss term is formulated as follows as a combination of the relevance and the classification loss.",
+            "MatchedRegion": [
+                {
+                    "Text": "Method overview",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.23800265789031982,
+                        "Height": 0.04529628902673721,
+                        "Left": 0.07818490266799927,
+                        "Top": 0.12243842333555222
+                    },
+                    "Id": "81acb773-956b-4249-9d3e-a026bd4bd1db"
+                },
+                {
+                    "Text": "We add a classification loss (Lclassification) to ensure that the accuracy of the model does not decrease due to the finetuning process.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8146907091140747,
+                        "Height": 0.07732146233320236,
+                        "Left": 0.07634074240922928,
+                        "Top": 0.3804417848587036
+                    },
+                    "Id": "68bd6c26-54f8-462f-8285-3449c6047342"
+                },
+                {
+                    "Text": "Thus, our final loss term is as follows:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3657882511615753,
+                        "Height": 0.0322716124355793,
+                        "Left": 0.07585328817367554,
+                        "Top": 0.6036859750747681
+                    },
+                    "Id": "bd48f8df-d59b-4227-aff2-a7c292498436"
+                }
+            ]
+        }
+    ]
+}

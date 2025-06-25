@@ -1,0 +1,17 @@
+WEBVTT
+
+00:00.089 --> 00:00.329
+sets.
+
+00:01.789 --> 00:10.931
+Therefore, we propose CarLane, the first three-way simple real-domain-adaption benchmark for 2D lane detection, which allows single and multi-target, unsupervised domain-adaption.
+
+00:11.611 --> 00:15.952
+We train several well-known user methods to establish baselines, including our own method.
+
+00:16.673 --> 00:22.534
+Templation of the methods, baseline rates, as well as tools for data collection and labeling are publicly available.
+
+00:23.114 --> 00:27.675
+To the best of our knowledge, we are the first to adapt lane detection models from simulation to multiple
+

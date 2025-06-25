@@ -1,0 +1,14 @@
+WEBVTT
+
+00:01.323 --> 00:06.766
+Before diving into the main topic, let us understand concepts from the perspective of a DNN.
+
+00:07.807 --> 00:14.650
+Briefly speaking, each concept is activated when all pixels or words composing this concept exist.
+
+00:15.591 --> 00:22.615
+For example, when we feed a basket image or a basket sentence to the DNN, no concept will be activated.
+
+00:23.885 --> 00:31.837
+However, when less portion of the input sample is masked, as shown in these two examples, more concepts will emerge.
+

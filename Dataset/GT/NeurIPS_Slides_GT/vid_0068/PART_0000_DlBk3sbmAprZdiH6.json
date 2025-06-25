@@ -1,0 +1,29 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,628",
+            "end_time": "00:00:05,831",
+            "transcript": "My name is Thomas Chau.",
+            "MatchedRegion": [
+                {
+                    "Text": "Thomas Chau\u00b9, Lukasz Dudziak \u00b9*, Hongkai Wen \u00b9, Nicholas D. Lane \u00b9, Mohamed S. Abdelfattah4,",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5469539165496826,
+                        "Height": 0.0777839943766594,
+                        "Left": 0.23364944756031036,
+                        "Top": 0.48059743642807007
+                    },
+                    "Id": "a25816de-2929-4b12-bced-6371a432e491"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,271",
+            "end_time": "00:00:07,975",
+            "transcript": "This is a video summary of our paper.",
+            "MatchedRegion": []
+        }
+    ]
+}

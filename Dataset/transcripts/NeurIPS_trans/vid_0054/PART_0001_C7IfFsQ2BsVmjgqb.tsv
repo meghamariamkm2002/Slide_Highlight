@@ -1,0 +1,6 @@
+start	end	text
+600	5863	First of all, I would like to introduce the motivation of our work.
+7543	17208	As we all know, animal pose estimation is crucial in animal behavior understanding and wildlife conservation.
+17708	21650	But animal pose estimation data sets are largely ignored.
+22131	24212	And existing data sets
+25117	31347	You really don't have continuous time information or lake detailed keypoint annotations.

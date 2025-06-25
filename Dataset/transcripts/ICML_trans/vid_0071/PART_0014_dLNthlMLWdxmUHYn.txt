@@ -1,0 +1,1 @@
+The first two cases are when there exists noises in the training set, neither noise in label or noise in sample.

@@ -1,0 +1,118 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,691",
+            "end_time": "00:00:08,496",
+            "transcript": "Traditional approach to study the interaction between protein and ligands is through docking.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:09,477",
+            "end_time": "00:00:15,301",
+            "transcript": "Darking method typically consists of two components, scoring and sampling.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,242",
+            "end_time": "00:00:27,511",
+            "transcript": "For each confirmation, a score will be assigned, and based on this score, they will propose new confirmations, and they do it iteratively.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:28,697",
+            "end_time": "00:00:34,801",
+            "transcript": "Tankbind, however, combines both scoring and sampling into a single neural network.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:35,862",
+            "end_time": "00:00:42,086",
+            "transcript": "Therefore, we are able to predict the final confirmation in a single shot.",
+            "MatchedRegion": [
+                {
+                    "Text": "The fact that the ligand localizes to a single pocket during crystallization indicates the ligand binds stronger to this pocket than other pockets.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.43609362840652466,
+                        "Height": 0.09840061515569687,
+                        "Left": 0.13108527660369873,
+                        "Top": 0.7262850999832153
+                    },
+                    "Id": "81551842-6c14-4ecb-a8cb-e36fc43ce279"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:44,619",
+            "end_time": "00:00:48,041",
+            "transcript": "We want to highlight two key innovations inside Tank Bind.",
+            "MatchedRegion": [
+                {
+                    "Text": "Key innovations inside TankBind.",
+                    "BlockType": "LAYOUT_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.3928157687187195,
+                        "Height": 0.05102365091443062,
+                        "Left": 0.06348662823438644,
+                        "Top": 0.06333188712596893
+                    },
+                    "Id": "a79065b3-9abc-4909-abe9-3fc35e135e37"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:48,901",
+            "end_time": "00:00:53,604",
+            "transcript": "First, we create an inter-molecular trigonometry neural network module.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. Creating an inter-molecular trigonometry neural network module.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5016675591468811,
+                        "Height": 0.03513927757740021,
+                        "Left": 0.0753241628408432,
+                        "Top": 0.21646670997142792
+                    },
+                    "Id": "dc335543-1d7e-4e69-8c19-b65b10350522"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:54,705",
+            "end_time": "00:01:10,714",
+            "transcript": "That is, for node i and j, the interaction between them is modulated by the interaction between node i and k and the interaction between j and k simultaneously to account for the many-body effect.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:12,216",
+            "end_time": "00:01:32,915",
+            "transcript": "second, we extract information from the whole protein instead of the binding pocket, because proteins typically have many binding pockets, and the crystal structure tells us that the rodent bind to the native pocket is stronger than to other pockets.",
+            "MatchedRegion": [
+                {
+                    "Text": "2. Extracting information from the whole protein instead of a single pocket through contrastive learning.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.49814513325691223,
+                        "Height": 0.07935298979282379,
+                        "Left": 0.07380195707082748,
+                        "Top": 0.5910877585411072
+                    },
+                    "Id": "994a8060-4a48-4820-87e2-e0be0b79db25"
+                },
+                {
+                    "Text": "The fact that the ligand localizes to a single pocket during crystallization indicates the ligand binds stronger to this pocket than other pockets.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.43609362840652466,
+                        "Height": 0.09840061515569687,
+                        "Left": 0.13108527660369873,
+                        "Top": 0.7262850999832153
+                    },
+                    "Id": "81551842-6c14-4ecb-a8cb-e36fc43ce279"
+                }
+            ]
+        }
+    ]
+}

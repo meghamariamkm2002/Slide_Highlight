@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,811",
+            "end_time": "00:00:10,218",
+            "transcript": "Therefore, we believe that we need more aspects to verify this metric can be used to quantify concepts learned by a DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Sparsity: The DNN's inference on a specific sample is supposed to be concisely explained by a small number of salient concepts.",
+                    "BoundingBox": {
+                        "Width": 0.7248382568359375,
+                        "Height": 0.07416196167469025,
+                        "Left": 0.13706625998020172,
+                        "Top": 0.3595198392868042
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fc0b1e1a-123d-4107-97a6-79030d085a66",
+                    "Score": 0.6393284201622009
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,059",
+            "end_time": "00:00:13,542",
+            "transcript": "Specifically, we propose four perspectives.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_JobZKQGelRI1kFCv",
+            "Score": 0.6664526462554932
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,296",
+            "end_time": "00:00:10,126",
+            "transcript": "On the other hand, sequence memory models still have a capacity much less than the number of neurons with the capacity of a recent model proposed in 2019 comparable to the models proposed in 1986.",
+            "MatchedRegion": [
+                {
+                    "Text": "Sequence Memory developments",
+                    "BoundingBox": {
+                        "Width": 0.6195020079612732,
+                        "Height": 0.071942038834095,
+                        "Left": 0.137025386095047,
+                        "Top": 0.10224409401416779
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "de7986ec-2c8c-493d-b700-de480afd0edd",
+                    "Score": 0.8636646866798401
+                },
+                {
+                    "Text": "Linear memory interaction",
+                    "BoundingBox": {
+                        "Width": 0.15776917338371277,
+                        "Height": 0.0668887346982956,
+                        "Left": 0.16238808631896973,
+                        "Top": 0.5703005194664001
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "956a13ea-dcf6-4fc2-997d-b389a581d0e4",
+                    "Score": 0.8217434883117676
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,847",
+            "end_time": "00:00:14,991",
+            "transcript": "Further, there is no theoretical paradigm governing the design of these models.",
+            "MatchedRegion": [
+                {
+                    "Text": "Kleinfeld (1986)",
+                    "BoundingBox": {
+                        "Width": 0.17297394573688507,
+                        "Height": 0.04394058138132095,
+                        "Left": 0.17122983932495117,
+                        "Top": 0.24765124917030334
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "346512a9-ee0e-4ff6-9b3f-c12d21a813b6",
+                    "Score": 0.8889889717102051
+                },
+                {
+                    "Text": "Multi-timescale networks (2019)",
+                    "BoundingBox": {
+                        "Width": 0.3583921194076538,
+                        "Height": 0.04484536498785019,
+                        "Left": 0.5024678707122803,
+                        "Top": 0.39205992221832275
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "201a2dd1-dd8c-4655-a32d-7ede53d41a2c",
+                    "Score": 0.8461886048316956
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+1
+00:00:04,699 --> 00:00:06,062
+Hi, my name is Cuba.
+
+2
+00:00:06,443 --> 00:00:12,895
+Today, I would like to introduce our EHR SQL, a practical text to SQL benchmark for electronic health records.
+

@@ -1,0 +1,90 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,600",
+            "end_time": "00:00:12,903",
+            "transcript": "Then regarding the diverse animal species in the real world, it is essential to evaluate the interspecies generalization ability of animal pose estimation models.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. Regarding the diverse animal species in the real world, it is essential to evaluate the inter-species generalization ability of animal pose estimation models, i.e., investigating their performance on unseen animal species.",
+                    "BoundingBox": {
+                        "Width": 0.7143785357475281,
+                        "Height": 0.0996866300702095,
+                        "Left": 0.10677000880241394,
+                        "Top": 0.44880279898643494
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bec3c90a-955f-4696-b1b9-0cad233529ca",
+                    "Score": 0.8113695090439276
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,563",
+            "end_time": "00:00:23,266",
+            "transcript": "In each experiment, all the instances from a specific family form the test set, while those instances belong to other families are used for training.",
+            "MatchedRegion": [
+                {
+                    "Text": "2. In each experiment, all the instances from a specific family form the test set while those instances belong to other families are used for training.",
+                    "BoundingBox": {
+                        "Width": 0.7299973964691162,
+                        "Height": 0.06456167250871658,
+                        "Left": 0.10576441138982773,
+                        "Top": 0.5561637878417969
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0f3d4f1-2202-4c98-8772-05140ab77dca",
+                    "Score": 0.9866666666666667
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:23,946",
+            "end_time": "00:00:33,177",
+            "transcript": "And we can find that the model generalizes well on animal species, where there are similarities between training and test species.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. The model generalizes well on animal species where there are similarities between the training and test species;",
+                    "BoundingBox": {
+                        "Width": 0.7152376174926758,
+                        "Height": 0.06416787207126617,
+                        "Left": 0.10691606998443604,
+                        "Top": 0.6997068524360657
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1b904d4d-cb2d-4be2-982b-7c438b1e7483",
+                    "Score": 0.8734693877551021
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:33,738",
+            "end_time": "00:00:36,702",
+            "transcript": "And for others, the model doesn't generalize well.",
+            "MatchedRegion": [
+                {
+                    "Text": "2. For animal species that do not have such similarities, the model does not generalize well.",
+                    "BoundingBox": {
+                        "Width": 0.6213530898094177,
+                        "Height": 0.028978466987609863,
+                        "Left": 0.10569795966148376,
+                        "Top": 0.7709266543388367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "97780479-2143-4d55-a8d4-1f7f1abe29b8",
+                    "Score": 0.6293706293706294
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_C7IfFsQ2BsVmjgqb",
+            "Score": 0.610707700252533
+        },
+        {
+            "slide": "PART_0003_cKichVdin6XycgAq",
+            "Score": 0.7631029486656189
+        }
+    ]
+}

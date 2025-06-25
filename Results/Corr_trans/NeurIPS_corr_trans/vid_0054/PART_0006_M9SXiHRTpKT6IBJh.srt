@@ -1,0 +1,24 @@
+1
+00:00:00,689 --> 00:00:10,472
+First, in single-frame animal pose estimations, we benchmark SimpleBaseline HRNet, HRFormer, and ViTPose method.
+
+2
+00:00:11,132 --> 00:00:21,915
+We set up three settings to benchmark their performance, including using network weights pretrained on ImageNet, MS COCO Human Pose Estimat
+
+3
+00:00:22,455 --> 00:00:26,716
+With human pose pre-training, both CNN-based and vision transformer-b
+
+4
+00:00:27,296 --> 00:00:29,499
+These methods show performance improvements.
+
+5
+00:00:29,999 --> 00:00:38,789
+Besides, the benefit of using AP1000 for pre-training is less than that of using the human pose dataset for pre-training.
+
+6
+00:00:39,390 --> 00:00:48,801
+We suspect that it is caused by differences of distribution and data source and also the scale differences.
+

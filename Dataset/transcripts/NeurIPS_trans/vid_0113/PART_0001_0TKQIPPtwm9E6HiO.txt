@@ -1,0 +1,4 @@
+to you.
+The COVID-19 pandemic continues to bring up various topics discussed or debated on social media.
+In order to explore the impact of pandemics on people's lives, it is important to understand the public's concerns and attitudes towards pandemic-related entities on social media.
+However, most NLP tools as well as models trained on existing name entity recognition or targeted sentiment analysis data sets have limited ability to understand COVID-19 related social media texts because these data sets are not designed or annotated from a medical perspective.

@@ -1,0 +1,435 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,570",
+            "end_time": "00:00:08,613",
+            "transcript": "possible extensions to this work are one can develop a new class of semantic parsing models that can handle unanswerable questions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Future Direction",
+                    "BoundingBox": {
+                        "Width": 0.23361828923225403,
+                        "Height": 0.03895149752497673,
+                        "Left": 0.06802473962306976,
+                        "Top": 0.23538312315940857
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c41e9992-10d2-460f-8fa5-522cacfe8a91",
+                    "Score": 0.6103880405426025
+                },
+                {
+                    "Text": "Semantic parsing models that can handle unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.6870858669281006,
+                        "Height": 0.038722142577171326,
+                        "Left": 0.12105722725391388,
+                        "Top": 0.31822869181632996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e9152c4-0252-40ae-a810-7f9834676c39",
+                    "Score": 0.6046658754348755
+                },
+                {
+                    "Text": "Interactive and conversational settings",
+                    "BoundingBox": {
+                        "Width": 0.41171738505363464,
+                        "Height": 0.03844991698861122,
+                        "Left": 0.12103861570358276,
+                        "Top": 0.389557808637619
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d2b5dec8-f6d3-4f1b-8732-e4951d098b33",
+                    "Score": 0.6207934021949768
+                },
+                {
+                    "Text": "Multimodal EHR QA datasets",
+                    "BoundingBox": {
+                        "Width": 0.32325249910354614,
+                        "Height": 0.03160326927900314,
+                        "Left": 0.12059561908245087,
+                        "Top": 0.46092134714126587
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5c6e40eb-afc5-4bdf-a7cd-e6d8936ddb4e",
+                    "Score": 0.6057468056678772
+                },
+                {
+                    "Text": "Dataset URL",
+                    "BoundingBox": {
+                        "Width": 0.1956542730331421,
+                        "Height": 0.037850506603717804,
+                        "Left": 0.06827285140752792,
+                        "Top": 0.5935565233230591
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f382065a-2dea-4a54-8a78-54d5bd1ffb60",
+                    "Score": 0.6977897882461548
+                },
+                {
+                    "Text": "Github: https://github.com/glee4810/EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.48144564032554626,
+                        "Height": 0.03994777426123619,
+                        "Left": 0.12087516486644745,
+                        "Top": 0.6747321486473083
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "75133436-3734-4e96-9050-263aa59509aa",
+                    "Score": 0.6133739352226257
+                },
+                {
+                    "Text": "Leaderboard:https://github.com/glee4810/EHRSQL-leaderboard",
+                    "BoundingBox": {
+                        "Width": 0.6715418100357056,
+                        "Height": 0.03978617861866951,
+                        "Left": 0.1184249073266983,
+                        "Top": 0.7459456920623779
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "645a77f6-e01b-4a65-bd0f-f29e9d502e38",
+                    "Score": 0.6066569089889526
+                },
+                {
+                    "Text": "ehr sql",
+                    "BoundingBox": {
+                        "Width": 0.07874806970357895,
+                        "Height": 0.168341264128685,
+                        "Left": 0.8424978256225586,
+                        "Top": 0.6152995228767395
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b40d17ff-6ee4-44c6-b671-7675e426cf96",
+                    "Score": 0.6156390309333801
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,174",
+            "end_time": "00:00:13,856",
+            "transcript": "The data set itself can be extended to interactive and conversational settings.",
+            "MatchedRegion": [
+                {
+                    "Text": "Future Direction",
+                    "BoundingBox": {
+                        "Width": 0.23361828923225403,
+                        "Height": 0.03895149752497673,
+                        "Left": 0.06802473962306976,
+                        "Top": 0.23538312315940857
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c41e9992-10d2-460f-8fa5-522cacfe8a91",
+                    "Score": 0.6103880405426025
+                },
+                {
+                    "Text": "Semantic parsing models that can handle unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.6870858669281006,
+                        "Height": 0.038722142577171326,
+                        "Left": 0.12105722725391388,
+                        "Top": 0.31822869181632996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e9152c4-0252-40ae-a810-7f9834676c39",
+                    "Score": 0.6046658754348755
+                },
+                {
+                    "Text": "Interactive and conversational settings",
+                    "BoundingBox": {
+                        "Width": 0.41171738505363464,
+                        "Height": 0.03844991698861122,
+                        "Left": 0.12103861570358276,
+                        "Top": 0.389557808637619
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d2b5dec8-f6d3-4f1b-8732-e4951d098b33",
+                    "Score": 0.6207934021949768
+                },
+                {
+                    "Text": "Multimodal EHR QA datasets",
+                    "BoundingBox": {
+                        "Width": 0.32325249910354614,
+                        "Height": 0.03160326927900314,
+                        "Left": 0.12059561908245087,
+                        "Top": 0.46092134714126587
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5c6e40eb-afc5-4bdf-a7cd-e6d8936ddb4e",
+                    "Score": 0.6057468056678772
+                },
+                {
+                    "Text": "Dataset URL",
+                    "BoundingBox": {
+                        "Width": 0.1956542730331421,
+                        "Height": 0.037850506603717804,
+                        "Left": 0.06827285140752792,
+                        "Top": 0.5935565233230591
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f382065a-2dea-4a54-8a78-54d5bd1ffb60",
+                    "Score": 0.6977897882461548
+                },
+                {
+                    "Text": "Github: https://github.com/glee4810/EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.48144564032554626,
+                        "Height": 0.03994777426123619,
+                        "Left": 0.12087516486644745,
+                        "Top": 0.6747321486473083
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "75133436-3734-4e96-9050-263aa59509aa",
+                    "Score": 0.6133739352226257
+                },
+                {
+                    "Text": "Leaderboard:https://github.com/glee4810/EHRSQL-leaderboard",
+                    "BoundingBox": {
+                        "Width": 0.6715418100357056,
+                        "Height": 0.03978617861866951,
+                        "Left": 0.1184249073266983,
+                        "Top": 0.7459456920623779
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "645a77f6-e01b-4a65-bd0f-f29e9d502e38",
+                    "Score": 0.6066569089889526
+                },
+                {
+                    "Text": "ehr sql",
+                    "BoundingBox": {
+                        "Width": 0.07874806970357895,
+                        "Height": 0.168341264128685,
+                        "Left": 0.8424978256225586,
+                        "Top": 0.6152995228767395
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b40d17ff-6ee4-44c6-b671-7675e426cf96",
+                    "Score": 0.6156390309333801
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,556",
+            "end_time": "00:00:19,198",
+            "transcript": "And this is a great starting point for creating multi-modal EHRQA data sets.",
+            "MatchedRegion": [
+                {
+                    "Text": "Future Direction",
+                    "BoundingBox": {
+                        "Width": 0.23361828923225403,
+                        "Height": 0.03895149752497673,
+                        "Left": 0.06802473962306976,
+                        "Top": 0.23538312315940857
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c41e9992-10d2-460f-8fa5-522cacfe8a91",
+                    "Score": 0.6103880405426025
+                },
+                {
+                    "Text": "Semantic parsing models that can handle unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.6870858669281006,
+                        "Height": 0.038722142577171326,
+                        "Left": 0.12105722725391388,
+                        "Top": 0.31822869181632996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e9152c4-0252-40ae-a810-7f9834676c39",
+                    "Score": 0.6046658754348755
+                },
+                {
+                    "Text": "Interactive and conversational settings",
+                    "BoundingBox": {
+                        "Width": 0.41171738505363464,
+                        "Height": 0.03844991698861122,
+                        "Left": 0.12103861570358276,
+                        "Top": 0.389557808637619
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d2b5dec8-f6d3-4f1b-8732-e4951d098b33",
+                    "Score": 0.6207934021949768
+                },
+                {
+                    "Text": "Multimodal EHR QA datasets",
+                    "BoundingBox": {
+                        "Width": 0.32325249910354614,
+                        "Height": 0.03160326927900314,
+                        "Left": 0.12059561908245087,
+                        "Top": 0.46092134714126587
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5c6e40eb-afc5-4bdf-a7cd-e6d8936ddb4e",
+                    "Score": 0.6057468056678772
+                },
+                {
+                    "Text": "Dataset URL",
+                    "BoundingBox": {
+                        "Width": 0.1956542730331421,
+                        "Height": 0.037850506603717804,
+                        "Left": 0.06827285140752792,
+                        "Top": 0.5935565233230591
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f382065a-2dea-4a54-8a78-54d5bd1ffb60",
+                    "Score": 0.6977897882461548
+                },
+                {
+                    "Text": "Github: https://github.com/glee4810/EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.48144564032554626,
+                        "Height": 0.03994777426123619,
+                        "Left": 0.12087516486644745,
+                        "Top": 0.6747321486473083
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "75133436-3734-4e96-9050-263aa59509aa",
+                    "Score": 0.6133739352226257
+                },
+                {
+                    "Text": "Leaderboard:https://github.com/glee4810/EHRSQL-leaderboard",
+                    "BoundingBox": {
+                        "Width": 0.6715418100357056,
+                        "Height": 0.03978617861866951,
+                        "Left": 0.1184249073266983,
+                        "Top": 0.7459456920623779
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "645a77f6-e01b-4a65-bd0f-f29e9d502e38",
+                    "Score": 0.6066569089889526
+                },
+                {
+                    "Text": "ehr sql",
+                    "BoundingBox": {
+                        "Width": 0.07874806970357895,
+                        "Height": 0.168341264128685,
+                        "Left": 0.8424978256225586,
+                        "Top": 0.6152995228767395
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b40d17ff-6ee4-44c6-b671-7675e426cf96",
+                    "Score": 0.6156390309333801
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,119",
+            "end_time": "00:00:24,921",
+            "transcript": "Our data set is currently available on GitHub, and their leaderboard can be found in this link.",
+            "MatchedRegion": [
+                {
+                    "Text": "Semantic parsing models that can handle unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.6870858669281006,
+                        "Height": 0.038722142577171326,
+                        "Left": 0.12105722725391388,
+                        "Top": 0.31822869181632996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e9152c4-0252-40ae-a810-7f9834676c39",
+                    "Score": 0.6046658754348755
+                },
+                {
+                    "Text": "Interactive and conversational settings",
+                    "BoundingBox": {
+                        "Width": 0.41171738505363464,
+                        "Height": 0.03844991698861122,
+                        "Left": 0.12103861570358276,
+                        "Top": 0.389557808637619
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d2b5dec8-f6d3-4f1b-8732-e4951d098b33",
+                    "Score": 0.6207934021949768
+                },
+                {
+                    "Text": "Multimodal EHR QA datasets",
+                    "BoundingBox": {
+                        "Width": 0.32325249910354614,
+                        "Height": 0.03160326927900314,
+                        "Left": 0.12059561908245087,
+                        "Top": 0.46092134714126587
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5c6e40eb-afc5-4bdf-a7cd-e6d8936ddb4e",
+                    "Score": 0.6057468056678772
+                },
+                {
+                    "Text": "Dataset URL",
+                    "BoundingBox": {
+                        "Width": 0.1956542730331421,
+                        "Height": 0.037850506603717804,
+                        "Left": 0.06827285140752792,
+                        "Top": 0.5935565233230591
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f382065a-2dea-4a54-8a78-54d5bd1ffb60",
+                    "Score": 0.6977897882461548
+                },
+                {
+                    "Text": "Github: https://github.com/glee4810/EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.48144564032554626,
+                        "Height": 0.03994777426123619,
+                        "Left": 0.12087516486644745,
+                        "Top": 0.6747321486473083
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "75133436-3734-4e96-9050-263aa59509aa",
+                    "Score": 0.6133739352226257
+                },
+                {
+                    "Text": "Leaderboard:https://github.com/glee4810/EHRSQL-leaderboard",
+                    "BoundingBox": {
+                        "Width": 0.6715418100357056,
+                        "Height": 0.03978617861866951,
+                        "Left": 0.1184249073266983,
+                        "Top": 0.7459456920623779
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "645a77f6-e01b-4a65-bd0f-f29e9d502e38",
+                    "Score": 0.6066569089889526
+                },
+                {
+                    "Text": "ehr sql",
+                    "BoundingBox": {
+                        "Width": 0.07874806970357895,
+                        "Height": 0.168341264128685,
+                        "Left": 0.8424978256225586,
+                        "Top": 0.6152995228767395
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b40d17ff-6ee4-44c6-b671-7675e426cf96",
+                    "Score": 0.6156390309333801
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,421",
+            "end_time": "00:00:26,322",
+            "transcript": "Thank you for listening.",
+            "MatchedRegion": [
+                {
+                    "Text": "Github: https://github.com/glee4810/EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.48144564032554626,
+                        "Height": 0.03994777426123619,
+                        "Left": 0.12087516486644745,
+                        "Top": 0.6747321486473083
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "75133436-3734-4e96-9050-263aa59509aa",
+                    "Score": 0.6133739352226257
+                },
+                {
+                    "Text": "Leaderboard:https://github.com/glee4810/EHRSQL-leaderboard",
+                    "BoundingBox": {
+                        "Width": 0.6715418100357056,
+                        "Height": 0.03978617861866951,
+                        "Left": 0.1184249073266983,
+                        "Top": 0.7459456920623779
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "645a77f6-e01b-4a65-bd0f-f29e9d502e38",
+                    "Score": 0.6066569089889526
+                }
+            ]
+        }
+    ]
+}

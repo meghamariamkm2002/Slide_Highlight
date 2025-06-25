@@ -1,0 +1,11 @@
+WEBVTT
+
+00:00.683 --> 00:07.806
+And to further evaporate the model's generalization ability, we carried out the experiment under the field-short setting.
+
+00:08.487 --> 00:22.213
+And we can find that with more data for training, the performance is greatly improved, especially on species with unique texture appearance and posture characteristics.
+
+00:22.773 --> 00:28.476
+And we think it's because these unique characteristics are not shared in other species.
+

@@ -1,0 +1,8 @@
+1
+00:00:01,479 --> 00:00:03,109
+Thank you very much for your attention.
+
+2
+00:00:03,512 --> 00:00:05,082
+Please check out our code and paper.
+

@@ -1,0 +1,125 @@
+{
+    "MatchedSlides": [
+        "PART_0006_TTEvcXWHt6QPYiAY"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,050",
+            "end_time": "00:00:02,870",
+            "transcript": "Here's our results.",
+            "MatchedRegion": [
+                {
+                    "Text": "Main results",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.3260446786880493,
+                        "Height": 0.08041802793741226,
+                        "Left": 0.3374747633934021,
+                        "Top": 0.06602923572063446
+                    },
+                    "Id": "17ce5f62-a592-4fea-9678-a0de7aafee66"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,530",
+            "end_time": "00:00:18,355",
+            "transcript": "On the positive side, we show there is a price P and we show how to compute this price P that achieves an approximation factor of 1 minus 1 over e divided by 2, which is about 0.316 against the first best welfare.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:19,676",
+            "end_time": "00:00:24,697",
+            "transcript": "On the negative side, we show there's no price P that achieves an approximation ratio better than 0.479.",
+            "MatchedRegion": [
+                {
+                    "Text": "negative: no price p achieves approximation ratio better than 0.479",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7424963712692261,
+                        "Height": 0.047371793538331985,
+                        "Left": 0.07037194818258286,
+                        "Top": 0.4087483286857605
+                    },
+                    "Id": "22c0c4de-9d90-4ad7-8464-037f306ce9ed"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:26,892",
+            "end_time": "00:00:35,479",
+            "transcript": "For comparison, we know that with utility maximizers or traditional bidders, positive price maxim can achieve an approximation ratio of 0.5.",
+            "MatchedRegion": [
+                {
+                    "Text": "for comparison: posted-price mechanisms for utility maximizers achieve 0.5",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8322340846061707,
+                        "Height": 0.04588434472680092,
+                        "Left": 0.0958806648850441,
+                        "Top": 0.5215171575546265
+                    },
+                    "Id": "ab9351b3-2211-4379-9924-c4a044331aa7"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,300",
+            "end_time": "00:00:46,989",
+            "transcript": "So this means positive price maximizers with allocators are strictly harder than the positive price maximizers with traditional bidders.",
+            "MatchedRegion": [
+                {
+                    "Text": "Main results",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.3260446786880493,
+                        "Height": 0.08041802793741226,
+                        "Left": 0.3374747633934021,
+                        "Top": 0.06602923572063446
+                    },
+                    "Id": "17ce5f62-a592-4fea-9678-a0de7aafee66"
+                },
+                {
+                    "Text": "(1 - 1/e)/2-approximation in the long run in dynamic auctions",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6940500140190125,
+                        "Height": 0.046084776520729065,
+                        "Left": 0.09727498888969421,
+                        "Top": 0.8496736288070679
+                    },
+                    "Id": "af6b40e3-420c-4d84-94d8-383e96aaeea9"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:48,080",
+            "end_time": "00:01:00,998",
+            "transcript": "As by-products, we give a one-quarter approximation for combinatorial auctions with all the bitters, and a one-month one-hour E divided by two-year approximation in the long run for dynamic auctions with all the bitters.",
+            "MatchedRegion": [
+                {
+                    "Text": "1/4-approximation in combinatorial auctions",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4994426965713501,
+                        "Height": 0.04449917748570442,
+                        "Left": 0.09669119119644165,
+                        "Top": 0.7372907996177673
+                    },
+                    "Id": "0d4f0683-f0be-4f0c-ab8c-1b350aa8c465"
+                },
+                {
+                    "Text": "(1 - 1/e)/2-approximation in the long run in dynamic auctions",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6940500140190125,
+                        "Height": 0.046084776520729065,
+                        "Left": 0.09727498888969421,
+                        "Top": 0.8496736288070679
+                    },
+                    "Id": "af6b40e3-420c-4d84-94d8-383e96aaeea9"
+                }
+            ]
+        }
+    ]
+}

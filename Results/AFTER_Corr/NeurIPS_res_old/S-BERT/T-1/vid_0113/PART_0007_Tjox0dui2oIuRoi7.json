@@ -1,0 +1,20 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,636",
+            "end_time": "00:00:04,047",
+            "transcript": "For TSA task, we selected 18 models for",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0002_L6pLWK5w83eRrPzI",
+            "Score": 0.6038105487823486
+        },
+        {
+            "slide": "PART_0005_FdGXOPaQRI40NAEw",
+            "Score": 0.6882636547088623
+        }
+    ]
+}

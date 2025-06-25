@@ -1,0 +1,65 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,069",
+            "end_time": "00:00:00,709",
+            "transcript": "zero sum quantum games.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,210",
+            "end_time": "00:00:20,496",
+            "transcript": "So in terms of MMWU, we consider the quantum relative entropy between density matrices \u03c1 and \u03c3, which is given by the trace of \u03c1 times log(\u03c1) minus log(\u03c3). In this setting, the matrix MWU algorithm is simply a matrix extension, where you play using density matrices instead of classical",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:21,617",
+            "end_time": "00:00:23,019",
+            "transcript": "classical probability distributions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:23,580",
+            "end_time": "00:00:25,443",
+            "transcript": "And in this setting, we have the following main theorem.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,983",
+            "end_time": "00:00:37,180",
+            "transcript": "When using MMWU, the rate of change in the sum of quantum relative entropies between the Nash equilibrium and the player strategies in a two-player zero-sum quantum game tends to zero when the step size mu goes to zero.",
+            "MatchedRegion": [
+                {
+                    "Text": "When using MMWU, the rate of change in the sum of quantum relative entropies between a Nash equilibrium and the player's strategies in a two- player zero-sum quantum game tends to zero when step-size u 0.",
+                    "BoundingBox": {
+                        "Width": 0.7475790977478027,
+                        "Height": 0.11901399493217468,
+                        "Left": 0.12539128959178925,
+                        "Top": 0.740114688873291
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "615226d3-2df2-444f-99b8-8b8007fa4d67",
+                    "Score": 0.9361702127659575
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:37,987",
+            "end_time": "00:00:47,139",
+            "transcript": "This means essentially that when agents are using MMWU, there's some notion or some notion of volume which is essentially conserved.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:47,880",
+            "end_time": "00:00:52,005",
+            "transcript": "And we use this fact and use this result to study the continuous-time",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_HXlI9Poy5Ug1xg7e",
+            "Score": 0.7759972810745239
+        }
+    ]
+}

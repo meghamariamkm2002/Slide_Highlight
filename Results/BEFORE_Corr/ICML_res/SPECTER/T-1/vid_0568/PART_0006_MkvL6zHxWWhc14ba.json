@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,447",
+            "end_time": "00:00:01,964",
+            "transcript": "the energies.",
+            "MatchedRegion": [
+                {
+                    "Text": "In contrast to GAMM, GSEMM exhibits a dynamic energy surface controlled by the delay signal resulting in a system with instantaneous fixed-point dynamics",
+                    "BoundingBox": {
+                        "Width": 0.4826611876487732,
+                        "Height": 0.14183901250362396,
+                        "Left": 0.05432513356208801,
+                        "Top": 0.714929461479187
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b45287a8-bba1-4531-8c5b-d65561612b0d",
+                    "Score": 0.8223294019699097
+                },
+                {
+                    "Text": "hidden layer feature layer O input/output",
+                    "BoundingBox": {
+                        "Width": 0.38110947608947754,
+                        "Height": 0.76699298620224,
+                        "Left": 0.5640942454338074,
+                        "Top": 0.10406117886304855
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dd9601d1-224b-4bd6-8cd1-77b364056fd7",
+                    "Score": 0.7614912986755371
+                }
+            ]
+        }
+    ]
+}

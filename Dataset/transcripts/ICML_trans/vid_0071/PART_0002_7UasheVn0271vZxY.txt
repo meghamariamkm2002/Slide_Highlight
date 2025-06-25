@@ -1,0 +1,4 @@
+Before diving into the main topic, let us understand concepts from the perspective of a DNN.
+Briefly speaking, each concept is activated when all pixels or words composing this concept exist.
+For example, when we feed a basket image or a basket sentence to the DNN, no concept will be activated.
+However, when less portion of the input sample is masked, as shown in these two examples, more concepts will emerge.

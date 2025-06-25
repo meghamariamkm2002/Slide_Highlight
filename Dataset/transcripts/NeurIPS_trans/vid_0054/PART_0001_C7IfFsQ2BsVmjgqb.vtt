@@ -1,0 +1,17 @@
+WEBVTT
+
+00:00.600 --> 00:05.863
+First of all, I would like to introduce the motivation of our work.
+
+00:07.543 --> 00:17.208
+As we all know, animal pose estimation is crucial in animal behavior understanding and wildlife conservation.
+
+00:17.708 --> 00:21.650
+But animal pose estimation data sets are largely ignored.
+
+00:22.131 --> 00:24.212
+And existing data sets
+
+00:25.117 --> 00:31.347
+You really don't have continuous time information or lake detailed keypoint annotations.
+

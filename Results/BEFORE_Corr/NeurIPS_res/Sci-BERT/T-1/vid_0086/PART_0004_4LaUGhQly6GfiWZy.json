@@ -1,0 +1,80 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,854",
+            "end_time": "00:00:13,061",
+            "transcript": "To construct a dataset for such systems, we collaborated with the Ganyang University Hospital and asked people what questions they would ask an AI speaker for information stored in the EHR tables.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset KONYANG UNIVERSITY HOSPITAL SQL SQL Question 1,742 Utterances (MIMIC-III) (eICU) 222 Respondents >6 Professions - What is your occupation? - What department are you SQL in? labeling - What are ten questions you would ask an Al MIMIC-III elCU speaker for information stored in the EHR tables? Compatibility X check Poll Templatization Filtering",
+                    "BoundingBox": {
+                        "Width": 0.9548879861831665,
+                        "Height": 0.7768348455429077,
+                        "Left": 0.030971184372901917,
+                        "Top": 0.17584094405174255
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "2788397b-65f0-40e0-a94a-747c2b76d42d",
+                    "Score": 0.7428373098373413
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,841",
+            "end_time": "00:00:21,446",
+            "transcript": "After the poll, we templatized the questions and filtered out the ones that are not compatible with Mimic 3 and EICU schemas.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset KONYANG UNIVERSITY HOSPITAL SQL SQL Question 1,742 Utterances (MIMIC-III) (eICU) 222 Respondents >6 Professions - What is your occupation? - What department are you SQL in? labeling - What are ten questions you would ask an Al MIMIC-III elCU speaker for information stored in the EHR tables? Compatibility X check Poll Templatization Filtering",
+                    "BoundingBox": {
+                        "Width": 0.9548879861831665,
+                        "Height": 0.7768348455429077,
+                        "Left": 0.030971184372901917,
+                        "Top": 0.17584094405174255
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "2788397b-65f0-40e0-a94a-747c2b76d42d",
+                    "Score": 0.7428373098373413
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,366",
+            "end_time": "00:00:26,289",
+            "transcript": "The compatible questions were labeled with the corresponding SQL queries.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset KONYANG UNIVERSITY HOSPITAL SQL SQL Question 1,742 Utterances (MIMIC-III) (eICU) 222 Respondents >6 Professions - What is your occupation? - What department are you SQL in? labeling - What are ten questions you would ask an Al MIMIC-III elCU speaker for information stored in the EHR tables? Compatibility X check Poll Templatization Filtering",
+                    "BoundingBox": {
+                        "Width": 0.9548879861831665,
+                        "Height": 0.7768348455429077,
+                        "Left": 0.030971184372901917,
+                        "Top": 0.17584094405174255
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "2788397b-65f0-40e0-a94a-747c2b76d42d",
+                    "Score": 0.7428373098373413
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:26,849",
+            "end_time": "00:00:29,931",
+            "transcript": "The incompatible ones were considered unanswerable questions.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset KONYANG UNIVERSITY HOSPITAL SQL SQL Question 1,742 Utterances (MIMIC-III) (eICU) 222 Respondents >6 Professions - What is your occupation? - What department are you SQL in? labeling - What are ten questions you would ask an Al MIMIC-III elCU speaker for information stored in the EHR tables? Compatibility X check Poll Templatization Filtering",
+                    "BoundingBox": {
+                        "Width": 0.9548879861831665,
+                        "Height": 0.7768348455429077,
+                        "Left": 0.030971184372901917,
+                        "Top": 0.17584094405174255
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "2788397b-65f0-40e0-a94a-747c2b76d42d",
+                    "Score": 0.7428373098373413
+                }
+            ]
+        }
+    ]
+}

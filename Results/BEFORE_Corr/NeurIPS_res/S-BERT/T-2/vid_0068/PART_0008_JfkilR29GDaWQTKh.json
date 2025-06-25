@@ -1,0 +1,53 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,029",
+            "end_time": "00:00:00,630",
+            "transcript": "which is used.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,251",
+            "end_time": "00:00:09,919",
+            "transcript": "We study if the predictor are good at estimating the end-to-end model accuracy after distillation and fine tuning.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,441",
+            "end_time": "00:00:12,422",
+            "transcript": "There are three findings.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:12,982",
+            "end_time": "00:00:22,953",
+            "transcript": "One, distillation loss and linear regression used in donor is better than change of validation accuracy and simple summation used in NANDER.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:24,276",
+            "end_time": "00:00:28,985",
+            "transcript": "2.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:24,717",
+            "end_time": "00:00:28,985",
+            "transcript": "Symmetry of blocks that were distributed for more epoch tend to produce better predictors.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,987",
+            "end_time": "00:00:28,985",
+            "transcript": "3.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:30,568",
+            "end_time": "00:00:35,918",
+            "transcript": "The juice and predictor, which does not require any distillation signatures, can outperform",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

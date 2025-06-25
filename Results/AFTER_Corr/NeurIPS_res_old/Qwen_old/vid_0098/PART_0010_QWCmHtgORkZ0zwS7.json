@@ -1,0 +1,41 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,030",
+            "end_time": "00:00:09,634",
+            "transcript": "In our experiments, the evaluated UDA methods achieved a maximum accuracy gain of around 4% and high positives and negative rates.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,435",
+            "end_time": "00:00:15,978",
+            "transcript": "This shows that the methods are not able to achieve comparable results to the supervised baselines.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,778",
+            "end_time": "00:00:23,705",
+            "transcript": "Furthermore, we observe FP and FN rates increase significantly on the multi-target task of MuLane.",
+            "MatchedRegion": [
+                {
+                    "Text": "FP and FN rates increase significantly on the multi-target task of MuLane",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6298749446868896,
+                        "Height": 0.03404204174876213,
+                        "Left": 0.03552503138780594,
+                        "Top": 0.3392248749732971
+                    },
+                    "Id": "14cdf07c-bbb9-4b2b-8ed4-26aee4222c62"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,246",
+            "end_time": "00:00:32,995",
+            "transcript": "We want to emphasize that FP and FN represent strongly detected and missing lanes, which can lead to crucial impacts on autonomous driving.",
+            "MatchedRegion": []
+        }
+    ]
+}

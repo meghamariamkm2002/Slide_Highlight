@@ -1,0 +1,16 @@
+1
+00:00:00,029 --> 00:00:00,510
+this point.
+
+2
+00:00:01,792 --> 00:00:05,577
+For the target domain of MOLAN, we capture data with our 1F model vehicle.
+
+3
+00:00:06,078 --> 00:00:09,223
+Tracks roughly contain the same proportion of straight and curved segments.
+
+4
+00:00:09,743 --> 00:00:14,911
+Randomizations include alternating backgrounds, lightning conditions, surface materials, and lane
+

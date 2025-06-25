@@ -1,0 +1,23 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,033",
+            "end_time": "00:00:10,898",
+            "transcript": "More experiments such as NN experiments, comparison of training and non-training classes, and a comparison to self-supervised vision transformers can be found in our appendices.",
+            "MatchedRegion": [
+                {
+                    "Text": "Results",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.09323901683092117,
+                        "Height": 0.0432320199906826,
+                        "Left": 0.07872355729341507,
+                        "Top": 0.12351636588573456
+                    },
+                    "Id": "b5dbdde2-0b0c-4e7d-9887-a4149efcfff1"
+                }
+            ]
+        }
+    ]
+}

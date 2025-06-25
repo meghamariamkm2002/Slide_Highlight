@@ -1,0 +1,47 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,662",
+            "end_time": "00:00:16,638",
+            "transcript": "Hello, my name is Hila and I'll be presenting the work Optimizing Relevance Maps of Vision Transformers improves robustness, which is a collaboration with Edan Schwartz and Leo Wolfe from Tel Aviv University.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.26300248503685,
+                        "Height": 0.20113912224769592,
+                        "Left": 0.6870982050895691,
+                        "Top": 0.0063102394342422485
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "5e2918b3-6287-43ad-866c-2c510e31caf5",
+                    "Score": 0.6277796030044556
+                },
+                {
+                    "Text": "The School of Computer Science, Tel Aviv University",
+                    "BoundingBox": {
+                        "Width": 0.28987109661102295,
+                        "Height": 0.022799955680966377,
+                        "Left": 0.34569787979125977,
+                        "Top": 0.4701268970966339
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "f6610243-a034-42a8-a184-9159dccce9a6",
+                    "Score": 0.7027238607406616
+                },
+                {
+                    "Text": "Input Original Ours Maze Orange",
+                    "BoundingBox": {
+                        "Width": 0.1213998943567276,
+                        "Height": 0.10706831514835358,
+                        "Left": 0.4210928678512573,
+                        "Top": 0.7169889211654663
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "38f5c9f7-606e-417b-a90e-c8cfa62fb338",
+                    "Score": 0.6041032075881958
+                }
+            ]
+        }
+    ]
+}

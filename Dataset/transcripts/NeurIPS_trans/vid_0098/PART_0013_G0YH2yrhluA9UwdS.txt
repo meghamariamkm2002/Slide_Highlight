@@ -1,0 +1,1 @@
+When we zoom in, two specific failure cases can be seen in the highlighted images, where we observe a misprediction and a false negative.

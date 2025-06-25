@@ -1,0 +1,32 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,850",
+            "end_time": "00:00:08,802",
+            "transcript": "When we zoom in, two specific failure cases can be seen in the highlighted images, where we observe a misprediction and a false negative.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_Cx54Xgy86xzmhZ9m",
+            "Score": 0.6310631036758423
+        },
+        {
+            "slide": "PART_0002_VPQBRKPuZ5gIgtxw",
+            "Score": 0.6125622987747192
+        },
+        {
+            "slide": "PART_0003_AVYdxgQ3ohclNiow",
+            "Score": 0.6972793340682983
+        },
+        {
+            "slide": "PART_0008_Kmdtc9MGey4QaMVQ",
+            "Score": 0.6041853427886963
+        },
+        {
+            "slide": "PART_0011_GOV2LqBfxDaoOG8r",
+            "Score": 0.7294747233390808
+        }
+    ]
+}

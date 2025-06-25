@@ -1,0 +1,138 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,393",
+            "end_time": "00:00:05,382",
+            "transcript": "In this case, each interaction pattern represents an AND relationship between variables.",
+            "MatchedRegion": [
+                {
+                    "Text": "Formulating \"concepts\" based on interactions",
+                    "BoundingBox": {
+                        "Width": 0.6526131629943848,
+                        "Height": 0.060315825045108795,
+                        "Left": 0.09779783338308334,
+                        "Top": 0.06354496628046036
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "bd6b7b3c-7266-4782-8d28-6d2ac1564152",
+                    "Score": 0.7670450806617737
+                },
+                {
+                    "Text": "Each interaction pattern represents an AND relationship between variables, thus can be taken as a symbolic concept encoded by the DNN. V (x) = bias + I(S1) + I(S2) + I(S3) + ... NI C Network output Constant bias Effect of Effect of Effect of (bird) the torso the tail the chest The \"torso\" exists if and only if all pixels in S1 are present, then the model obtain the marginal utility I (S1) Note that this study also extracts the OR interaction, which is proved to be a specific AND interaction.",
+                    "BoundingBox": {
+                        "Width": 0.7819220423698425,
+                        "Height": 0.6887477040290833,
+                        "Left": 0.11671120673418045,
+                        "Top": 0.1953517198562622
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ccfa6230-5bb3-4e02-9748-f150d6c9ed90",
+                    "Score": 0.8058720827102661
+                },
+                {
+                    "Text": "4",
+                    "BoundingBox": {
+                        "Width": 0.007922503165900707,
+                        "Height": 0.01954403519630432,
+                        "Left": 0.5062479376792908,
+                        "Top": 0.8657428622245789
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0066b11f-f9c8-462a-8345-c73cc5a6341b",
+                    "Score": 0.7750760316848755
+                },
+                {
+                    "Text": "[Ren et al., 2021] Towards axiomatic, hierarchical, and symbolic explanation for deep models. CVPR 2023. [Ren et al., 2023] Can We Faithfully Represent Absence States to Compute Shapley Values on a DNN? ICLR 2023.",
+                    "BoundingBox": {
+                        "Width": 0.5648826360702515,
+                        "Height": 0.048159196972846985,
+                        "Left": 0.00755305215716362,
+                        "Top": 0.9426687955856323
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "8ae9069e-d1c2-4a76-9da3-7074b2493296",
+                    "Score": 0.793462336063385
+                },
+                {
+                    "Text": "6",
+                    "BoundingBox": {
+                        "Width": 0.013579427264630795,
+                        "Height": 0.043003156781196594,
+                        "Left": 0.965238630771637,
+                        "Top": 0.9272925853729248
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "3519fe8c-af1a-4977-a307-c8ca5a9aa654",
+                    "Score": 0.7789241671562195
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,184",
+            "end_time": "00:00:09,630",
+            "transcript": "Thus can be taken as a symbolic concept encoded by the DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Formulating \"concepts\" based on interactions",
+                    "BoundingBox": {
+                        "Width": 0.6526131629943848,
+                        "Height": 0.060315825045108795,
+                        "Left": 0.09779783338308334,
+                        "Top": 0.06354496628046036
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "bd6b7b3c-7266-4782-8d28-6d2ac1564152",
+                    "Score": 0.7670450806617737
+                },
+                {
+                    "Text": "Each interaction pattern represents an AND relationship between variables, thus can be taken as a symbolic concept encoded by the DNN. V (x) = bias + I(S1) + I(S2) + I(S3) + ... NI C Network output Constant bias Effect of Effect of Effect of (bird) the torso the tail the chest The \"torso\" exists if and only if all pixels in S1 are present, then the model obtain the marginal utility I (S1) Note that this study also extracts the OR interaction, which is proved to be a specific AND interaction.",
+                    "BoundingBox": {
+                        "Width": 0.7819220423698425,
+                        "Height": 0.6887477040290833,
+                        "Left": 0.11671120673418045,
+                        "Top": 0.1953517198562622
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ccfa6230-5bb3-4e02-9748-f150d6c9ed90",
+                    "Score": 0.8058720827102661
+                },
+                {
+                    "Text": "4",
+                    "BoundingBox": {
+                        "Width": 0.007922503165900707,
+                        "Height": 0.01954403519630432,
+                        "Left": 0.5062479376792908,
+                        "Top": 0.8657428622245789
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0066b11f-f9c8-462a-8345-c73cc5a6341b",
+                    "Score": 0.7750760316848755
+                },
+                {
+                    "Text": "[Ren et al., 2021] Towards axiomatic, hierarchical, and symbolic explanation for deep models. CVPR 2023. [Ren et al., 2023] Can We Faithfully Represent Absence States to Compute Shapley Values on a DNN? ICLR 2023.",
+                    "BoundingBox": {
+                        "Width": 0.5648826360702515,
+                        "Height": 0.048159196972846985,
+                        "Left": 0.00755305215716362,
+                        "Top": 0.9426687955856323
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "8ae9069e-d1c2-4a76-9da3-7074b2493296",
+                    "Score": 0.793462336063385
+                },
+                {
+                    "Text": "6",
+                    "BoundingBox": {
+                        "Width": 0.013579427264630795,
+                        "Height": 0.043003156781196594,
+                        "Left": 0.965238630771637,
+                        "Top": 0.9272925853729248
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "3519fe8c-af1a-4977-a307-c8ca5a9aa654",
+                    "Score": 0.7789241671562195
+                }
+            ]
+        }
+    ]
+}

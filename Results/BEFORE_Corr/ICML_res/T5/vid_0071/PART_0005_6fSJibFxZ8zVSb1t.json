@@ -1,0 +1,40 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,393",
+            "end_time": "00:00:05,382",
+            "transcript": "In this case, each interaction pattern represents an end relationship between variables.",
+            "MatchedRegion": [
+                {
+                    "Text": "Each interaction pattern represents an AND relationship between variables, thus can be taken as a symbolic concept encoded by the DNN. V (x) = bias + I(S1) + I(S2) + I(S3) + ... NI C Network output Constant bias Effect of Effect of Effect of (bird) the torso the tail the chest The \"torso\" exists if and only if all pixels in S1 are present, then the model obtain the marginal utility I (S1) Note that this study also extracts the OR interaction, which is proved to be a specific AND interaction.",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.7819220423698425,
+                        "Height": 0.6887477040290833,
+                        "Left": 0.11671120673418045,
+                        "Top": 0.1953517198562622
+                    },
+                    "Id": "ccfa6230-5bb3-4e02-9748-f150d6c9ed90"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,184",
+            "end_time": "00:00:09,630",
+            "transcript": "Thus can be taken as a symbolic concept encoded by a DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Each interaction pattern represents an AND relationship between variables, thus can be taken as a symbolic concept encoded by the DNN. V (x) = bias + I(S1) + I(S2) + I(S3) + ... NI C Network output Constant bias Effect of Effect of Effect of (bird) the torso the tail the chest The \"torso\" exists if and only if all pixels in S1 are present, then the model obtain the marginal utility I (S1) Note that this study also extracts the OR interaction, which is proved to be a specific AND interaction.",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.7819220423698425,
+                        "Height": 0.6887477040290833,
+                        "Left": 0.11671120673418045,
+                        "Top": 0.1953517198562622
+                    },
+                    "Id": "ccfa6230-5bb3-4e02-9748-f150d6c9ed90"
+                }
+            ]
+        }
+    ]
+}

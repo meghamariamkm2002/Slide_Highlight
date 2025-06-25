@@ -1,0 +1,3 @@
+start	end	text
+529	14361	So, to fill this gap, we proposed APT36000, the first large scale dataset with high-quality animal pulse initiation from consecutive frames for animal pulse estimation and tracking.
+14862	27232	It contains not only the continuous time information needed for tracking tasks, but also a very detailed initiation of pulse key points with a wide range of different animal species.

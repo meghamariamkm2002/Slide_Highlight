@@ -1,0 +1,162 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,609",
+            "end_time": "00:00:04,411",
+            "transcript": "We also visualized concepts extracted from different types of data.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 2: Transferability over different samples",
+                    "BoundingBox": {
+                        "Width": 0.7443751692771912,
+                        "Height": 0.05835553631186485,
+                        "Left": 0.09728767722845078,
+                        "Top": 0.06600725650787354
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "5aa202b7-ee89-4c62-a551-e133ee476b6c",
+                    "Score": 0.8433405160903931
+                },
+                {
+                    "Text": "Whether concepts extracted from a sample can be transferred to other samples",
+                    "BoundingBox": {
+                        "Width": 0.6788637042045593,
+                        "Height": 0.0349738635122776,
+                        "Left": 0.08027397096157074,
+                        "Top": 0.18958525359630585
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "721f8dd8-efbd-463e-a015-9b0b1bbc5703",
+                    "Score": 0.8578932285308838
+                },
+                {
+                    "Text": "A salient interaction concept S = { gas tank, back frame, mid frame } (highlighted in color) 0.3 sample 1 sample 2 sample 3 sample 5 sample 4 sample 6 1(S|x) = 0.93 I(S|x) = 1.65 I(S|x) = 1.18 I(S|x) = 1.53 I(S|x) = 0.87 I(S|x) = 0.97 0.0 -1.5 0 1.5 interaction effect I(S|x) The distribution of effects sample sample 9 sample 10 S={gas I(S|x) tank, back frame, concept of the salient sample 8 sample 11 sample 12 mid frame} over different samples I(S|x) = 1.20 I(S|x) = 1.54 I(S|x) = 0.90 I(S|x) = 1.41 I(S|x) = 1.22 I(S)x) = 1.23 x in the motorbike category. Visualization of a concept encoded by PointNet++ in the ShapeNet (point cloud) dataset Another salient interaction concept S Xg (highlighted in red) 0.2 0.1 o 0.0 -1.5 0 1.5 I(S|x) = 1.62 I(S|x) = 1.52 I(S|x) = 1.45 I(S)x) = 1.42 I(S|x) = 1.23 I(S|x) = 1.21 I(S|x) = 1.21 I(S|x) = 1.20 interaction effect I(S|x)",
+                    "BoundingBox": {
+                        "Width": 0.746215283870697,
+                        "Height": 0.580420732498169,
+                        "Left": 0.12644417583942413,
+                        "Top": 0.25591567158699036
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "435ca644-a6be-4fd3-9812-64d82d17de22",
+                    "Score": 0.7757054567337036
+                },
+                {
+                    "Text": "Visualization of a concept encoded by MLP-5 in the tic-tac-toe (tabular) dataset",
+                    "BoundingBox": {
+                        "Width": 0.5344095230102539,
+                        "Height": 0.028215982019901276,
+                        "Left": 0.23239295184612274,
+                        "Top": 0.8485603332519531
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c5f80115-df6a-412e-8ccc-00624981ac41",
+                    "Score": 0.7215343713760376
+                },
+                {
+                    "Text": "The same interaction concept usually made similar effects on different samples.",
+                    "BoundingBox": {
+                        "Width": 0.6812660694122314,
+                        "Height": 0.03467969968914986,
+                        "Left": 0.15943650901317596,
+                        "Top": 0.9267808198928833
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2fe8b2d2-9459-408b-8c7a-2486dbfcb911",
+                    "Score": 0.9513267874717712
+                },
+                {
+                    "Text": "11",
+                    "BoundingBox": {
+                        "Width": 0.021369539201259613,
+                        "Height": 0.04298609495162964,
+                        "Left": 0.957306444644928,
+                        "Top": 0.926692545413971
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "a4d0ef1d-0904-48ae-a1c0-cc55ca8ff6e0",
+                    "Score": 0.8033206462860107
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,192",
+            "end_time": "00:00:15,978",
+            "transcript": "We consistently found that the same interaction concept usually made similar effects on different samples, which also verify the sample-wise transferability of extracted concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 2: Transferability over different samples",
+                    "BoundingBox": {
+                        "Width": 0.7443751692771912,
+                        "Height": 0.05835553631186485,
+                        "Left": 0.09728767722845078,
+                        "Top": 0.06600725650787354
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "5aa202b7-ee89-4c62-a551-e133ee476b6c",
+                    "Score": 0.8433405160903931
+                },
+                {
+                    "Text": "Whether concepts extracted from a sample can be transferred to other samples",
+                    "BoundingBox": {
+                        "Width": 0.6788637042045593,
+                        "Height": 0.0349738635122776,
+                        "Left": 0.08027397096157074,
+                        "Top": 0.18958525359630585
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "721f8dd8-efbd-463e-a015-9b0b1bbc5703",
+                    "Score": 0.8578932285308838
+                },
+                {
+                    "Text": "A salient interaction concept S = { gas tank, back frame, mid frame } (highlighted in color) 0.3 sample 1 sample 2 sample 3 sample 5 sample 4 sample 6 1(S|x) = 0.93 I(S|x) = 1.65 I(S|x) = 1.18 I(S|x) = 1.53 I(S|x) = 0.87 I(S|x) = 0.97 0.0 -1.5 0 1.5 interaction effect I(S|x) The distribution of effects sample sample 9 sample 10 S={gas I(S|x) tank, back frame, concept of the salient sample 8 sample 11 sample 12 mid frame} over different samples I(S|x) = 1.20 I(S|x) = 1.54 I(S|x) = 0.90 I(S|x) = 1.41 I(S|x) = 1.22 I(S)x) = 1.23 x in the motorbike category. Visualization of a concept encoded by PointNet++ in the ShapeNet (point cloud) dataset Another salient interaction concept S Xg (highlighted in red) 0.2 0.1 o 0.0 -1.5 0 1.5 I(S|x) = 1.62 I(S|x) = 1.52 I(S|x) = 1.45 I(S)x) = 1.42 I(S|x) = 1.23 I(S|x) = 1.21 I(S|x) = 1.21 I(S|x) = 1.20 interaction effect I(S|x)",
+                    "BoundingBox": {
+                        "Width": 0.746215283870697,
+                        "Height": 0.580420732498169,
+                        "Left": 0.12644417583942413,
+                        "Top": 0.25591567158699036
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "435ca644-a6be-4fd3-9812-64d82d17de22",
+                    "Score": 0.7757054567337036
+                },
+                {
+                    "Text": "Visualization of a concept encoded by MLP-5 in the tic-tac-toe (tabular) dataset",
+                    "BoundingBox": {
+                        "Width": 0.5344095230102539,
+                        "Height": 0.028215982019901276,
+                        "Left": 0.23239295184612274,
+                        "Top": 0.8485603332519531
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c5f80115-df6a-412e-8ccc-00624981ac41",
+                    "Score": 0.7215343713760376
+                },
+                {
+                    "Text": "The same interaction concept usually made similar effects on different samples.",
+                    "BoundingBox": {
+                        "Width": 0.6812660694122314,
+                        "Height": 0.03467969968914986,
+                        "Left": 0.15943650901317596,
+                        "Top": 0.9267808198928833
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2fe8b2d2-9459-408b-8c7a-2486dbfcb911",
+                    "Score": 0.9513267874717712
+                },
+                {
+                    "Text": "11",
+                    "BoundingBox": {
+                        "Width": 0.021369539201259613,
+                        "Height": 0.04298609495162964,
+                        "Left": 0.957306444644928,
+                        "Top": 0.926692545413971
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "a4d0ef1d-0904-48ae-a1c0-cc55ca8ff6e0",
+                    "Score": 0.8033206462860107
+                }
+            ]
+        }
+    ]
+}

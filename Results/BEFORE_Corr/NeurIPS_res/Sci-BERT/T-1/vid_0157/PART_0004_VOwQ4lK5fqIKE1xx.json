@@ -1,0 +1,42 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,874",
+            "end_time": "00:00:18,260",
+            "transcript": "handband take input the structure of protein and structure of ligands and divide the protein into pockets, functional blocks, and model their interaction with the ligand through the trigonometry margin.",
+            "MatchedRegion": [
+                {
+                    "Text": "Block Distance Maps DP Segmentation GNN h Interaction Map Prediction Contrastive Protein Functional Blocks Prioritization Generation Loss Interaction Matrix Z Binding Affinity 3D Initialization GNN Trigonometry-aware Prediction h Message Updating CH2 Ligand Distance Map Dc Drug Ligand Conformer",
+                    "BoundingBox": {
+                        "Width": 0.8570514917373657,
+                        "Height": 0.5174975991249084,
+                        "Left": 0.060255348682403564,
+                        "Top": 0.17480431497097015
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a52724c9-3be3-4214-b653-d0bfd32bc581",
+                    "Score": 0.7017930150032043
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,080",
+            "end_time": "00:00:23,922",
+            "transcript": "And we also build a contrastive loss to prioritize the native",
+            "MatchedRegion": [
+                {
+                    "Text": "Block Distance Maps DP Segmentation GNN h Interaction Map Prediction Contrastive Protein Functional Blocks Prioritization Generation Loss Interaction Matrix Z Binding Affinity 3D Initialization GNN Trigonometry-aware Prediction h Message Updating CH2 Ligand Distance Map Dc Drug Ligand Conformer",
+                    "BoundingBox": {
+                        "Width": 0.8570514917373657,
+                        "Height": 0.5174975991249084,
+                        "Left": 0.060255348682403564,
+                        "Top": 0.17480431497097015
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a52724c9-3be3-4214-b653-d0bfd32bc581",
+                    "Score": 0.7017930150032043
+                }
+            ]
+        }
+    ]
+}

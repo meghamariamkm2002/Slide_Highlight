@@ -1,0 +1,29 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,710",
+            "end_time": "00:00:08,600",
+            "transcript": "In the subsample setting, we compare against, again, the DAC on four different subsampling rates, sampling every 10, 20, 50, and 100 transitions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,981",
+            "end_time": "00:00:15,109",
+            "transcript": "The final rate implies running from 10 state-action pairs along with CFL once again demonstrating stellar performance.",
+            "MatchedRegion": [
+                {
+                    "Text": "subsample10 subsample20 subsample50 subsample100 6000 4000 2000 0 6000 4000 2000 0 4000 2000 0 4000 2000 0 4000 DAC CFIL 2000 expert 0 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 Env int le5 Env int le5 Env int le5 Env int 1e5",
+                    "BoundingBox": {
+                        "Width": 0.36816081404685974,
+                        "Height": 0.4828205704689026,
+                        "Left": 0.31272032856941223,
+                        "Top": 0.3997436761856079
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "71875b6e-9c98-4767-a7bc-b90f4ee1c76d",
+                    "Score": 0.6077031493186951
+                }
+            ]
+        }
+    ]
+}

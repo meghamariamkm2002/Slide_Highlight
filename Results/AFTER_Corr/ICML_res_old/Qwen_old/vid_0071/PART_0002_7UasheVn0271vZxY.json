@@ -1,0 +1,86 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,323",
+            "end_time": "00:00:06,766",
+            "transcript": "Before diving into the main topic, let us understand concepts from the perspective of a DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Preliminaries: Understanding concepts encoded by a DNN",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.827545166015625,
+                        "Height": 0.05766775459051132,
+                        "Left": 0.09811194986104965,
+                        "Top": 0.06659873574972153
+                    },
+                    "Id": "2de4ae58-f8e1-49b0-a464-0375adaa7861"
+                },
+                {
+                    "Text": "input sentence activated concepts (phrases) (None) . He is just not is not just not . He is just is smart very smart very smart. not smart very smart is not He is just not is smart very smart. just not very just not",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.41162699460983276,
+                        "Height": 0.5707088112831116,
+                        "Left": 0.5474653244018555,
+                        "Top": 0.3895842730998993
+                    },
+                    "Id": "20d63f2d-681c-468d-8117-8193804790ce"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,807",
+            "end_time": "00:00:14,650",
+            "transcript": "Briefly speaking, each concept is activated when all pixels or words composing this concept exist.",
+            "MatchedRegion": [
+                {
+                    "Text": "Each concept represents an AND relationship between input variables, i.e., a concept is activated only when all variables in this concept exist (not masked).",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6567968130111694,
+                        "Height": 0.07813157141208649,
+                        "Left": 0.18507501482963562,
+                        "Top": 0.206549271941185
+                    },
+                    "Id": "508012c9-68ca-4a81-8603-d6b1aab7008b"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,591",
+            "end_time": "00:00:22,615",
+            "transcript": "For example, when we feed a basket image or a basket sentence to the DNN, no concept will be activated.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:23,885",
+            "end_time": "00:00:31,837",
+            "transcript": "However, when less portion of the input sample is masked, as shown in these two examples, more concepts will emerge.",
+            "MatchedRegion": [
+                {
+                    "Text": "input image activated concepts (semantic regions) (None)",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.4357546865940094,
+                        "Height": 0.5529811382293701,
+                        "Left": 0.04702353477478027,
+                        "Top": 0.39411255717277527
+                    },
+                    "Id": "3ef5a744-95d8-4f3c-9ff7-9af26cb7384b"
+                },
+                {
+                    "Text": "input sentence activated concepts (phrases) (None) . He is just not is not just not . He is just is smart very smart very smart. not smart very smart is not He is just not is smart very smart. just not very just not",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.41162699460983276,
+                        "Height": 0.5707088112831116,
+                        "Left": 0.5474653244018555,
+                        "Top": 0.3895842730998993
+                    },
+                    "Id": "20d63f2d-681c-468d-8117-8193804790ce"
+                }
+            ]
+        }
+    ]
+}

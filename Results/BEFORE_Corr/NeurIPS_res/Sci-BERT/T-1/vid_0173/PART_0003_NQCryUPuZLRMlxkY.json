@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,791",
+            "end_time": "00:00:07,005",
+            "transcript": "But the point is optimal auctions for elevators are often delicate and counterintuitive in some sense.",
+            "MatchedRegion": [
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BoundingBox": {
+                        "Width": 0.36907845735549927,
+                        "Height": 0.09585368633270264,
+                        "Left": 0.07612507790327072,
+                        "Top": 0.709882915019989
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5aa90983-2305-4472-856e-ee5e817cc0bb",
+                    "Score": 0.8177645802497864
+                },
+                {
+                    "Text": "optimal auctions are delicate and \"counterintuitive\"",
+                    "BoundingBox": {
+                        "Width": 0.5700274705886841,
+                        "Height": 0.043007876724004745,
+                        "Left": 0.24283818900585175,
+                        "Top": 0.8987741470336914
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "d0ec708e-e2bf-48b0-95b1-60ddde71eb6f",
+                    "Score": 0.8294979333877563
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,335",
+            "end_time": "00:00:13,069",
+            "transcript": "So we evaluate our model and compare it with other baselines and ablation variants on a synthetic data set with ground truth.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments - Synthetic data",
+                    "BoundingBox": {
+                        "Width": 0.5744856595993042,
+                        "Height": 0.05328793823719025,
+                        "Left": 0.060257792472839355,
+                        "Top": 0.0688934475183487
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "62a845fe-bcfe-4e99-ad61-0e38364473ae",
+                    "Score": 0.8276780247688293
+                },
+                {
+                    "Text": "Generate 15000 users and 120 post of news.",
+                    "BoundingBox": {
+                        "Width": 0.5402820706367493,
+                        "Height": 0.03274109587073326,
+                        "Left": 0.06065182760357857,
+                        "Top": 0.18217168748378754
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9ecc29f5-3b22-42cc-aaa4-794cc44ad89e",
+                    "Score": 0.8086645603179932
+                },
+                {
+                    "Text": "ITE estimation results:",
+                    "BoundingBox": {
+                        "Width": 0.28721317648887634,
+                        "Height": 0.02690296806395054,
+                        "Left": 0.060359157621860504,
+                        "Top": 0.22229504585266113
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3781face-a9d5-4a09-bf6e-e20ca0e7b40a",
+                    "Score": 0.8289175033569336
+                },
+                {
+                    "Text": "Method Accuracy RAE RRSE Decoder Inference Time FullyNN 73.0% 0.865 0.901 7.13ms CNTPP-VAE (Approximation) 85.9% 0.279 0.503 4.05ms CNTPP-VAE (Sampling) 87.8% 0.237 0.454 29.34ms CNTPP(Ours) 88.0% 0.234 0.448 7.12ms",
+                    "BoundingBox": {
+                        "Width": 0.9515043497085571,
+                        "Height": 0.18531890213489532,
+                        "Left": 0.041226133704185486,
+                        "Top": 0.30266329646110535
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "edfc7b91-778b-42e7-a725-e5e4c974f34a",
+                    "Score": 0.7893372774124146
+                },
+                {
+                    "Text": "Average Causal Effect Inference",
+                    "BoundingBox": {
+                        "Width": 0.3611346483230591,
+                        "Height": 0.0333772711455822,
+                        "Left": 0.09899570047855377,
+                        "Top": 0.5431920886039734
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "edfb18f1-1ab7-476a-82ed-99787934de3a",
+                    "Score": 0.7950806021690369
+                },
+                {
+                    "Text": "Method MatDis. LinCor Neural-CIP 0.90 0.04 FullyNN 0.93 0.236 CNTPP-VAE (Approximation) 0.84 0.303 CNTPP-VAE (Sampling) 0.76 0.287 CNTPP (Ours) 0.77 0.310",
+                    "BoundingBox": {
+                        "Width": 0.5928166508674622,
+                        "Height": 0.2302018254995346,
+                        "Left": 0.21847569942474365,
+                        "Top": 0.5939823985099792
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "ff586864-ba4b-41ca-a81f-6c176ee51a94",
+                    "Score": 0.8156373500823975
+                },
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19515743851661682,
+                        "Height": 0.0718623474240303,
+                        "Left": 0.02878464199602604,
+                        "Top": 0.889569878578186
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9376ed1d-6ca6-41c4-8784-cf1bdf836165",
+                    "Score": 0.7056551575660706
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,509",
+            "end_time": "00:00:17,835",
+            "transcript": "And as we can see almost all the metrics, our model performs better than our",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments - Synthetic data",
+                    "BoundingBox": {
+                        "Width": 0.5744856595993042,
+                        "Height": 0.05328793823719025,
+                        "Left": 0.060257792472839355,
+                        "Top": 0.0688934475183487
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "62a845fe-bcfe-4e99-ad61-0e38364473ae",
+                    "Score": 0.8276780247688293
+                },
+                {
+                    "Text": "Generate 15000 users and 120 post of news.",
+                    "BoundingBox": {
+                        "Width": 0.5402820706367493,
+                        "Height": 0.03274109587073326,
+                        "Left": 0.06065182760357857,
+                        "Top": 0.18217168748378754
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9ecc29f5-3b22-42cc-aaa4-794cc44ad89e",
+                    "Score": 0.8086645603179932
+                },
+                {
+                    "Text": "ITE estimation results:",
+                    "BoundingBox": {
+                        "Width": 0.28721317648887634,
+                        "Height": 0.02690296806395054,
+                        "Left": 0.060359157621860504,
+                        "Top": 0.22229504585266113
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3781face-a9d5-4a09-bf6e-e20ca0e7b40a",
+                    "Score": 0.8289175033569336
+                },
+                {
+                    "Text": "Method Accuracy RAE RRSE Decoder Inference Time FullyNN 73.0% 0.865 0.901 7.13ms CNTPP-VAE (Approximation) 85.9% 0.279 0.503 4.05ms CNTPP-VAE (Sampling) 87.8% 0.237 0.454 29.34ms CNTPP(Ours) 88.0% 0.234 0.448 7.12ms",
+                    "BoundingBox": {
+                        "Width": 0.9515043497085571,
+                        "Height": 0.18531890213489532,
+                        "Left": 0.041226133704185486,
+                        "Top": 0.30266329646110535
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "edfc7b91-778b-42e7-a725-e5e4c974f34a",
+                    "Score": 0.7893372774124146
+                },
+                {
+                    "Text": "Average Causal Effect Inference",
+                    "BoundingBox": {
+                        "Width": 0.3611346483230591,
+                        "Height": 0.0333772711455822,
+                        "Left": 0.09899570047855377,
+                        "Top": 0.5431920886039734
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "edfb18f1-1ab7-476a-82ed-99787934de3a",
+                    "Score": 0.7950806021690369
+                },
+                {
+                    "Text": "Method MatDis. LinCor Neural-CIP 0.90 0.04 FullyNN 0.93 0.236 CNTPP-VAE (Approximation) 0.84 0.303 CNTPP-VAE (Sampling) 0.76 0.287 CNTPP (Ours) 0.77 0.310",
+                    "BoundingBox": {
+                        "Width": 0.5928166508674622,
+                        "Height": 0.2302018254995346,
+                        "Left": 0.21847569942474365,
+                        "Top": 0.5939823985099792
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "ff586864-ba4b-41ca-a81f-6c176ee51a94",
+                    "Score": 0.8156373500823975
+                },
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19515743851661682,
+                        "Height": 0.0718623474240303,
+                        "Left": 0.02878464199602604,
+                        "Top": 0.889569878578186
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9376ed1d-6ca6-41c4-8784-cf1bdf836165",
+                    "Score": 0.7056551575660706
+                },
+                {
+                    "Text": "University of Southern California",
+                    "BoundingBox": {
+                        "Width": 0.2010926604270935,
+                        "Height": 0.024488287046551704,
+                        "Left": 0.7681166529655457,
+                        "Top": 0.9376466870307922
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "0de9182a-fe09-4376-b244-a7db489398b2",
+                    "Score": 0.7510297298431396
+                }
+            ]
+        }
+    ]
+}

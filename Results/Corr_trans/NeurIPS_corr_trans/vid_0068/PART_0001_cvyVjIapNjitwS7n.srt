@@ -1,0 +1,20 @@
+1
+00:00:01,010 --> 00:00:06,312
+The focus of our paper is on the macro search space for neural architecture search.
+
+2
+00:00:06,633 --> 00:00:18,559
+Now, traditional cell-based approach restricts the search to decide the operation and structure of a single block only, then the same block is repeated to form an end-to-end model.
+
+3
+00:00:19,480 --> 00:00:25,464
+macrosurface enables the individual search for each macroblock in a DNN, leading to better performance.
+
+4
+00:00:26,084 --> 00:00:31,167
+However, it is expensive because the subspace size grows exponentially with the number of blocks.
+
+5
+00:00:31,968 --> 00:00:42,995
+To provide a systematic study of the performance of North's algorithm on a macro surface, we release blocks for a first large-scale benchmark and study of a macro surface.
+

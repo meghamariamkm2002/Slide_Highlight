@@ -1,0 +1,368 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,600",
+            "end_time": "00:00:12,903",
+            "transcript": "Then regarding the diverse animal species in the real world, we think it is essential to evaluate the interspecies generalization ability of animal pose estimation models.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.07390537112951279,
+                        "Height": 0.02239377051591873,
+                        "Left": 0.9201778173446655,
+                        "Top": 0.03289797529578209
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "6ac13241-8d78-488b-bfe4-0ab16e064468",
+                    "Score": 0.6655236482620239
+                },
+                {
+                    "Text": "Inter-species animal pose generalization(IS)",
+                    "BoundingBox": {
+                        "Width": 0.5443817973136902,
+                        "Height": 0.04864545539021492,
+                        "Left": 0.017538852989673615,
+                        "Top": 0.06127087026834488
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "deeef6c8-bba3-43c3-9f01-b04fe27a5c85",
+                    "Score": 0.709647536277771
+                },
+                {
+                    "Text": "1. Regarding the diverse animal species in the real world, it is essential to evaluate the inter-species generalization ability of animal pose estimation models, i.e., investigating their performance on unseen animal species.",
+                    "BoundingBox": {
+                        "Width": 0.7143785357475281,
+                        "Height": 0.0996866300702095,
+                        "Left": 0.10677000880241394,
+                        "Top": 0.44880279898643494
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bec3c90a-955f-4696-b1b9-0cad233529ca",
+                    "Score": 0.7090139985084534
+                },
+                {
+                    "Text": "2. In each experiment, all the instances from a specific family form the test set while those instances belong to other families are used for training.",
+                    "BoundingBox": {
+                        "Width": 0.7299973964691162,
+                        "Height": 0.06456167250871658,
+                        "Left": 0.10576441138982773,
+                        "Top": 0.5561637878417969
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0f3d4f1-2202-4c98-8772-05140ab77dca",
+                    "Score": 0.7193304896354675
+                },
+                {
+                    "Text": "1. The model generalizes well on animal species where there are similarities between the training and test species;",
+                    "BoundingBox": {
+                        "Width": 0.7152376174926758,
+                        "Height": 0.06416787207126617,
+                        "Left": 0.10691606998443604,
+                        "Top": 0.6997068524360657
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1b904d4d-cb2d-4be2-982b-7c438b1e7483",
+                    "Score": 0.7499578595161438
+                },
+                {
+                    "Text": "2. For animal species that do not have such similarities, the model does not generalize well.",
+                    "BoundingBox": {
+                        "Width": 0.6213530898094177,
+                        "Height": 0.028978466987609863,
+                        "Left": 0.10569795966148376,
+                        "Top": 0.7709266543388367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "97780479-2143-4d55-a8d4-1f7f1abe29b8",
+                    "Score": 0.8598396182060242
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,563",
+            "end_time": "00:00:23,266",
+            "transcript": "In each experiment, all the instants from a specific family follow the test set, while those instants belong to other families are used for training.",
+            "MatchedRegion": [
+                {
+                    "Text": "Inter-species animal pose generalization(IS)",
+                    "BoundingBox": {
+                        "Width": 0.5443817973136902,
+                        "Height": 0.04864545539021492,
+                        "Left": 0.017538852989673615,
+                        "Top": 0.06127087026834488
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "deeef6c8-bba3-43c3-9f01-b04fe27a5c85",
+                    "Score": 0.709647536277771
+                },
+                {
+                    "Text": "test Canidae Felidae Hominidae training Cercopithecidae Ursidae Bovidae Equidae w/o Canidae 57.6 82.8 81.9 76.0 80.1 81.6 84.0 w/o Felidae 80.9 57.6 81.0 76.6 79.7 81.6 84.6 w/o Hominidae 80.3 81.9 44.2 77.2 80.3 81.9 84.3 w/o Cercopithecidae 81.1 83.4 80.8 29.6 80.7 81.1 84.7 w/o Ursidae 80.7 83.3 80.8 76.7 43.3 82.0 84.1 w/o Bovidae 80.1 83.6 80.6 76.7 80.8 58.6 84.5 w/o Equidae 80.4 82.4 82.0 77.2 79.7 82.2 61.5",
+                    "BoundingBox": {
+                        "Width": 0.6321163773536682,
+                        "Height": 0.22504059970378876,
+                        "Left": 0.13958169519901276,
+                        "Top": 0.16223391890525818
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "84f54914-8670-4b8c-b7f3-bfa07c4f9b91",
+                    "Score": 0.6429177522659302
+                },
+                {
+                    "Text": "1. Settings:",
+                    "BoundingBox": {
+                        "Width": 0.08797606825828552,
+                        "Height": 0.028017399832606316,
+                        "Left": 0.06912796944379807,
+                        "Top": 0.4137866795063019
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "9f4d8d0a-8bdd-4fcf-b70f-a6bd05a75294",
+                    "Score": 0.6485381126403809
+                },
+                {
+                    "Text": "1. Regarding the diverse animal species in the real world, it is essential to evaluate the inter-species generalization ability of animal pose estimation models, i.e., investigating their performance on unseen animal species.",
+                    "BoundingBox": {
+                        "Width": 0.7143785357475281,
+                        "Height": 0.0996866300702095,
+                        "Left": 0.10677000880241394,
+                        "Top": 0.44880279898643494
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bec3c90a-955f-4696-b1b9-0cad233529ca",
+                    "Score": 0.7090139985084534
+                },
+                {
+                    "Text": "2. In each experiment, all the instances from a specific family form the test set while those instances belong to other families are used for training.",
+                    "BoundingBox": {
+                        "Width": 0.7299973964691162,
+                        "Height": 0.06456167250871658,
+                        "Left": 0.10576441138982773,
+                        "Top": 0.5561637878417969
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0f3d4f1-2202-4c98-8772-05140ab77dca",
+                    "Score": 0.7193304896354675
+                },
+                {
+                    "Text": "1. The model generalizes well on animal species where there are similarities between the training and test species;",
+                    "BoundingBox": {
+                        "Width": 0.7152376174926758,
+                        "Height": 0.06416787207126617,
+                        "Left": 0.10691606998443604,
+                        "Top": 0.6997068524360657
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1b904d4d-cb2d-4be2-982b-7c438b1e7483",
+                    "Score": 0.7499578595161438
+                },
+                {
+                    "Text": "2. For animal species that do not have such similarities, the model does not generalize well.",
+                    "BoundingBox": {
+                        "Width": 0.6213530898094177,
+                        "Height": 0.028978466987609863,
+                        "Left": 0.10569795966148376,
+                        "Top": 0.7709266543388367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "97780479-2143-4d55-a8d4-1f7f1abe29b8",
+                    "Score": 0.8598396182060242
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:23,946",
+            "end_time": "00:00:33,177",
+            "transcript": "And we can find that the model generalizes well on animal species, where there are similarities between training and test species.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.07390537112951279,
+                        "Height": 0.02239377051591873,
+                        "Left": 0.9201778173446655,
+                        "Top": 0.03289797529578209
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "6ac13241-8d78-488b-bfe4-0ab16e064468",
+                    "Score": 0.6655236482620239
+                },
+                {
+                    "Text": "Inter-species animal pose generalization(IS)",
+                    "BoundingBox": {
+                        "Width": 0.5443817973136902,
+                        "Height": 0.04864545539021492,
+                        "Left": 0.017538852989673615,
+                        "Top": 0.06127087026834488
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "deeef6c8-bba3-43c3-9f01-b04fe27a5c85",
+                    "Score": 0.709647536277771
+                },
+                {
+                    "Text": "test Canidae Felidae Hominidae training Cercopithecidae Ursidae Bovidae Equidae w/o Canidae 57.6 82.8 81.9 76.0 80.1 81.6 84.0 w/o Felidae 80.9 57.6 81.0 76.6 79.7 81.6 84.6 w/o Hominidae 80.3 81.9 44.2 77.2 80.3 81.9 84.3 w/o Cercopithecidae 81.1 83.4 80.8 29.6 80.7 81.1 84.7 w/o Ursidae 80.7 83.3 80.8 76.7 43.3 82.0 84.1 w/o Bovidae 80.1 83.6 80.6 76.7 80.8 58.6 84.5 w/o Equidae 80.4 82.4 82.0 77.2 79.7 82.2 61.5",
+                    "BoundingBox": {
+                        "Width": 0.6321163773536682,
+                        "Height": 0.22504059970378876,
+                        "Left": 0.13958169519901276,
+                        "Top": 0.16223391890525818
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "84f54914-8670-4b8c-b7f3-bfa07c4f9b91",
+                    "Score": 0.6429177522659302
+                },
+                {
+                    "Text": "1. Settings:",
+                    "BoundingBox": {
+                        "Width": 0.08797606825828552,
+                        "Height": 0.028017399832606316,
+                        "Left": 0.06912796944379807,
+                        "Top": 0.4137866795063019
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "9f4d8d0a-8bdd-4fcf-b70f-a6bd05a75294",
+                    "Score": 0.6485381126403809
+                },
+                {
+                    "Text": "1. Regarding the diverse animal species in the real world, it is essential to evaluate the inter-species generalization ability of animal pose estimation models, i.e., investigating their performance on unseen animal species.",
+                    "BoundingBox": {
+                        "Width": 0.7143785357475281,
+                        "Height": 0.0996866300702095,
+                        "Left": 0.10677000880241394,
+                        "Top": 0.44880279898643494
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bec3c90a-955f-4696-b1b9-0cad233529ca",
+                    "Score": 0.7090139985084534
+                },
+                {
+                    "Text": "2. In each experiment, all the instances from a specific family form the test set while those instances belong to other families are used for training.",
+                    "BoundingBox": {
+                        "Width": 0.7299973964691162,
+                        "Height": 0.06456167250871658,
+                        "Left": 0.10576441138982773,
+                        "Top": 0.5561637878417969
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0f3d4f1-2202-4c98-8772-05140ab77dca",
+                    "Score": 0.7193304896354675
+                },
+                {
+                    "Text": "1. The model generalizes well on animal species where there are similarities between the training and test species;",
+                    "BoundingBox": {
+                        "Width": 0.7152376174926758,
+                        "Height": 0.06416787207126617,
+                        "Left": 0.10691606998443604,
+                        "Top": 0.6997068524360657
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1b904d4d-cb2d-4be2-982b-7c438b1e7483",
+                    "Score": 0.7499578595161438
+                },
+                {
+                    "Text": "2. For animal species that do not have such similarities, the model does not generalize well.",
+                    "BoundingBox": {
+                        "Width": 0.6213530898094177,
+                        "Height": 0.028978466987609863,
+                        "Left": 0.10569795966148376,
+                        "Top": 0.7709266543388367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "97780479-2143-4d55-a8d4-1f7f1abe29b8",
+                    "Score": 0.8598396182060242
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:33,738",
+            "end_time": "00:00:36,702",
+            "transcript": "And for others, the model doesn't generalize well.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.07390537112951279,
+                        "Height": 0.02239377051591873,
+                        "Left": 0.9201778173446655,
+                        "Top": 0.03289797529578209
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "6ac13241-8d78-488b-bfe4-0ab16e064468",
+                    "Score": 0.6655236482620239
+                },
+                {
+                    "Text": "Inter-species animal pose generalization(IS)",
+                    "BoundingBox": {
+                        "Width": 0.5443817973136902,
+                        "Height": 0.04864545539021492,
+                        "Left": 0.017538852989673615,
+                        "Top": 0.06127087026834488
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "deeef6c8-bba3-43c3-9f01-b04fe27a5c85",
+                    "Score": 0.709647536277771
+                },
+                {
+                    "Text": "1. Settings:",
+                    "BoundingBox": {
+                        "Width": 0.08797606825828552,
+                        "Height": 0.028017399832606316,
+                        "Left": 0.06912796944379807,
+                        "Top": 0.4137866795063019
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "9f4d8d0a-8bdd-4fcf-b70f-a6bd05a75294",
+                    "Score": 0.6485381126403809
+                },
+                {
+                    "Text": "1. Regarding the diverse animal species in the real world, it is essential to evaluate the inter-species generalization ability of animal pose estimation models, i.e., investigating their performance on unseen animal species.",
+                    "BoundingBox": {
+                        "Width": 0.7143785357475281,
+                        "Height": 0.0996866300702095,
+                        "Left": 0.10677000880241394,
+                        "Top": 0.44880279898643494
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bec3c90a-955f-4696-b1b9-0cad233529ca",
+                    "Score": 0.7090139985084534
+                },
+                {
+                    "Text": "2. In each experiment, all the instances from a specific family form the test set while those instances belong to other families are used for training.",
+                    "BoundingBox": {
+                        "Width": 0.7299973964691162,
+                        "Height": 0.06456167250871658,
+                        "Left": 0.10576441138982773,
+                        "Top": 0.5561637878417969
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0f3d4f1-2202-4c98-8772-05140ab77dca",
+                    "Score": 0.7193304896354675
+                },
+                {
+                    "Text": "1. The model generalizes well on animal species where there are similarities between the training and test species;",
+                    "BoundingBox": {
+                        "Width": 0.7152376174926758,
+                        "Height": 0.06416787207126617,
+                        "Left": 0.10691606998443604,
+                        "Top": 0.6997068524360657
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1b904d4d-cb2d-4be2-982b-7c438b1e7483",
+                    "Score": 0.7499578595161438
+                },
+                {
+                    "Text": "2. For animal species that do not have such similarities, the model does not generalize well.",
+                    "BoundingBox": {
+                        "Width": 0.6213530898094177,
+                        "Height": 0.028978466987609863,
+                        "Left": 0.10569795966148376,
+                        "Top": 0.7709266543388367
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "97780479-2143-4d55-a8d4-1f7f1abe29b8",
+                    "Score": 0.8598396182060242
+                }
+            ]
+        }
+    ]
+}

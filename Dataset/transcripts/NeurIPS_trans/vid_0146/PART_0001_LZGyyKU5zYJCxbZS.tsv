@@ -1,0 +1,9 @@
+start	end	text
+1775	4876	First, let's describe the problem the paper tries to deal with.
+5757	10238	It is a known fact that vision models tend to rely on spurious cues to make their predictions.
+11419	17501	In this work, we examine the spurious cues used by vision transformers and find that they suffer from two main issues.
+18362	24864	The first is overreliance on the image background, and the second is a sparse consideration of the foreground pixels.
+25865	28306	The figure here represents examples of both cases.
+29130	40176	For example, the image here is classified by the model as a chestnut with a confidence of 100%, but the saliency map shows that the model used only the background to make its prediction.
+41577	45979	This can lead to lack of robustness to distribution shifts and poor generalization.
+46759	49521	We ask ourselves, can we correct the model's logic?

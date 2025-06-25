@@ -1,0 +1,13 @@
+{
+    "MatchedSlides": [
+        "PART_0006_Mzh5vbT43G1OOMZB"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,033",
+            "end_time": "00:00:10,898",
+            "transcript": "More experiments such as NN experiments, comparison of training and non-training classes, and a comparison to self-supervised vision transformers can be found in our appendices.",
+            "MatchedRegion": []
+        }
+    ]
+}

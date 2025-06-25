@@ -1,0 +1,50 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,050",
+            "end_time": "00:00:02,870",
+            "transcript": "Here's our results.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:03,530",
+            "end_time": "00:00:18,355",
+            "transcript": "On the positive side, we show there is a price P and we show how to compute this price P that achieves a approximation factor of 1 minus 1 over e divided by 2, which is about 0.316 against the first best welfare.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:19,676",
+            "end_time": "00:00:24,697",
+            "transcript": "On the negative side, we show there's no price P that achieves a approximation ratio better than 0.479.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:26,892",
+            "end_time": "00:00:35,479",
+            "transcript": "For comparison, we know that with utility maximizers or traditional bidders, positive price maxim can achieve a approximation ratio of 0.5.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:36,300",
+            "end_time": "00:00:46,989",
+            "transcript": "So this means positive price maxims with alibiders are strictly harder than the positive price maxims with traditional bidders.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:48,080",
+            "end_time": "00:01:00,998",
+            "transcript": "As by-products, we give a one-quarter approximation for combinatorial auctions with all the bitters, and a one-month one-hour E divided by two-year approximation in the long run for dynamic auctions with all the bitters.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0003_NQCryUPuZLRMlxkY",
+            "Score": 0.6130750179290771
+        },
+        {
+            "slide": "PART_0004_aBpsU5A4BQKbR274",
+            "Score": 0.697307825088501
+        }
+    ]
+}

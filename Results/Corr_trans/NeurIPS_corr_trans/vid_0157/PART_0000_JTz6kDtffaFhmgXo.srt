@@ -1,0 +1,16 @@
+1
+00:00:04,568 --> 00:00:06,229
+Hello, thank you for watching.
+
+2
+00:00:06,829 --> 00:00:14,633
+Today we are presenting Tank Band, Trigonometry-Aware Neural Networks for Drug-Protein Binding Structure Prediction.
+
+3
+00:00:15,733 --> 00:00:18,054
+Please take a look of our cartoon here.
+
+4
+00:00:18,915 --> 00:00:25,958
+The problem we are trying to solve is to predict how a small molecule will bind to the target.
+

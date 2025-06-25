@@ -1,0 +1,46 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,550",
+            "end_time": "00:00:07,257",
+            "transcript": "In total, our carline benchmark contains 163,000 unique images, of which 180,000 images are annotated.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,818",
+            "end_time": "00:00:10,721",
+            "transcript": "The distribution of the images can be seen in the table on the slide.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,341",
+            "end_time": "00:00:15,486",
+            "transcript": "For dama, we show the distribution of the annotated lanes for each dataset in the right-hand figure.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,027",
+            "end_time": "00:00:19,330",
+            "transcript": "You observe that the source and target domain annotations are well aligned.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0003_AVYdxgQ3ohclNiow",
+            "Score": 0.7854233980178833
+        },
+        {
+            "slide": "PART_0004_CwGPLtp3Ag53OvR5",
+            "Score": 0.608869194984436
+        },
+        {
+            "slide": "PART_0005_IOJ6WKiXc4deh9t4",
+            "Score": 0.6115047931671143
+        },
+        {
+            "slide": "PART_0006_E2dTEyTGwuVrT8Cb",
+            "Score": 0.6141928434371948
+        }
+    ]
+}

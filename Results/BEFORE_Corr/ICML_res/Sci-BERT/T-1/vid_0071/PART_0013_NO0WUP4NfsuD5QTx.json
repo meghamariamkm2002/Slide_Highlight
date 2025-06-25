@@ -1,0 +1,72 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,601",
+            "end_time": "00:00:06,005",
+            "transcript": "We also discussed cases when DNNs fail to learn transferable concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Discussion: Cases when DNNs failed to learn transferable concepts",
+                    "BoundingBox": {
+                        "Width": 0.8598682284355164,
+                        "Height": 0.052521176636219025,
+                        "Left": 0.0966470018029213,
+                        "Top": 0.06762708723545074
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "817b98ec-2fd6-4afd-99fe-ea763e9c1497",
+                    "Score": 0.8377920389175415
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,725",
+            "end_time": "00:00:14,812",
+            "transcript": "And in these cases, the concepts extracted by the metric IS can reflect some representation flaws of the DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Case 1: When there exists label noise.",
+                    "BoundingBox": {
+                        "Width": 0.3096928298473358,
+                        "Height": 0.02573275752365589,
+                        "Left": 0.12639479339122772,
+                        "Top": 0.32823723554611206
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5c7d52f2-7971-4078-8a6a-ed08ee7074ed",
+                    "Score": 0.8135654926300049
+                },
+                {
+                    "Text": "Case 2: When input samples are noisy.",
+                    "BoundingBox": {
+                        "Width": 0.31458839774131775,
+                        "Height": 0.030841799452900887,
+                        "Left": 0.12604400515556335,
+                        "Top": 0.39294251799583435
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cd7175c4-7c00-48ed-9eb7-4eaec1f05cb5",
+                    "Score": 0.8057867884635925
+                },
+                {
+                    "Text": "Case 3: When the task has a simple shortcut solution.",
+                    "BoundingBox": {
+                        "Width": 0.42913126945495605,
+                        "Height": 0.030424097552895546,
+                        "Left": 0.12562163174152374,
+                        "Top": 0.45686712861061096
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "23a261b4-5fb1-445c-9c69-130138681c24",
+                    "Score": 0.8037457466125488
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,593",
+            "end_time": "00:00:17,895",
+            "transcript": "In this study, we discussed three of them.",
+            "MatchedRegion": []
+        }
+    ]
+}

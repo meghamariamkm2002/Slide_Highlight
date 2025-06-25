@@ -1,0 +1,45 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:01,015",
+            "end_time": "00:00:13,406",
+            "transcript": "For baselines, we use T5 and T5 schema serialization, and then we use three threshold methods to evaluate how well each method can distinguish between answerable and unanswerable questions.",
+            "MatchedRegion": [
+                {
+                    "Text": "T5 Baselines",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.1586601734161377,
+                        "Height": 0.03788045793771744,
+                        "Left": 0.10544493049383163,
+                        "Top": 0.20614685118198395
+                    },
+                    "Id": "238e0e9b-8a44-479a-affd-8f624da8628c"
+                },
+                {
+                    "Text": "SQL generated from T5",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1297687292098999,
+                        "Height": 0.07376738637685776,
+                        "Left": 0.18337443470954895,
+                        "Top": 0.8093288540840149
+                    },
+                    "Id": "48f2bbf0-4cf4-4c24-8084-98860a4cc4bd"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,067",
+            "end_time": "00:00:20,072",
+            "transcript": "The methods include no threshold based on clustering boundary, threshold based on percentile.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:20,593",
+            "end_time": "00:00:22,995",
+            "transcript": "For mor details, pleae refer to our paper.",
+            "MatchedRegion": []
+        }
+    ]
+}

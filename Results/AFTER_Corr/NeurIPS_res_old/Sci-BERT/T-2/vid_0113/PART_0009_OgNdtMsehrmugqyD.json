@@ -1,0 +1,47 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,790",
+            "end_time": "00:00:09,476",
+            "transcript": "To conclude, public health researchers can use mass codes to mine valuable medical information from tweets.",
+            "MatchedRegion": [
+                {
+                    "Text": "Mine valuable medical information from tweets!",
+                    "BoundingBox": {
+                        "Width": 0.4073265492916107,
+                        "Height": 0.031550146639347076,
+                        "Left": 0.3035597503185272,
+                        "Top": 0.22084949910640717
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "825498eb-5181-466e-98b3-3fc588dd3917",
+                    "Score": 0.7012009620666504
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,196",
+            "end_time": "00:00:26,528",
+            "transcript": "For example, the dataset can be used as a training dataset for examining public attitudes toward COVID-19 vaccines and drugs or tracking the public's mental status change during different COVID-19 phases and etc.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:27,771",
+            "end_time": "00:00:35,055",
+            "transcript": "Our experiments also show that current models have not fully exploited the data's potential.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:36,355",
+            "end_time": "00:00:42,058",
+            "transcript": "Therefore, we call for more efforts on developing models for social media-based public health studies.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:42,859",
+            "end_time": "00:00:48,902",
+            "transcript": "For coast data and guidelines, please refer to our paper and GitHub.",
+            "MatchedRegion": []
+        }
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,699",
+            "end_time": "00:00:06,062",
+            "transcript": "Hi, my name is Cuba.",
+            "MatchedRegion": [
+                {
+                    "Text": "KAIST KONYANG UNIVERSITY HOSPITAL",
+                    "BoundingBox": {
+                        "Width": 0.31109005212783813,
+                        "Height": 0.04584156349301338,
+                        "Left": 0.6692566871643066,
+                        "Top": 0.06831732392311096
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "LAYOUT_HEADER",
+                    "Score": 0.6685624122619629
+                },
+                {
+                    "Text": "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records",
+                    "BoundingBox": {
+                        "Width": 0.7748316526412964,
+                        "Height": 0.15453927218914032,
+                        "Left": 0.11337125301361084,
+                        "Top": 0.41333064436912537
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7833867073059082
+                },
+                {
+                    "Text": "Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, Seongjun Yang, Minjoon Seo, Jong-Yeup Kim, Edward Choi",
+                    "BoundingBox": {
+                        "Width": 0.5631826519966125,
+                        "Height": 0.08403725922107697,
+                        "Left": 0.21910952031612396,
+                        "Top": 0.6475555896759033
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6774890422821045
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,443",
+            "end_time": "00:00:12,895",
+            "transcript": "Today, I would like to introduce our EHR SQL, a practical text to SQL benchmark for electronic health records.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.11790993809700012,
+                        "Height": 0.03495512902736664,
+                        "Left": 0.0561797209084034,
+                        "Top": 0.08095595985651016
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "LAYOUT_HEADER",
+                    "Score": 0.6524426937103271
+                },
+                {
+                    "Text": "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records",
+                    "BoundingBox": {
+                        "Width": 0.7748316526412964,
+                        "Height": 0.15453927218914032,
+                        "Left": 0.11337125301361084,
+                        "Top": 0.41333064436912537
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7833867073059082
+                },
+                {
+                    "Text": "Gyubok Lee, Hyeonji Hwang, Seongsu Bae, Yeonsu Kwon, Woncheol Shin, Seongjun Yang, Minjoon Seo, Jong-Yeup Kim, Edward Choi",
+                    "BoundingBox": {
+                        "Width": 0.5631826519966125,
+                        "Height": 0.08403725922107697,
+                        "Left": 0.21910952031612396,
+                        "Top": 0.6475555896759033
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6774890422821045
+                },
+                {
+                    "Text": "NeurIPS 2022 Datasets and Benchmarks",
+                    "BoundingBox": {
+                        "Width": 0.4549340307712555,
+                        "Height": 0.03659997135400772,
+                        "Left": 0.2723100781440735,
+                        "Top": 0.830389142036438
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6339660882949829
+                }
+            ]
+        }
+    ]
+}

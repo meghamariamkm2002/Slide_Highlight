@@ -1,0 +1,47 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,010",
+            "end_time": "00:00:06,312",
+            "transcript": "The focus of our paper is on the macro search space for neural architecture search.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,633",
+            "end_time": "00:00:18,559",
+            "transcript": "Now, traditional cell-based approach restricts the search to decide the operation and structure of a single block only, then the same block is tacked repeatedly to form an end-to-end model.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:19,480",
+            "end_time": "00:00:25,464",
+            "transcript": "macrosurface enables the individual search for each block in a DNN, leading to better performance.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:26,084",
+            "end_time": "00:00:31,167",
+            "transcript": "However, it is expensive because the subspace size grows exponentially with the number of blocks.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:31,968",
+            "end_time": "00:00:42,995",
+            "transcript": "To provide a systematic study of the performance of North's algorithm on a macrosurface, we release blocks to first large-scale benchmark and study of a macrosurface.",
+            "MatchedRegion": [
+                {
+                    "Text": "Search space Blox Benchmark Algorithms",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.6370183229446411,
+                        "Height": 0.4040997624397278,
+                        "Left": 0.18389008939266205,
+                        "Top": 0.5192392468452454
+                    },
+                    "Id": "510eb1b3-5888-49ad-81d8-6ac692ef30f5"
+                }
+            ]
+        }
+    ]
+}

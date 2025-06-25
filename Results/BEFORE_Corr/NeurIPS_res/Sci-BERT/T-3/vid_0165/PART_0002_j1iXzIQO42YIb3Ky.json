@@ -1,0 +1,95 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,151",
+            "end_time": "00:00:16,745",
+            "transcript": "So, to address the drawbacks of these works, we propose to design a data-driven framework that can help us identify the causal effect of misinformation by doing counterfactual analysis on social media data.",
+            "MatchedRegion": [
+                {
+                    "Text": "Misinformation campaigns are manipulating public opinions on hot-spot topics, e.g. COVID-19 epidemic and vaccines [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.907616376876831,
+                        "Height": 0.07341283559799194,
+                        "Left": 0.03019794262945652,
+                        "Top": 0.1901836097240448
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6844cf31-1d2d-4c7a-b857-078c772d7b64",
+                    "Score": 0.776267409324646
+                },
+                {
+                    "Text": "To design mitigation strategies to reduce user susceptibility to misinformation, we need to understand how misinformation influence user beliefs and activities.",
+                    "BoundingBox": {
+                        "Width": 0.917769193649292,
+                        "Height": 0.06719689816236496,
+                        "Left": 0.030158616602420807,
+                        "Top": 0.28860923647880554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "634e9881-4164-4b10-a577-6ee9a26e45db",
+                    "Score": 0.8486714363098145
+                },
+                {
+                    "Text": "However, most of the existing works suffers from one or more of following limitations:",
+                    "BoundingBox": {
+                        "Width": 0.8525869250297546,
+                        "Height": 0.06722087413072586,
+                        "Left": 0.030339721590280533,
+                        "Top": 0.3865495026111603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2d80dfd2-8a4d-4341-ad2c-10bc22c8c173",
+                    "Score": 0.7029394507408142
+                },
+                {
+                    "Text": "Focus on correlation between misinformation and user activities [1,2].",
+                    "BoundingBox": {
+                        "Width": 0.8077689409255981,
+                        "Height": 0.033915575593709946,
+                        "Left": 0.08016557991504669,
+                        "Top": 0.48425745964050293
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0921cc82-3cc1-4aac-8714-a01a94e9b774",
+                    "Score": 0.8270488977432251
+                },
+                {
+                    "Text": "Cannot distinguish causal effect of misinformation from user prior belief",
+                    "BoundingBox": {
+                        "Width": 0.615349531173706,
+                        "Height": 0.026807306334376335,
+                        "Left": 0.21056511998176575,
+                        "Top": 0.5474880337715149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "815ed7a4-3651-417b-9af1-97012624361a",
+                    "Score": 0.6871417164802551
+                },
+                {
+                    "Text": "Rely on random controlled experiments and surveys [3,4]",
+                    "BoundingBox": {
+                        "Width": 0.6739256381988525,
+                        "Height": 0.03422708064317703,
+                        "Left": 0.08036267757415771,
+                        "Top": 0.6044491529464722
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "90d79502-1d55-4dd1-a574-7dc0f657b2c1",
+                    "Score": 0.7278413772583008
+                },
+                {
+                    "Text": "Solution: A data-driven framework that identify the causal effect of misinformation via counterfactual analysis on social media data",
+                    "BoundingBox": {
+                        "Width": 0.8706061244010925,
+                        "Height": 0.07108025997877121,
+                        "Left": 0.06638240069150925,
+                        "Top": 0.7324524521827698
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cf825117-7884-4cde-8858-0278726490b5",
+                    "Score": 0.7985714673995972
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,600",
+            "end_time": "00:00:05,863",
+            "transcript": "First of all, I would like to introduce the motivation of our work.",
+            "MatchedRegion": [
+                {
+                    "Text": "THE UNIVERSITY OF SYDNEY",
+                    "BlockType": "LAYOUT_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.056894998997449875,
+                        "Height": 0.03370353579521179,
+                        "Left": 0.763473629951477,
+                        "Top": 0.024765953421592712
+                    },
+                    "Id": "6a16f0ee-1fc5-4718-8b8a-d85ab8bc0213"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,543",
+            "end_time": "00:00:17,208",
+            "transcript": "As we all know, animal pose estimation is crucial in animal behavior understanding and wildlife conservation.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:17,708",
+            "end_time": "00:00:21,650",
+            "transcript": "But animal pose estimation data sets are largely ignored.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:22,131",
+            "end_time": "00:00:24,212",
+            "transcript": "And existing data sets",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,117",
+            "end_time": "00:00:31,347",
+            "transcript": "You really don't have continuous time information or lake detailed keypoint annotations.",
+            "MatchedRegion": [
+                {
+                    "Text": "Besides, existing datasets for animal pose estimation are not available for tracking tasks because they do not have continuous time information. Likewise, datasets prepared for tracking tasks lack detailed keypoint annotations.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7815401554107666,
+                        "Height": 0.06630676984786987,
+                        "Left": 0.020677810534834862,
+                        "Top": 0.8184082508087158
+                    },
+                    "Id": "41c1f952-3dd1-44ef-afa9-11f00e3cef09"
+                }
+            ]
+        }
+    ]
+}

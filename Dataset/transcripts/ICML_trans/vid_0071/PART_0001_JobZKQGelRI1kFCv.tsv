@@ -1,0 +1,3 @@
+start	end	text
+1590	9756	There has been a lot of works aiming to explain concepts encoded by DNNs, including network dissection, TCIV, and so on.
+10677	17442	However, these methods usually lack a mathematical framework to objectively formulate concepts encoded by a DNN.

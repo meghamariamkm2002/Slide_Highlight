@@ -1,0 +1,8 @@
+which is used.
+We study if the predictor are good at estimating the end-to-end model accuracy after distillation and fine tuning.
+There are three findings.
+One, distillation loss and linear regression used in donor is better than change of validation accuracy and simple summation used in NANDER.
+2.
+Symmetry of blocks that were distributed for more epoch tend to produce better predictors.
+3.
+The juice and predictor, which does not require any distillation signatures, can outperform

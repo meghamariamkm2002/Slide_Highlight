@@ -1,0 +1,10 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:00,850",
+            "end_time": "00:00:08,802",
+            "transcript": "When we zoom in, two specific failure cases can be seen in the highlighted images, where we observe a mis-prediction and a false negative.",
+            "MatchedRegion": []
+        }
+    ]
+}

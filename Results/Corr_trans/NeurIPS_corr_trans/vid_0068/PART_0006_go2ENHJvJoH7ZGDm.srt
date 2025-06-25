@@ -1,0 +1,16 @@
+1
+00:00:00,069 --> 00:00:00,849
+from the teacher.
+
+2
+00:00:02,350 --> 00:00:10,072
+We asked several questions related to the performance of the model where it is fine-tuned in the block-by-block setting compared to that when trained normally.
+
+3
+00:00:10,913 --> 00:00:16,255
+From the result in this figure, we can see that in all cases, the student model is able to outperform the teacher.
+
+4
+00:00:17,055 --> 00:00:25,958
+However, when compared to the accuracy achievable when a student is trained normally, fine-tuning does not always result in improvement, especially when a teacher
+

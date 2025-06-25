@@ -1,0 +1,181 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,591",
+            "end_time": "00:00:05,192",
+            "transcript": "Hello, everyone.",
+            "MatchedRegion": [
+                {
+                    "Text": "Yuan Deng Google Research",
+                    "BoundingBox": {
+                        "Width": 0.1696387231349945,
+                        "Height": 0.1262415498495102,
+                        "Left": 0.11663486063480377,
+                        "Top": 0.6084556579589844
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50f872ad-904e-4c55-ac2f-8c7acfb0c134",
+                    "Score": 0.7554595470428467
+                },
+                {
+                    "Text": "Vahab Mirrokni Google Research",
+                    "BoundingBox": {
+                        "Width": 0.18857263028621674,
+                        "Height": 0.12602366507053375,
+                        "Left": 0.40455910563468933,
+                        "Top": 0.6084315776824951
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7c6f81a6-aeef-4a2a-82dd-a8c11c9e3f1f",
+                    "Score": 0.7723586559295654
+                },
+                {
+                    "Text": "Hanrui Zhang",
+                    "BoundingBox": {
+                        "Width": 0.18082739412784576,
+                        "Height": 0.05000101402401924,
+                        "Left": 0.7071852087974548,
+                        "Top": 0.6098923683166504
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a81f545f-7e0b-49a6-abdb-5cd517ee66b1",
+                    "Score": 0.748377799987793
+                },
+                {
+                    "Text": "Carnegie Mellon University",
+                    "BoundingBox": {
+                        "Width": 0.26360514760017395,
+                        "Height": 0.04050852730870247,
+                        "Left": 0.6658644080162048,
+                        "Top": 0.6976996660232544
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4cfbb788-c943-4eb3-817c-d1a27786e19b",
+                    "Score": 0.7304413318634033
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,433",
+            "end_time": "00:00:05,914",
+            "transcript": "I am hungry.",
+            "MatchedRegion": [
+                {
+                    "Text": "Yuan Deng Google Research",
+                    "BoundingBox": {
+                        "Width": 0.1696387231349945,
+                        "Height": 0.1262415498495102,
+                        "Left": 0.11663486063480377,
+                        "Top": 0.6084556579589844
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50f872ad-904e-4c55-ac2f-8c7acfb0c134",
+                    "Score": 0.7554595470428467
+                },
+                {
+                    "Text": "Vahab Mirrokni Google Research",
+                    "BoundingBox": {
+                        "Width": 0.18857263028621674,
+                        "Height": 0.12602366507053375,
+                        "Left": 0.40455910563468933,
+                        "Top": 0.6084315776824951
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7c6f81a6-aeef-4a2a-82dd-a8c11c9e3f1f",
+                    "Score": 0.7723586559295654
+                },
+                {
+                    "Text": "Hanrui Zhang",
+                    "BoundingBox": {
+                        "Width": 0.18082739412784576,
+                        "Height": 0.05000101402401924,
+                        "Left": 0.7071852087974548,
+                        "Top": 0.6098923683166504
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a81f545f-7e0b-49a6-abdb-5cd517ee66b1",
+                    "Score": 0.748377799987793
+                },
+                {
+                    "Text": "Carnegie Mellon University",
+                    "BoundingBox": {
+                        "Width": 0.26360514760017395,
+                        "Height": 0.04050852730870247,
+                        "Left": 0.6658644080162048,
+                        "Top": 0.6976996660232544
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4cfbb788-c943-4eb3-817c-d1a27786e19b",
+                    "Score": 0.7304413318634033
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,074",
+            "end_time": "00:00:14,871",
+            "transcript": "This talk is about how surprising and dynamic prior independent maximums as value maximizers as a joint work with Yuan Deng, Vahab Mirrokni, and Hanrui",
+            "MatchedRegion": [
+                {
+                    "Text": "Posted Pricing and Dynamic Prior-independent Mechanisms with Value Maximizers",
+                    "BoundingBox": {
+                        "Width": 0.7440876364707947,
+                        "Height": 0.29624247550964355,
+                        "Left": 0.12785759568214417,
+                        "Top": 0.18626603484153748
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "516c00b6-88d4-4c70-9acc-71471db3acb5",
+                    "Score": 0.803697943687439
+                },
+                {
+                    "Text": "Yuan Deng Google Research",
+                    "BoundingBox": {
+                        "Width": 0.1696387231349945,
+                        "Height": 0.1262415498495102,
+                        "Left": 0.11663486063480377,
+                        "Top": 0.6084556579589844
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50f872ad-904e-4c55-ac2f-8c7acfb0c134",
+                    "Score": 0.7554595470428467
+                },
+                {
+                    "Text": "Vahab Mirrokni Google Research",
+                    "BoundingBox": {
+                        "Width": 0.18857263028621674,
+                        "Height": 0.12602366507053375,
+                        "Left": 0.40455910563468933,
+                        "Top": 0.6084315776824951
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7c6f81a6-aeef-4a2a-82dd-a8c11c9e3f1f",
+                    "Score": 0.7723586559295654
+                },
+                {
+                    "Text": "Hanrui Zhang",
+                    "BoundingBox": {
+                        "Width": 0.18082739412784576,
+                        "Height": 0.05000101402401924,
+                        "Left": 0.7071852087974548,
+                        "Top": 0.6098923683166504
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a81f545f-7e0b-49a6-abdb-5cd517ee66b1",
+                    "Score": 0.748377799987793
+                },
+                {
+                    "Text": "Carnegie Mellon University",
+                    "BoundingBox": {
+                        "Width": 0.26360514760017395,
+                        "Height": 0.04050852730870247,
+                        "Left": 0.6658644080162048,
+                        "Top": 0.6976996660232544
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4cfbb788-c943-4eb3-817c-d1a27786e19b",
+                    "Score": 0.7304413318634033
+                }
+            ]
+        }
+    ]
+}

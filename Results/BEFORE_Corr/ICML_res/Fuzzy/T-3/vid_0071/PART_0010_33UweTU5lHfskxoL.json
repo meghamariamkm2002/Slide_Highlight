@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,609",
+            "end_time": "00:00:04,411",
+            "transcript": "We also visualized concepts extracted from different types of data.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,192",
+            "end_time": "00:00:15,978",
+            "transcript": "We consistently found that the same interaction concept usually made similar effects on different samples, which also verify the sample-wise transferability of extracted concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "The same interaction concept usually made similar effects on different samples.",
+                    "BoundingBox": {
+                        "Width": 0.6812660694122314,
+                        "Height": 0.03467969968914986,
+                        "Left": 0.15943650901317596,
+                        "Top": 0.9267808198928833
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2fe8b2d2-9459-408b-8c7a-2486dbfcb911",
+                    "Score": 0.6046511627906976
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0009_pvmgIj5VMnijN7V1",
+            "Score": 0.7023508548736572
+        }
+    ]
+}

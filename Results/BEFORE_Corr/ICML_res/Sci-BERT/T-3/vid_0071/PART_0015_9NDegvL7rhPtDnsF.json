@@ -1,0 +1,71 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,271",
+            "end_time": "00:00:13,549",
+            "transcript": "In both cases, we found the decrease of transferability and determination power, because the noise corrupted the original discriminated patterns in each category.",
+            "MatchedRegion": [
+                {
+                    "Text": "Failure case 2: When input samples are noisy",
+                    "BoundingBox": {
+                        "Width": 0.6418466567993164,
+                        "Height": 0.057331643998622894,
+                        "Left": 0.09788516163825989,
+                        "Top": 0.06623894721269608
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "bb019716-0137-49cd-b024-6b11d1241857",
+                    "Score": 0.6910054087638855
+                },
+                {
+                    "Text": "When training samples are noisy and lack meaningful patterns, it is difficult for a DNN to learn transferable concepts from noisy training samples.",
+                    "BoundingBox": {
+                        "Width": 0.8038635849952698,
+                        "Height": 0.0779191330075264,
+                        "Left": 0.07064893841743469,
+                        "Top": 0.1983613222837448
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6867f892-9656-4dc3-ac34-18340032e284",
+                    "Score": 0.7754557132720947
+                },
+                {
+                    "Text": "0.8 8 = 0.0 6=0.2 0.9 0.6 6=0.4 6=0.6 0.8 0.4 o = 0.8 8 = 1.0 0.2 0,7 0.0 0.6 0 10 20 30 0.0 0.2 0.4 0.6 0.8 1.0 concept dictionary size k = |Dkl data noise strength 8",
+                    "BoundingBox": {
+                        "Width": 0.5518919825553894,
+                        "Height": 0.36265596747398376,
+                        "Left": 0.22353434562683105,
+                        "Top": 0.30219557881355286
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "225a575b-5c68-47cc-8212-951d76774098",
+                    "Score": 0.651872456073761
+                },
+                {
+                    "Text": "The transferability of concepts was usually low when the DNN was learned from noisy input data.",
+                    "BoundingBox": {
+                        "Width": 0.7605571746826172,
+                        "Height": 0.0777139887213707,
+                        "Left": 0.1205899715423584,
+                        "Top": 0.734334409236908
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67765433-e866-48c5-b6e9-dad514e1d273",
+                    "Score": 0.8924311399459839
+                },
+                {
+                    "Text": "the average discrimination power B of concepts decreased along with the increasing strength 8 of injected noise. Ls",
+                    "BoundingBox": {
+                        "Width": 0.7483997344970703,
+                        "Height": 0.08307048678398132,
+                        "Left": 0.12074113637208939,
+                        "Top": 0.8199929594993591
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a415e9f3-6179-4b76-9e73-bf80d39badf0",
+                    "Score": 0.7128372192382812
+                }
+            ]
+        }
+    ]
+}

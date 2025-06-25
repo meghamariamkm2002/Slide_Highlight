@@ -1,0 +1,2 @@
+Lastly, we examine the discrimination power of different concepts.
+We found that the same concept usually push the classification of different samples towards the same category.

@@ -1,0 +1,277 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,249",
+            "end_time": "00:00:00,629",
+            "transcript": "functions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3628731966018677,
+                        "Height": 0.05841571092605591,
+                        "Left": 0.03737129271030426,
+                        "Top": 0.03467544913291931
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6746842265129089
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1082473024725914,
+                        "Height": 0.08069175481796265,
+                        "Left": 0.888856828212738,
+                        "Top": 0.01234100479632616
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.613002359867096
+                },
+                {
+                    "Text": "In accordance with the quantitative results, we observe only a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS compared to the supervised baseline UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.8974785804748535,
+                        "Height": 0.07349909096956253,
+                        "Left": 0.03530073165893555,
+                        "Top": 0.16038255393505096
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8574090003967285
+                },
+                {
+                    "Text": "UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.07417614758014679,
+                        "Height": 0.02370857633650303,
+                        "Left": 0.14780546724796295,
+                        "Top": 0.34264808893203735
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6830180287361145
+                },
+                {
+                    "Text": "DANN",
+                    "BoundingBox": {
+                        "Width": 0.0503806509077549,
+                        "Height": 0.02392035722732544,
+                        "Left": 0.31624525785446167,
+                        "Top": 0.34239158034324646
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6416041851043701
+                },
+                {
+                    "Text": "ADDA",
+                    "BoundingBox": {
+                        "Width": 0.05063377320766449,
+                        "Height": 0.023590510711073875,
+                        "Left": 0.47313737869262695,
+                        "Top": 0.34267091751098633
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7487877011299133
+                },
+                {
+                    "Text": "SGADA",
+                    "BoundingBox": {
+                        "Width": 0.060439229011535645,
+                        "Height": 0.023496026173233986,
+                        "Left": 0.6249956488609314,
+                        "Top": 0.34269434213638306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6195801496505737
+                },
+                {
+                    "Text": "SGPCS",
+                    "BoundingBox": {
+                        "Width": 0.053800318390131,
+                        "Height": 0.024762198328971863,
+                        "Left": 0.7853443026542664,
+                        "Top": 0.3421142101287842
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7289325594902039
+                },
+                {
+                    "Text": "t-SNE visualization of MuLane dataset. The source domain is marked in blue, the real-world model vehicle target domain in red, and the TuSimple domain in green.",
+                    "BoundingBox": {
+                        "Width": 0.7232441902160645,
+                        "Height": 0.05346320569515228,
+                        "Left": 0.13802263140678406,
+                        "Top": 0.6880298256874084
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6889190673828125
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04423494264483452,
+                        "Height": 0.043091531842947006,
+                        "Left": 0.1463083028793335,
+                        "Top": 0.9288427829742432
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7473621368408203
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07308080047369003,
+                        "Height": 0.04146956279873848,
+                        "Left": 0.35069945454597473,
+                        "Top": 0.9449445009231567
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6327473521232605
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.061611611396074295,
+                        "Height": 0.01944556087255478,
+                        "Left": 0.8586215376853943,
+                        "Top": 0.944755494594574
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6586838364601135
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,510",
+            "end_time": "00:00:08,254",
+            "transcript": "As shown in the t-SNE visualizations, there's a noticeable separation between the source and target domains of Moulin.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3628731966018677,
+                        "Height": 0.05841571092605591,
+                        "Left": 0.03737129271030426,
+                        "Top": 0.03467544913291931
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6746842265129089
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1082473024725914,
+                        "Height": 0.08069175481796265,
+                        "Left": 0.888856828212738,
+                        "Top": 0.01234100479632616
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.613002359867096
+                },
+                {
+                    "Text": "In accordance with the quantitative results, we observe only a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS compared to the supervised baseline UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.8974785804748535,
+                        "Height": 0.07349909096956253,
+                        "Left": 0.03530073165893555,
+                        "Top": 0.16038255393505096
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8574090003967285
+                },
+                {
+                    "Text": "SGADA",
+                    "BoundingBox": {
+                        "Width": 0.060439229011535645,
+                        "Height": 0.023496026173233986,
+                        "Left": 0.6249956488609314,
+                        "Top": 0.34269434213638306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6195801496505737
+                },
+                {
+                    "Text": "t-SNE visualization of MuLane dataset. The source domain is marked in blue, the real-world model vehicle target domain in red, and the TuSimple domain in green.",
+                    "BoundingBox": {
+                        "Width": 0.7232441902160645,
+                        "Height": 0.05346320569515228,
+                        "Left": 0.13802263140678406,
+                        "Top": 0.6880298256874084
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6889190673828125
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,894",
+            "end_time": "00:00:15,918",
+            "transcript": "Therefore, we only observe a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3628731966018677,
+                        "Height": 0.05841571092605591,
+                        "Left": 0.03737129271030426,
+                        "Top": 0.03467544913291931
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6746842265129089
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1082473024725914,
+                        "Height": 0.08069175481796265,
+                        "Left": 0.888856828212738,
+                        "Top": 0.01234100479632616
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.613002359867096
+                },
+                {
+                    "Text": "In accordance with the quantitative results, we observe only a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS compared to the supervised baseline UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.8974785804748535,
+                        "Height": 0.07349909096956253,
+                        "Left": 0.03530073165893555,
+                        "Top": 0.16038255393505096
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8574090003967285
+                },
+                {
+                    "Text": "t-SNE visualization of MuLane dataset. The source domain is marked in blue, the real-world model vehicle target domain in red, and the TuSimple domain in green.",
+                    "BoundingBox": {
+                        "Width": 0.7232441902160645,
+                        "Height": 0.05346320569515228,
+                        "Left": 0.13802263140678406,
+                        "Top": 0.6880298256874084
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6889190673828125
+                }
+            ]
+        }
+    ]
+}

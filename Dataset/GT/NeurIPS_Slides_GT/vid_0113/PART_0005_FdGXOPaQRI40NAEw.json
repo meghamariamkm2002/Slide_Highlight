@@ -1,0 +1,59 @@
+{
+    "MatchedSlides": [
+        "PART_0001_0TKQIPPtwm9E6HiO",
+        "PART_0002_L6pLWK5w83eRrPzI"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,570",
+            "end_time": "00:00:20,996",
+            "transcript": "We evaluated the performance of four kinds of models, traditional statistical machine learning models, neural networks, general-domain large-scale pre-trained language models, and COVID-19-related pre-trained language models for the NER task and the TSA task on MassCov dataset.",
+            "MatchedRegion": [
+                {
+                    "Text": "1 traditional statistical machine learning model: Conditional Random Field (CRF)",
+                    "BoundingBox": {
+                        "Width": 0.6954721212387085,
+                        "Height": 0.0349980928003788,
+                        "Left": 0.10159935802221298,
+                        "Top": 0.2626066505908966
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8ac6a5c8-f2f1-48fe-a22c-4728e9135460"
+                },
+                {
+                    "Text": "6 neural network models from a combination of",
+                    "BoundingBox": {
+                        "Width": 0.4262833893299103,
+                        "Height": 0.02874583750963211,
+                        "Left": 0.10185409337282181,
+                        "Top": 0.3081265389919281
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab78bd61-04ff-4a3a-aa6f-6e14cdb95cd1"
+                },
+                {
+                    "Text": "3 general domain PLM including BERT, RoBERTa and BART",
+                    "BoundingBox": {
+                        "Width": 0.5064092874526978,
+                        "Height": 0.03431570902466774,
+                        "Left": 0.10149431973695755,
+                        "Top": 0.4863756000995636
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "acf0eb3c-b15c-47ea-9591-9cdd7327986f"
+                },
+                {
+                    "Text": "2 COVID-19-related PLM: BERTweet-covid19 and COVID-TWITTER-BERT",
+                    "BoundingBox": {
+                        "Width": 0.6204004883766174,
+                        "Height": 0.02912500873208046,
+                        "Left": 0.1013137549161911,
+                        "Top": 0.5307601094245911
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6c2c8a95-c3d2-4f86-843b-0d3ec3bd810b"
+                }
+            ]
+        }
+    ]
+}

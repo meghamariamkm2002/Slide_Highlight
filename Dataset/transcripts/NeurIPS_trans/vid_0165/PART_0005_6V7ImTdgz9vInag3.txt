@@ -1,0 +1,2 @@
+So we evaluate our model and compare it with other baselines and ablation variants on a synthetic data set with ground truth.
+And as we can see almost all the metrics, our model performs better than our

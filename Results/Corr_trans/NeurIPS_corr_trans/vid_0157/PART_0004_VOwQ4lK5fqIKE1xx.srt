@@ -1,0 +1,8 @@
+1
+00:00:01,874 --> 00:00:18,260
+handband takes input the structure of protein and structure of ligands and divides the protein into pockets, functional blocks, and models their interaction with the ligand through trigonometric distance maps.
+
+2
+00:00:19,080 --> 00:00:23,922
+And we also build a contrastive loss to prioritize the native blocks.
+

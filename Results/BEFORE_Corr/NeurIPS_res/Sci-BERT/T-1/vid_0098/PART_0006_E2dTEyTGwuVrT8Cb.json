@@ -1,0 +1,133 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,350",
+            "end_time": "00:00:05,254",
+            "transcript": "For the target domain of ToolAin, we create a clean version of the ToSimple dataset.",
+            "MatchedRegion": [
+                {
+                    "Text": "We create a cleaned version of TuSimple [1] for the real-world target domain of TuLane",
+                    "BoundingBox": {
+                        "Width": 0.7478222846984863,
+                        "Height": 0.041326917707920074,
+                        "Left": 0.03559821844100952,
+                        "Top": 0.15510661900043488
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "05b7d546-42b4-424f-8238-54e47bf3b04e",
+                    "Score": 0.8251749277114868
+                },
+                {
+                    "Text": "To clean the data, we utilize our publicly available labeling tool",
+                    "BoundingBox": {
+                        "Width": 0.5442882776260376,
+                        "Height": 0.03812306746840477,
+                        "Left": 0.0360487662255764,
+                        "Top": 0.2774321734905243
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d97e1871-af84-43f3-b474-c7595fd014d1",
+                    "Score": 0.9232540130615234
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,834",
+            "end_time": "00:00:09,918",
+            "transcript": "Our goal is to ensure that up to four lanes closest to the car are correctly labeled.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATIO PROCESSING SYSTEM",
+                    "BoundingBox": {
+                        "Width": 0.09808576852083206,
+                        "Height": 0.07321441918611526,
+                        "Left": 0.888457715511322,
+                        "Top": 0.02062404155731201
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b07ed5fc-414a-4468-8bac-12ad72c65023",
+                    "Score": 0.6307542324066162
+                },
+                {
+                    "Text": "We create a cleaned version of TuSimple [1] for the real-world target domain of TuLane",
+                    "BoundingBox": {
+                        "Width": 0.7478222846984863,
+                        "Height": 0.041326917707920074,
+                        "Left": 0.03559821844100952,
+                        "Top": 0.15510661900043488
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "05b7d546-42b4-424f-8238-54e47bf3b04e",
+                    "Score": 0.8251749277114868
+                },
+                {
+                    "Text": "ensure that up to four lanes closest to the car are correctly labeled",
+                    "BoundingBox": {
+                        "Width": 0.5234382748603821,
+                        "Height": 0.036119457334280014,
+                        "Left": 0.0736241340637207,
+                        "Top": 0.21882902085781097
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bbcd277b-43b3-483f-851e-88331e94ba3f",
+                    "Score": 0.8615891933441162
+                },
+                {
+                    "Text": "To clean the data, we utilize our publicly available labeling tool",
+                    "BoundingBox": {
+                        "Width": 0.5442882776260376,
+                        "Height": 0.03812306746840477,
+                        "Left": 0.0360487662255764,
+                        "Top": 0.2774321734905243
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d97e1871-af84-43f3-b474-c7595fd014d1",
+                    "Score": 0.9232540130615234
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,639",
+            "end_time": "00:00:13,982",
+            "transcript": "To clean the data, we utilize our publicly available labeling tools.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATIO PROCESSING SYSTEM",
+                    "BoundingBox": {
+                        "Width": 0.09808576852083206,
+                        "Height": 0.07321441918611526,
+                        "Left": 0.888457715511322,
+                        "Top": 0.02062404155731201
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b07ed5fc-414a-4468-8bac-12ad72c65023",
+                    "Score": 0.6307542324066162
+                },
+                {
+                    "Text": "We create a cleaned version of TuSimple [1] for the real-world target domain of TuLane",
+                    "BoundingBox": {
+                        "Width": 0.7478222846984863,
+                        "Height": 0.041326917707920074,
+                        "Left": 0.03559821844100952,
+                        "Top": 0.15510661900043488
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "05b7d546-42b4-424f-8238-54e47bf3b04e",
+                    "Score": 0.8251749277114868
+                },
+                {
+                    "Text": "To clean the data, we utilize our publicly available labeling tool",
+                    "BoundingBox": {
+                        "Width": 0.5442882776260376,
+                        "Height": 0.03812306746840477,
+                        "Left": 0.0360487662255764,
+                        "Top": 0.2774321734905243
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d97e1871-af84-43f3-b474-c7595fd014d1",
+                    "Score": 0.9232540130615234
+                }
+            ]
+        }
+    ]
+}

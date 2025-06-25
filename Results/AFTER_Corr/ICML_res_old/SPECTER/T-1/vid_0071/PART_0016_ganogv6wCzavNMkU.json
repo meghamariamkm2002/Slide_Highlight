@@ -1,0 +1,205 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:06,752",
+            "transcript": "However, even if there exist meaningful patterns in the training data, the DNN may still not learn these concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Even if there exist meaningful patterns in training data, the DNN may still not learn these concepts.",
+                    "BoundingBox": {
+                        "Width": 0.8440961241722107,
+                        "Height": 0.0863301083445549,
+                        "Left": 0.07173945009708405,
+                        "Top": 0.1724153310060501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f4d34d29-5829-4423-9da3-1a2fe354963e",
+                    "Score": 0.8292422294616699
+                },
+                {
+                    "Text": "To be precise, if a classification task can be conducted with some shortcut solutions without requiring the DNN to encode complex concepts, then the DNN probably converges to the shortcut solution.",
+                    "BoundingBox": {
+                        "Width": 0.7949332594871521,
+                        "Height": 0.11450847238302231,
+                        "Left": 0.07042130827903748,
+                        "Top": 0.23316378891468048
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "744ada96-0adf-45ee-bfa6-b5fef07a71dd",
+                    "Score": 0.9553887844085693
+                },
+                {
+                    "Text": "The relative strength of all concepts consisting of multiple variables.",
+                    "BoundingBox": {
+                        "Width": 0.27302953600883484,
+                        "Height": 0.08343533426523209,
+                        "Left": 0.4482593238353729,
+                        "Top": 0.6757272481918335
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f11bdbfe-f908-47e8-8fe7-84d8c679ebb0",
+                    "Score": 0.8351012468338013
+                },
+                {
+                    "Text": "original modified",
+                    "BoundingBox": {
+                        "Width": 0.18023578822612762,
+                        "Height": 0.2657829821109772,
+                        "Left": 0.26305946707725525,
+                        "Top": 0.3589697778224945
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "fe3ec181-06f2-4f26-8f2a-2cf8fe967cf2",
+                    "Score": 0.7504459023475647
+                },
+                {
+                    "Text": "Dataset Relative concept the original the modified strength K CUB-binary CUB-binary dataset dataset AlexNet 0.32 0.05 ResNet-18 0.20 0.07 VGG-13 0.24 0.04",
+                    "BoundingBox": {
+                        "Width": 0.2549876570701599,
+                        "Height": 0.2670820653438568,
+                        "Left": 0.45084092020988464,
+                        "Top": 0.35775309801101685
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "e4b8d32c-bc0e-4b99-b3f0-443db06768c1",
+                    "Score": 0.8044205904006958
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,592",
+            "end_time": "00:00:12,554",
+            "transcript": "A typical example is when the task can be conducted with some shortcut solutions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Failure case 3: When the task has a simple shortcut solution",
+                    "BoundingBox": {
+                        "Width": 0.7692449688911438,
+                        "Height": 0.09103259444236755,
+                        "Left": 0.09792552888393402,
+                        "Top": 0.045334625989198685
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "8cd8bcbd-f049-4658-af88-33cb23a52b0c",
+                    "Score": 0.8928356170654297
+                },
+                {
+                    "Text": "To be precise, if a classification task can be conducted with some shortcut solutions without requiring the DNN to encode complex concepts, then the DNN probably converges to the shortcut solution.",
+                    "BoundingBox": {
+                        "Width": 0.7949332594871521,
+                        "Height": 0.11450847238302231,
+                        "Left": 0.07042130827903748,
+                        "Top": 0.23316378891468048
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "744ada96-0adf-45ee-bfa6-b5fef07a71dd",
+                    "Score": 0.9553887844085693
+                },
+                {
+                    "Text": "The relative strength of all concepts consisting of multiple variables.",
+                    "BoundingBox": {
+                        "Width": 0.27302953600883484,
+                        "Height": 0.08343533426523209,
+                        "Left": 0.4482593238353729,
+                        "Top": 0.6757272481918335
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f11bdbfe-f908-47e8-8fe7-84d8c679ebb0",
+                    "Score": 0.8351012468338013
+                },
+                {
+                    "Text": "original modified",
+                    "BoundingBox": {
+                        "Width": 0.18023578822612762,
+                        "Height": 0.2657829821109772,
+                        "Left": 0.26305946707725525,
+                        "Top": 0.3589697778224945
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "fe3ec181-06f2-4f26-8f2a-2cf8fe967cf2",
+                    "Score": 0.7504459023475647
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,635",
+            "end_time": "00:00:20,118",
+            "transcript": "In this case, the DNN probably converges to the shortcut solution, without encoding complex concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Failure case 3: When the task has a simple shortcut solution",
+                    "BoundingBox": {
+                        "Width": 0.7692449688911438,
+                        "Height": 0.09103259444236755,
+                        "Left": 0.09792552888393402,
+                        "Top": 0.045334625989198685
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "8cd8bcbd-f049-4658-af88-33cb23a52b0c",
+                    "Score": 0.8928356170654297
+                },
+                {
+                    "Text": "Even if there exist meaningful patterns in training data, the DNN may still not learn these concepts.",
+                    "BoundingBox": {
+                        "Width": 0.8440961241722107,
+                        "Height": 0.0863301083445549,
+                        "Left": 0.07173945009708405,
+                        "Top": 0.1724153310060501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f4d34d29-5829-4423-9da3-1a2fe354963e",
+                    "Score": 0.8292422294616699
+                },
+                {
+                    "Text": "To be precise, if a classification task can be conducted with some shortcut solutions without requiring the DNN to encode complex concepts, then the DNN probably converges to the shortcut solution.",
+                    "BoundingBox": {
+                        "Width": 0.7949332594871521,
+                        "Height": 0.11450847238302231,
+                        "Left": 0.07042130827903748,
+                        "Top": 0.23316378891468048
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "744ada96-0adf-45ee-bfa6-b5fef07a71dd",
+                    "Score": 0.9553887844085693
+                },
+                {
+                    "Text": "The relative strength of all concepts consisting of multiple variables.",
+                    "BoundingBox": {
+                        "Width": 0.27302953600883484,
+                        "Height": 0.08343533426523209,
+                        "Left": 0.4482593238353729,
+                        "Top": 0.6757272481918335
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f11bdbfe-f908-47e8-8fe7-84d8c679ebb0",
+                    "Score": 0.8351012468338013
+                },
+                {
+                    "Text": "original modified",
+                    "BoundingBox": {
+                        "Width": 0.18023578822612762,
+                        "Height": 0.2657829821109772,
+                        "Left": 0.26305946707725525,
+                        "Top": 0.3589697778224945
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "fe3ec181-06f2-4f26-8f2a-2cf8fe967cf2",
+                    "Score": 0.7504459023475647
+                },
+                {
+                    "Text": "Dataset Relative concept the original the modified strength K CUB-binary CUB-binary dataset dataset AlexNet 0.32 0.05 ResNet-18 0.20 0.07 VGG-13 0.24 0.04",
+                    "BoundingBox": {
+                        "Width": 0.2549876570701599,
+                        "Height": 0.2670820653438568,
+                        "Left": 0.45084092020988464,
+                        "Top": 0.35775309801101685
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "e4b8d32c-bc0e-4b99-b3f0-443db06768c1",
+                    "Score": 0.8044205904006958
+                }
+            ]
+        }
+    ]
+}

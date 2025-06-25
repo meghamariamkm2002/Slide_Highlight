@@ -1,0 +1,37 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,271",
+            "end_time": "00:00:13,549",
+            "transcript": "In both cases, we found the decrease of transferability and determination power, because the noise corrupted the original discriminated patterns in each category.",
+            "MatchedRegion": [
+                {
+                    "Text": "the average discrimination power B of concepts decreased along with the increasing strength 8 of injected noise. Ls",
+                    "BoundingBox": {
+                        "Width": 0.7483997344970703,
+                        "Height": 0.08307048678398132,
+                        "Left": 0.12074113637208939,
+                        "Top": 0.8199929594993591
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a415e9f3-6179-4b76-9e73-bf80d39badf0",
+                    "Score": 0.7043721675872803
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0011_QYBR13eaxxglkli4",
+            "Score": 0.6162095069885254
+        },
+        {
+            "slide": "PART_0013_NO0WUP4NfsuD5QTx",
+            "Score": 0.7851821184158325
+        },
+        {
+            "slide": "PART_0014_dLNthlMLWdxmUHYn",
+            "Score": 0.7697367668151855
+        }
+    ]
+}

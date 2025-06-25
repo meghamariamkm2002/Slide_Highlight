@@ -1,0 +1,5 @@
+start	end	text
+49	409	to you.
+1569	8751	The COVID-19 pandemic continues to bring up various topics discussed or debated on social media.
+8771	21854	In order to explore the impact of pandemics on people's lives, it is important to understand the public's concerns and attitudes towards pandemic-related entities on social media.
+22691	44002	However, most NLP tools as well as models trained on existing name entity recognition or targeted sentiment analysis data sets have limited ability to understand COVID-19 related social media texts because these data sets are not designed or annotated from a medical perspective.

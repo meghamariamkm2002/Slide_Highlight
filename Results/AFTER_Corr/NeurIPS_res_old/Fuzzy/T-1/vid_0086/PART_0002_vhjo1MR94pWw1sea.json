@@ -1,0 +1,40 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,554",
+            "end_time": "00:00:03,975",
+            "transcript": "Why is this data important?",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:04,615",
+            "end_time": "00:00:07,836",
+            "transcript": "First, we need to get familiarized with what EHRs are.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,436",
+            "end_time": "00:00:10,657",
+            "transcript": "EHR stands for electronic health records.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,177",
+            "end_time": "00:00:14,358",
+            "transcript": "They are also called electronic medical records or EMRs.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:15,219",
+            "end_time": "00:00:23,902",
+            "transcript": "From hospital automation to diagnosis, procedure, and hospital discharge, all medical events that happen in the hospital are stored in this database.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_BHBLBUvmaFfzLpHD",
+            "Score": 0.6187076568603516
+        }
+    ]
+}

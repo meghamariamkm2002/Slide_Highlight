@@ -1,0 +1,188 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,029",
+            "end_time": "00:00:00,510",
+            "transcript": "this point.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1069725900888443,
+                        "Height": 0.08008861541748047,
+                        "Left": 0.888554573059082,
+                        "Top": 0.013167337514460087
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0cec1377-dbc8-4097-8b32-0384ab9d83df",
+                    "Score": 0.6842457056045532
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07751907408237457,
+                        "Height": 0.06359340250492096,
+                        "Left": 0.3508833050727844,
+                        "Top": 0.9238248467445374
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dd304e1a-f931-4af3-b8a4-32f3ef962175",
+                    "Score": 0.6399152278900146
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,792",
+            "end_time": "00:00:05,577",
+            "transcript": "For the target domain of MOLAN, we capture data with our 1F model vehicle.",
+            "MatchedRegion": [
+                {
+                    "Text": "We capture data with our 1/8th model vehicle",
+                    "BoundingBox": {
+                        "Width": 0.4080873429775238,
+                        "Height": 0.034019216895103455,
+                        "Left": 0.035310372710227966,
+                        "Top": 0.15977144241333008
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8907b245-1ebf-4926-86bf-209ef72ba245",
+                    "Score": 0.8281011581420898
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,078",
+            "end_time": "00:00:09,223",
+            "transcript": "Tracks roughly contain the same proportion of straight and curved segments.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1069725900888443,
+                        "Height": 0.08008861541748047,
+                        "Left": 0.888554573059082,
+                        "Top": 0.013167337514460087
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0cec1377-dbc8-4097-8b32-0384ab9d83df",
+                    "Score": 0.6842457056045532
+                },
+                {
+                    "Text": "We capture data with our 1/8th model vehicle",
+                    "BoundingBox": {
+                        "Width": 0.4080873429775238,
+                        "Height": 0.034019216895103455,
+                        "Left": 0.035310372710227966,
+                        "Top": 0.15977144241333008
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8907b245-1ebf-4926-86bf-209ef72ba245",
+                    "Score": 0.8281011581420898
+                },
+                {
+                    "Text": "Tracks roughly contain the same proportion of straight and curved segments",
+                    "BoundingBox": {
+                        "Width": 0.6612081527709961,
+                        "Height": 0.034215621650218964,
+                        "Left": 0.03567563369870186,
+                        "Top": 0.2226465791463852
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "961679f5-c9cc-4bf4-9389-6ef63b5edc05",
+                    "Score": 0.8026934862136841
+                },
+                {
+                    "Text": "alternating backgrounds, lighting conditions, surface materials, and lane topology",
+                    "BoundingBox": {
+                        "Width": 0.6370726823806763,
+                        "Height": 0.031214585527777672,
+                        "Left": 0.07355377078056335,
+                        "Top": 0.3463626503944397
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1a6ebea1-19be-4150-86ed-b9ee1b1a8187",
+                    "Score": 0.8802251815795898
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07751907408237457,
+                        "Height": 0.06359340250492096,
+                        "Left": 0.3508833050727844,
+                        "Top": 0.9238248467445374
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dd304e1a-f931-4af3-b8a4-32f3ef962175",
+                    "Score": 0.6399152278900146
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,743",
+            "end_time": "00:00:14,911",
+            "transcript": "Randomizations include alternating backgrounds, lightning conditions, surface materials, and lane",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1069725900888443,
+                        "Height": 0.08008861541748047,
+                        "Left": 0.888554573059082,
+                        "Top": 0.013167337514460087
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0cec1377-dbc8-4097-8b32-0384ab9d83df",
+                    "Score": 0.6842457056045532
+                },
+                {
+                    "Text": "We capture data with our 1/8th model vehicle",
+                    "BoundingBox": {
+                        "Width": 0.4080873429775238,
+                        "Height": 0.034019216895103455,
+                        "Left": 0.035310372710227966,
+                        "Top": 0.15977144241333008
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8907b245-1ebf-4926-86bf-209ef72ba245",
+                    "Score": 0.8281011581420898
+                },
+                {
+                    "Text": "Tracks roughly contain the same proportion of straight and curved segments",
+                    "BoundingBox": {
+                        "Width": 0.6612081527709961,
+                        "Height": 0.034215621650218964,
+                        "Left": 0.03567563369870186,
+                        "Top": 0.2226465791463852
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "961679f5-c9cc-4bf4-9389-6ef63b5edc05",
+                    "Score": 0.8026934862136841
+                },
+                {
+                    "Text": "alternating backgrounds, lighting conditions, surface materials, and lane topology",
+                    "BoundingBox": {
+                        "Width": 0.6370726823806763,
+                        "Height": 0.031214585527777672,
+                        "Left": 0.07355377078056335,
+                        "Top": 0.3463626503944397
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1a6ebea1-19be-4150-86ed-b9ee1b1a8187",
+                    "Score": 0.8802251815795898
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07751907408237457,
+                        "Height": 0.06359340250492096,
+                        "Left": 0.3508833050727844,
+                        "Top": 0.9238248467445374
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dd304e1a-f931-4af3-b8a4-32f3ef962175",
+                    "Score": 0.6399152278900146
+                }
+            ]
+        }
+    ]
+}

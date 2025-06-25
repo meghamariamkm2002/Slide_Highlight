@@ -1,0 +1,130 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,775",
+            "end_time": "00:00:04,876",
+            "transcript": "First, let's describe the problem the paper tries to deal with.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,757",
+            "end_time": "00:00:10,238",
+            "transcript": "It is a known fact that vision models tend to rely on spurious cues to make their predictions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Vision models tend to rely on spurious cues to make predictions",
+                    "BoundingBox": {
+                        "Width": 0.5881450176239014,
+                        "Height": 0.03345668315887451,
+                        "Left": 0.07638096064329147,
+                        "Top": 0.216069296002388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bef55a9-bef0-4514-b5b7-494538acef6b",
+                    "Score": 0.647126317024231
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,419",
+            "end_time": "00:00:17,501",
+            "transcript": "In this work, we examine the spurious cues used by vision transformers and find that they suffer from two main issues.",
+            "MatchedRegion": [
+                {
+                    "Text": "We find that Vision Transformers often suffer from two main salient issues:",
+                    "BoundingBox": {
+                        "Width": 0.6789045929908752,
+                        "Height": 0.02804054133594036,
+                        "Left": 0.07598841935396194,
+                        "Top": 0.2696458697319031
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a970fec-3f28-4a71-bec4-83cc7b7280f4",
+                    "Score": 0.8389835357666016
+                },
+                {
+                    "Text": "Vision models tend to rely on spurious cues to make predictions",
+                    "BoundingBox": {
+                        "Width": 0.5881450176239014,
+                        "Height": 0.03345668315887451,
+                        "Left": 0.07638096064329147,
+                        "Top": 0.216069296002388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bef55a9-bef0-4514-b5b7-494538acef6b",
+                    "Score": 0.647126317024231
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,362",
+            "end_time": "00:00:24,864",
+            "transcript": "The first is overreliance on the image background, and the second is a sparse consideration of the foreground pixels.",
+            "MatchedRegion": [
+                {
+                    "Text": "Sparse consideration of the foreground pixels",
+                    "BoundingBox": {
+                        "Width": 0.35242870450019836,
+                        "Height": 0.02780582197010517,
+                        "Left": 0.1138836070895195,
+                        "Top": 0.35135188698768616
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "64be519e-84fe-4139-8d91-47c978383f06",
+                    "Score": 0.6869348287582397
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,865",
+            "end_time": "00:00:28,306",
+            "transcript": "The figure here represents examples of both cases.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,130",
+            "end_time": "00:00:40,176",
+            "transcript": "For example, the image here is classified by the model as a chestnut with a confidence of 100%, but the saliency map shows that the model used only the background to make its prediction.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:41,577",
+            "end_time": "00:00:45,979",
+            "transcript": "This can lead to lack of robustness to distribution shifts and poor generalization.",
+            "MatchedRegion": [
+                {
+                    "Text": "This leads to lack of robustness to distribution shifts, i.e., poor generalization",
+                    "BoundingBox": {
+                        "Width": 0.6976851224899292,
+                        "Height": 0.03496260195970535,
+                        "Left": 0.07587239146232605,
+                        "Top": 0.831281840801239
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d8cdf1be-405b-4d1b-85da-0d1c3a5f547d",
+                    "Score": 0.9710575342178345
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:46,759",
+            "end_time": "00:00:49,521",
+            "transcript": "We ask ourselves, can we correct the model's logic?",
+            "MatchedRegion": [
+                {
+                    "Text": "Can we correct the model's logic?",
+                    "BoundingBox": {
+                        "Width": 0.273681640625,
+                        "Height": 0.02824333868920803,
+                        "Left": 0.11327361315488815,
+                        "Top": 0.8762390613555908
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19c46297-9ec5-4948-bf03-db6241190901",
+                    "Score": 0.9273207187652588
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

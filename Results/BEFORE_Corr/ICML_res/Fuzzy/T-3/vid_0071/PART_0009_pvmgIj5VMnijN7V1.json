@@ -1,0 +1,43 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:05,896",
+            "transcript": "Secondly, we verify the transferability of concepts over different samples.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 2: Transferability over different samples",
+                    "BoundingBox": {
+                        "Width": 0.7445816993713379,
+                        "Height": 0.058222416788339615,
+                        "Left": 0.0971589908003807,
+                        "Top": 0.06615082174539566
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "8f77e510-c211-4579-81f7-397d11deb902",
+                    "Score": 0.671875
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,517",
+            "end_time": "00:00:11,183",
+            "transcript": "This means that concepts extracted from one sample can be transferred to other samples.",
+            "MatchedRegion": [
+                {
+                    "Text": "Whether concepts extracted from a sample can be transferred to other samples",
+                    "BoundingBox": {
+                        "Width": 0.6790326833724976,
+                        "Height": 0.034598458558321,
+                        "Left": 0.08016650378704071,
+                        "Top": 0.21105144917964935
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "855a7695-7092-46d3-bfba-07007ec297e1",
+                    "Score": 0.8834355828220859
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

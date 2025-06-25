@@ -1,0 +1,161 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,089",
+            "end_time": "00:00:00,329",
+            "transcript": "datasets.",
+            "MatchedRegion": [
+                {
+                    "Text": "Several Dataset Tools",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.12039843201637268,
+                        "Height": 0.06510300934314728,
+                        "Left": 0.7175059914588928,
+                        "Top": 0.531738817691803
+                    },
+                    "Id": "15821e12-35f8-447e-bf16-84cc2d3c22bb"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,789",
+            "end_time": "00:00:10,931",
+            "transcript": "Therefore, we propose CarLane, the first three-way simple real-world domain adaptation benchmark for 2D lane detection, which allows single and multi-target, unsupervised domain adaptation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Contributions",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.20416340231895447,
+                        "Height": 0.04677316173911095,
+                        "Left": 0.03692540153861046,
+                        "Top": 0.03638849034905434
+                    },
+                    "Id": "97b27131-1271-4514-97f4-2d690f102cd2"
+                },
+                {
+                    "Text": "3-Way Sim-to-Real Benchmark",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.14283540844917297,
+                        "Height": 0.06499752402305603,
+                        "Left": 0.1502440720796585,
+                        "Top": 0.531840443611145
+                    },
+                    "Id": "aa1169dc-d13c-497a-ae0f-3e917861f808"
+                },
+                {
+                    "Text": "allowing single- and multi-target UDA",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.11719466745853424,
+                        "Height": 0.055695805698633194,
+                        "Left": 0.16310469806194305,
+                        "Top": 0.6337031722068787
+                    },
+                    "Id": "bf2235ce-93e4-491d-9259-bb71d35fb8af"
+                },
+                {
+                    "Text": "Several Dataset Tools",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.12039843201637268,
+                        "Height": 0.06510300934314728,
+                        "Left": 0.7175059914588928,
+                        "Top": 0.531738817691803
+                    },
+                    "Id": "15821e12-35f8-447e-bf16-84cc2d3c22bb"
+                },
+                {
+                    "Text": "To the best of our knowledge, we are the first to adapt a lane detection model from simulation to multiple real-world domains",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.9348567128181458,
+                        "Height": 0.03392667695879936,
+                        "Left": 0.05108727142214775,
+                        "Top": 0.8064663410186768
+                    },
+                    "Id": "1bcc7289-626d-4004-bef7-598cbd12cf8c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,611",
+            "end_time": "00:00:15,952",
+            "transcript": "We train several well-known user methods to establish baselines, including our own method.",
+            "MatchedRegion": [
+                {
+                    "Text": "Establishing Baselines",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.09170312434434891,
+                        "Height": 0.06546784192323685,
+                        "Left": 0.45394226908683777,
+                        "Top": 0.5314273238182068
+                    },
+                    "Id": "2c70257d-0fe8-40dc-9a5b-c2e2bf430505"
+                },
+                {
+                    "Text": "evaluating well-known and own UDA methods",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.15899652242660522,
+                        "Height": 0.051407892256975174,
+                        "Left": 0.4201198220252991,
+                        "Top": 0.6337070465087891
+                    },
+                    "Id": "43f26a09-f9f5-4e0c-a968-56e0f501fbfd"
+                },
+                {
+                    "Text": "Several Dataset Tools",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.12039843201637268,
+                        "Height": 0.06510300934314728,
+                        "Left": 0.7175059914588928,
+                        "Top": 0.531738817691803
+                    },
+                    "Id": "15821e12-35f8-447e-bf16-84cc2d3c22bb"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,673",
+            "end_time": "00:00:22,534",
+            "transcript": "Templation of the methods, baseline rates, as well as tools for data collection and labeling are publicly available.",
+            "MatchedRegion": [
+                {
+                    "Text": "Several Dataset Tools",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.12039843201637268,
+                        "Height": 0.06510300934314728,
+                        "Left": 0.7175059914588928,
+                        "Top": 0.531738817691803
+                    },
+                    "Id": "15821e12-35f8-447e-bf16-84cc2d3c22bb"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:23,114",
+            "end_time": "00:00:27,675",
+            "transcript": "To the best of our knowledge, we are the first to adapt lane detection models from simulation to multiple",
+            "MatchedRegion": [
+                {
+                    "Text": "To the best of our knowledge, we are the first to adapt a lane detection model from simulation to multiple real-world domains",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.9348567128181458,
+                        "Height": 0.03392667695879936,
+                        "Left": 0.05108727142214775,
+                        "Top": 0.8064663410186768
+                    },
+                    "Id": "1bcc7289-626d-4004-bef7-598cbd12cf8c"
+                }
+            ]
+        }
+    ]
+}

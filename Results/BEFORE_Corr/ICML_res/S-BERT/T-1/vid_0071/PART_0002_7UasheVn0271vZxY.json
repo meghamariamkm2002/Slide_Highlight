@@ -1,0 +1,47 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,323",
+            "end_time": "00:00:06,766",
+            "transcript": "Before diving into the main topic, let us understand concepts from the perspective of a DNN.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,807",
+            "end_time": "00:00:14,650",
+            "transcript": "Briefly speaking, each concept is activated when all pixels or words composing this concept exist.",
+            "MatchedRegion": [
+                {
+                    "Text": "input image activated concepts (semantic regions) (None)",
+                    "BoundingBox": {
+                        "Width": 0.4357546865940094,
+                        "Height": 0.5529811382293701,
+                        "Left": 0.04702353477478027,
+                        "Top": 0.39411255717277527
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3ef5a744-95d8-4f3c-9ff7-9af26cb7384b",
+                    "Score": 0.6501240730285645
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,591",
+            "end_time": "00:00:22,615",
+            "transcript": "For example, when we feed a basket image or a basket sentence to the DNN, no concept will be activated.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:23,885",
+            "end_time": "00:00:31,837",
+            "transcript": "However, when less portion of the input sample is masked, as shown in these two examples, more concepts will emerge.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_JobZKQGelRI1kFCv",
+            "Score": 0.6342036724090576
+        }
+    ]
+}

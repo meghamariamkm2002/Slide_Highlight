@@ -1,0 +1,65 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,600",
+            "end_time": "00:00:12,903",
+            "transcript": "Then regarding the diverse animal species in the real world, we think it is essential to evaluate the interspecies generalization ability of animal pose estimation models.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:13,563",
+            "end_time": "00:00:23,266",
+            "transcript": "In each experiment, all the instants from a specific family follow the test set, while those instants belong to other families are used for training.",
+            "MatchedRegion": [
+                {
+                    "Text": "2. In each experiment, all the instances from a specific family form the test set while those instances belong to other families are used for training.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7299973964691162,
+                        "Height": 0.06456167250871658,
+                        "Left": 0.10576441138982773,
+                        "Top": 0.5561637878417969
+                    },
+                    "Id": "b0f3d4f1-2202-4c98-8772-05140ab77dca"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:23,946",
+            "end_time": "00:00:33,177",
+            "transcript": "And we can find that the model generalizes well on animal species, where there are similarities between training and test species.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. The model generalizes well on animal species where there are similarities between the training and test species;",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7152376174926758,
+                        "Height": 0.06416787207126617,
+                        "Left": 0.10691606998443604,
+                        "Top": 0.6997068524360657
+                    },
+                    "Id": "1b904d4d-cb2d-4be2-982b-7c438b1e7483"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:33,738",
+            "end_time": "00:00:36,702",
+            "transcript": "And for others, the model doesn't generalize well.",
+            "MatchedRegion": [
+                {
+                    "Text": "2. Findings:",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.0947074443101883,
+                        "Height": 0.027946876361966133,
+                        "Left": 0.06816816329956055,
+                        "Top": 0.6641612648963928
+                    },
+                    "Id": "6f4da59b-1028-4319-8407-7bdce5a9be65"
+                }
+            ]
+        }
+    ]
+}

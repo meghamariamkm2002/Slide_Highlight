@@ -1,0 +1,4 @@
+1
+00:00:02,594 --> 00:00:09,931
+The first two cases are when there exists label noise in the training set, neither noise in label nor noise in sample.
+

@@ -1,0 +1,20 @@
+WEBVTT
+
+00:02.050 --> 00:02.870
+Here's our results.
+
+00:03.530 --> 00:18.355
+On the positive side, we show there is a price P and we show how to compute this price P that achieves a approximation factor of 1 minus 1 over e divided by 2, which is about 0.316 against the first best welfare.
+
+00:19.676 --> 00:24.697
+On the negative side, we show there's no price P that achieves a approximation ratio better than 0.479.
+
+00:26.892 --> 00:35.479
+For comparison, we know that with utility maximizers or traditional bidders, positive price maxim can achieve a approximation ratio of 0.5.
+
+00:36.300 --> 00:46.989
+So this means positive price maxims with alibiders are strictly harder than the positive price maxims with traditional bidders.
+
+00:48.080 --> 01:00.998
+As by-products, we give a one-quarter approximation for combinatorial auctions with all the bitters, and a one-month one-hour E divided by two-year approximation in the long run for dynamic auctions with all the bitters.
+

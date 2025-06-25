@@ -1,0 +1,126 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,529",
+            "end_time": "00:00:14,361",
+            "transcript": "So, to fill this gap, we proposed APT36000, the first large scale dataset with high-quality animal pulse initiation from consecutive frames for animal pulse estimation and tracking.",
+            "MatchedRegion": [
+                {
+                    "Text": "THE UNIVERSITY OF SYDNEY",
+                    "BoundingBox": {
+                        "Width": 0.056153081357479095,
+                        "Height": 0.032793812453746796,
+                        "Left": 0.7639182806015015,
+                        "Top": 0.0252532996237278
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "deb843cc-a1a0-42ab-847f-7915e38530d3",
+                    "Score": 0.6923326253890991
+                },
+                {
+                    "Text": "Introduction",
+                    "BoundingBox": {
+                        "Width": 0.1583034247159958,
+                        "Height": 0.03867102786898613,
+                        "Left": 0.020261147990822792,
+                        "Top": 0.05760527774691582
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "5db2bbcf-1d88-41f1-97a5-78dd4095bef5",
+                    "Score": 0.7907260656356812
+                },
+                {
+                    "Text": "To fill this gap, we propose APT-36K, the first large-scale dataset with high-quality animal pose annotations from consecutive frames for animal pose estimation and tracking.",
+                    "BoundingBox": {
+                        "Width": 0.7886123657226562,
+                        "Height": 0.06675750762224197,
+                        "Left": 0.02118159644305706,
+                        "Top": 0.745857298374176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7af0558d-a834-4866-bc15-83ab5cec4e05",
+                    "Score": 0.8621295094490051
+                },
+                {
+                    "Text": "APT-36K dataset contains not only the continuous time information needed for the tracking task, but also a very detailed annotation of the pose keypoints, with a wide range of different animal species.",
+                    "BoundingBox": {
+                        "Width": 0.829992413520813,
+                        "Height": 0.06528820097446442,
+                        "Left": 0.020973123610019684,
+                        "Top": 0.8543781638145447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22761f10-532f-4f13-984e-db6890d5f280",
+                    "Score": 0.9093965291976929
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,862",
+            "end_time": "00:00:27,232",
+            "transcript": "It contains not only the continuous time information needed for tracking tasks, but also a very detailed initiation of pulse key points with a wide range of different animal species.",
+            "MatchedRegion": [
+                {
+                    "Text": "THE UNIVERSITY OF SYDNEY",
+                    "BoundingBox": {
+                        "Width": 0.056153081357479095,
+                        "Height": 0.032793812453746796,
+                        "Left": 0.7639182806015015,
+                        "Top": 0.0252532996237278
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "deb843cc-a1a0-42ab-847f-7915e38530d3",
+                    "Score": 0.6923326253890991
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.07363151758909225,
+                        "Height": 0.022819258272647858,
+                        "Left": 0.9204525351524353,
+                        "Top": 0.03266800940036774
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "a25ee6a1-d029-4af4-9435-c660a40f35b6",
+                    "Score": 0.6630446314811707
+                },
+                {
+                    "Text": "Introduction",
+                    "BoundingBox": {
+                        "Width": 0.1583034247159958,
+                        "Height": 0.03867102786898613,
+                        "Left": 0.020261147990822792,
+                        "Top": 0.05760527774691582
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "5db2bbcf-1d88-41f1-97a5-78dd4095bef5",
+                    "Score": 0.7907260656356812
+                },
+                {
+                    "Text": "To fill this gap, we propose APT-36K, the first large-scale dataset with high-quality animal pose annotations from consecutive frames for animal pose estimation and tracking.",
+                    "BoundingBox": {
+                        "Width": 0.7886123657226562,
+                        "Height": 0.06675750762224197,
+                        "Left": 0.02118159644305706,
+                        "Top": 0.745857298374176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7af0558d-a834-4866-bc15-83ab5cec4e05",
+                    "Score": 0.8621295094490051
+                },
+                {
+                    "Text": "APT-36K dataset contains not only the continuous time information needed for the tracking task, but also a very detailed annotation of the pose keypoints, with a wide range of different animal species.",
+                    "BoundingBox": {
+                        "Width": 0.829992413520813,
+                        "Height": 0.06528820097446442,
+                        "Left": 0.020973123610019684,
+                        "Top": 0.8543781638145447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22761f10-532f-4f13-984e-db6890d5f280",
+                    "Score": 0.9093965291976929
+                }
+            ]
+        }
+    ]
+}

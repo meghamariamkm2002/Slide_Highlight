@@ -1,0 +1,123 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,309",
+            "transcript": "models",
+            "MatchedRegion": [
+                {
+                    "Text": "Macro vs cell-based models",
+                    "BoundingBox": {
+                        "Width": 0.481449156999588,
+                        "Height": 0.06131165847182274,
+                        "Left": 0.25969836115837097,
+                        "Top": 0.11521768569946289
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "0fb3581e-3450-472f-a552-15ede9252ed6",
+                    "Score": 0.8003127574920654
+                },
+                {
+                    "Text": "76 75 74 73 Macro models 72 71 Cell-based models different blocks - pareto 70 uniform blocks - pareto 69 1.0 1.5 2.0 2.5 3.0 2.0 2.5 3.0 3.5 FLOPs 1e8 Parameters 1e6",
+                    "BoundingBox": {
+                        "Width": 0.693651020526886,
+                        "Height": 0.6352778673171997,
+                        "Left": 0.1463780254125595,
+                        "Top": 0.22538472712039948
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "65dffa57-fd22-490d-82e4-54bec3303a94",
+                    "Score": 0.7309756875038147
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,109",
+            "end_time": "00:00:14,952",
+            "transcript": "This figure shows the accuracy of cell-based models from our search base, consisting of uniform blocks denoted in blue, and macro models consisting of different blocks denoted in red.",
+            "MatchedRegion": [
+                {
+                    "Text": "76 75 74 73 Macro models 72 71 Cell-based models different blocks - pareto 70 uniform blocks - pareto 69 1.0 1.5 2.0 2.5 3.0 2.0 2.5 3.0 3.5 FLOPs 1e8 Parameters 1e6",
+                    "BoundingBox": {
+                        "Width": 0.693651020526886,
+                        "Height": 0.6352778673171997,
+                        "Left": 0.1463780254125595,
+                        "Top": 0.22538472712039948
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "65dffa57-fd22-490d-82e4-54bec3303a94",
+                    "Score": 0.7309756875038147
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,632",
+            "end_time": "00:00:18,893",
+            "transcript": "Probable optimal points are additionally emphasized with markers.",
+            "MatchedRegion": [
+                {
+                    "Text": "76 75 74 73 Macro models 72 71 Cell-based models different blocks - pareto 70 uniform blocks - pareto 69 1.0 1.5 2.0 2.5 3.0 2.0 2.5 3.0 3.5 FLOPs 1e8 Parameters 1e6",
+                    "BoundingBox": {
+                        "Width": 0.693651020526886,
+                        "Height": 0.6352778673171997,
+                        "Left": 0.1463780254125595,
+                        "Top": 0.22538472712039948
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "65dffa57-fd22-490d-82e4-54bec3303a94",
+                    "Score": 0.7309756875038147
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,773",
+            "end_time": "00:00:20,613",
+            "transcript": "There are two highlights.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:21,974",
+            "end_time": "00:00:27,735",
+            "transcript": "First, the probability of frontier models with different blocks clearly dominates that of models with uniform blocks.",
+            "MatchedRegion": [
+                {
+                    "Text": "76 75 74 73 Macro models 72 71 Cell-based models different blocks - pareto 70 uniform blocks - pareto 69 1.0 1.5 2.0 2.5 3.0 2.0 2.5 3.0 3.5 FLOPs 1e8 Parameters 1e6",
+                    "BoundingBox": {
+                        "Width": 0.693651020526886,
+                        "Height": 0.6352778673171997,
+                        "Left": 0.1463780254125595,
+                        "Top": 0.22538472712039948
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "65dffa57-fd22-490d-82e4-54bec3303a94",
+                    "Score": 0.7309756875038147
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,266",
+            "end_time": "00:00:34,002",
+            "transcript": "2.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,286",
+            "end_time": "00:00:34,002",
+            "transcript": "The macro model is much larger, posing a challenge to the searching area.",
+            "MatchedRegion": [
+                {
+                    "Text": "76 75 74 73 Macro models 72 71 Cell-based models different blocks - pareto 70 uniform blocks - pareto 69 1.0 1.5 2.0 2.5 3.0 2.0 2.5 3.0 3.5 FLOPs 1e8 Parameters 1e6",
+                    "BoundingBox": {
+                        "Width": 0.693651020526886,
+                        "Height": 0.6352778673171997,
+                        "Left": 0.1463780254125595,
+                        "Top": 0.22538472712039948
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "65dffa57-fd22-490d-82e4-54bec3303a94",
+                    "Score": 0.7309756875038147
+                }
+            ]
+        }
+    ]
+}

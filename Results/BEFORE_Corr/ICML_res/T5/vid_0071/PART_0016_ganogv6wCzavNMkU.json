@@ -1,0 +1,113 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:06,752",
+            "transcript": "However, even if there exists meaningful patterns in the training data, the DNM may still not learn these concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Even if there exist meaningful patterns in training data, the DNN may still not learn these concepts.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8440961241722107,
+                        "Height": 0.0863301083445549,
+                        "Left": 0.07173945009708405,
+                        "Top": 0.1724153310060501
+                    },
+                    "Id": "f4d34d29-5829-4423-9da3-1a2fe354963e"
+                },
+                {
+                    "Text": "To be precise, if a classification task can be conducted with some shortcut solutions without requiring the DNN to encode complex concepts, then the DNN probably converges to the shortcut solution.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7949332594871521,
+                        "Height": 0.11450847238302231,
+                        "Left": 0.07042130827903748,
+                        "Top": 0.23316378891468048
+                    },
+                    "Id": "744ada96-0adf-45ee-bfa6-b5fef07a71dd"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,592",
+            "end_time": "00:00:12,554",
+            "transcript": "A typical example is when the task can be conducted with some shortcut solutions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Failure case 3: When the task has a simple shortcut solution",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.7692449688911438,
+                        "Height": 0.09103259444236755,
+                        "Left": 0.09792552888393402,
+                        "Top": 0.045334625989198685
+                    },
+                    "Id": "8cd8bcbd-f049-4658-af88-33cb23a52b0c"
+                },
+                {
+                    "Text": "To be precise, if a classification task can be conducted with some shortcut solutions without requiring the DNN to encode complex concepts, then the DNN probably converges to the shortcut solution.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7949332594871521,
+                        "Height": 0.11450847238302231,
+                        "Left": 0.07042130827903748,
+                        "Top": 0.23316378891468048
+                    },
+                    "Id": "744ada96-0adf-45ee-bfa6-b5fef07a71dd"
+                },
+                {
+                    "Text": "The DNN collapsed to a simple (linear) model without encoding interactions between different image patches when the task had a simple shortcut solution.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.804976224899292,
+                        "Height": 0.12056855112314224,
+                        "Left": 0.09588205814361572,
+                        "Top": 0.8151856064796448
+                    },
+                    "Id": "16a55279-3d46-46ed-a104-d5e4536baf9c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,635",
+            "end_time": "00:00:20,118",
+            "transcript": "In this case, the DNM probably converges to the shortcut solution, without encoding complex concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Failure case 3: When the task has a simple shortcut solution",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.7692449688911438,
+                        "Height": 0.09103259444236755,
+                        "Left": 0.09792552888393402,
+                        "Top": 0.045334625989198685
+                    },
+                    "Id": "8cd8bcbd-f049-4658-af88-33cb23a52b0c"
+                },
+                {
+                    "Text": "To be precise, if a classification task can be conducted with some shortcut solutions without requiring the DNN to encode complex concepts, then the DNN probably converges to the shortcut solution.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7949332594871521,
+                        "Height": 0.11450847238302231,
+                        "Left": 0.07042130827903748,
+                        "Top": 0.23316378891468048
+                    },
+                    "Id": "744ada96-0adf-45ee-bfa6-b5fef07a71dd"
+                },
+                {
+                    "Text": "The DNN collapsed to a simple (linear) model without encoding interactions between different image patches when the task had a simple shortcut solution.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.804976224899292,
+                        "Height": 0.12056855112314224,
+                        "Left": 0.09588205814361572,
+                        "Top": 0.8151856064796448
+                    },
+                    "Id": "16a55279-3d46-46ed-a104-d5e4536baf9c"
+                }
+            ]
+        }
+    ]
+}

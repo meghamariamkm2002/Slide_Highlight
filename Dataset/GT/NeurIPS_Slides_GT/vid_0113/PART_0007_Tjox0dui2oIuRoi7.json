@@ -1,0 +1,89 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,636",
+            "end_time": "00:00:04,047",
+            "transcript": "For TSA task, we selected 18 models for",
+            "MatchedRegion": [
+                {
+                    "Text": "TSA Models",
+                    "BoundingBox": {
+                        "Width": 0.10235267132520676,
+                        "Height": 0.02826162613928318,
+                        "Left": 0.06352730095386505,
+                        "Top": 0.2193138301372528
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ebfe425a-912f-4578-b91b-6b55f370ee31"
+                },
+                {
+                    "Text": "1 statistical machine learning model: SVM",
+                    "BoundingBox": {
+                        "Width": 0.37413179874420166,
+                        "Height": 0.033846572041511536,
+                        "Left": 0.10176096111536026,
+                        "Top": 0.26377737522125244
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f28b4a8d-ff6e-4253-b7ed-25e06a8c9640"
+                },
+                {
+                    "Text": "7 traditional neural network models",
+                    "BoundingBox": {
+                        "Width": 0.324792742729187,
+                        "Height": 0.02843771129846573,
+                        "Left": 0.10211483389139175,
+                        "Top": 0.30858665704727173
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab67e873-69ee-4354-9f05-36a63edbaf4e"
+                },
+                {
+                    "Text": "ASGCN, LSTM, TDLSTM, MemNet, IAN, MGAN and TNet-LF",
+                    "BoundingBox": {
+                        "Width": 0.5141461491584778,
+                        "Height": 0.03226231411099434,
+                        "Left": 0.1393832564353943,
+                        "Top": 0.35344192385673523
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03635a37-85e3-479b-9ec8-6175425b6e31"
+                },
+                {
+                    "Text": "6 general domain PLM (BERT-base-uncased):",
+                    "BoundingBox": {
+                        "Width": 0.3963431417942047,
+                        "Height": 0.03458653390407562,
+                        "Left": 0.10202217102050781,
+                        "Top": 0.39676445722579956
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f4ead939-8f96-4b58-bbf4-49a6bb70e9f6"
+                },
+                {
+                    "Text": "AEN, LCF, BERT-SPC, depGCN, kumaGCN and dotGCN",
+                    "BoundingBox": {
+                        "Width": 0.46393725275993347,
+                        "Height": 0.033781085163354874,
+                        "Left": 0.13929255306720734,
+                        "Top": 0.4423106610774994
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d239c168-4eb7-414e-81af-11ebe77b96a1"
+                },
+                {
+                    "Text": "4 models (BERT-SPC, depGCN, kumaGCN and dotGCN) with COVID-19 related PLM (COVID- TWITTER-BERT)",
+                    "BoundingBox": {
+                        "Width": 0.788621723651886,
+                        "Height": 0.07875664532184601,
+                        "Left": 0.10178869217634201,
+                        "Top": 0.486139178276062
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c257f9f7-15ef-4d93-9aea-9a6d88bd1442"
+                }
+            ]
+        }
+    ]
+}

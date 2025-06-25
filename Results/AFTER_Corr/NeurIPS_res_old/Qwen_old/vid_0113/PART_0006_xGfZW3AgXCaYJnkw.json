@@ -1,0 +1,48 @@
+{
+    "MatchedSlides": [
+        "PART_0001_0TKQIPPtwm9E6HiO",
+        "PART_0002_L6pLWK5w83eRrPzI"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,880",
+            "end_time": "00:00:12,955",
+            "transcript": "For NER benchmarking, we found that COVID Twitter BERT is a strong baseline, but I F values of disease and organization entities are suboptimal.",
+            "MatchedRegion": [
+                {
+                    "Text": "Overall Performance",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.17665474116802216,
+                        "Height": 0.026465918868780136,
+                        "Left": 0.058789487928152084,
+                        "Top": 0.21560300886631012
+                    },
+                    "Id": "8ab07bbe-b7e1-422c-b0cc-2e2ada62591d"
+                },
+                {
+                    "Text": "3.1 Named Entity Recognition (NER) Benchmarking",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.52484130859375,
+                        "Height": 0.04005390405654907,
+                        "Left": 0.027711275964975357,
+                        "Top": 0.1409129649400711
+                    },
+                    "Id": "28e3f71e-95f6-4416-8172-aa3b3f048771"
+                },
+                {
+                    "Text": "The F1 value of Disease and Organization entities is suboptimal.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.557369589805603,
+                        "Height": 0.03351979702711105,
+                        "Left": 0.06093050166964531,
+                        "Top": 0.35642939805984497
+                    },
+                    "Id": "b26fa314-d781-4803-8ce6-a87218158312"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,155 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,729",
+            "end_time": "00:00:09,051",
+            "transcript": "We collect COVID-19 related tweets ranging from February 1, 2020 to September 30, 2021.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,991",
+            "end_time": "00:00:15,972",
+            "transcript": "For data preprocessing, we first remove non-English tweets and retweets.",
+            "MatchedRegion": [
+                {
+                    "Text": "Remove non-English tweets and retweets.",
+                    "BoundingBox": {
+                        "Width": 0.16869069635868073,
+                        "Height": 0.04516444727778435,
+                        "Left": 0.3717837631702423,
+                        "Top": 0.4444856643676758
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9913dbff-e0b8-46b1-8a4f-4139d0d5fcd9",
+                    "Score": 0.8132272958755493
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,733",
+            "end_time": "00:00:19,493",
+            "transcript": "Then we filter out the tweets containing URL.",
+            "MatchedRegion": [
+                {
+                    "Text": "Filter out the tweets containing URLs",
+                    "BoundingBox": {
+                        "Width": 0.19288891553878784,
+                        "Height": 0.021380383521318436,
+                        "Left": 0.37235763669013977,
+                        "Top": 0.5201967358589172
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cef20d93-bb5f-4727-ba7b-6585aed69dc4",
+                    "Score": 0.836881697177887
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,193",
+            "end_time": "00:00:27,095",
+            "transcript": "Afterwards, we use a list of symptoms as keywords to match the tweets to extract medical related tweets.",
+            "MatchedRegion": [
+                {
+                    "Text": "Use a list of symptoms as keywords to match the tweets to extract medical- related tweets.",
+                    "BoundingBox": {
+                        "Width": 0.19922928512096405,
+                        "Height": 0.07126179337501526,
+                        "Left": 0.37176868319511414,
+                        "Top": 0.5692128539085388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f15a974b-6529-492a-9b39-31c58ed23afc",
+                    "Score": 0.9528183937072754
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:28,499",
+            "end_time": "00:00:31,341",
+            "transcript": "Finally, 10,000 tweets are annotated.",
+            "MatchedRegion": [
+                {
+                    "Text": "10000 tweets are annotated",
+                    "BoundingBox": {
+                        "Width": 0.149104505777359,
+                        "Height": 0.017682475969195366,
+                        "Left": 0.6870322823524475,
+                        "Top": 0.4061446785926819
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0c0cc647-beea-4620-9ea2-476286cb8f64",
+                    "Score": 0.9184942245483398
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:32,102",
+            "end_time": "00:00:39,026",
+            "transcript": "Among them, 6,000 are randomly sampled, and the other 4,000 are from the model label data.",
+            "MatchedRegion": [
+                {
+                    "Text": "6000 are randomly sampled",
+                    "BoundingBox": {
+                        "Width": 0.14772169291973114,
+                        "Height": 0.021494193002581596,
+                        "Left": 0.7003564238548279,
+                        "Top": 0.439775675535202
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e4274bb9-114f-43a3-b2d9-21ea0d44f2dd",
+                    "Score": 0.6709570288658142
+                },
+                {
+                    "Text": "4000 are from the model labeled data (manually checked)",
+                    "BoundingBox": {
+                        "Width": 0.19823044538497925,
+                        "Height": 0.04447022080421448,
+                        "Left": 0.7003647089004517,
+                        "Top": 0.4724932610988617
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6de60e04-6c07-4f58-8d3e-2aa10197c582",
+                    "Score": 0.6276512145996094
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:39,667",
+            "end_time": "00:00:41,248",
+            "transcript": "All of them are manually checked.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:42,229",
+            "end_time": "00:00:46,532",
+            "transcript": "We define seven entity types based on public health research needs.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:47,333",
+            "end_time": "00:00:52,260",
+            "transcript": "including three general entity tabs and four medical entity tabs for annotation.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:53,221",
+            "end_time": "00:01:02,955",
+            "transcript": "In particular, we select four entity tabs for additional sentiment annotation with three types of sentiment labels, positive, negative,",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_zPV1gK57dXUXzsBJ",
+            "Score": 0.7478058338165283
+        },
+        {
+            "slide": "PART_0001_0TKQIPPtwm9E6HiO",
+            "Score": 0.7125662565231323
+        },
+        {
+            "slide": "PART_0002_L6pLWK5w83eRrPzI",
+            "Score": 0.7263714075088501
+        }
+    ]
+}

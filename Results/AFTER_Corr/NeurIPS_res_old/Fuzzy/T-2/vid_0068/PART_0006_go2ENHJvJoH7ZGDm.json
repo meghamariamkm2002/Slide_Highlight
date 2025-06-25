@@ -1,0 +1,29 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,069",
+            "end_time": "00:00:00,849",
+            "transcript": "from the teacher.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,350",
+            "end_time": "00:00:10,072",
+            "transcript": "We asked several questions related to the performance of the model where it is fine-tuned in the block-by-block setting compared to that when trained normally.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,913",
+            "end_time": "00:00:16,255",
+            "transcript": "From the result in this figure, we can see that in all cases, the student model is able to outperform the teacher.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:17,055",
+            "end_time": "00:00:25,958",
+            "transcript": "However, when compared to the accuracy achievable when a student is trained normally, fine-tuning does not always result in improvement, especially when a teacher",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

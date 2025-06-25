@@ -1,0 +1,66 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,874",
+            "end_time": "00:00:18,260",
+            "transcript": "handband takes input the structure of protein and structure of ligands and divides the protein into pockets, functional blocks, and models their interaction with the ligand through trigonometric distance maps.",
+            "MatchedRegion": [
+                {
+                    "Text": "Block Distance Maps DP Segmentation GNN h Interaction Map Prediction Contrastive Protein Functional Blocks Prioritization Generation Loss Interaction Matrix Z Binding Affinity 3D Initialization GNN Trigonometry-aware Prediction h Message Updating CH2 Ligand Distance Map Dc Drug Ligand Conformer",
+                    "BoundingBox": {
+                        "Width": 0.8570514917373657,
+                        "Height": 0.5174975991249084,
+                        "Left": 0.060255348682403564,
+                        "Top": 0.17480431497097015
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a52724c9-3be3-4214-b653-d0bfd32bc581",
+                    "Score": 0.6454455256462097
+                },
+                {
+                    "Text": "Classical Docking Methods TankBind Greater accuracy Empirical scoring functions Data-driven scoring function Higher efficiency Tedious sampling One-shot generation Allosteric-aware Focusing on local binding region Leveraging global and local information",
+                    "BoundingBox": {
+                        "Width": 0.8663932681083679,
+                        "Height": 0.20084276795387268,
+                        "Left": 0.06702224910259247,
+                        "Top": 0.7654241323471069
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "f32af8fd-9c50-4189-9444-3bcc251afa4d",
+                    "Score": 0.7340009808540344
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,080",
+            "end_time": "00:00:23,922",
+            "transcript": "And we also build a contrastive loss to prioritize the native blocks.",
+            "MatchedRegion": [
+                {
+                    "Text": "Block Distance Maps DP Segmentation GNN h Interaction Map Prediction Contrastive Protein Functional Blocks Prioritization Generation Loss Interaction Matrix Z Binding Affinity 3D Initialization GNN Trigonometry-aware Prediction h Message Updating CH2 Ligand Distance Map Dc Drug Ligand Conformer",
+                    "BoundingBox": {
+                        "Width": 0.8570514917373657,
+                        "Height": 0.5174975991249084,
+                        "Left": 0.060255348682403564,
+                        "Top": 0.17480431497097015
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a52724c9-3be3-4214-b653-d0bfd32bc581",
+                    "Score": 0.6454455256462097
+                },
+                {
+                    "Text": "Classical Docking Methods TankBind Greater accuracy Empirical scoring functions Data-driven scoring function Higher efficiency Tedious sampling One-shot generation Allosteric-aware Focusing on local binding region Leveraging global and local information",
+                    "BoundingBox": {
+                        "Width": 0.8663932681083679,
+                        "Height": 0.20084276795387268,
+                        "Left": 0.06702224910259247,
+                        "Top": 0.7654241323471069
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "f32af8fd-9c50-4189-9444-3bcc251afa4d",
+                    "Score": 0.7340009808540344
+                }
+            ]
+        }
+    ]
+}

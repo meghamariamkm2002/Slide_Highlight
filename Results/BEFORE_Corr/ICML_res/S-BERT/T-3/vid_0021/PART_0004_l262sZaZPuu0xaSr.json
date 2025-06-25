@@ -1,0 +1,24 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,169",
+            "end_time": "00:00:09,871",
+            "transcript": "We compare CFIL with the state of the art in three different settings on the standard Mujoko benchmarks using only a single expert trajectory, first in the standard state action setting.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. Standard Mujoco benchmarks, comparing with SOTA on a single expert trajectory.",
+                    "BoundingBox": {
+                        "Width": 0.6722906827926636,
+                        "Height": 0.033818282186985016,
+                        "Left": 0.08439203351736069,
+                        "Top": 0.2442011684179306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "30021232-b692-4216-9fb1-596ef6ad3e17",
+                    "Score": 0.6494450569152832
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

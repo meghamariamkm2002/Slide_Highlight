@@ -1,0 +1,86 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,370",
+            "end_time": "00:00:06,887",
+            "transcript": "To summarize, we proposed car lane, the first three ways seem to real domain adaptation benchmark for 2D lane detection.",
+            "MatchedRegion": [
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e7c2f6f1-0471-4097-a607-5773d64193cb",
+                    "Score": 0.7853881278538811
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,742",
+            "end_time": "00:00:15,526",
+            "transcript": "The current difficulties of examined UDAR methods to align the source and target domains confirm the need for the proposed car lane benchmark.",
+            "MatchedRegion": [
+                {
+                    "Text": "The current difficulties of the examined UDA methods to adequately align the source and target domains confirm the need for the proposed CARLANE benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.6553258299827576,
+                        "Height": 0.10743511468172073,
+                        "Left": 0.19662517309188843,
+                        "Top": 0.4423805773258209
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7224e638-6da6-410d-91ff-5968469688b9",
+                    "Score": 0.8956228956228957
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,206",
+            "end_time": "00:00:20,449",
+            "transcript": "UDAR methods should be tested with care and under the right conditions on a full-scale car.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:20,989",
+            "end_time": "00:00:26,532",
+            "transcript": "However, we were testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:27,332",
+            "end_time": "00:00:32,335",
+            "transcript": "We believe that car lane eases the development and comparison of UDAR methods for lane detection.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_Cx54Xgy86xzmhZ9m",
+            "Score": 0.7411963939666748
+        },
+        {
+            "slide": "PART_0002_VPQBRKPuZ5gIgtxw",
+            "Score": 0.7944934368133545
+        },
+        {
+            "slide": "PART_0003_AVYdxgQ3ohclNiow",
+            "Score": 0.7431637048721313
+        },
+        {
+            "slide": "PART_0004_CwGPLtp3Ag53OvR5",
+            "Score": 0.7285560369491577
+        },
+        {
+            "slide": "PART_0008_Kmdtc9MGey4QaMVQ",
+            "Score": 0.6924980878829956
+        },
+        {
+            "slide": "PART_0013_G0YH2yrhluA9UwdS",
+            "Score": 0.60572350025177
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:08,878",
+            "transcript": "We conduct various experiments from different perspectives of the proposed information measure to show its properties.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:09,619",
+            "end_time": "00:00:15,386",
+            "transcript": "And we also compare the performance of our DSC with the representative methods.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_rr0nhllbgyhEHg7P",
+            "Score": 0.6198109984397888
+        },
+        {
+            "slide": "PART_0001_R7Vln9RC6tI0pbWc",
+            "Score": 0.6023746728897095
+        },
+        {
+            "slide": "PART_0002_iffnO1aqYieLSNQl",
+            "Score": 0.7984064817428589
+        },
+        {
+            "slide": "PART_0003_j1ClhMhgU1PD5wYA",
+            "Score": 0.6718988418579102
+        },
+        {
+            "slide": "PART_0004_kJOwEfCWYdy5iAHz",
+            "Score": 0.6105150580406189
+        }
+    ]
+}

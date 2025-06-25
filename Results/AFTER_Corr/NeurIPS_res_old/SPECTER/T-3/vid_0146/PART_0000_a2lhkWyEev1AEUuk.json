@@ -1,0 +1,167 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,662",
+            "end_time": "00:00:16,638",
+            "transcript": "Hello, my name is Hila and I'll be presenting the work Optimizing Relevance Maps of Vision Transformers improves robustness, which is a collaboration with Edan Schwartz and Leo Wolfe from Tel Aviv University.",
+            "MatchedRegion": [
+                {
+                    "Text": "TEL AVIV UNIVERSITY",
+                    "BoundingBox": {
+                        "Width": 0.08984767645597458,
+                        "Height": 0.05446271598339081,
+                        "Left": 0.06914312392473221,
+                        "Top": 0.13165433704853058
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "baf86794-ccb3-4c0d-a7db-86280299f083",
+                    "Score": 0.6037933826446533
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.26300248503685,
+                        "Height": 0.20113912224769592,
+                        "Left": 0.6870982050895691,
+                        "Top": 0.0063102394342422485
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "5e2918b3-6287-43ad-866c-2c510e31caf5",
+                    "Score": 0.651052713394165
+                },
+                {
+                    "Text": "Optimizing Relevance Maps of Vision Transformers",
+                    "BoundingBox": {
+                        "Width": 0.6810992956161499,
+                        "Height": 0.053946129977703094,
+                        "Left": 0.14617128670215607,
+                        "Top": 0.25092050433158875
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "996a1929-8bef-4779-9938-c056ef1072a3",
+                    "Score": 0.9291723370552063
+                },
+                {
+                    "Text": "Improves Robustness",
+                    "BoundingBox": {
+                        "Width": 0.2840721309185028,
+                        "Height": 0.05039965361356735,
+                        "Left": 0.34855151176452637,
+                        "Top": 0.32445088028907776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "30b12215-08fa-40f5-9d6a-5878264cb865",
+                    "Score": 0.7303541898727417
+                },
+                {
+                    "Text": "Hila Chefer, Idan Schwartz, Lior Wolf",
+                    "BoundingBox": {
+                        "Width": 0.2897002100944519,
+                        "Height": 0.02778726816177368,
+                        "Left": 0.3463900089263916,
+                        "Top": 0.4101695418357849
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "1ca48991-d370-4d63-9af9-9f3cd31ea96f",
+                    "Score": 0.6880435347557068
+                },
+                {
+                    "Text": "The School of Computer Science, Tel Aviv University",
+                    "BoundingBox": {
+                        "Width": 0.28987109661102295,
+                        "Height": 0.022799955680966377,
+                        "Left": 0.34569787979125977,
+                        "Top": 0.4701268970966339
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "f6610243-a034-42a8-a184-9159dccce9a6",
+                    "Score": 0.6225382685661316
+                },
+                {
+                    "Text": "A lemon is classified as a golf ball due to the grass in the background:",
+                    "BoundingBox": {
+                        "Width": 0.2688960134983063,
+                        "Height": 0.01674637198448181,
+                        "Left": 0.34655144810676575,
+                        "Top": 0.5358894467353821
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9d992fcb-4f0e-49b2-8bab-c35e1c72f686",
+                    "Score": 0.6217560768127441
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.11802230030298233,
+                        "Height": 0.09006748348474503,
+                        "Left": 0.42213693261146545,
+                        "Top": 0.5625140070915222
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "16fc4d78-5216-4d00-835b-a45bcdfd1893",
+                    "Score": 0.7219483256340027
+                },
+                {
+                    "Text": "Golf ball Lemon",
+                    "BoundingBox": {
+                        "Width": 0.06663525849580765,
+                        "Height": 0.011963303200900555,
+                        "Left": 0.4670827090740204,
+                        "Top": 0.6558395028114319
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2ab28215-ded5-417b-a246-a0939b7c114b",
+                    "Score": 0.6592425107955933
+                },
+                {
+                    "Text": "An orange is classified as a maze due to the carpet in the background:",
+                    "BoundingBox": {
+                        "Width": 0.2710270583629608,
+                        "Height": 0.01616746000945568,
+                        "Left": 0.34665200114250183,
+                        "Top": 0.6867737174034119
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "21634290-d160-45b1-8517-c09e02029fec",
+                    "Score": 0.6415349245071411
+                },
+                {
+                    "Text": "Input Original Ours Maze Orange",
+                    "BoundingBox": {
+                        "Width": 0.1213998943567276,
+                        "Height": 0.10706831514835358,
+                        "Left": 0.4210928678512573,
+                        "Top": 0.7169889211654663
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "38f5c9f7-606e-417b-a90e-c8cfa62fb338",
+                    "Score": 0.7074752449989319
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.119045689702034,
+                        "Height": 0.0863838791847229,
+                        "Left": 0.4223940372467041,
+                        "Top": 0.8766829967498779
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4c56ccca-c970-44d3-8023-af4624600376",
+                    "Score": 0.7219483256340027
+                },
+                {
+                    "Text": "Snowplow School bus",
+                    "BoundingBox": {
+                        "Width": 0.07576784491539001,
+                        "Height": 0.014760248363018036,
+                        "Left": 0.4641840159893036,
+                        "Top": 0.9671051502227783
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f8792f2e-178a-45bf-9754-42ab4593f35a",
+                    "Score": 0.600563645362854
+                }
+            ]
+        }
+    ]
+}

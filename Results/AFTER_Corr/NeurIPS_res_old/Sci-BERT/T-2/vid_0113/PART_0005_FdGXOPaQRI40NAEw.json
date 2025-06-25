@@ -1,0 +1,71 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,570",
+            "end_time": "00:00:20,996",
+            "transcript": "We evaluated the performance of four kinds of models, traditional statistical machine learning models, neural networks, general-domain large-scale pre-trained language models, and COVID-19-related pre-trained language models for the NER task and the TSA task on MassCov dataset.",
+            "MatchedRegion": [
+                {
+                    "Text": "3.1 Named Entity Recognition (NER) Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.5259122848510742,
+                        "Height": 0.041582200676202774,
+                        "Left": 0.027423763647675514,
+                        "Top": 0.140104278922081
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "ee06a31f-d3d1-498b-a562-fe2f56b5c2da",
+                    "Score": 0.715355634689331
+                },
+                {
+                    "Text": "Train-dev-test ratio is 70:15:15.",
+                    "BoundingBox": {
+                        "Width": 0.26241636276245117,
+                        "Height": 0.027587708085775375,
+                        "Left": 0.12232817709445953,
+                        "Top": 0.6357335448265076
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "71d47f16-2875-4b66-bfb4-e47a559aafcc",
+                    "Score": 0.7231398820877075
+                },
+                {
+                    "Text": "All the experiments of NER models are conducted using NCRF+ (Yang and Zhang, 2018)",
+                    "BoundingBox": {
+                        "Width": 0.7623849511146545,
+                        "Height": 0.0345710813999176,
+                        "Left": 0.10169412940740585,
+                        "Top": 0.7285919189453125
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "af21de6a-52e6-4750-bfab-5590d24e4919",
+                    "Score": 0.7364103198051453
+                },
+                {
+                    "Text": "Hyperparameters of the models are default settings from Yang et al. (2018a).",
+                    "BoundingBox": {
+                        "Width": 0.6686153411865234,
+                        "Height": 0.03488851711153984,
+                        "Left": 0.10173113644123077,
+                        "Top": 0.7734585404396057
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e4a94676-c80b-4b1f-a54f-b7fc966eb238",
+                    "Score": 0.7373362183570862
+                },
+                {
+                    "Text": "We reported the results based on experiments on 5 different random seeds: 22, 32, 42, 52 and 62.",
+                    "BoundingBox": {
+                        "Width": 0.8592451810836792,
+                        "Height": 0.03421143442392349,
+                        "Left": 0.10155075043439865,
+                        "Top": 0.8180322051048279
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3473621f-cc18-4ed3-8517-4ce3c71b6588",
+                    "Score": 0.8111896514892578
+                }
+            ]
+        }
+    ]
+}

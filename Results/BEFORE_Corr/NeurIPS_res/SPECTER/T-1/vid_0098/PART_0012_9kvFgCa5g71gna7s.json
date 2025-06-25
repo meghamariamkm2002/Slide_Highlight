@@ -1,0 +1,138 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,910",
+            "end_time": "00:00:04,596",
+            "transcript": "In this slide, we show qualitative results of target domain predictions.",
+            "MatchedRegion": [
+                {
+                    "Text": "INFORMATIC PROCESSING SYSTEM",
+                    "BoundingBox": {
+                        "Width": 0.09252654016017914,
+                        "Height": 0.07987198233604431,
+                        "Left": 0.8913556337356567,
+                        "Top": 0.013704127632081509
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "93c722f9-ca38-46da-b764-f87e1038e461",
+                    "Score": 0.6545064449310303
+                },
+                {
+                    "Text": "MoLane TuLane MuLane UFLD-SO DANN ADDA SGADA SGPCS UFLD-TO",
+                    "BoundingBox": {
+                        "Width": 0.4606419801712036,
+                        "Height": 0.5945661664009094,
+                        "Left": 0.27025097608566284,
+                        "Top": 0.16988888382911682
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3039b7d9-1eeb-46d3-b00a-019ba1f785bf",
+                    "Score": 0.6582216024398804
+                },
+                {
+                    "Text": "Qualitative results of target domain predictions. Ground truth lane annotations are marked in blue, predictions in red.",
+                    "BoundingBox": {
+                        "Width": 0.36110904812812805,
+                        "Height": 0.052711647003889084,
+                        "Left": 0.3184841275215149,
+                        "Top": 0.791182279586792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bdb595d-a816-4b17-9df5-415a138974e1",
+                    "Score": 0.8865182995796204
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07987292855978012,
+                        "Height": 0.06417457014322281,
+                        "Left": 0.3501730263233185,
+                        "Top": 0.9241310954093933
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4f2ff618-048d-4600-a4f2-9e17a0268b06",
+                    "Score": 0.6248287558555603
+                },
+                {
+                    "Text": "Technische ni Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06815895438194275,
+                        "Height": 0.06822667270898819,
+                        "Left": 0.44531750679016113,
+                        "Top": 0.9210800528526306
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e4338a1f-d3f1-4bd1-8f0b-fbd3efa8807d",
+                    "Score": 0.7238566875457764
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,277",
+            "end_time": "00:00:08,822",
+            "transcript": "Ground truth lane annotations are marked in blue, predictions in red.",
+            "MatchedRegion": [
+                {
+                    "Text": "INFORMATIC PROCESSING SYSTEM",
+                    "BoundingBox": {
+                        "Width": 0.09252654016017914,
+                        "Height": 0.07987198233604431,
+                        "Left": 0.8913556337356567,
+                        "Top": 0.013704127632081509
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "93c722f9-ca38-46da-b764-f87e1038e461",
+                    "Score": 0.6545064449310303
+                },
+                {
+                    "Text": "MoLane TuLane MuLane UFLD-SO DANN ADDA SGADA SGPCS UFLD-TO",
+                    "BoundingBox": {
+                        "Width": 0.4606419801712036,
+                        "Height": 0.5945661664009094,
+                        "Left": 0.27025097608566284,
+                        "Top": 0.16988888382911682
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3039b7d9-1eeb-46d3-b00a-019ba1f785bf",
+                    "Score": 0.6582216024398804
+                },
+                {
+                    "Text": "Qualitative results of target domain predictions. Ground truth lane annotations are marked in blue, predictions in red.",
+                    "BoundingBox": {
+                        "Width": 0.36110904812812805,
+                        "Height": 0.052711647003889084,
+                        "Left": 0.3184841275215149,
+                        "Top": 0.791182279586792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bdb595d-a816-4b17-9df5-415a138974e1",
+                    "Score": 0.8865182995796204
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07987292855978012,
+                        "Height": 0.06417457014322281,
+                        "Left": 0.3501730263233185,
+                        "Top": 0.9241310954093933
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4f2ff618-048d-4600-a4f2-9e17a0268b06",
+                    "Score": 0.6248287558555603
+                },
+                {
+                    "Text": "Technische ni Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06815895438194275,
+                        "Height": 0.06822667270898819,
+                        "Left": 0.44531750679016113,
+                        "Top": 0.9210800528526306
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e4338a1f-d3f1-4bd1-8f0b-fbd3efa8807d",
+                    "Score": 0.7238566875457764
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,296",
+            "end_time": "00:00:10,126",
+            "transcript": "On the other hand, sequence memory models still have a capacity much less than the number of neurons with the capacity of a recent model proposed in 2019 comparable to the models proposed in 1986.",
+            "MatchedRegion": [
+                {
+                    "Text": "Multi-timescale networks (2019)",
+                    "BoundingBox": {
+                        "Width": 0.3583921194076538,
+                        "Height": 0.04484536498785019,
+                        "Left": 0.5024678707122803,
+                        "Top": 0.39205992221832275
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "201a2dd1-dd8c-4655-a32d-7ede53d41a2c",
+                    "Score": 0.7529854774475098
+                },
+                {
+                    "Text": "Discrete updates",
+                    "BoundingBox": {
+                        "Width": 0.09814564883708954,
+                        "Height": 0.0734066292643547,
+                        "Left": 0.1622532308101654,
+                        "Top": 0.6486340761184692
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "db1108d2-5382-4978-bcbf-f199e3244be5",
+                    "Score": 0.7385183572769165
+                },
+                {
+                    "Text": "Low capacity (0.14 N)",
+                    "BoundingBox": {
+                        "Width": 0.14544731378555298,
+                        "Height": 0.07588116079568863,
+                        "Left": 0.16205596923828125,
+                        "Top": 0.727685272693634
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e1579bcd-09cf-4ecd-8c31-fbf981fc4c9c",
+                    "Score": 0.7170377373695374
+                },
+                {
+                    "Text": "Continuous updates",
+                    "BoundingBox": {
+                        "Width": 0.1261545866727829,
+                        "Height": 0.07500377297401428,
+                        "Left": 0.5860569477081299,
+                        "Top": 0.6285744309425354
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a2c3241-0b65-4a4e-b9a6-1401012a4b75",
+                    "Score": 0.7047420740127563
+                },
+                {
+                    "Text": "Low capacity (0.14 N)",
+                    "BoundingBox": {
+                        "Width": 0.14552102982997894,
+                        "Height": 0.07540615648031235,
+                        "Left": 0.5860936045646667,
+                        "Top": 0.7087802886962891
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c5348bf7-2d6a-4423-9430-a05a826dad3b",
+                    "Score": 0.7170377373695374
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,847",
+            "end_time": "00:00:14,991",
+            "transcript": "Further, there is no theoretical paradigm governing the design of these models.",
+            "MatchedRegion": [
+                {
+                    "Text": "Continuous updates",
+                    "BoundingBox": {
+                        "Width": 0.1261545866727829,
+                        "Height": 0.07500377297401428,
+                        "Left": 0.5860569477081299,
+                        "Top": 0.6285744309425354
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a2c3241-0b65-4a4e-b9a6-1401012a4b75",
+                    "Score": 0.7047420740127563
+                }
+            ]
+        }
+    ]
+}

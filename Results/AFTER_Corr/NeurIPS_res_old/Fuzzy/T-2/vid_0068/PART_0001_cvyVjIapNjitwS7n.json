@@ -1,0 +1,40 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,010",
+            "end_time": "00:00:06,312",
+            "transcript": "The focus of our paper is on the macro search space for neural architecture search.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,633",
+            "end_time": "00:00:18,559",
+            "transcript": "Now, traditional cell-based approach restricts the search to decide the operation and structure of a single block only, then the same block is repeated to form an end-to-end model.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:19,480",
+            "end_time": "00:00:25,464",
+            "transcript": "macrosurface enables the individual search for each macroblock in a DNN, leading to better performance.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:26,084",
+            "end_time": "00:00:31,167",
+            "transcript": "However, it is expensive because the subspace size grows exponentially with the number of blocks.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:31,968",
+            "end_time": "00:00:42,995",
+            "transcript": "To provide a systematic study of the performance of North's algorithm on a macro surface, we release blocks for a first large-scale benchmark and study of a macro surface.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_DlBk3sbmAprZdiH6",
+            "Score": 0.730526328086853
+        }
+    ]
+}

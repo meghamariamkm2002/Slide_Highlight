@@ -1,0 +1,98 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,323",
+            "end_time": "00:00:06,766",
+            "transcript": "Before diving into the main topic, let us understand concepts from the perspective of a DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Preliminaries: Understanding concepts encoded by a DNN",
+                    "BoundingBox": {
+                        "Width": 0.827545166015625,
+                        "Height": 0.05766775459051132,
+                        "Left": 0.09811194986104965,
+                        "Top": 0.06659873574972153
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "2de4ae58-f8e1-49b0-a464-0375adaa7861",
+                    "Score": 0.6740922927856445
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,807",
+            "end_time": "00:00:14,650",
+            "transcript": "Briefly speaking, each concept is activated when all pixels or words composing this concept exist.",
+            "MatchedRegion": [
+                {
+                    "Text": "Each concept represents an AND relationship between input variables, i.e., a concept is activated only when all variables in this concept exist (not masked).",
+                    "BoundingBox": {
+                        "Width": 0.6567968130111694,
+                        "Height": 0.07813157141208649,
+                        "Left": 0.18507501482963562,
+                        "Top": 0.206549271941185
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "508012c9-68ca-4a81-8603-d6b1aab7008b",
+                    "Score": 0.6583899855613708
+                },
+                {
+                    "Text": "input image activated concepts (semantic regions) (None)",
+                    "BoundingBox": {
+                        "Width": 0.4357546865940094,
+                        "Height": 0.5529811382293701,
+                        "Left": 0.04702353477478027,
+                        "Top": 0.39411255717277527
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3ef5a744-95d8-4f3c-9ff7-9af26cb7384b",
+                    "Score": 0.6501240730285645
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,591",
+            "end_time": "00:00:22,615",
+            "transcript": "For example, when we feed a basket image or a basket sentence to the DNN, no concept will be activated.",
+            "MatchedRegion": [
+                {
+                    "Text": "Preliminaries: Understanding concepts encoded by a DNN",
+                    "BoundingBox": {
+                        "Width": 0.827545166015625,
+                        "Height": 0.05766775459051132,
+                        "Left": 0.09811194986104965,
+                        "Top": 0.06659873574972153
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "2de4ae58-f8e1-49b0-a464-0375adaa7861",
+                    "Score": 0.6740922927856445
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:23,885",
+            "end_time": "00:00:31,837",
+            "transcript": "However, when less portion of the input sample is masked, as shown in these two examples, more concepts will emerge.",
+            "MatchedRegion": [
+                {
+                    "Text": "Each concept represents an AND relationship between input variables, i.e., a concept is activated only when all variables in this concept exist (not masked).",
+                    "BoundingBox": {
+                        "Width": 0.6567968130111694,
+                        "Height": 0.07813157141208649,
+                        "Left": 0.18507501482963562,
+                        "Top": 0.206549271941185
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "508012c9-68ca-4a81-8603-d6b1aab7008b",
+                    "Score": 0.6583899855613708
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_JobZKQGelRI1kFCv",
+            "Score": 0.6342036724090576
+        }
+    ]
+}

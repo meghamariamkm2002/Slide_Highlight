@@ -1,0 +1,5 @@
+start	end	text
+2030	4951	This figure shows an overview of the block search space.
+5852	12034	The network architecture consists of three stages, each containing a searchable block and a fixed reduction block.
+12694	16476	The searchable block architecture can be expressed as a defensible supernet.
+17156	20878	Each stage is allowed to be different to construct the

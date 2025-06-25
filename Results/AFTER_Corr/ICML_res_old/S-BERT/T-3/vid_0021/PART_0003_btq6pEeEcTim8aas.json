@@ -1,0 +1,91 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,850",
+            "end_time": "00:00:07,094",
+            "transcript": "To couple them, we employ the Donsker-Varadhan form of the KL whose optimality point is precisely at the negative log distribution ratio.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,555",
+            "end_time": "00:00:13,119",
+            "transcript": "Therefore, we can alternate between computing x through the DV and using -x as your reward in an RL algorithm.",
+            "MatchedRegion": [
+                {
+                    "Text": "Can compute X through the DV and use -X as reward in an RL algorithm",
+                    "BoundingBox": {
+                        "Width": 0.3708685040473938,
+                        "Height": 0.02624555677175522,
+                        "Left": 0.14954575896263123,
+                        "Top": 0.4718223512172699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bdd204f0-974f-4dd5-99eb-612d5e8b7e61",
+                    "Score": 0.9520257115364075
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,780",
+            "end_time": "00:00:23,988",
+            "transcript": "This leads directly to our approach for estimating the longer ratio by coupling two flows through x, that is, instead of training two flows independently, we propose to do so by injecting the inductive bias seen in the slide.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:24,628",
+            "end_time": "00:00:33,833",
+            "transcript": "This coupling guarantees more meaningful values when the flows are evaluated on each other\u2019s data, since it has already occurred during the maximization phase, hence sidestepping the ODE I should have described earlier.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:34,294",
+            "end_time": "00:00:36,035",
+            "transcript": "The new BC graph illustrates this advantage.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:36,695",
+            "end_time": "00:00:44,059",
+            "transcript": "Some additional components we find useful, whose motivation and details can be found in the paper, are a squasher on.X, an optional flow regularization and smoothing.",
+            "MatchedRegion": [
+                {
+                    "Text": "Flow regularization",
+                    "BoundingBox": {
+                        "Width": 0.14271873235702515,
+                        "Height": 0.027549488469958305,
+                        "Left": 0.12034054845571518,
+                        "Top": 0.7314811944961548
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfc7bc0f-2a04-45d6-b4a4-ff6e6315f306",
+                    "Score": 0.6140356063842773
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:44,760",
+            "end_time": "00:00:49,002",
+            "transcript": "Finally, combining all these elements is our algorithm, coupled flow imitation learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "Coupled Flow Imitation Learning (CFIL)",
+                    "BoundingBox": {
+                        "Width": 0.30069637298583984,
+                        "Height": 0.03103284165263176,
+                        "Left": 0.08596180379390717,
+                        "Top": 0.815504789352417
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a63e44fa-d29b-4cd0-9fce-600b8a098471",
+                    "Score": 0.8169440627098083
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0002_hPDkABCnGz9irRnM",
+            "Score": 0.7639694809913635
+        }
+    ]
+}

@@ -1,0 +1,838 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,669",
+            "transcript": "the well-domained.",
+            "MatchedRegion": [
+                {
+                    "Text": "The CARLANE Benchmark",
+                    "BoundingBox": {
+                        "Width": 0.3831692934036255,
+                        "Height": 0.047246333211660385,
+                        "Left": 0.03454586863517761,
+                        "Top": 0.035564593970775604
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6522954702377319
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1079191341996193,
+                        "Height": 0.08055896311998367,
+                        "Left": 0.8881627321243286,
+                        "Top": 0.012679819017648697
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6154926419258118
+                },
+                {
+                    "Text": "The CARLANE Benchmark consists of three distinct sim-to-real datasets, which we build from our three different domains:",
+                    "BoundingBox": {
+                        "Width": 0.850683331489563,
+                        "Height": 0.06193832680583,
+                        "Left": 0.053603965789079666,
+                        "Top": 0.15877434611320496
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6610334515571594
+                },
+                {
+                    "Text": "MoLane",
+                    "BoundingBox": {
+                        "Width": 0.08251677453517914,
+                        "Height": 0.03002176061272621,
+                        "Left": 0.03697475045919418,
+                        "Top": 0.38053154945373535
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6266568899154663
+                },
+                {
+                    "Text": "focuses on abstract lane markings in the domain of a 1/8th Model vehicle.",
+                    "BoundingBox": {
+                        "Width": 0.30508163571357727,
+                        "Height": 0.06978338211774826,
+                        "Left": 0.1363299936056137,
+                        "Top": 0.3613431453704834
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6963214874267578
+                },
+                {
+                    "Text": "incorporates balanced and domain-randomized TuLane images from simulation as the source domain and the well-known TuSimple dataset.",
+                    "BoundingBox": {
+                        "Width": 0.4539164900779724,
+                        "Height": 0.11083197593688965,
+                        "Left": 0.04141167551279068,
+                        "Top": 0.5056071877479553
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7225030064582825
+                },
+                {
+                    "Text": "is a balanced combination of MoLane and MuLane TuLane with two target domains.",
+                    "BoundingBox": {
+                        "Width": 0.41626104712486267,
+                        "Height": 0.07118652015924454,
+                        "Left": 0.03732973709702492,
+                        "Top": 0.6890611052513123
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7437991499900818
+                },
+                {
+                    "Text": "MoLane",
+                    "BoundingBox": {
+                        "Width": 0.03880199044942856,
+                        "Height": 0.015417697839438915,
+                        "Left": 0.6539137959480286,
+                        "Top": 0.4361543655395508
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6266568899154663
+                },
+                {
+                    "Text": "Source Target Images sampled from our CARLANE Benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.4361855387687683,
+                        "Height": 0.24813103675842285,
+                        "Left": 0.5323161482810974,
+                        "Top": 0.4499131441116333
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7770992517471313
+                },
+                {
+                    "Text": "TuLane",
+                    "BoundingBox": {
+                        "Width": 0.03585987165570259,
+                        "Height": 0.015084749087691307,
+                        "Left": 0.8560206890106201,
+                        "Top": 0.4362547993659973
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.628490686416626
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.043437208980321884,
+                        "Height": 0.04210244491696358,
+                        "Left": 0.14692151546478271,
+                        "Top": 0.9292296171188354
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6005917191505432
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07775899767875671,
+                        "Height": 0.06372758001089096,
+                        "Left": 0.35114288330078125,
+                        "Top": 0.9236721396446228
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6039164662361145
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.06033598259091377,
+                        "Height": 0.018695039674639702,
+                        "Left": 0.8590977787971497,
+                        "Top": 0.9449163675308228
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.624885618686676
+                },
+                {
+                    "Text": "4",
+                    "BoundingBox": {
+                        "Width": 0.00743131572380662,
+                        "Height": 0.016669830307364464,
+                        "Left": 0.9539194107055664,
+                        "Top": 0.9455747604370117
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "LAYOUT_PAGE_NUMBER",
+                    "Score": 0.6247464418411255
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,770",
+            "end_time": "00:00:07,052",
+            "transcript": "The CARLANE Benchmark consists of three distinct sim-to-real datasets, which we build from our three different domains",
+            "MatchedRegion": [
+                {
+                    "Text": "The CARLANE Benchmark",
+                    "BoundingBox": {
+                        "Width": 0.3831692934036255,
+                        "Height": 0.047246333211660385,
+                        "Left": 0.03454586863517761,
+                        "Top": 0.035564593970775604
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6522954702377319
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1079191341996193,
+                        "Height": 0.08055896311998367,
+                        "Left": 0.8881627321243286,
+                        "Top": 0.012679819017648697
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6154926419258118
+                },
+                {
+                    "Text": "The CARLANE Benchmark consists of three distinct sim-to-real datasets, which we build from our three different domains:",
+                    "BoundingBox": {
+                        "Width": 0.850683331489563,
+                        "Height": 0.06193832680583,
+                        "Left": 0.053603965789079666,
+                        "Top": 0.15877434611320496
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6610334515571594
+                },
+                {
+                    "Text": "MoLane",
+                    "BoundingBox": {
+                        "Width": 0.08251677453517914,
+                        "Height": 0.03002176061272621,
+                        "Left": 0.03697475045919418,
+                        "Top": 0.38053154945373535
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6266568899154663
+                },
+                {
+                    "Text": "focuses on abstract lane markings in the domain of a 1/8th Model vehicle.",
+                    "BoundingBox": {
+                        "Width": 0.30508163571357727,
+                        "Height": 0.06978338211774826,
+                        "Left": 0.1363299936056137,
+                        "Top": 0.3613431453704834
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6963214874267578
+                },
+                {
+                    "Text": "incorporates balanced and domain-randomized TuLane images from simulation as the source domain and the well-known TuSimple dataset.",
+                    "BoundingBox": {
+                        "Width": 0.4539164900779724,
+                        "Height": 0.11083197593688965,
+                        "Left": 0.04141167551279068,
+                        "Top": 0.5056071877479553
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7225030064582825
+                },
+                {
+                    "Text": "is a balanced combination of MoLane and MuLane TuLane with two target domains.",
+                    "BoundingBox": {
+                        "Width": 0.41626104712486267,
+                        "Height": 0.07118652015924454,
+                        "Left": 0.03732973709702492,
+                        "Top": 0.6890611052513123
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7437991499900818
+                },
+                {
+                    "Text": "MoLane",
+                    "BoundingBox": {
+                        "Width": 0.03880199044942856,
+                        "Height": 0.015417697839438915,
+                        "Left": 0.6539137959480286,
+                        "Top": 0.4361543655395508
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6266568899154663
+                },
+                {
+                    "Text": "Source Target Images sampled from our CARLANE Benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.4361855387687683,
+                        "Height": 0.24813103675842285,
+                        "Left": 0.5323161482810974,
+                        "Top": 0.4499131441116333
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7770992517471313
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.043437208980321884,
+                        "Height": 0.04210244491696358,
+                        "Left": 0.14692151546478271,
+                        "Top": 0.9292296171188354
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6005917191505432
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07775899767875671,
+                        "Height": 0.06372758001089096,
+                        "Left": 0.35114288330078125,
+                        "Top": 0.9236721396446228
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6039164662361145
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,812",
+            "end_time": "00:00:11,694",
+            "transcript": "Moline focuses on abstract lane markings in the domain of a 1/8th Model vehicle.",
+            "MatchedRegion": [
+                {
+                    "Text": "The CARLANE Benchmark",
+                    "BoundingBox": {
+                        "Width": 0.3831692934036255,
+                        "Height": 0.047246333211660385,
+                        "Left": 0.03454586863517761,
+                        "Top": 0.035564593970775604
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6522954702377319
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1079191341996193,
+                        "Height": 0.08055896311998367,
+                        "Left": 0.8881627321243286,
+                        "Top": 0.012679819017648697
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6154926419258118
+                },
+                {
+                    "Text": "The CARLANE Benchmark consists of three distinct sim-to-real datasets, which we build from our three different domains:",
+                    "BoundingBox": {
+                        "Width": 0.850683331489563,
+                        "Height": 0.06193832680583,
+                        "Left": 0.053603965789079666,
+                        "Top": 0.15877434611320496
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6610334515571594
+                },
+                {
+                    "Text": "MoLane",
+                    "BoundingBox": {
+                        "Width": 0.08251677453517914,
+                        "Height": 0.03002176061272621,
+                        "Left": 0.03697475045919418,
+                        "Top": 0.38053154945373535
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6266568899154663
+                },
+                {
+                    "Text": "focuses on abstract lane markings in the domain of a 1/8th Model vehicle.",
+                    "BoundingBox": {
+                        "Width": 0.30508163571357727,
+                        "Height": 0.06978338211774826,
+                        "Left": 0.1363299936056137,
+                        "Top": 0.3613431453704834
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6963214874267578
+                },
+                {
+                    "Text": "incorporates balanced and domain-randomized TuLane images from simulation as the source domain and the well-known TuSimple dataset.",
+                    "BoundingBox": {
+                        "Width": 0.4539164900779724,
+                        "Height": 0.11083197593688965,
+                        "Left": 0.04141167551279068,
+                        "Top": 0.5056071877479553
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7225030064582825
+                },
+                {
+                    "Text": "is a balanced combination of MoLane and MuLane TuLane with two target domains.",
+                    "BoundingBox": {
+                        "Width": 0.41626104712486267,
+                        "Height": 0.07118652015924454,
+                        "Left": 0.03732973709702492,
+                        "Top": 0.6890611052513123
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7437991499900818
+                },
+                {
+                    "Text": "MoLane",
+                    "BoundingBox": {
+                        "Width": 0.03880199044942856,
+                        "Height": 0.015417697839438915,
+                        "Left": 0.6539137959480286,
+                        "Top": 0.4361543655395508
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6266568899154663
+                },
+                {
+                    "Text": "Source Target Images sampled from our CARLANE Benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.4361855387687683,
+                        "Height": 0.24813103675842285,
+                        "Left": 0.5323161482810974,
+                        "Top": 0.4499131441116333
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7770992517471313
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.043437208980321884,
+                        "Height": 0.04210244491696358,
+                        "Left": 0.14692151546478271,
+                        "Top": 0.9292296171188354
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6005917191505432
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07775899767875671,
+                        "Height": 0.06372758001089096,
+                        "Left": 0.35114288330078125,
+                        "Top": 0.9236721396446228
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6039164662361145
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.06033598259091377,
+                        "Height": 0.018695039674639702,
+                        "Left": 0.8590977787971497,
+                        "Top": 0.9449163675308228
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.624885618686676
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,395",
+            "end_time": "00:00:19,798",
+            "transcript": "Tulane incorporates balanced and domain randomized images from simulation as the source domain and the well-known TuSimple dataset as the target domain.",
+            "MatchedRegion": [
+                {
+                    "Text": "The CARLANE Benchmark",
+                    "BoundingBox": {
+                        "Width": 0.3831692934036255,
+                        "Height": 0.047246333211660385,
+                        "Left": 0.03454586863517761,
+                        "Top": 0.035564593970775604
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6522954702377319
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1079191341996193,
+                        "Height": 0.08055896311998367,
+                        "Left": 0.8881627321243286,
+                        "Top": 0.012679819017648697
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6154926419258118
+                },
+                {
+                    "Text": "The CARLANE Benchmark consists of three distinct sim-to-real datasets, which we build from our three different domains:",
+                    "BoundingBox": {
+                        "Width": 0.850683331489563,
+                        "Height": 0.06193832680583,
+                        "Left": 0.053603965789079666,
+                        "Top": 0.15877434611320496
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6610334515571594
+                },
+                {
+                    "Text": "focuses on abstract lane markings in the domain of a 1/8th Model vehicle.",
+                    "BoundingBox": {
+                        "Width": 0.30508163571357727,
+                        "Height": 0.06978338211774826,
+                        "Left": 0.1363299936056137,
+                        "Top": 0.3613431453704834
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6963214874267578
+                },
+                {
+                    "Text": "incorporates balanced and domain-randomized TuLane images from simulation as the source domain and the well-known TuSimple dataset.",
+                    "BoundingBox": {
+                        "Width": 0.4539164900779724,
+                        "Height": 0.11083197593688965,
+                        "Left": 0.04141167551279068,
+                        "Top": 0.5056071877479553
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7225030064582825
+                },
+                {
+                    "Text": "is a balanced combination of MoLane and MuLane TuLane with two target domains.",
+                    "BoundingBox": {
+                        "Width": 0.41626104712486267,
+                        "Height": 0.07118652015924454,
+                        "Left": 0.03732973709702492,
+                        "Top": 0.6890611052513123
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7437991499900818
+                },
+                {
+                    "Text": "Source Target Images sampled from our CARLANE Benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.4361855387687683,
+                        "Height": 0.24813103675842285,
+                        "Left": 0.5323161482810974,
+                        "Top": 0.4499131441116333
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7770992517471313
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,558",
+            "end_time": "00:00:24,520",
+            "transcript": "Moline is a balanced combination of Moline and Tulane with two target domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "The CARLANE Benchmark",
+                    "BoundingBox": {
+                        "Width": 0.3831692934036255,
+                        "Height": 0.047246333211660385,
+                        "Left": 0.03454586863517761,
+                        "Top": 0.035564593970775604
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6522954702377319
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1079191341996193,
+                        "Height": 0.08055896311998367,
+                        "Left": 0.8881627321243286,
+                        "Top": 0.012679819017648697
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6154926419258118
+                },
+                {
+                    "Text": "The CARLANE Benchmark consists of three distinct sim-to-real datasets, which we build from our three different domains:",
+                    "BoundingBox": {
+                        "Width": 0.850683331489563,
+                        "Height": 0.06193832680583,
+                        "Left": 0.053603965789079666,
+                        "Top": 0.15877434611320496
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6610334515571594
+                },
+                {
+                    "Text": "MoLane",
+                    "BoundingBox": {
+                        "Width": 0.08251677453517914,
+                        "Height": 0.03002176061272621,
+                        "Left": 0.03697475045919418,
+                        "Top": 0.38053154945373535
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6266568899154663
+                },
+                {
+                    "Text": "focuses on abstract lane markings in the domain of a 1/8th Model vehicle.",
+                    "BoundingBox": {
+                        "Width": 0.30508163571357727,
+                        "Height": 0.06978338211774826,
+                        "Left": 0.1363299936056137,
+                        "Top": 0.3613431453704834
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6963214874267578
+                },
+                {
+                    "Text": "incorporates balanced and domain-randomized TuLane images from simulation as the source domain and the well-known TuSimple dataset.",
+                    "BoundingBox": {
+                        "Width": 0.4539164900779724,
+                        "Height": 0.11083197593688965,
+                        "Left": 0.04141167551279068,
+                        "Top": 0.5056071877479553
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7225030064582825
+                },
+                {
+                    "Text": "is a balanced combination of MoLane and MuLane TuLane with two target domains.",
+                    "BoundingBox": {
+                        "Width": 0.41626104712486267,
+                        "Height": 0.07118652015924454,
+                        "Left": 0.03732973709702492,
+                        "Top": 0.6890611052513123
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7437991499900818
+                },
+                {
+                    "Text": "MoLane",
+                    "BoundingBox": {
+                        "Width": 0.03880199044942856,
+                        "Height": 0.015417697839438915,
+                        "Left": 0.6539137959480286,
+                        "Top": 0.4361543655395508
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6266568899154663
+                },
+                {
+                    "Text": "Source Target Images sampled from our CARLANE Benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.4361855387687683,
+                        "Height": 0.24813103675842285,
+                        "Left": 0.5323161482810974,
+                        "Top": 0.4499131441116333
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7770992517471313
+                },
+                {
+                    "Text": "TuLane",
+                    "BoundingBox": {
+                        "Width": 0.03585987165570259,
+                        "Height": 0.015084749087691307,
+                        "Left": 0.8560206890106201,
+                        "Top": 0.4362547993659973
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.628490686416626
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.043437208980321884,
+                        "Height": 0.04210244491696358,
+                        "Left": 0.14692151546478271,
+                        "Top": 0.9292296171188354
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6005917191505432
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07775899767875671,
+                        "Height": 0.06372758001089096,
+                        "Left": 0.35114288330078125,
+                        "Top": 0.9236721396446228
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6039164662361145
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.06033598259091377,
+                        "Height": 0.018695039674639702,
+                        "Left": 0.8590977787971497,
+                        "Top": 0.9449163675308228
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.624885618686676
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,220",
+            "end_time": "00:00:28,822",
+            "transcript": "Samples of the source and target domains can be seen in the image on the right.",
+            "MatchedRegion": [
+                {
+                    "Text": "The CARLANE Benchmark",
+                    "BoundingBox": {
+                        "Width": 0.3831692934036255,
+                        "Height": 0.047246333211660385,
+                        "Left": 0.03454586863517761,
+                        "Top": 0.035564593970775604
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6522954702377319
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1079191341996193,
+                        "Height": 0.08055896311998367,
+                        "Left": 0.8881627321243286,
+                        "Top": 0.012679819017648697
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6154926419258118
+                },
+                {
+                    "Text": "The CARLANE Benchmark consists of three distinct sim-to-real datasets, which we build from our three different domains:",
+                    "BoundingBox": {
+                        "Width": 0.850683331489563,
+                        "Height": 0.06193832680583,
+                        "Left": 0.053603965789079666,
+                        "Top": 0.15877434611320496
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6610334515571594
+                },
+                {
+                    "Text": "focuses on abstract lane markings in the domain of a 1/8th Model vehicle.",
+                    "BoundingBox": {
+                        "Width": 0.30508163571357727,
+                        "Height": 0.06978338211774826,
+                        "Left": 0.1363299936056137,
+                        "Top": 0.3613431453704834
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6963214874267578
+                },
+                {
+                    "Text": "incorporates balanced and domain-randomized TuLane images from simulation as the source domain and the well-known TuSimple dataset.",
+                    "BoundingBox": {
+                        "Width": 0.4539164900779724,
+                        "Height": 0.11083197593688965,
+                        "Left": 0.04141167551279068,
+                        "Top": 0.5056071877479553
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7225030064582825
+                },
+                {
+                    "Text": "is a balanced combination of MoLane and MuLane TuLane with two target domains.",
+                    "BoundingBox": {
+                        "Width": 0.41626104712486267,
+                        "Height": 0.07118652015924454,
+                        "Left": 0.03732973709702492,
+                        "Top": 0.6890611052513123
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7437991499900818
+                },
+                {
+                    "Text": "Source Target Images sampled from our CARLANE Benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.4361855387687683,
+                        "Height": 0.24813103675842285,
+                        "Left": 0.5323161482810974,
+                        "Top": 0.4499131441116333
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.7770992517471313
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.043437208980321884,
+                        "Height": 0.04210244491696358,
+                        "Left": 0.14692151546478271,
+                        "Top": 0.9292296171188354
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6005917191505432
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07775899767875671,
+                        "Height": 0.06372758001089096,
+                        "Left": 0.35114288330078125,
+                        "Top": 0.9236721396446228
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6039164662361145
+                }
+            ]
+        }
+    ]
+}

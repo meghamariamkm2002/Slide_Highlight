@@ -1,0 +1,44 @@
+1
+00:00:01,411 --> 00:00:14,715
+So in this paper, we consider the setting of quantum zero sum games, where players are playing using density matrices, which are positive semi-definite matrices with the trace sum summing up to one, instead of classical probability distributions.
+
+2
+00:00:15,495 --> 00:00:29,919
+Now in this setting, there is a matrix extension of the standard MWU or multiplicative weights update algorithm, which is known as matrix MWU or MMWU, and it is used for online learning in this setting of quantum games.
+
+3
+00:00:31,218 --> 00:00:37,408
+Now MMW is known to converge in a time average sense to approximate Nash equilibria in these quantum zero sum capes.
+
+4
+00:00:38,459 --> 00:00:56,351
+However, in the classical setting, it has been shown that MWU does not converge to the Nash equilibrium, as well as the fact that the continuous time version of MWU, which is known as replicator dynamics, exhibits a weaker form of periodicity known as Poincaré recurrence.
+
+5
+00:00:57,672 --> 00:01:05,878
+When we say Poincaré recurrence, we mean that for an infinitely long time scale, the trajectories will return infinitely often to the initial condition.
+
+6
+00:01:07,202 --> 00:01:12,825
+So these are two key results which are not present in the literature for quantum games.
+
+7
+00:01:13,365 --> 00:01:18,168
+Thus, our key question and key thrust of this paper is to answer these two questions.
+
+8
+00:01:18,528 --> 00:01:22,130
+First, how does MMW behave in the last iterate sense?
+
+9
+00:01:22,611 --> 00:01:23,451
+Does it diverge?
+
+10
+00:01:23,471 --> 00:01:24,912
+Does it converge to Nash equilibrium?
+
+11
+00:01:25,572 --> 00:01:35,978
+Secondly, do classical results like Poincare recurrence hold in a continuous time limit for the quantum version of replicator dynamics in the setting
+

@@ -1,0 +1,86 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,890",
+            "end_time": "00:00:06,031",
+            "transcript": "First, I will describe the general associative memory model which we extend in our work.",
+            "MatchedRegion": [
+                {
+                    "Text": "Generalized Associative Memory Model (GAMM)",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.5227490663528442,
+                        "Height": 0.04576373100280762,
+                        "Left": 0.03881083056330681,
+                        "Top": 0.04832099750638008
+                    },
+                    "Id": "13b82b60-f8ea-4792-bbb5-256e7067cf98"
+                },
+                {
+                    "Text": "General Associative Memory o f feature hidden layer layer V Oh Vh Input/ Output Schematic diagram of network operations.",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.502299964427948,
+                        "Height": 0.8771395683288574,
+                        "Left": 0.031191721558570862,
+                        "Top": 0.12286041676998138
+                    },
+                    "Id": "e7d8398f-70b0-41eb-ae69-23d69025452e"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,631",
+            "end_time": "00:00:11,372",
+            "transcript": "Until recently, energy models were constrained to retrieve single memories from a set of stored memories.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,912",
+            "end_time": "00:00:18,294",
+            "transcript": "These models have a general architecture called the GAMM, composed of two layers of neurons with symmetric interactions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Generalized Associative Memory Model (GAMM)",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.5227490663528442,
+                        "Height": 0.04576373100280762,
+                        "Left": 0.03881083056330681,
+                        "Top": 0.04832099750638008
+                    },
+                    "Id": "13b82b60-f8ea-4792-bbb5-256e7067cf98"
+                },
+                {
+                    "Text": "GAMM is a two-layer architecture of neurons with symmetric interactions.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.35851016640663147,
+                        "Height": 0.06901958584785461,
+                        "Left": 0.5647041201591492,
+                        "Top": 0.1424138993024826
+                    },
+                    "Id": "25253fe9-49e4-49ad-a3ae-b1212e07a208"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,935",
+            "end_time": "00:00:23,876",
+            "transcript": "The symmetry leads to a dissipative dynamical system that converges to a single state under mild conditions.",
+            "MatchedRegion": [
+                {
+                    "Text": "The symmetric interactions result in a dissipative dynamical system whose dynamical behavior can be explained using an energy function.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3783704340457916,
+                        "Height": 0.14020109176635742,
+                        "Left": 0.5650098919868469,
+                        "Top": 0.2331220656633377
+                    },
+                    "Id": "afd74315-721e-4cab-9c71-7576f2ec1ee0"
+                }
+            ]
+        }
+    ]
+}

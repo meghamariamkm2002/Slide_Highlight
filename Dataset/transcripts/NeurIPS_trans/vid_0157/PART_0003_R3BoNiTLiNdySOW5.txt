@@ -1,0 +1,4 @@
+little more about our intermolecular trigonometry module.
+For interaction between i and j, they are updated by every edge coming from i and every edge coming from node j. And they are updated together in a very efficient way.
+And the interaction energy landscape is smoother than traditional scoring functions because they move beyond the pairwise interaction.
+And the energy landscape is more accurate than traditional machine learning methods because we explicitly model the triangle inequality series.

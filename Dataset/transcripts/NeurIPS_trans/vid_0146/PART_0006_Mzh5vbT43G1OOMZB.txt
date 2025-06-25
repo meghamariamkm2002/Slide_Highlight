@@ -1,0 +1,4 @@
+Our tests employ three different types of vision transformers, vanilla VIT, date, and VIT with improved augmentations and regularization.
+We measure the increase in robustness to distribution sheets, i.e.
+the increase in accuracy for datasets with shifted distributions.
+We use adversarial, reward, and synthetic datasets.

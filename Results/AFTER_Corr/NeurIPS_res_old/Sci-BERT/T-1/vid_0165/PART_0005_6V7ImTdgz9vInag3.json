@@ -1,0 +1,42 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,335",
+            "end_time": "00:00:13,069",
+            "transcript": "So we evaluate our model and compare it with other baselines and ablation variants on a synthetic data set with ground truth.",
+            "MatchedRegion": [
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19515743851661682,
+                        "Height": 0.0718623474240303,
+                        "Left": 0.02878464199602604,
+                        "Top": 0.889569878578186
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9376ed1d-6ca6-41c4-8784-cf1bdf836165",
+                    "Score": 0.6854841709136963
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,509",
+            "end_time": "00:00:17,835",
+            "transcript": "And as we can see, almost all the metrics, our model performs better than our",
+            "MatchedRegion": [
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19515743851661682,
+                        "Height": 0.0718623474240303,
+                        "Left": 0.02878464199602604,
+                        "Top": 0.889569878578186
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9376ed1d-6ca6-41c4-8784-cf1bdf836165",
+                    "Score": 0.6854841709136963
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,411",
+            "end_time": "00:00:14,715",
+            "transcript": "So in this paper, we consider the setting of quantum zero-sum games, where players are playing using density matrices, which are positive semi-definite matrices with the trace summing up to one, instead of classical probability distributions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Introduction",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.226588174700737,
+                        "Height": 0.05941607430577278,
+                        "Left": 0.07833255082368851,
+                        "Top": 0.11368942260742188
+                    },
+                    "Id": "f2967b01-b1ab-4d6f-b23b-1a467bcd39c3"
+                },
+                {
+                    "Text": "Consider quantum zero-sum games, where players play using density matrices (PSD matrices with trace 1) instead of a classical probability distribution.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8366344571113586,
+                        "Height": 0.07674096524715424,
+                        "Left": 0.0766637921333313,
+                        "Top": 0.23527145385742188
+                    },
+                    "Id": "c7afabbd-a0af-41d5-bdf8-7af5a26a1986"
+                },
+                {
+                    "Text": "Key Question",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.11144240200519562,
+                        "Height": 0.03282775357365608,
+                        "Left": 0.11828383058309555,
+                        "Top": 0.7980393767356873
+                    },
+                    "Id": "c0ccc66e-a7e1-49b2-a898-2acb1be1df7d"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,495",
+            "end_time": "00:00:29,919",
+            "transcript": "Now in this setting, there is a matrix extension of the standard MWU or multiplicative weights update algorithm, which is known as matrix MWU or MMWU, and it is used for online learning in this setting of quantum games.",
+            "MatchedRegion": [
+                {
+                    "Text": "Matrix multiplicative weights update (MMWU) is a matrix extension of the standard MWU algorithm.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.824624240398407,
+                        "Height": 0.07650122046470642,
+                        "Left": 0.07645612210035324,
+                        "Top": 0.5675728917121887
+                    },
+                    "Id": "00ddc7e3-19fb-4aa8-a3e3-5b6137fbf807"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:31,218",
+            "end_time": "00:00:37,408",
+            "transcript": "Now MMW is known to converge in a time average sense to approximate Nash equilibria in these quantum zero-sum games.",
+            "MatchedRegion": [
+                {
+                    "Text": "Matrix multiplicative weights update (MMWU) is a matrix extension of the standard MWU algorithm.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.824624240398407,
+                        "Height": 0.07650122046470642,
+                        "Left": 0.07645612210035324,
+                        "Top": 0.5675728917121887
+                    },
+                    "Id": "00ddc7e3-19fb-4aa8-a3e3-5b6137fbf807"
+                },
+                {
+                    "Text": "MMWU is known to converge in time-average to approximate Nash equilibrium in zero-sum games.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8172914385795593,
+                        "Height": 0.07633262872695923,
+                        "Left": 0.07553359866142273,
+                        "Top": 0.6661136746406555
+                    },
+                    "Id": "25d7edaf-eb4d-442d-8b56-3b317dd9321e"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:38,459",
+            "end_time": "00:00:56,351",
+            "transcript": "However, in the classical setting, it has been shown that MWU does not converge to the Nash equilibrium, as well as the fact that the continuous time version of MWU, which is known as replicator dynamics, exhibits a weaker form of periodicity known as Poincar\u00e9 recurrence.",
+            "MatchedRegion": [
+                {
+                    "Text": "Matrix multiplicative weights update (MMWU) is a matrix extension of the standard MWU algorithm.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.824624240398407,
+                        "Height": 0.07650122046470642,
+                        "Left": 0.07645612210035324,
+                        "Top": 0.5675728917121887
+                    },
+                    "Id": "00ddc7e3-19fb-4aa8-a3e3-5b6137fbf807"
+                },
+                {
+                    "Text": "How does MMWU behave in the last-iterate sense? Do classical results like Poincar\u00e9 recurrence hold in the continuous time limit?",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7527394890785217,
+                        "Height": 0.06787221133708954,
+                        "Left": 0.11739896982908249,
+                        "Top": 0.8379023671150208
+                    },
+                    "Id": "4b9f4b08-0b0b-426a-9922-f24e45c77bc1"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:57,672",
+            "end_time": "00:01:05,878",
+            "transcript": "When we say Poincar\u00e9 recurrence, we mean that for an infinite time scale, the trajectories will return infinitely often to the initial condition.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:07,202",
+            "end_time": "00:01:12,825",
+            "transcript": "So these are two key results which are not present in the literature for quantum games.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:13,365",
+            "end_time": "00:01:18,168",
+            "transcript": "Thus, our key question and key thrust of this paper is to answer these two questions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Introduction",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.226588174700737,
+                        "Height": 0.05941607430577278,
+                        "Left": 0.07833255082368851,
+                        "Top": 0.11368942260742188
+                    },
+                    "Id": "f2967b01-b1ab-4d6f-b23b-1a467bcd39c3"
+                },
+                {
+                    "Text": "Key Question",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.11144240200519562,
+                        "Height": 0.03282775357365608,
+                        "Left": 0.11828383058309555,
+                        "Top": 0.7980393767356873
+                    },
+                    "Id": "c0ccc66e-a7e1-49b2-a898-2acb1be1df7d"
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:18,528",
+            "end_time": "00:01:22,130",
+            "transcript": "First, how does MMWU behave in the last iterate sense?",
+            "MatchedRegion": [
+                {
+                    "Text": "Matrix multiplicative weights update (MMWU) is a matrix extension of the standard MWU algorithm.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.824624240398407,
+                        "Height": 0.07650122046470642,
+                        "Left": 0.07645612210035324,
+                        "Top": 0.5675728917121887
+                    },
+                    "Id": "00ddc7e3-19fb-4aa8-a3e3-5b6137fbf807"
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:22,611",
+            "end_time": "00:01:23,451",
+            "transcript": "Does it diverge?",
+            "MatchedRegion": [
+                {
+                    "Text": "Introduction",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.226588174700737,
+                        "Height": 0.05941607430577278,
+                        "Left": 0.07833255082368851,
+                        "Top": 0.11368942260742188
+                    },
+                    "Id": "f2967b01-b1ab-4d6f-b23b-1a467bcd39c3"
+                },
+                {
+                    "Text": "Matrix multiplicative weights update (MMWU) is a matrix extension of the standard MWU algorithm.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.824624240398407,
+                        "Height": 0.07650122046470642,
+                        "Left": 0.07645612210035324,
+                        "Top": 0.5675728917121887
+                    },
+                    "Id": "00ddc7e3-19fb-4aa8-a3e3-5b6137fbf807"
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:23,471",
+            "end_time": "00:01:24,912",
+            "transcript": "Does it converge to Nash equilibrium?",
+            "MatchedRegion": [
+                {
+                    "Text": "Introduction",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.226588174700737,
+                        "Height": 0.05941607430577278,
+                        "Left": 0.07833255082368851,
+                        "Top": 0.11368942260742188
+                    },
+                    "Id": "f2967b01-b1ab-4d6f-b23b-1a467bcd39c3"
+                },
+                {
+                    "Text": "Matrix multiplicative weights update (MMWU) is a matrix extension of the standard MWU algorithm.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.824624240398407,
+                        "Height": 0.07650122046470642,
+                        "Left": 0.07645612210035324,
+                        "Top": 0.5675728917121887
+                    },
+                    "Id": "00ddc7e3-19fb-4aa8-a3e3-5b6137fbf807"
+                },
+                {
+                    "Text": "MMWU is known to converge in time-average to approximate Nash equilibrium in zero-sum games.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8172914385795593,
+                        "Height": 0.07633262872695923,
+                        "Left": 0.07553359866142273,
+                        "Top": 0.6661136746406555
+                    },
+                    "Id": "25d7edaf-eb4d-442d-8b56-3b317dd9321e"
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:25,572",
+            "end_time": "00:01:35,978",
+            "transcript": "Second, do classical results like Poincar\u00e9 recurrence hold in a continuous-time limit for the quantum version of replicator dynamics in the setting",
+            "MatchedRegion": [
+                {
+                    "Text": "How does MMWU behave in the last-iterate sense? Do classical results like Poincar\u00e9 recurrence hold in the continuous time limit?",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7527394890785217,
+                        "Height": 0.06787221133708954,
+                        "Left": 0.11739896982908249,
+                        "Top": 0.8379023671150208
+                    },
+                    "Id": "4b9f4b08-0b0b-426a-9922-f24e45c77bc1"
+                }
+            ]
+        }
+    ]
+}

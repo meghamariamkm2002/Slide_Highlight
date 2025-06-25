@@ -1,0 +1,90 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,390",
+            "end_time": "00:00:05,522",
+            "transcript": "the state of the system depicted by the white ball converges to the nearest attractor state and stays there.",
+            "MatchedRegion": [
+                {
+                    "Text": "Energy Dynamics of GAMM VS GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.41882291436195374,
+                        "Height": 0.05420056730508804,
+                        "Left": 0.03959394618868828,
+                        "Top": 0.04212465137243271
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "23467324-03e8-4b69-952d-59998f7dd2f3",
+                    "Score": 0.7146307229995728
+                },
+                {
+                    "Text": "GAMM has a single attractor state the system converges to.",
+                    "BoundingBox": {
+                        "Width": 0.37509599328041077,
+                        "Height": 0.07962086796760559,
+                        "Left": 0.11947287619113922,
+                        "Top": 0.8343804478645325
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a0e05a5-1a20-48a6-9158-fb21247837b7",
+                    "Score": 0.7546164989471436
+                },
+                {
+                    "Text": "When the delay is sufficiently high in GSEMM, it has a sequence of meta-stable attractors that the system visits in the dynamical evolution.",
+                    "BoundingBox": {
+                        "Width": 0.4114174544811249,
+                        "Height": 0.14895443618297577,
+                        "Left": 0.5736274719238281,
+                        "Top": 0.8339539766311646
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cccb0a20-0383-46ef-9272-433fbd5adea4",
+                    "Score": 0.7542397975921631
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,444",
+            "end_time": "00:00:06,885",
+            "transcript": "On the other hand",
+            "MatchedRegion": [
+                {
+                    "Text": "Energy Dynamics of GAMM VS GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.41882291436195374,
+                        "Height": 0.05420056730508804,
+                        "Left": 0.03959394618868828,
+                        "Top": 0.04212465137243271
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "23467324-03e8-4b69-952d-59998f7dd2f3",
+                    "Score": 0.7146307229995728
+                },
+                {
+                    "Text": "GAMM has a single attractor state the system converges to.",
+                    "BoundingBox": {
+                        "Width": 0.37509599328041077,
+                        "Height": 0.07962086796760559,
+                        "Left": 0.11947287619113922,
+                        "Top": 0.8343804478645325
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a0e05a5-1a20-48a6-9158-fb21247837b7",
+                    "Score": 0.7546164989471436
+                },
+                {
+                    "Text": "When the delay is sufficiently high in GSEMM, it has a sequence of meta-stable attractors that the system visits in the dynamical evolution.",
+                    "BoundingBox": {
+                        "Width": 0.4114174544811249,
+                        "Height": 0.14895443618297577,
+                        "Left": 0.5736274719238281,
+                        "Top": 0.8339539766311646
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cccb0a20-0383-46ef-9272-433fbd5adea4",
+                    "Score": 0.7542397975921631
+                }
+            ]
+        }
+    ]
+}

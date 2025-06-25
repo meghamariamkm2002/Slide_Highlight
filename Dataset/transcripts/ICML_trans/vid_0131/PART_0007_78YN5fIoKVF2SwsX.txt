@@ -1,0 +1,3 @@
+There is a difference between the training objectives of poisoning and standard learning, and we may utilize the model dynamics during training to find useful information of identifying imperceptible poisoning samples from clean ones.
+More experimental details and the related discussion can refer to our paper.
+Thank you.

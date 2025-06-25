@@ -1,0 +1,210 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,290",
+            "end_time": "00:00:00,811",
+            "transcript": "and neutral.",
+            "MatchedRegion": [
+                {
+                    "Text": "2 The METS-CoV Dataset",
+                    "BoundingBox": {
+                        "Width": 0.3101142346858978,
+                        "Height": 0.03707730025053024,
+                        "Left": 0.027860209345817566,
+                        "Top": 0.05160485580563545
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "f9349f7b-89f5-4363-819d-8ba8cfa05856",
+                    "Score": 0.7392092943191528
+                },
+                {
+                    "Text": "2.2 Data Statistics",
+                    "BoundingBox": {
+                        "Width": 0.18316026031970978,
+                        "Height": 0.03132336214184761,
+                        "Left": 0.02761019580066204,
+                        "Top": 0.1425241380929947
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "3014fba5-1c44-40fa-8434-02905c7450ac",
+                    "Score": 0.7385138273239136
+                },
+                {
+                    "Text": "Most tweets have lengths shorter than 80 (split with white spaces).",
+                    "BoundingBox": {
+                        "Width": 0.5941740870475769,
+                        "Height": 0.034384336322546005,
+                        "Left": 0.05791522189974785,
+                        "Top": 0.22248421609401703
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9aac037e-5c39-447a-84c8-18399828812d",
+                    "Score": 0.7662033438682556
+                },
+                {
+                    "Text": "10,000 tweets contain 19,057 entities in total, resulting in 1.91 entities per tweet in this dataset.",
+                    "BoundingBox": {
+                        "Width": 0.841163694858551,
+                        "Height": 0.03414088860154152,
+                        "Left": 0.0576624795794487,
+                        "Top": 0.26690199971199036
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d87fa146-0261-4609-8429-ce225bfee21e",
+                    "Score": 0.7772500514984131
+                },
+                {
+                    "Text": "Symptom entities have the highest frequency.",
+                    "BoundingBox": {
+                        "Width": 0.41535407304763794,
+                        "Height": 0.03381075710058212,
+                        "Left": 0.05798736587166786,
+                        "Top": 0.3122406601905823
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "11d0dd84-d365-4494-a2ce-6e11fe823d50",
+                    "Score": 0.7830854654312134
+                },
+                {
+                    "Text": "Neutral sentiment accounts for the highest proportion across all 4 target entities.",
+                    "BoundingBox": {
+                        "Width": 0.7133693099021912,
+                        "Height": 0.034028831869363785,
+                        "Left": 0.05780689790844917,
+                        "Top": 0.35634106397628784
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6d20a644-205b-4032-b6ff-a44fa9075ea5",
+                    "Score": 0.8525036573410034
+                },
+                {
+                    "Text": "Table 1: Statistics of METS-CoV-NER dataset. Table 2: Statistics of METS-CoV-TSA dataset.",
+                    "BoundingBox": {
+                        "Width": 0.5841414332389832,
+                        "Height": 0.020700210705399513,
+                        "Left": 0.37268775701522827,
+                        "Top": 0.48949968814849854
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "53437f00-9f28-441b-a655-b07e67e1c1cd",
+                    "Score": 0.7712500095367432
+                },
+                {
+                    "Text": "600 500 400 300 200 100 0 0 20 40 60 >80 Tweets Length",
+                    "BoundingBox": {
+                        "Width": 0.28832268714904785,
+                        "Height": 0.33501604199409485,
+                        "Left": 0.051365748047828674,
+                        "Top": 0.5005331635475159
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4be729ee-426d-4c00-ab95-f78ab6a9deea",
+                    "Score": 0.6153128743171692
+                },
+                {
+                    "Text": "Number Train Dev Test Tweets 7,000 1,500 1,500 Tokens 285k 59k 60k All Entities 13,570 2,749 2,738 Person 2,253 472 487 Location 1,371 294 279 Organization 1,934 396 381 Disease 1,555 301 258 Drug 1,077 262 227 Symptom 4,223 806 869 Vaccine 1,157 218 237",
+                    "BoundingBox": {
+                        "Width": 0.2683362066745758,
+                        "Height": 0.3716208040714264,
+                        "Left": 0.3814069330692291,
+                        "Top": 0.5353545546531677
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "d4330a0b-0dfa-4374-9432-ec030d8b5957",
+                    "Score": 0.7495883703231812
+                },
+                {
+                    "Text": "Number Train Dev Test POS 260 64 58 Person NEU 1293 256 240 NEG 700 152 189 POS 126 24 31 Organization NEU 1346 284 251 NEG 462 88 99 POS 234 85 64 Drug NEU 730 147 142 NEG 113 30 21 POS 112 25 20 Vaccine NEU 913 173 183 NEG 132 20 34 5",
+                    "BoundingBox": {
+                        "Width": 0.27124926447868347,
+                        "Height": 0.42833438515663147,
+                        "Left": 0.6808130741119385,
+                        "Top": 0.5356511473655701
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "baac7a96-0f94-418c-b922-2e19a8faf629",
+                    "Score": 0.7002726197242737
+                },
+                {
+                    "Text": "cc V",
+                    "BoundingBox": {
+                        "Width": 0.09891657531261444,
+                        "Height": 0.022261744365096092,
+                        "Left": 0.0005031853797845542,
+                        "Top": 0.9747605919837952
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b2e2276b-1e27-4674-94c5-ca11ada384f2",
+                    "Score": 0.6535255908966064
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,475",
+            "end_time": "00:00:07,005",
+            "transcript": "This slide shows the data statistics of our proposed MASC code.",
+            "MatchedRegion": [
+                {
+                    "Text": "2 The METS-CoV Dataset",
+                    "BoundingBox": {
+                        "Width": 0.3101142346858978,
+                        "Height": 0.03707730025053024,
+                        "Left": 0.027860209345817566,
+                        "Top": 0.05160485580563545
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "f9349f7b-89f5-4363-819d-8ba8cfa05856",
+                    "Score": 0.7392092943191528
+                },
+                {
+                    "Text": "2.2 Data Statistics",
+                    "BoundingBox": {
+                        "Width": 0.18316026031970978,
+                        "Height": 0.03132336214184761,
+                        "Left": 0.02761019580066204,
+                        "Top": 0.1425241380929947
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "3014fba5-1c44-40fa-8434-02905c7450ac",
+                    "Score": 0.7385138273239136
+                },
+                {
+                    "Text": "Table 1: Statistics of METS-CoV-NER dataset. Table 2: Statistics of METS-CoV-TSA dataset.",
+                    "BoundingBox": {
+                        "Width": 0.5841414332389832,
+                        "Height": 0.020700210705399513,
+                        "Left": 0.37268775701522827,
+                        "Top": 0.48949968814849854
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "53437f00-9f28-441b-a655-b07e67e1c1cd",
+                    "Score": 0.7712500095367432
+                },
+                {
+                    "Text": "600 500 400 300 200 100 0 0 20 40 60 >80 Tweets Length",
+                    "BoundingBox": {
+                        "Width": 0.28832268714904785,
+                        "Height": 0.33501604199409485,
+                        "Left": 0.051365748047828674,
+                        "Top": 0.5005331635475159
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4be729ee-426d-4c00-ab95-f78ab6a9deea",
+                    "Score": 0.6153128743171692
+                },
+                {
+                    "Text": "cc V",
+                    "BoundingBox": {
+                        "Width": 0.09891657531261444,
+                        "Height": 0.022261744365096092,
+                        "Left": 0.0005031853797845542,
+                        "Top": 0.9747605919837952
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b2e2276b-1e27-4674-94c5-ca11ada384f2",
+                    "Score": 0.6535255908966064
+                }
+            ]
+        }
+    ]
+}

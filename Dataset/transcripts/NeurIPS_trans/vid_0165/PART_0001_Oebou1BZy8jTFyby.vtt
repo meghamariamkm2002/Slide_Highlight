@@ -1,0 +1,50 @@
+WEBVTT
+
+00:01.616 --> 00:03.777
+So first, let's talk about our motivation.
+
+00:04.578 --> 00:17.024
+As many previous works pointed out, misinformation campaigns are manipulating public opinions on hotspot topics, such as COVID-19 epidemic and vaccines.
+
+00:17.585 --> 00:28.711
+For example, a publication pointed out that in those places where misinformation from misinformation campaigns spread faster, the vaccination ratio of these places is also
+
+00:29.980 --> 00:31.961
+relatively lower than other places.
+
+00:33.302 --> 00:43.347
+So, to design mitigation strategies to reduce user susceptibility to misinformation, we have to understand how misinformation influence user beliefs and activities.
+
+00:43.947 --> 00:49.950
+However, most of the existing works suffers from one or more of the following limitations.
+
+00:50.663 --> 01:02.327
+So first, almost all the data-driven methodologies or data-driven analysis focus on correlation between misinformation and user activities.
+
+01:02.888 --> 01:07.950
+And it is well known that causality is different from correlation.
+
+01:08.530 --> 01:14.072
+So they cannot distinguish causal effect of misinformation from user prior beliefs.
+
+01:15.275 --> 01:19.136
+Let us use the case of misinformation and the vaccination ratio.
+
+01:19.916 --> 01:30.839
+One explanation could be that in this place, people primarily don't trust vaccines, so they don't take vaccines and they spread a lot of misinformation.
+
+01:31.359 --> 01:36.360
+That could be true, but the correlation analysis cannot help us distinguish them.
+
+01:37.940 --> 01:41.981
+And there are some other works trying to understand the real causal effect.
+
+01:42.674 --> 01:46.716
+But they mainly rely on random controlled experiments and surveys.
+
+01:47.296 --> 01:50.518
+So, first, they are very expensive.
+
+01:50.878 --> 01:59.002
+And secondly, they may bring some ethical risk if we apply them on very huge social media platforms.
+

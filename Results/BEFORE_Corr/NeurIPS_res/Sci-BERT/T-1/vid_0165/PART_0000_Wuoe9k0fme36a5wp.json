@@ -1,0 +1,22 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,568",
+            "end_time": "00:00:06,249",
+            "transcript": "Hello, my name is Yijiu Zhang.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,789",
+            "end_time": "00:00:11,091",
+            "transcript": "Today, I will present our work with Du Fucao and Professor Yan Liu.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,672",
+            "end_time": "00:00:17,835",
+            "transcript": "The title is Counterfactual Neural Temporal Point Process for Estimating Cultural Influence of Misinformation on Social Media.",
+            "MatchedRegion": []
+        }
+    ]
+}

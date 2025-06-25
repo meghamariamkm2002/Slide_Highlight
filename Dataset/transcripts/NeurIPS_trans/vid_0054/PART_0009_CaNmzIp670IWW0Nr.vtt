@@ -1,0 +1,11 @@
+WEBVTT
+
+00:00.606 --> 00:13.917
+Last, in animal post tracking, we use representative object trackers with both CNN-based backbones and vision-transformers-based backbones to track each animal instance across the video clips.
+
+00:14.497 --> 00:20.802
+And it can be observed that vision-transformers-based trackers obtain slightly better performance.
+
+00:21.522 --> 00:29.609
+And we think these results imply the potential of plan vision-transformers as they fund mental models in the future work.
+

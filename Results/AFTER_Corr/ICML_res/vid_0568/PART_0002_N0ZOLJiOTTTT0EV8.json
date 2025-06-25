@@ -1,0 +1,74 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:00,313",
+            "end_time": "00:00:05,977",
+            "transcript": "The energy function has driven progress in singleton memory modeling with their capacity driven by the inter-memory interactions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,297",
+            "end_time": "00:00:11,681",
+            "transcript": "The increase in capacity shown in the timeline where the initial model had a capacity much lower than the number of neurons.",
+            "MatchedRegion": [
+                {
+                    "Text": "Low capacity (0.14 N)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1448911726474762,
+                        "Height": 0.07345175743103027,
+                        "Left": 0.05749853700399399,
+                        "Top": 0.7184814214706421
+                    },
+                    "Id": "f4211cdd-c2ab-4cc0-a3a3-c8d7e6eb899b"
+                },
+                {
+                    "Text": "Discrete states",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1536312699317932,
+                        "Height": 0.02856309339404106,
+                        "Left": 0.3045962154865265,
+                        "Top": 0.514703631401062
+                    },
+                    "Id": "41495552-0d92-441c-8f41-3c712b3e37fe"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,221",
+            "end_time": "00:00:22,668",
+            "transcript": "Later polynomial inter-memory interactions were introduced that made the capacity dense in the number of neurons, meaning the number of memories that can be stored was larger than the number of neurons in the system.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:23,469",
+            "end_time": "00:00:27,932",
+            "transcript": "Recent works improved the capacity even further to be exponential in the number of neurons.",
+            "MatchedRegion": [
+                {
+                    "Text": "Discrete updates",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.09833533316850662,
+                        "Height": 0.07249186933040619,
+                        "Left": 0.05719459801912308,
+                        "Top": 0.5598752498626709
+                    },
+                    "Id": "8e5cabed-e41e-4f8b-a292-4d3fd1c3c947"
+                },
+                {
+                    "Text": "Exponential memory interaction",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.12918239831924438,
+                        "Height": 0.10737775266170502,
+                        "Left": 0.5206272602081299,
+                        "Top": 0.669539213180542
+                    },
+                    "Id": "c641b50c-1232-438a-885e-371c609ea431"
+                }
+            ]
+        }
+    ]
+}

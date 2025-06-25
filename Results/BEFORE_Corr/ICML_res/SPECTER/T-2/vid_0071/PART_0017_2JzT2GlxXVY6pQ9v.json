@@ -1,0 +1,186 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,028",
+            "end_time": "00:00:02,451",
+            "transcript": "That's all.",
+            "MatchedRegion": [
+                {
+                    "Text": "Summary",
+                    "BoundingBox": {
+                        "Width": 0.1403438150882721,
+                        "Height": 0.05506075918674469,
+                        "Left": 0.09781640022993088,
+                        "Top": 0.06746671348810196
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "8ed24a0c-dc55-4046-99a6-c57f567e1856",
+                    "Score": 0.8607580661773682
+                },
+                {
+                    "Text": "In this study,",
+                    "BoundingBox": {
+                        "Width": 0.10434383898973465,
+                        "Height": 0.03226735070347786,
+                        "Left": 0.09850621968507767,
+                        "Top": 0.20732958614826202
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5fbfa867-ae97-4e50-9b8c-572067c98da3",
+                    "Score": 0.9047110676765442
+                },
+                {
+                    "Text": "We quantitatively examine the concept-emerging phenomenon of a DNN from four perspectives.",
+                    "BoundingBox": {
+                        "Width": 0.7336599230766296,
+                        "Height": 0.09463577717542648,
+                        "Left": 0.09770362079143524,
+                        "Top": 0.27472808957099915
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6efacd27-3b6c-4752-b7d6-a9d8c94fd54b",
+                    "Score": 0.7946252822875977
+                },
+                {
+                    "Text": "Extensive empirical studies have verified that a well-trained DNN usually encodes sparse, transferable, and discriminative interaction concepts.",
+                    "BoundingBox": {
+                        "Width": 0.7862481474876404,
+                        "Height": 0.08673670887947083,
+                        "Left": 0.09795326739549637,
+                        "Top": 0.4097194969654083
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7c7b5640-bafe-4e25-9947-dca628dbdbb7",
+                    "Score": 0.7918708324432373
+                },
+                {
+                    "Text": "These experiments also prove the faithfulness of the interaction concepts extracted from DNNs.",
+                    "BoundingBox": {
+                        "Width": 0.8018788695335388,
+                        "Height": 0.07956252992153168,
+                        "Left": 0.0979582890868187,
+                        "Top": 0.5319210290908813
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "459595f8-e908-4e7e-afe1-c051a9c49612",
+                    "Score": 0.7255942225456238
+                },
+                {
+                    "Text": "Besides, we also discussed three cases in which a DNN is unlikely to learn transferable concepts.",
+                    "BoundingBox": {
+                        "Width": 0.7267569899559021,
+                        "Height": 0.09466919302940369,
+                        "Left": 0.09820744395256042,
+                        "Top": 0.6530847549438477
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1ef32ef1-8d20-4bf2-b5fe-231051ffde93",
+                    "Score": 0.724159836769104
+                },
+                {
+                    "Text": "18",
+                    "BoundingBox": {
+                        "Width": 0.037200119346380234,
+                        "Height": 0.04642244055867195,
+                        "Left": 0.9414393305778503,
+                        "Top": 0.9255360960960388
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8b8a538d-4eb8-4c84-856c-d88cdd6136ee",
+                    "Score": 0.8397033214569092
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,853",
+            "end_time": "00:00:03,979",
+            "transcript": "Thanks for your attention.",
+            "MatchedRegion": [
+                {
+                    "Text": "Summary",
+                    "BoundingBox": {
+                        "Width": 0.1403438150882721,
+                        "Height": 0.05506075918674469,
+                        "Left": 0.09781640022993088,
+                        "Top": 0.06746671348810196
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "8ed24a0c-dc55-4046-99a6-c57f567e1856",
+                    "Score": 0.8607580661773682
+                },
+                {
+                    "Text": "In this study,",
+                    "BoundingBox": {
+                        "Width": 0.10434383898973465,
+                        "Height": 0.03226735070347786,
+                        "Left": 0.09850621968507767,
+                        "Top": 0.20732958614826202
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5fbfa867-ae97-4e50-9b8c-572067c98da3",
+                    "Score": 0.9047110676765442
+                },
+                {
+                    "Text": "We quantitatively examine the concept-emerging phenomenon of a DNN from four perspectives.",
+                    "BoundingBox": {
+                        "Width": 0.7336599230766296,
+                        "Height": 0.09463577717542648,
+                        "Left": 0.09770362079143524,
+                        "Top": 0.27472808957099915
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6efacd27-3b6c-4752-b7d6-a9d8c94fd54b",
+                    "Score": 0.7946252822875977
+                },
+                {
+                    "Text": "Extensive empirical studies have verified that a well-trained DNN usually encodes sparse, transferable, and discriminative interaction concepts.",
+                    "BoundingBox": {
+                        "Width": 0.7862481474876404,
+                        "Height": 0.08673670887947083,
+                        "Left": 0.09795326739549637,
+                        "Top": 0.4097194969654083
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7c7b5640-bafe-4e25-9947-dca628dbdbb7",
+                    "Score": 0.7918708324432373
+                },
+                {
+                    "Text": "These experiments also prove the faithfulness of the interaction concepts extracted from DNNs.",
+                    "BoundingBox": {
+                        "Width": 0.8018788695335388,
+                        "Height": 0.07956252992153168,
+                        "Left": 0.0979582890868187,
+                        "Top": 0.5319210290908813
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "459595f8-e908-4e7e-afe1-c051a9c49612",
+                    "Score": 0.7255942225456238
+                },
+                {
+                    "Text": "Besides, we also discussed three cases in which a DNN is unlikely to learn transferable concepts.",
+                    "BoundingBox": {
+                        "Width": 0.7267569899559021,
+                        "Height": 0.09466919302940369,
+                        "Left": 0.09820744395256042,
+                        "Top": 0.6530847549438477
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1ef32ef1-8d20-4bf2-b5fe-231051ffde93",
+                    "Score": 0.724159836769104
+                },
+                {
+                    "Text": "18",
+                    "BoundingBox": {
+                        "Width": 0.037200119346380234,
+                        "Height": 0.04642244055867195,
+                        "Left": 0.9414393305778503,
+                        "Top": 0.9255360960960388
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8b8a538d-4eb8-4c84-856c-d88cdd6136ee",
+                    "Score": 0.8397033214569092
+                }
+            ]
+        }
+    ]
+}

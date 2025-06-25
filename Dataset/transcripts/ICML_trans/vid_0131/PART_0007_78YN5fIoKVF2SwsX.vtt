@@ -1,0 +1,11 @@
+WEBVTT
+
+00:02.236 --> 00:16.605
+There is a difference between the training objectives of poisoning and standard learning, and we may utilize the model dynamics during training to find useful information of identifying imperceptible poisoning samples from clean ones.
+
+00:17.486 --> 00:22.689
+More experimental details and the related discussion can refer to our paper.
+
+00:23.070 --> 00:23.410
+Thank you.
+

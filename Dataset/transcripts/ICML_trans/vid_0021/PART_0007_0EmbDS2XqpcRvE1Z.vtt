@@ -1,0 +1,11 @@
+WEBVTT
+
+00:00.842 --> 00:09.147
+In the state-only or LFO setting, we compare against Apollo, once again using only a single extra trajectory, and importantly, CFO uses identical hyperparameters as the pre-rate setting.
+
+00:09.767 --> 00:16.591
+The figure shows two versions of CFO compared with Apollo, one estimating the next state distribution issue while the other limiting itself to the single state distribution.
+
+00:17.252 --> 00:22.835
+Both incarnations of CFO distinctly outperform the LFO-tailored Apollo on every imitation learning metric.
+

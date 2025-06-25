@@ -1,0 +1,36 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,155",
+            "end_time": "00:00:09,561",
+            "transcript": "First, we verify that most concepts had little effects on the output, which verifies the sparsity of encoded concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Most concepts had little effects on the output I (S|x) 22 0, which verified the sparsity of the encoded concepts.",
+                    "BoundingBox": {
+                        "Width": 0.875282347202301,
+                        "Height": 0.03441496193408966,
+                        "Left": 0.06112392991781235,
+                        "Top": 0.7437891364097595
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0d09f64c-3833-4bdd-a762-20b104fe486c",
+                    "Score": 0.8138528138528138
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,401",
+            "end_time": "00:00:19,807",
+            "transcript": "This is a distinctive property of symbolism, where it is sufficient to use a small number of salient symbolic concepts to represent the knowledge.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:20,888",
+            "end_time": "00:00:26,392",
+            "transcript": "Such a concept emergent phenomenon has also been mathematically proved in our recent work.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

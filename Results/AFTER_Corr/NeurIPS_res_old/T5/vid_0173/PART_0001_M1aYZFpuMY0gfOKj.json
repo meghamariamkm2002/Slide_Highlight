@@ -1,0 +1,127 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,690",
+            "transcript": "Google research.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,333",
+            "end_time": "00:00:06,139",
+            "transcript": "So, what are autobidders or value maximizers?",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.8611457943916321,
+                        "Height": 0.07625862956047058,
+                        "Left": 0.06869088113307953,
+                        "Top": 0.06731502711772919
+                    },
+                    "Id": "34bdcdf4-b7be-4eeb-a5a9-e1109990122f"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,960",
+            "end_time": "00:00:11,307",
+            "transcript": "Today, more than 80% of online advertising traffic involves autobidding.",
+            "MatchedRegion": [
+                {
+                    "Text": "more than 80% of online advertising traffic involves autobidding",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7389932870864868,
+                        "Height": 0.045326728373765945,
+                        "Left": 0.07028427720069885,
+                        "Top": 0.3299420177936554
+                    },
+                    "Id": "e3fc892e-d26e-4716-9023-eab8d30417a7"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,245",
+            "end_time": "00:00:28,929",
+            "transcript": "And most common alibators are target-driven, which means they want to get as many acquisitions or as much value as possible, subject to the constraint that the cost per acquisition or the return on investment ratio does not exceed a certain threshold.",
+            "MatchedRegion": [
+                {
+                    "Text": "get as many acquisitions) as possible",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.43621087074279785,
+                        "Height": 0.04390433058142662,
+                        "Left": 0.09744323045015335,
+                        "Top": 0.5465803742408752
+                    },
+                    "Id": "af1f4577-6899-4217-883e-aa82093c2b02"
+                },
+                {
+                    "Text": "s.t. the cost per acquisition doesn't exceed a certain threshold",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7231041789054871,
+                        "Height": 0.04386969655752182,
+                        "Left": 0.09732680022716522,
+                        "Top": 0.6538063883781433
+                    },
+                    "Id": "91215448-a2bd-4471-925f-182d9087343b"
+                },
+                {
+                    "Text": "autobidders maximize value subject to ROI constraints",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6371528506278992,
+                        "Height": 0.042899563908576965,
+                        "Left": 0.09694663435220718,
+                        "Top": 0.7620331645011902
+                    },
+                    "Id": "3ed9f416-4a5f-4360-847f-c91c64e9d95a"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,970",
+            "end_time": "00:00:34,951",
+            "transcript": "In other words, autobidders want to maximize their value, subject to ROI constraints.",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.8611457943916321,
+                        "Height": 0.07625862956047058,
+                        "Left": 0.06869088113307953,
+                        "Top": 0.06731502711772919
+                    },
+                    "Id": "34bdcdf4-b7be-4eeb-a5a9-e1109990122f"
+                },
+                {
+                    "Text": "the \"value\"",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.12287136912345886,
+                        "Height": 0.03628155589103699,
+                        "Left": 0.5398563742637634,
+                        "Top": 0.4831019937992096
+                    },
+                    "Id": "0af419ca-f7f0-4ad2-8090-dd9c33c887f5"
+                },
+                {
+                    "Text": "autobidders maximize value subject to ROI constraints",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6371528506278992,
+                        "Height": 0.042899563908576965,
+                        "Left": 0.09694663435220718,
+                        "Top": 0.7620331645011902
+                    },
+                    "Id": "3ed9f416-4a5f-4360-847f-c91c64e9d95a"
+                }
+            ]
+        }
+    ]
+}

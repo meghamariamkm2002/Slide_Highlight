@@ -1,0 +1,121 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,015",
+            "end_time": "00:00:13,406",
+            "transcript": "For base lines, we use T5 and T5 bischema serialization, and then we use three threshold methods to evaluate how well each method can distinguish between answerable and unanswerable questions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Maximum entropy during decoding process Entropy Entropy Entropy Entropy att=1 at t=2 at t=3 at t=4",
+                    "BoundingBox": {
+                        "Width": 0.2620851397514343,
+                        "Height": 0.14735862612724304,
+                        "Left": 0.41259488463401794,
+                        "Top": 0.7535300254821777
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4a547001-0627-4887-93f6-3da5a772bd39",
+                    "Score": 0.6279757618904114
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,067",
+            "end_time": "00:00:20,072",
+            "transcript": "The methods include no threshold based on clustering boundary, threshold based on percentile.",
+            "MatchedRegion": [
+                {
+                    "Text": "T5 Baselines",
+                    "BoundingBox": {
+                        "Width": 0.1586601734161377,
+                        "Height": 0.03788045793771744,
+                        "Left": 0.10544493049383163,
+                        "Top": 0.20614685118198395
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "238e0e9b-8a44-479a-affd-8f624da8628c",
+                    "Score": 0.7113122940063477
+                },
+                {
+                    "Text": "Confidence Threshold",
+                    "BoundingBox": {
+                        "Width": 0.2695644199848175,
+                        "Height": 0.03825000673532486,
+                        "Left": 0.1060362234711647,
+                        "Top": 0.703478217124939
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0dfdb0a5-bf87-4031-866c-15fce3bd892c",
+                    "Score": 0.7298895120620728
+                },
+                {
+                    "Text": "Maximum entropy during decoding process Entropy Entropy Entropy Entropy att=1 at t=2 at t=3 at t=4",
+                    "BoundingBox": {
+                        "Width": 0.2620851397514343,
+                        "Height": 0.14735862612724304,
+                        "Left": 0.41259488463401794,
+                        "Top": 0.7535300254821777
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4a547001-0627-4887-93f6-3da5a772bd39",
+                    "Score": 0.6279757618904114
+                },
+                {
+                    "Text": "Maximum entropy > Threshold",
+                    "BoundingBox": {
+                        "Width": 0.1865251213312149,
+                        "Height": 0.02397950552403927,
+                        "Left": 0.6954767107963562,
+                        "Top": 0.8091028928756714
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a8360098-e548-4704-b612-05488e1af2ff",
+                    "Score": 0.7518521547317505
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,593",
+            "end_time": "00:00:22,995",
+            "transcript": "For more details, please refer to our paper.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments",
+                    "BoundingBox": {
+                        "Width": 0.21370162069797516,
+                        "Height": 0.06827107071876526,
+                        "Left": 0.04592480510473251,
+                        "Top": 0.06659366935491562
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a4bad80b-1b1b-46e1-a574-a335482fd971",
+                    "Score": 0.6029938459396362
+                },
+                {
+                    "Text": "T5 Baselines",
+                    "BoundingBox": {
+                        "Width": 0.1586601734161377,
+                        "Height": 0.03788045793771744,
+                        "Left": 0.10544493049383163,
+                        "Top": 0.20614685118198395
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "238e0e9b-8a44-479a-affd-8f624da8628c",
+                    "Score": 0.7113122940063477
+                },
+                {
+                    "Text": "Maximum entropy during decoding process Entropy Entropy Entropy Entropy att=1 at t=2 at t=3 at t=4",
+                    "BoundingBox": {
+                        "Width": 0.2620851397514343,
+                        "Height": 0.14735862612724304,
+                        "Left": 0.41259488463401794,
+                        "Top": 0.7535300254821777
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4a547001-0627-4887-93f6-3da5a772bd39",
+                    "Score": 0.6279757618904114
+                }
+            ]
+        }
+    ]
+}

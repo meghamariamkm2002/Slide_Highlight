@@ -1,0 +1,6 @@
+start	end	text
+1121	2722	Now, let's describe the method.
+3302	12405	We propose to manipulate the explainability maps of the model directly, to ensure that the model avoids using spurious correlations in the background and in the foreground of the image.
+13305	18187	Our main loss is comprised of two loss functions, L background and L foreground.
+19107	25329	L background prevents the model from over-interpreting the background by demanding that the relevance on the background is close to zero.
+26260	33872	The foreground encourages the model to use as much as the foreground as possible by encouraging the relevance on the foreground to be close to one.

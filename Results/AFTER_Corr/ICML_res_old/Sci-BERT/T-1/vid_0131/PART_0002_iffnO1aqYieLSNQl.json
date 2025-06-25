@@ -1,0 +1,47 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,210",
+            "end_time": "00:00:13,454",
+            "transcript": "Our work is motivated by accumulative poisoning attack, which utilizes the sequential order property of real-time data streaming for sneaky poisoning generation.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:14,414",
+            "end_time": "00:00:15,855",
+            "transcript": "We raised the following question.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,455",
+            "end_time": "00:00:25,938",
+            "transcript": "Can we also explore the information of model dynamics to gain some useful clues to identify the imperceptible accumulative poisoning attacks?",
+            "MatchedRegion": [
+                {
+                    "Text": "Poisoning Attacks Test accuracy before 90 poisoned batch: 83.38% 80 70 Test accuracy after 60 poisoned batch: 72.07% 50 40 Burn-in phase 30 20 0 5 10 15 20 25 30 35 40 45 Training epochs",
+                    "BoundingBox": {
+                        "Width": 0.23733147978782654,
+                        "Height": 0.21662090718746185,
+                        "Left": 0.023703211918473244,
+                        "Top": 0.3685636520385742
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "52642c60-c1d5-48cf-bc72-2d6eb6820b10",
+                    "Score": 0.6212414503097534
+                },
+                {
+                    "Text": "Can we also exploit the information of model dynamics to gain some useful clues to identify the imperceptible accumulative poisoning attacks?",
+                    "BoundingBox": {
+                        "Width": 0.7576057314872742,
+                        "Height": 0.05720315873622894,
+                        "Left": 0.11334364116191864,
+                        "Top": 0.7795817852020264
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "38eed38d-b045-47e8-bf30-69db85b50196",
+                    "Score": 0.9910491704940796
+                }
+            ]
+        }
+    ]
+}

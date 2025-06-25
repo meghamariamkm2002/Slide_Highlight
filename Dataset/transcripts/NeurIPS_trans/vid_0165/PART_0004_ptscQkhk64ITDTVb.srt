@@ -1,0 +1,20 @@
+1
+00:00:02,561 --> 00:00:15,684
+And after defining the causal model, we can use the neural network to estimate the treatment effects by learning conditional intensity function with maximizing likelihood.
+
+2
+00:00:16,605 --> 00:00:29,188
+But here we may face a challenge, which is that the covariance could be correlated with the treatment because the platforms like Twitter, like Reddit,
+
+3
+00:00:29,838 --> 00:00:35,085
+they will recommend you with the content that they believe you are very likely to click on.
+
+4
+00:00:35,766 --> 00:00:38,929
+So the covariate will be correlated with treatment.
+
+5
+00:00:39,871 --> 00:00:48,982
+So to solve this issue, we propose an adversarial balanced neural temporal point process that can remove such kind of correlation with theoretical guarantees.
+

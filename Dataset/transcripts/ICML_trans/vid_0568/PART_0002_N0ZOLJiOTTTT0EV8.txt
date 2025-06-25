@@ -1,0 +1,4 @@
+The energy function has driven progress in singleton memory modeling with their capacity driven by the intermemory interactions.
+The increase in capacity shown in the timeline where the initial model had a capacity much less than the number of neurons.
+Later polynomial intermemory interactions were introduced that made the capacity dense in the number of neurons, meaning the number of memories that can be stored was larger than the number of neurons in the system.
+Recent works improved the capacity even further to be exponential in the number of neurons.

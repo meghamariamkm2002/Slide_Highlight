@@ -1,0 +1,286 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,829",
+            "end_time": "00:00:02,690",
+            "transcript": "Our method can be seen in the upper figure.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10433930158615112,
+                        "Height": 0.07912973314523697,
+                        "Left": 0.8892312049865723,
+                        "Top": 0.013910078443586826
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6038a245-2db4-4aed-abbf-0fe4d735a330",
+                    "Score": 0.6162629723548889
+                },
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.7197695970535278
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,390",
+            "end_time": "00:00:06,772",
+            "transcript": "Features of the source and target domain are aligned by cluster prototypes.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10433930158615112,
+                        "Height": 0.07912973314523697,
+                        "Left": 0.8892312049865723,
+                        "Top": 0.013910078443586826
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6038a245-2db4-4aed-abbf-0fe4d735a330",
+                    "Score": 0.6162629723548889
+                },
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.7197695970535278
+                },
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.8088662624359131
+                },
+                {
+                    "Text": "Memory bank features are updated with a momentum of 0.5",
+                    "BoundingBox": {
+                        "Width": 0.48109689354896545,
+                        "Height": 0.030170917510986328,
+                        "Left": 0.07378966361284256,
+                        "Top": 0.6070104241371155
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "deaa3937-6b36-49c6-b6d6-5fca87a02795",
+                    "Score": 0.846383810043335
+                },
+                {
+                    "Text": "Spherical K-means [9] (K=2500) is used to cluster memory bank features into prototypes",
+                    "BoundingBox": {
+                        "Width": 0.686676025390625,
+                        "Height": 0.031396713107824326,
+                        "Left": 0.07358581572771072,
+                        "Top": 0.6649196743965149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50b152e3-5969-4e35-abfe-6863998289aa",
+                    "Score": 0.8440719842910767
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,592",
+            "end_time": "00:00:15,055",
+            "transcript": "To cluster memory bank features into prototypes, we build upon PCS and perform spherical k-means with a momentum of 0.5.",
+            "MatchedRegion": [
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.7197695970535278
+                },
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.8088662624359131
+                },
+                {
+                    "Text": "Memory bank features are updated with a momentum of 0.5",
+                    "BoundingBox": {
+                        "Width": 0.48109689354896545,
+                        "Height": 0.030170917510986328,
+                        "Left": 0.07378966361284256,
+                        "Top": 0.6070104241371155
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "deaa3937-6b36-49c6-b6d6-5fca87a02795",
+                    "Score": 0.846383810043335
+                },
+                {
+                    "Text": "Spherical K-means [9] (K=2500) is used to cluster memory bank features into prototypes",
+                    "BoundingBox": {
+                        "Width": 0.686676025390625,
+                        "Height": 0.031396713107824326,
+                        "Left": 0.07358581572771072,
+                        "Top": 0.6649196743965149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50b152e3-5969-4e35-abfe-6863998289aa",
+                    "Score": 0.8440719842910767
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,562",
+            "end_time": "00:00:25,190",
+            "transcript": "Similar to PCS, we perform in-domain contrastive learning and cross-domain self-supervised learning between the features of the feature extractor and the prototypes.",
+            "MatchedRegion": [
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.7197695970535278
+                },
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.8088662624359131
+                },
+                {
+                    "Text": "Spherical K-means [9] (K=2500) is used to cluster memory bank features into prototypes",
+                    "BoundingBox": {
+                        "Width": 0.686676025390625,
+                        "Height": 0.031396713107824326,
+                        "Left": 0.07358581572771072,
+                        "Top": 0.6649196743965149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50b152e3-5969-4e35-abfe-6863998289aa",
+                    "Score": 0.8440719842910767
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,850",
+            "end_time": "00:00:30,675",
+            "transcript": "To further improve performance, we add our pseudo-loss formulation for grid-based lane detection.",
+            "MatchedRegion": [
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.7197695970535278
+                },
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.8088662624359131
+                },
+                {
+                    "Text": "Our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD, and our pseudo loss for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.8981481194496155,
+                        "Height": 0.07419376075267792,
+                        "Left": 0.035986706614494324,
+                        "Top": 0.724291205406189
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d87f5b5-b67c-4812-b8fa-27103f916237",
+                    "Score": 0.8341573476791382
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:31,655",
+            "end_time": "00:00:38,562",
+            "transcript": "Overall, our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD and all",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10433930158615112,
+                        "Height": 0.07912973314523697,
+                        "Left": 0.8892312049865723,
+                        "Top": 0.013910078443586826
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6038a245-2db4-4aed-abbf-0fe4d735a330",
+                    "Score": 0.6162629723548889
+                },
+                {
+                    "Text": "Segmentation Labels Data Auxiliary Segmentation (Training only) Data Source Domain PCS-Loss Augmentation Kmeans Prediction Labels AA Feature L2- Memory Bank Cosine Source Resolution: 1280x720 Extractor Norm. Classifier Update Target Domain Memory Bank A Target Domain Kmeans Randomization",
+                    "BoundingBox": {
+                        "Width": 0.6782563924789429,
+                        "Height": 0.31395223736763,
+                        "Left": 0.15924383699893951,
+                        "Top": 0.14627431333065033
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9064098f-96ed-44bc-96b3-4e4dc87993a9",
+                    "Score": 0.7197695970535278
+                },
+                {
+                    "Text": "Our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD, and our pseudo loss for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.8981481194496155,
+                        "Height": 0.07419376075267792,
+                        "Left": 0.035986706614494324,
+                        "Top": 0.724291205406189
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d87f5b5-b67c-4812-b8fa-27103f916237",
+                    "Score": 0.8341573476791382
+                }
+            ]
+        }
+    ]
+}

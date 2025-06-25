@@ -1,0 +1,3 @@
+And to further evaporate the model's generalization ability, we carried out the experiment under the field-short setting.
+And we can find that with more data for training, the performance is greatly improved, especially on species with unique texture appearance and posture characteristics.
+And we think it's because these unique characteristics are not shared in other species.

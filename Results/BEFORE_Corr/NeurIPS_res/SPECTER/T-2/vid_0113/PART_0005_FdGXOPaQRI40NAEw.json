@@ -1,0 +1,215 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,570",
+            "end_time": "00:00:20,996",
+            "transcript": "We evaluated the performance of four kinds of models, statistic, machine learning models, neural networks, general-domain large-scale pre-trained language models, and COVID-19-related pre-trained language models for the NER task and the TSA task on MassCov dataset.",
+            "MatchedRegion": [
+                {
+                    "Text": "3 Model Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.29392674565315247,
+                        "Height": 0.04708361625671387,
+                        "Left": 0.027726927772164345,
+                        "Top": 0.05049312114715576
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "372b457f-0efe-4b9e-bf6e-5057e562df54",
+                    "Score": 0.7172253727912903
+                },
+                {
+                    "Text": "3.1 Named Entity Recognition (NER) Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.5259122848510742,
+                        "Height": 0.041582200676202774,
+                        "Left": 0.027423763647675514,
+                        "Top": 0.140104278922081
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "ee06a31f-d3d1-498b-a562-fe2f56b5c2da",
+                    "Score": 0.8066120147705078
+                },
+                {
+                    "Text": "NER Models",
+                    "BoundingBox": {
+                        "Width": 0.10431578010320663,
+                        "Height": 0.02825195901095867,
+                        "Left": 0.0646447241306305,
+                        "Top": 0.2193368673324585
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "83284862-52ec-429b-be68-0ed85d7f58d8",
+                    "Score": 0.781474769115448
+                },
+                {
+                    "Text": "1 traditional statistical machine learning model: Conditional Random Field (CRF)",
+                    "BoundingBox": {
+                        "Width": 0.6954721212387085,
+                        "Height": 0.0349980928003788,
+                        "Left": 0.10159935802221298,
+                        "Top": 0.2626066505908966
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8ac6a5c8-f2f1-48fe-a22c-4728e9135460",
+                    "Score": 0.7857763171195984
+                },
+                {
+                    "Text": "6 neural network models from a combination of",
+                    "BoundingBox": {
+                        "Width": 0.4262833893299103,
+                        "Height": 0.02874583750963211,
+                        "Left": 0.10185409337282181,
+                        "Top": 0.3081265389919281
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab78bd61-04ff-4a3a-aa6f-6e14cdb95cd1",
+                    "Score": 0.7770642638206482
+                },
+                {
+                    "Text": "(1) A BiLSTM for word-level feature extraction",
+                    "BoundingBox": {
+                        "Width": 0.4115103781223297,
+                        "Height": 0.03481994569301605,
+                        "Left": 0.1393926590681076,
+                        "Top": 0.35187235474586487
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "82bd401d-11a7-4638-b32b-165644fd3791",
+                    "Score": 0.8385369777679443
+                },
+                {
+                    "Text": "(2) CRF or non-CRF as the inference layer or (3) without character information or encoding character feature with structure CNN, LSTM (denoted as CCNN and CLSTM respectively)",
+                    "BoundingBox": {
+                        "Width": 0.7875378727912903,
+                        "Height": 0.08037618547677994,
+                        "Left": 0.13935622572898865,
+                        "Top": 0.3961019217967987
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f8180f65-a0e1-4dda-a8ab-d9cbf672c175",
+                    "Score": 0.8002641201019287
+                },
+                {
+                    "Text": "3 general domain PLM including BERT, RoBERTa and BART",
+                    "BoundingBox": {
+                        "Width": 0.5064092874526978,
+                        "Height": 0.03431570902466774,
+                        "Left": 0.10149431973695755,
+                        "Top": 0.4863756000995636
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "acf0eb3c-b15c-47ea-9591-9cdd7327986f",
+                    "Score": 0.7142187356948853
+                },
+                {
+                    "Text": "2 COVID-19-related PLM: BERTweet-covid19 and COVID-TWITTER-BERT",
+                    "BoundingBox": {
+                        "Width": 0.6204004883766174,
+                        "Height": 0.02912500873208046,
+                        "Left": 0.1013137549161911,
+                        "Top": 0.5307601094245911
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6c2c8a95-c3d2-4f86-843b-0d3ec3bd810b",
+                    "Score": 0.7520475387573242
+                },
+                {
+                    "Text": "Training and Test Sets",
+                    "BoundingBox": {
+                        "Width": 0.18653318285942078,
+                        "Height": 0.03325606882572174,
+                        "Left": 0.06330172717571259,
+                        "Top": 0.5914507508277893
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9dc58ed9-4e3a-48dc-b3b8-33b2f78dfa00",
+                    "Score": 0.7682490944862366
+                },
+                {
+                    "Text": "Train-dev-test ratio is 70:15:15.",
+                    "BoundingBox": {
+                        "Width": 0.26241636276245117,
+                        "Height": 0.027587708085775375,
+                        "Left": 0.12232817709445953,
+                        "Top": 0.6357335448265076
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "71d47f16-2875-4b66-bfb4-e47a559aafcc",
+                    "Score": 0.8087063431739807
+                },
+                {
+                    "Text": "Implementation Details",
+                    "BoundingBox": {
+                        "Width": 0.20372164249420166,
+                        "Height": 0.03385688364505768,
+                        "Left": 0.06398066878318787,
+                        "Top": 0.6849378943443298
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d267bc07-a0c3-43fe-9c94-d52477b4d2fb",
+                    "Score": 0.7138873934745789
+                },
+                {
+                    "Text": "All the experiments of NER models are conducted using NCRF+ (Yang and Zhang, 2018)",
+                    "BoundingBox": {
+                        "Width": 0.7623849511146545,
+                        "Height": 0.0345710813999176,
+                        "Left": 0.10169412940740585,
+                        "Top": 0.7285919189453125
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "af21de6a-52e6-4750-bfab-5590d24e4919",
+                    "Score": 0.8133115768432617
+                },
+                {
+                    "Text": "Hyperparameters of the models are default settings from Yang et al. (2018a).",
+                    "BoundingBox": {
+                        "Width": 0.6686153411865234,
+                        "Height": 0.03488851711153984,
+                        "Left": 0.10173113644123077,
+                        "Top": 0.7734585404396057
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e4a94676-c80b-4b1f-a54f-b7fc966eb238",
+                    "Score": 0.797752320766449
+                },
+                {
+                    "Text": "We reported the results based on experiments on 5 different random seeds: 22, 32, 42, 52 and 62.",
+                    "BoundingBox": {
+                        "Width": 0.8592451810836792,
+                        "Height": 0.03421143442392349,
+                        "Left": 0.10155075043439865,
+                        "Top": 0.8180322051048279
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3473621f-cc18-4ed3-8517-4ce3c71b6588",
+                    "Score": 0.7412931323051453
+                },
+                {
+                    "Text": "-",
+                    "BoundingBox": {
+                        "Width": 0.011654797941446304,
+                        "Height": 0.021804306656122208,
+                        "Left": 0.0873643308877945,
+                        "Top": 0.9738448858261108
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "1b9e669d-672e-4fd8-98bb-e2ff61bca9b6",
+                    "Score": 0.7520047426223755
+                },
+                {
+                    "Text": "6",
+                    "BoundingBox": {
+                        "Width": 0.006858280394226313,
+                        "Height": 0.018273113295435905,
+                        "Left": 0.916727602481842,
+                        "Top": 0.9436103105545044
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "e466f147-f0e2-4e04-89fe-d1f7f9d5903f",
+                    "Score": 0.7385869026184082
+                }
+            ]
+        }
+    ]
+}

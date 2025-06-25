@@ -1,0 +1,62 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,109",
+            "end_time": "00:00:06,756",
+            "transcript": "And then achieve new SOTA results in PDBblind dataset.",
+            "MatchedRegion": [
+                {
+                    "Text": "New SOTA results in PDBbind dataset.",
+                    "BoundingBox": {
+                        "Width": 0.4540692865848541,
+                        "Height": 0.03849229961633682,
+                        "Left": 0.06341782212257385,
+                        "Top": 0.06557229906320572
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "fddc609e-b05e-417b-b615-489dcb7f707c",
+                    "Score": 0.7777777777777779
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,717",
+            "end_time": "00:00:16,968",
+            "transcript": "We have a larger fraction of predictions with lower ligand RMSD and better binding affinity prediction.",
+            "MatchedRegion": [
+                {
+                    "Text": "a) Larger fraction of predictions with lower ligand RMSD, especially at threshold 5A.",
+                    "BoundingBox": {
+                        "Width": 0.6131991147994995,
+                        "Height": 0.034612420946359634,
+                        "Left": 0.03475259616971016,
+                        "Top": 0.3244921565055847
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03ea8784-b870-476f-bb99-365eca679cba",
+                    "Score": 0.7021276595744681
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,829",
+            "end_time": "00:00:19,991",
+            "transcript": "And we also have higher inference efficiency.",
+            "MatchedRegion": [
+                {
+                    "Text": "c) Higher Inference efficiency.",
+                    "BoundingBox": {
+                        "Width": 0.21665769815444946,
+                        "Height": 0.029643464833498,
+                        "Left": 0.03493824601173401,
+                        "Top": 0.4322196841239929
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "001fa585-30ce-4396-aeb6-52937611c35d",
+                    "Score": 0.7105263157894737
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

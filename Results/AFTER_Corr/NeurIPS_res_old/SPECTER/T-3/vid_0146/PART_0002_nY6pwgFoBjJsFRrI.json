@@ -1,0 +1,138 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,492",
+            "end_time": "00:00:14,178",
+            "transcript": "The intuition behind our method is to directly manipulate the relevance maps to solve both issues that we saw before, i.e., demand less relevance on the background and more relevance on the entire foreground, as can be seen in the examples here.",
+            "MatchedRegion": [
+                {
+                    "Text": "Method intuition",
+                    "BoundingBox": {
+                        "Width": 0.30393821001052856,
+                        "Height": 0.06273690611124039,
+                        "Left": 0.0784764438867569,
+                        "Top": 0.11360764503479004
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "fa18baa6-3ae3-461f-b878-6fb9f837dc72",
+                    "Score": 0.6687254905700684
+                },
+                {
+                    "Text": "Directly manipulate the relevance maps to solve both issues",
+                    "BoundingBox": {
+                        "Width": 0.5527819395065308,
+                        "Height": 0.042323168367147446,
+                        "Left": 0.07625419646501541,
+                        "Top": 0.2208196371793747
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cdf58699-58e8-49f1-b09f-8a42af82e51b",
+                    "Score": 0.685827374458313
+                },
+                {
+                    "Text": "Less relevance on the background",
+                    "BoundingBox": {
+                        "Width": 0.2750653028488159,
+                        "Height": 0.029979636892676353,
+                        "Left": 0.1135028526186943,
+                        "Top": 0.2715376019477844
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "199bbccd-3ca2-4a64-a2cc-be3ae86c6cde",
+                    "Score": 0.7107954621315002
+                },
+                {
+                    "Text": "More relevance on the entire foreground",
+                    "BoundingBox": {
+                        "Width": 0.32641682028770447,
+                        "Height": 0.03015066497027874,
+                        "Left": 0.11370141059160233,
+                        "Top": 0.3123088479042053
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0a34354-1a56-4e95-8a08-6aa8ebe933d0",
+                    "Score": 0.6676740646362305
+                },
+                {
+                    "Text": "Same prediction Corrected prediction Incorrect prediction Input Original Ours Input Original Ours Input Original Ours Snowplow Snowplow Can- Teddy- Tripod Strawberry opener bear Jacamar Jacamar Indri Lemur- Coral- Leather- catta reef back turtle Sundial Sundial Humming- Chickadee Screwdr- Screw bird iver Capuchin Capuchin Quilt Chest Eft Bottlecap Curly coat- Curly coat- Bubble Mountain- Microwave Crock- ed retriever ed retriever tent pot",
+                    "BoundingBox": {
+                        "Width": 0.4014476239681244,
+                        "Height": 0.5995053052902222,
+                        "Left": 0.24586151540279388,
+                        "Top": 0.3728630244731903
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "2824cff4-1cff-454f-8900-210358a8ea2c",
+                    "Score": 0.8215183019638062
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,978",
+            "end_time": "00:00:26,023",
+            "transcript": "For example, originally the model predicted a snowplow based solely on the snow in the background, but after applying our method, the model still predicts a snowplow but based on the right reasons.",
+            "MatchedRegion": [
+                {
+                    "Text": "Method intuition",
+                    "BoundingBox": {
+                        "Width": 0.30393821001052856,
+                        "Height": 0.06273690611124039,
+                        "Left": 0.0784764438867569,
+                        "Top": 0.11360764503479004
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "fa18baa6-3ae3-461f-b878-6fb9f837dc72",
+                    "Score": 0.6687254905700684
+                },
+                {
+                    "Text": "Directly manipulate the relevance maps to solve both issues",
+                    "BoundingBox": {
+                        "Width": 0.5527819395065308,
+                        "Height": 0.042323168367147446,
+                        "Left": 0.07625419646501541,
+                        "Top": 0.2208196371793747
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cdf58699-58e8-49f1-b09f-8a42af82e51b",
+                    "Score": 0.685827374458313
+                },
+                {
+                    "Text": "Less relevance on the background",
+                    "BoundingBox": {
+                        "Width": 0.2750653028488159,
+                        "Height": 0.029979636892676353,
+                        "Left": 0.1135028526186943,
+                        "Top": 0.2715376019477844
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "199bbccd-3ca2-4a64-a2cc-be3ae86c6cde",
+                    "Score": 0.7107954621315002
+                },
+                {
+                    "Text": "More relevance on the entire foreground",
+                    "BoundingBox": {
+                        "Width": 0.32641682028770447,
+                        "Height": 0.03015066497027874,
+                        "Left": 0.11370141059160233,
+                        "Top": 0.3123088479042053
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0a34354-1a56-4e95-8a08-6aa8ebe933d0",
+                    "Score": 0.6676740646362305
+                },
+                {
+                    "Text": "Same prediction Corrected prediction Incorrect prediction Input Original Ours Input Original Ours Input Original Ours Snowplow Snowplow Can- Teddy- Tripod Strawberry opener bear Jacamar Jacamar Indri Lemur- Coral- Leather- catta reef back turtle Sundial Sundial Humming- Chickadee Screwdr- Screw bird iver Capuchin Capuchin Quilt Chest Eft Bottlecap Curly coat- Curly coat- Bubble Mountain- Microwave Crock- ed retriever ed retriever tent pot",
+                    "BoundingBox": {
+                        "Width": 0.4014476239681244,
+                        "Height": 0.5995053052902222,
+                        "Left": 0.24586151540279388,
+                        "Top": 0.3728630244731903
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "2824cff4-1cff-454f-8900-210358a8ea2c",
+                    "Score": 0.8215183019638062
+                }
+            ]
+        }
+    ]
+}

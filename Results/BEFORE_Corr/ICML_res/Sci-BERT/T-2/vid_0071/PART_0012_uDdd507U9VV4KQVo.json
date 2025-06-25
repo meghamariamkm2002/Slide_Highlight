@@ -1,0 +1,138 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,584",
+            "end_time": "00:00:05,848",
+            "transcript": "Lastly, we examine the discrimination power of different concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 4: Discrimination power of concepts",
+                    "BoundingBox": {
+                        "Width": 0.6831929683685303,
+                        "Height": 0.058975230902433395,
+                        "Left": 0.09747317433357239,
+                        "Top": 0.06518746167421341
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "9f0c9fca-a4f8-4c00-b0f2-1318b278f0bb",
+                    "Score": 0.7365908622741699
+                },
+                {
+                    "Text": "For each concept S, if the concept is saliently activated on a set of samples, then interaction effects I (S) of the same concept are supposed to push the classification of these samples towards the same category in most cases.",
+                    "BoundingBox": {
+                        "Width": 0.8602766394615173,
+                        "Height": 0.1224837452173233,
+                        "Left": 0.0806051567196846,
+                        "Top": 0.18538843095302582
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d1e529a1-969b-4c45-89e2-d480df6b4b8d",
+                    "Score": 0.8730636835098267
+                },
+                {
+                    "Text": "The discrimination power of a salient concept S B(S) = =max(mg,mg)/(mt+mg. ms: the number of samples where the concept S makes a salient and positive effect ms : the number of samples where the concept S makes a salient and negative effect",
+                    "BoundingBox": {
+                        "Width": 0.6023303270339966,
+                        "Height": 0.10696028172969818,
+                        "Left": 0.08911728113889694,
+                        "Top": 0.32384175062179565
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "51ca11ef-c363-46b9-983a-a21211dda69c",
+                    "Score": 0.7456824779510498
+                },
+                {
+                    "Text": "the average discrimination power of all concepts B I",
+                    "BoundingBox": {
+                        "Width": 0.3904269337654114,
+                        "Height": 0.03260349482297897,
+                        "Left": 0.09107127785682678,
+                        "Top": 0.45398184657096863
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "975ce982-a4b4-4b25-8ba4-e396e5763982",
+                    "Score": 0.7613801956176758
+                },
+                {
+                    "Text": "The average discrimination power B of concepts was usually higher than 0.8, which verified the discrimination power of extracted concepts.",
+                    "BoundingBox": {
+                        "Width": 0.8176149725914001,
+                        "Height": 0.08177220821380615,
+                        "Left": 0.08886725455522537,
+                        "Top": 0.8433576226234436
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfe552f1-d773-4d65-9d42-bd0303becbcb",
+                    "Score": 0.8518103361129761
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,589",
+            "end_time": "00:00:13,456",
+            "transcript": "We found that the same concept usually pushes the classification of different samples towards the same category.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 4: Discrimination power of concepts",
+                    "BoundingBox": {
+                        "Width": 0.6831929683685303,
+                        "Height": 0.058975230902433395,
+                        "Left": 0.09747317433357239,
+                        "Top": 0.06518746167421341
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "9f0c9fca-a4f8-4c00-b0f2-1318b278f0bb",
+                    "Score": 0.7365908622741699
+                },
+                {
+                    "Text": "For each concept S, if the concept is saliently activated on a set of samples, then interaction effects I (S) of the same concept are supposed to push the classification of these samples towards the same category in most cases.",
+                    "BoundingBox": {
+                        "Width": 0.8602766394615173,
+                        "Height": 0.1224837452173233,
+                        "Left": 0.0806051567196846,
+                        "Top": 0.18538843095302582
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d1e529a1-969b-4c45-89e2-d480df6b4b8d",
+                    "Score": 0.8730636835098267
+                },
+                {
+                    "Text": "The discrimination power of a salient concept S B(S) = =max(mg,mg)/(mt+mg. ms: the number of samples where the concept S makes a salient and positive effect ms : the number of samples where the concept S makes a salient and negative effect",
+                    "BoundingBox": {
+                        "Width": 0.6023303270339966,
+                        "Height": 0.10696028172969818,
+                        "Left": 0.08911728113889694,
+                        "Top": 0.32384175062179565
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "51ca11ef-c363-46b9-983a-a21211dda69c",
+                    "Score": 0.7456824779510498
+                },
+                {
+                    "Text": "the average discrimination power of all concepts B I",
+                    "BoundingBox": {
+                        "Width": 0.3904269337654114,
+                        "Height": 0.03260349482297897,
+                        "Left": 0.09107127785682678,
+                        "Top": 0.45398184657096863
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "975ce982-a4b4-4b25-8ba4-e396e5763982",
+                    "Score": 0.7613801956176758
+                },
+                {
+                    "Text": "The average discrimination power B of concepts was usually higher than 0.8, which verified the discrimination power of extracted concepts.",
+                    "BoundingBox": {
+                        "Width": 0.8176149725914001,
+                        "Height": 0.08177220821380615,
+                        "Left": 0.08886725455522537,
+                        "Top": 0.8433576226234436
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfe552f1-d773-4d65-9d42-bd0303becbcb",
+                    "Score": 0.8518103361129761
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,327 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,029",
+            "end_time": "00:00:00,630",
+            "transcript": "which is used.",
+            "MatchedRegion": [
+                {
+                    "Text": "Can we use signatures to predict end-to-end performance?",
+                    "BoundingBox": {
+                        "Width": 0.7231237888336182,
+                        "Height": 0.04906793683767319,
+                        "Left": 0.13838137686252594,
+                        "Top": 0.11428266018629074
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3bc79ae6-07cc-499e-9396-936107587703",
+                    "Score": 0.7304542660713196
+                },
+                {
+                    "Text": "Distill epochs = 1 Distill epochs = 10 Distill epochs = 50 0.5 0.5 0.5 GCN 0.4 0.4 0.4 DONNA LANA 0.3 0.3 0.3 0.2 0.2 0.2 0.1 0.1 0.1 0.0 0.0 0.0 -0.1 -0.1 -0.1 0 100 200 300 400 500 0 100 200 300 400 500 0 100 200 300 400 500 Number of models used to train the predictor",
+                    "BoundingBox": {
+                        "Width": 0.8365749716758728,
+                        "Height": 0.3854406177997589,
+                        "Left": 0.07934951037168503,
+                        "Top": 0.30891409516334534
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d3d43f05-df7b-480c-aa71-d661babb8957",
+                    "Score": 0.6509050130844116
+                },
+                {
+                    "Text": "* DONNA: a linear regression model with second-order terms.",
+                    "BoundingBox": {
+                        "Width": 0.5292904376983643,
+                        "Height": 0.03438328206539154,
+                        "Left": 0.1482757031917572,
+                        "Top": 0.7677684426307678
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6c81aecf-ddb3-4864-8462-e707911e36ab",
+                    "Score": 0.7715532183647156
+                },
+                {
+                    "Text": "* HANT: a simple sum of signatures is used as a proxy.",
+                    "BoundingBox": {
+                        "Width": 0.4733165502548218,
+                        "Height": 0.03415058180689812,
+                        "Left": 0.14843451976776123,
+                        "Top": 0.8092349171638489
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b5bf4487-6843-4778-9167-c4c8c16050cd",
+                    "Score": 0.7830021381378174
+                },
+                {
+                    "Text": "* GCN: a graph convolutional network to capture graph topology and predict performance of a model.",
+                    "BoundingBox": {
+                        "Width": 0.7647888660430908,
+                        "Height": 0.06874857097864151,
+                        "Left": 0.14828906953334808,
+                        "Top": 0.8499126434326172
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "39eedae3-daa9-468a-adbf-0e5dfc5903a7",
+                    "Score": 0.7752199172973633
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,251",
+            "end_time": "00:00:09,919",
+            "transcript": "We study if the predictor are good at estimating the end-to-end model accuracy after distillation and fine-tuning.",
+            "MatchedRegion": [
+                {
+                    "Text": "Can we use signatures to predict end-to-end performance?",
+                    "BoundingBox": {
+                        "Width": 0.7231237888336182,
+                        "Height": 0.04906793683767319,
+                        "Left": 0.13838137686252594,
+                        "Top": 0.11428266018629074
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3bc79ae6-07cc-499e-9396-936107587703",
+                    "Score": 0.7304542660713196
+                },
+                {
+                    "Text": "Distill epochs = 1 Distill epochs = 10 Distill epochs = 50 0.5 0.5 0.5 GCN 0.4 0.4 0.4 DONNA LANA 0.3 0.3 0.3 0.2 0.2 0.2 0.1 0.1 0.1 0.0 0.0 0.0 -0.1 -0.1 -0.1 0 100 200 300 400 500 0 100 200 300 400 500 0 100 200 300 400 500 Number of models used to train the predictor",
+                    "BoundingBox": {
+                        "Width": 0.8365749716758728,
+                        "Height": 0.3854406177997589,
+                        "Left": 0.07934951037168503,
+                        "Top": 0.30891409516334534
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d3d43f05-df7b-480c-aa71-d661babb8957",
+                    "Score": 0.6509050130844116
+                },
+                {
+                    "Text": "* DONNA: a linear regression model with second-order terms.",
+                    "BoundingBox": {
+                        "Width": 0.5292904376983643,
+                        "Height": 0.03438328206539154,
+                        "Left": 0.1482757031917572,
+                        "Top": 0.7677684426307678
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6c81aecf-ddb3-4864-8462-e707911e36ab",
+                    "Score": 0.7715532183647156
+                },
+                {
+                    "Text": "* HANT: a simple sum of signatures is used as a proxy.",
+                    "BoundingBox": {
+                        "Width": 0.4733165502548218,
+                        "Height": 0.03415058180689812,
+                        "Left": 0.14843451976776123,
+                        "Top": 0.8092349171638489
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b5bf4487-6843-4778-9167-c4c8c16050cd",
+                    "Score": 0.7830021381378174
+                },
+                {
+                    "Text": "* GCN: a graph convolutional network to capture graph topology and predict performance of a model.",
+                    "BoundingBox": {
+                        "Width": 0.7647888660430908,
+                        "Height": 0.06874857097864151,
+                        "Left": 0.14828906953334808,
+                        "Top": 0.8499126434326172
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "39eedae3-daa9-468a-adbf-0e5dfc5903a7",
+                    "Score": 0.7752199172973633
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,441",
+            "end_time": "00:00:12,422",
+            "transcript": "There are three findings.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:12,982",
+            "end_time": "00:00:22,953",
+            "transcript": "One, distillation loss and linear regression used in donor is better than change of validation accuracy and simple summation used in NANDA.",
+            "MatchedRegion": [
+                {
+                    "Text": "Distill epochs = 1 Distill epochs = 10 Distill epochs = 50 0.5 0.5 0.5 GCN 0.4 0.4 0.4 DONNA LANA 0.3 0.3 0.3 0.2 0.2 0.2 0.1 0.1 0.1 0.0 0.0 0.0 -0.1 -0.1 -0.1 0 100 200 300 400 500 0 100 200 300 400 500 0 100 200 300 400 500 Number of models used to train the predictor",
+                    "BoundingBox": {
+                        "Width": 0.8365749716758728,
+                        "Height": 0.3854406177997589,
+                        "Left": 0.07934951037168503,
+                        "Top": 0.30891409516334534
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d3d43f05-df7b-480c-aa71-d661babb8957",
+                    "Score": 0.6509050130844116
+                },
+                {
+                    "Text": "* DONNA: a linear regression model with second-order terms.",
+                    "BoundingBox": {
+                        "Width": 0.5292904376983643,
+                        "Height": 0.03438328206539154,
+                        "Left": 0.1482757031917572,
+                        "Top": 0.7677684426307678
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6c81aecf-ddb3-4864-8462-e707911e36ab",
+                    "Score": 0.7715532183647156
+                },
+                {
+                    "Text": "* HANT: a simple sum of signatures is used as a proxy.",
+                    "BoundingBox": {
+                        "Width": 0.4733165502548218,
+                        "Height": 0.03415058180689812,
+                        "Left": 0.14843451976776123,
+                        "Top": 0.8092349171638489
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b5bf4487-6843-4778-9167-c4c8c16050cd",
+                    "Score": 0.7830021381378174
+                },
+                {
+                    "Text": "* GCN: a graph convolutional network to capture graph topology and predict performance of a model.",
+                    "BoundingBox": {
+                        "Width": 0.7647888660430908,
+                        "Height": 0.06874857097864151,
+                        "Left": 0.14828906953334808,
+                        "Top": 0.8499126434326172
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "39eedae3-daa9-468a-adbf-0e5dfc5903a7",
+                    "Score": 0.7752199172973633
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,276",
+            "end_time": "00:00:28,985",
+            "transcript": "2.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:24,717",
+            "end_time": "00:00:28,985",
+            "transcript": "Symmetry of blocks that were distributed for more epoch tend to produce better predictors.",
+            "MatchedRegion": [
+                {
+                    "Text": "Distill epochs = 1 Distill epochs = 10 Distill epochs = 50 0.5 0.5 0.5 GCN 0.4 0.4 0.4 DONNA LANA 0.3 0.3 0.3 0.2 0.2 0.2 0.1 0.1 0.1 0.0 0.0 0.0 -0.1 -0.1 -0.1 0 100 200 300 400 500 0 100 200 300 400 500 0 100 200 300 400 500 Number of models used to train the predictor",
+                    "BoundingBox": {
+                        "Width": 0.8365749716758728,
+                        "Height": 0.3854406177997589,
+                        "Left": 0.07934951037168503,
+                        "Top": 0.30891409516334534
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d3d43f05-df7b-480c-aa71-d661babb8957",
+                    "Score": 0.6509050130844116
+                },
+                {
+                    "Text": "* DONNA: a linear regression model with second-order terms.",
+                    "BoundingBox": {
+                        "Width": 0.5292904376983643,
+                        "Height": 0.03438328206539154,
+                        "Left": 0.1482757031917572,
+                        "Top": 0.7677684426307678
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6c81aecf-ddb3-4864-8462-e707911e36ab",
+                    "Score": 0.7715532183647156
+                },
+                {
+                    "Text": "* HANT: a simple sum of signatures is used as a proxy.",
+                    "BoundingBox": {
+                        "Width": 0.4733165502548218,
+                        "Height": 0.03415058180689812,
+                        "Left": 0.14843451976776123,
+                        "Top": 0.8092349171638489
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b5bf4487-6843-4778-9167-c4c8c16050cd",
+                    "Score": 0.7830021381378174
+                },
+                {
+                    "Text": "* GCN: a graph convolutional network to capture graph topology and predict performance of a model.",
+                    "BoundingBox": {
+                        "Width": 0.7647888660430908,
+                        "Height": 0.06874857097864151,
+                        "Left": 0.14828906953334808,
+                        "Top": 0.8499126434326172
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "39eedae3-daa9-468a-adbf-0e5dfc5903a7",
+                    "Score": 0.7752199172973633
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:30,568",
+            "end_time": "00:00:35,918",
+            "transcript": "The juice and predictor, which does not require any distillation signatures, can outperform",
+            "MatchedRegion": [
+                {
+                    "Text": "Can we use signatures to predict end-to-end performance?",
+                    "BoundingBox": {
+                        "Width": 0.7231237888336182,
+                        "Height": 0.04906793683767319,
+                        "Left": 0.13838137686252594,
+                        "Top": 0.11428266018629074
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3bc79ae6-07cc-499e-9396-936107587703",
+                    "Score": 0.7304542660713196
+                },
+                {
+                    "Text": "Distill epochs = 1 Distill epochs = 10 Distill epochs = 50 0.5 0.5 0.5 GCN 0.4 0.4 0.4 DONNA LANA 0.3 0.3 0.3 0.2 0.2 0.2 0.1 0.1 0.1 0.0 0.0 0.0 -0.1 -0.1 -0.1 0 100 200 300 400 500 0 100 200 300 400 500 0 100 200 300 400 500 Number of models used to train the predictor",
+                    "BoundingBox": {
+                        "Width": 0.8365749716758728,
+                        "Height": 0.3854406177997589,
+                        "Left": 0.07934951037168503,
+                        "Top": 0.30891409516334534
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d3d43f05-df7b-480c-aa71-d661babb8957",
+                    "Score": 0.6509050130844116
+                },
+                {
+                    "Text": "* DONNA: a linear regression model with second-order terms.",
+                    "BoundingBox": {
+                        "Width": 0.5292904376983643,
+                        "Height": 0.03438328206539154,
+                        "Left": 0.1482757031917572,
+                        "Top": 0.7677684426307678
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6c81aecf-ddb3-4864-8462-e707911e36ab",
+                    "Score": 0.7715532183647156
+                },
+                {
+                    "Text": "* HANT: a simple sum of signatures is used as a proxy.",
+                    "BoundingBox": {
+                        "Width": 0.4733165502548218,
+                        "Height": 0.03415058180689812,
+                        "Left": 0.14843451976776123,
+                        "Top": 0.8092349171638489
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b5bf4487-6843-4778-9167-c4c8c16050cd",
+                    "Score": 0.7830021381378174
+                },
+                {
+                    "Text": "* GCN: a graph convolutional network to capture graph topology and predict performance of a model.",
+                    "BoundingBox": {
+                        "Width": 0.7647888660430908,
+                        "Height": 0.06874857097864151,
+                        "Left": 0.14828906953334808,
+                        "Top": 0.8499126434326172
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "39eedae3-daa9-468a-adbf-0e5dfc5903a7",
+                    "Score": 0.7752199172973633
+                }
+            ]
+        }
+    ]
+}

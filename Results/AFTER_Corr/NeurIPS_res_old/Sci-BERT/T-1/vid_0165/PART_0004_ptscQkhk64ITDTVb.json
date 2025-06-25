@@ -1,0 +1,73 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,561",
+            "end_time": "00:00:15,684",
+            "transcript": "And after defining the causal model, we can use the neural network to estimate the treatment effects by learning conditional intensity function with maximum likelihood.",
+            "MatchedRegion": [
+                {
+                    "Text": "A(t|H(TrUX)), p(f|H(TrUX),t), ((t|H(X)) p(f|H(X),t) p(Tr|H(X)) Intensity Feature Treatment Function Distribution Predictor GRL: adversarial H(Trux) H(X) training H (X) Share Encoder (H) (Y,TrUX) (Y, 0 UX) (Tr,X) Engage Post Post Engage Post",
+                    "BoundingBox": {
+                        "Width": 0.46624401211738586,
+                        "Height": 0.49506357312202454,
+                        "Left": 0.47943738102912903,
+                        "Top": 0.21960686147212982
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "902e1226-af80-4dcd-9c58-02ddf5357254",
+                    "Score": 0.656242847442627
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,605",
+            "end_time": "00:00:29,188",
+            "transcript": "But here we may face a challenge, which is that the covariance could be correlated with the treatment because the platforms like Twitter, such as Reddit,",
+            "MatchedRegion": [
+                {
+                    "Text": "A(t|H(TrUX)), p(f|H(TrUX),t), ((t|H(X)) p(f|H(X),t) p(Tr|H(X)) Intensity Feature Treatment Function Distribution Predictor GRL: adversarial H(Trux) H(X) training H (X) Share Encoder (H) (Y,TrUX) (Y, 0 UX) (Tr,X) Engage Post Post Engage Post",
+                    "BoundingBox": {
+                        "Width": 0.46624401211738586,
+                        "Height": 0.49506357312202454,
+                        "Left": 0.47943738102912903,
+                        "Top": 0.21960686147212982
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "902e1226-af80-4dcd-9c58-02ddf5357254",
+                    "Score": 0.656242847442627
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,838",
+            "end_time": "00:00:35,085",
+            "transcript": "they will recommend you with the content that they believe you are very likely to click on.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:35,766",
+            "end_time": "00:00:38,929",
+            "transcript": "So the covariate will be correlated with treatment.",
+            "MatchedRegion": [
+                {
+                    "Text": "A(t|H(TrUX)), p(f|H(TrUX),t), ((t|H(X)) p(f|H(X),t) p(Tr|H(X)) Intensity Feature Treatment Function Distribution Predictor GRL: adversarial H(Trux) H(X) training H (X) Share Encoder (H) (Y,TrUX) (Y, 0 UX) (Tr,X) Engage Post Post Engage Post",
+                    "BoundingBox": {
+                        "Width": 0.46624401211738586,
+                        "Height": 0.49506357312202454,
+                        "Left": 0.47943738102912903,
+                        "Top": 0.21960686147212982
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "902e1226-af80-4dcd-9c58-02ddf5357254",
+                    "Score": 0.656242847442627
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:39,871",
+            "end_time": "00:00:48,982",
+            "transcript": "So to solve this issue, we propose an adversarial balanced neural temporal point process that can remove such kind of correlation with theoretical guarantees.",
+            "MatchedRegion": []
+        }
+    ]
+}

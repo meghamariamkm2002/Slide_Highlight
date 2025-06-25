@@ -1,0 +1,16 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:06,213",
+            "transcript": "Certainely, we verity the model-wise transferabillty of extraced concepts.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,834",
+            "end_time": "00:00:12,758",
+            "transcript": "That is to say, concepts extracted from a DNN can be transferred to another DNN trained for the same task.",
+            "MatchedRegion": []
+        }
+    ]
+}

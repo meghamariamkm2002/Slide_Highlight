@@ -1,0 +1,22 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,910",
+            "end_time": "00:00:04,596",
+            "transcript": "In this slide, we show qualitative results of target domain predictions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,277",
+            "end_time": "00:00:08,822",
+            "transcript": "Ground truth lane annotations are marked in blue, predictions in red.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0011_GOV2LqBfxDaoOG8r",
+            "Score": 0.6067225933074951
+        }
+    ]
+}

@@ -1,0 +1,260 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,109",
+            "end_time": "00:00:00,229",
+            "transcript": "them.",
+            "MatchedRegion": [
+                {
+                    "Text": "Presented CFIL: A unique approach to imitation learning.",
+                    "BoundingBox": {
+                        "Width": 0.5344796180725098,
+                        "Height": 0.036495886743068695,
+                        "Left": 0.08689828217029572,
+                        "Top": 0.26802125573158264
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7bb046d2-610c-4b95-b87b-75ce70cdc7b4",
+                    "Score": 0.7735916376113892
+                },
+                {
+                    "Text": "Outperforms SOTA in a variety of settings.",
+                    "BoundingBox": {
+                        "Width": 0.3599150776863098,
+                        "Height": 0.03318044915795326,
+                        "Left": 0.12101563066244125,
+                        "Top": 0.33014804124832153
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e230d1a3-a9f4-40b4-8c52-e89877551383",
+                    "Score": 0.7269754409790039
+                },
+                {
+                    "Text": "Many novelties: estimator; smoothing & regularization; employment of flows; BC graphs.",
+                    "BoundingBox": {
+                        "Width": 0.7294418215751648,
+                        "Height": 0.03331602364778519,
+                        "Left": 0.12107585370540619,
+                        "Top": 0.3894883692264557
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5ec7efe8-a226-4476-9666-2f002d7582ac",
+                    "Score": 0.7659761905670166
+                },
+                {
+                    "Text": "Overall, we pointed out the great potential-then demonstrated the utility-of explicitly modeling the state and state-action distributions and aim to inspire more research incorporating such models all across the reinforcement learning literature.",
+                    "BoundingBox": {
+                        "Width": 0.7943786382675171,
+                        "Height": 0.12563620507717133,
+                        "Left": 0.08743744343519211,
+                        "Top": 0.5086816549301147
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "57ecd65b-0365-4a2b-b17d-b0074c10fbf1",
+                    "Score": 0.9900749921798706
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,210",
+            "end_time": "00:00:04,851",
+            "transcript": "In conclusion, we presented CFIL, a unique approach to imitation learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "Presented CFIL: A unique approach to imitation learning.",
+                    "BoundingBox": {
+                        "Width": 0.5344796180725098,
+                        "Height": 0.036495886743068695,
+                        "Left": 0.08689828217029572,
+                        "Top": 0.26802125573158264
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7bb046d2-610c-4b95-b87b-75ce70cdc7b4",
+                    "Score": 0.7735916376113892
+                },
+                {
+                    "Text": "Outperforms SOTA in a variety of settings.",
+                    "BoundingBox": {
+                        "Width": 0.3599150776863098,
+                        "Height": 0.03318044915795326,
+                        "Left": 0.12101563066244125,
+                        "Top": 0.33014804124832153
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e230d1a3-a9f4-40b4-8c52-e89877551383",
+                    "Score": 0.7269754409790039
+                },
+                {
+                    "Text": "Many novelties: estimator; smoothing & regularization; employment of flows; BC graphs.",
+                    "BoundingBox": {
+                        "Width": 0.7294418215751648,
+                        "Height": 0.03331602364778519,
+                        "Left": 0.12107585370540619,
+                        "Top": 0.3894883692264557
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5ec7efe8-a226-4476-9666-2f002d7582ac",
+                    "Score": 0.7659761905670166
+                },
+                {
+                    "Text": "Future work could include coupled flows for general ratio estimation.",
+                    "BoundingBox": {
+                        "Width": 0.5675026774406433,
+                        "Height": 0.03300018608570099,
+                        "Left": 0.1209183782339096,
+                        "Top": 0.4484615623950958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "600f197a-5197-4108-b9ee-59cad9929e89",
+                    "Score": 0.826605498790741
+                },
+                {
+                    "Text": "Overall, we pointed out the great potential-then demonstrated the utility-of explicitly modeling the state and state-action distributions and aim to inspire more research incorporating such models all across the reinforcement learning literature.",
+                    "BoundingBox": {
+                        "Width": 0.7943786382675171,
+                        "Height": 0.12563620507717133,
+                        "Left": 0.08743744343519211,
+                        "Top": 0.5086816549301147
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "57ecd65b-0365-4a2b-b17d-b0074c10fbf1",
+                    "Score": 0.9900749921798706
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,231",
+            "end_time": "00:00:17,637",
+            "transcript": "It outperforms the state-of-the-art in a variety of settings and introduces many novelties including its estimator for the log ratio, its smoothing and regularization, and more generally its employment of flows, while we also performed a unique analysis using BC routes.",
+            "MatchedRegion": [
+                {
+                    "Text": "Presented CFIL: A unique approach to imitation learning.",
+                    "BoundingBox": {
+                        "Width": 0.5344796180725098,
+                        "Height": 0.036495886743068695,
+                        "Left": 0.08689828217029572,
+                        "Top": 0.26802125573158264
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7bb046d2-610c-4b95-b87b-75ce70cdc7b4",
+                    "Score": 0.7735916376113892
+                },
+                {
+                    "Text": "Outperforms SOTA in a variety of settings.",
+                    "BoundingBox": {
+                        "Width": 0.3599150776863098,
+                        "Height": 0.03318044915795326,
+                        "Left": 0.12101563066244125,
+                        "Top": 0.33014804124832153
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e230d1a3-a9f4-40b4-8c52-e89877551383",
+                    "Score": 0.7269754409790039
+                },
+                {
+                    "Text": "Many novelties: estimator; smoothing & regularization; employment of flows; BC graphs.",
+                    "BoundingBox": {
+                        "Width": 0.7294418215751648,
+                        "Height": 0.03331602364778519,
+                        "Left": 0.12107585370540619,
+                        "Top": 0.3894883692264557
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5ec7efe8-a226-4476-9666-2f002d7582ac",
+                    "Score": 0.7659761905670166
+                },
+                {
+                    "Text": "Future work could include coupled flows for general ratio estimation.",
+                    "BoundingBox": {
+                        "Width": 0.5675026774406433,
+                        "Height": 0.03300018608570099,
+                        "Left": 0.1209183782339096,
+                        "Top": 0.4484615623950958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "600f197a-5197-4108-b9ee-59cad9929e89",
+                    "Score": 0.826605498790741
+                },
+                {
+                    "Text": "Overall, we pointed out the great potential-then demonstrated the utility-of explicitly modeling the state and state-action distributions and aim to inspire more research incorporating such models all across the reinforcement learning literature.",
+                    "BoundingBox": {
+                        "Width": 0.7943786382675171,
+                        "Height": 0.12563620507717133,
+                        "Left": 0.08743744343519211,
+                        "Top": 0.5086816549301147
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "57ecd65b-0365-4a2b-b17d-b0074c10fbf1",
+                    "Score": 0.9900749921798706
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,374",
+            "end_time": "00:00:30,858",
+            "transcript": "Overall, we point out the great potential that demonstrated the utility of explicitly modeling the state and state-action distributions and aim to inspire more research incorporating such models all across the reinforcement learning literature.",
+            "MatchedRegion": [
+                {
+                    "Text": "Presented CFIL: A unique approach to imitation learning.",
+                    "BoundingBox": {
+                        "Width": 0.5344796180725098,
+                        "Height": 0.036495886743068695,
+                        "Left": 0.08689828217029572,
+                        "Top": 0.26802125573158264
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7bb046d2-610c-4b95-b87b-75ce70cdc7b4",
+                    "Score": 0.7735916376113892
+                },
+                {
+                    "Text": "Outperforms SOTA in a variety of settings.",
+                    "BoundingBox": {
+                        "Width": 0.3599150776863098,
+                        "Height": 0.03318044915795326,
+                        "Left": 0.12101563066244125,
+                        "Top": 0.33014804124832153
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e230d1a3-a9f4-40b4-8c52-e89877551383",
+                    "Score": 0.7269754409790039
+                },
+                {
+                    "Text": "Many novelties: estimator; smoothing & regularization; employment of flows; BC graphs.",
+                    "BoundingBox": {
+                        "Width": 0.7294418215751648,
+                        "Height": 0.03331602364778519,
+                        "Left": 0.12107585370540619,
+                        "Top": 0.3894883692264557
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5ec7efe8-a226-4476-9666-2f002d7582ac",
+                    "Score": 0.7659761905670166
+                },
+                {
+                    "Text": "Future work could include coupled flows for general ratio estimation.",
+                    "BoundingBox": {
+                        "Width": 0.5675026774406433,
+                        "Height": 0.03300018608570099,
+                        "Left": 0.1209183782339096,
+                        "Top": 0.4484615623950958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "600f197a-5197-4108-b9ee-59cad9929e89",
+                    "Score": 0.826605498790741
+                },
+                {
+                    "Text": "Overall, we pointed out the great potential-then demonstrated the utility-of explicitly modeling the state and state-action distributions and aim to inspire more research incorporating such models all across the reinforcement learning literature.",
+                    "BoundingBox": {
+                        "Width": 0.7943786382675171,
+                        "Height": 0.12563620507717133,
+                        "Left": 0.08743744343519211,
+                        "Top": 0.5086816549301147
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "57ecd65b-0365-4a2b-b17d-b0074c10fbf1",
+                    "Score": 0.9900749921798706
+                }
+            ]
+        }
+    ]
+}

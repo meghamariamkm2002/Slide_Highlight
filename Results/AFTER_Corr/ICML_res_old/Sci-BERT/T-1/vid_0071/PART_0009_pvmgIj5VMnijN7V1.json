@@ -1,0 +1,53 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:05,896",
+            "transcript": "Second, we verify the transferability of concepts over different samples. \u2714\ufe0f",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,517",
+            "end_time": "00:00:11,183",
+            "transcript": "This means that concepts extracted from one sample can be transferred to other samples.",
+            "MatchedRegion": [
+                {
+                    "Text": "Whether concepts extracted from a sample can be transferred to other samples",
+                    "BoundingBox": {
+                        "Width": 0.6790326833724976,
+                        "Height": 0.034598458558321,
+                        "Left": 0.08016650378704071,
+                        "Top": 0.21105144917964935
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "855a7695-7092-46d3-bfba-07007ec297e1",
+                    "Score": 0.802192211151123
+                },
+                {
+                    "Text": "tic-tac-toe wifi MNIST-3 CelebA-eyeglasses ShapeNet (samples with pattern (samples in the 4th category) (positive samples) (positive samples) (samples in the motorbike 0,6 0.8 category) 0,8 0.8 0.8 0.6 LeNet 0.4 0.6 0.6 0.6 ResNet-20 0.4 ResNet-32 0.4 0.4 0.4 0.2 ResNet-44 AlexNet MLP-5 MLP-5 0.2 VGG-13 0.2 ResNet-18 0.2 PointNet 0.2 ResMLP-5 ResMLP-5 VGG-16 ResNet-34 PointNet 0.0 0.0 0.0 0.0 0 25 50 75 100 0 10 20 30 0 20 40 0 25 50 75 100 0 25 50 75 100 concept dictionary size k = DD concept dictionary size k = DDI concept dictionary size k = |Dkl concept dictionary size k = |Dkl concept dictionary size k = |Dkl",
+                    "BoundingBox": {
+                        "Width": 0.8028144240379333,
+                        "Height": 0.2860370874404907,
+                        "Left": 0.09930155426263809,
+                        "Top": 0.3994673192501068
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b5fbff8b-7e42-4741-b3fe-65a51f05bdff",
+                    "Score": 0.6385447978973389
+                },
+                {
+                    "Text": "The concept dictionary D is constructed based on top-frequent concepts.",
+                    "BoundingBox": {
+                        "Width": 0.5557876229286194,
+                        "Height": 0.030875198543071747,
+                        "Left": 0.2426525205373764,
+                        "Top": 0.7044967412948608
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5fc183c8-5b19-4465-a92c-c9490950397b",
+                    "Score": 0.8465472459793091
+                }
+            ]
+        }
+    ]
+}

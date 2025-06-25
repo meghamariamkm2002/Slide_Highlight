@@ -1,0 +1,260 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,568",
+            "end_time": "00:00:06,229",
+            "transcript": "Hello, thanks for watching.",
+            "MatchedRegion": [
+                {
+                    "Text": "GALIXIR",
+                    "BoundingBox": {
+                        "Width": 0.0721772164106369,
+                        "Height": 0.023998746648430824,
+                        "Left": 0.04797906056046486,
+                        "Top": 0.0859125554561615
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "e03e899c-ee53-4b15-9375-4e47bf0c8781",
+                    "Score": 0.6573622822761536
+                },
+                {
+                    "Text": "HYSEN",
+                    "BoundingBox": {
+                        "Width": 0.058929868042469025,
+                        "Height": 0.1046922504901886,
+                        "Left": 0.27221113443374634,
+                        "Top": 0.037730131298303604
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "08d27200-5044-4626-a4b4-232d9fa2cabf",
+                    "Score": 0.6351059675216675
+                },
+                {
+                    "Text": "TANKBind: Trigonometry-Aware Neural Networks for Drug-Protein Binding Structure Prediction",
+                    "BoundingBox": {
+                        "Width": 0.8001516461372375,
+                        "Height": 0.10907186567783356,
+                        "Left": 0.07297661900520325,
+                        "Top": 0.2868780195713043
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "935d2b89-6d98-4b8f-806b-cf172d99d78e",
+                    "Score": 0.7672277092933655
+                },
+                {
+                    "Text": "1 Galixir Technologies, 2Fudan University, Sun Yat-sen University",
+                    "BoundingBox": {
+                        "Width": 0.4946877658367157,
+                        "Height": 0.032325804233551025,
+                        "Left": 0.2294379621744156,
+                        "Top": 0.5985122323036194
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "de560faa-5912-41dc-aae4-f31ff4148367",
+                    "Score": 0.6594842672348022
+                },
+                {
+                    "Text": "NeurIPS 2022 Presentation",
+                    "BoundingBox": {
+                        "Width": 0.20610210299491882,
+                        "Height": 0.023895276710391045,
+                        "Left": 0.015202590264379978,
+                        "Top": 0.9169659614562988
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "a865cbcc-99c2-4e62-ac73-d80634ac4600",
+                    "Score": 0.7029774785041809
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,829",
+            "end_time": "00:00:14,633",
+            "transcript": "Today we are presenting tank band, trigonometry-aware neural networks for drug protein binding structure prediction.",
+            "MatchedRegion": [
+                {
+                    "Text": "TANKBind: Trigonometry-Aware Neural Networks for Drug-Protein Binding Structure Prediction",
+                    "BoundingBox": {
+                        "Width": 0.8001516461372375,
+                        "Height": 0.10907186567783356,
+                        "Left": 0.07297661900520325,
+                        "Top": 0.2868780195713043
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "935d2b89-6d98-4b8f-806b-cf172d99d78e",
+                    "Score": 0.7672277092933655
+                },
+                {
+                    "Text": "1 Galixir Technologies, 2Fudan University, Sun Yat-sen University",
+                    "BoundingBox": {
+                        "Width": 0.4946877658367157,
+                        "Height": 0.032325804233551025,
+                        "Left": 0.2294379621744156,
+                        "Top": 0.5985122323036194
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "de560faa-5912-41dc-aae4-f31ff4148367",
+                    "Score": 0.6594842672348022
+                },
+                {
+                    "Text": "NeurIPS 2022 Presentation",
+                    "BoundingBox": {
+                        "Width": 0.20610210299491882,
+                        "Height": 0.023895276710391045,
+                        "Left": 0.015202590264379978,
+                        "Top": 0.9169659614562988
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "a865cbcc-99c2-4e62-ac73-d80634ac4600",
+                    "Score": 0.7029774785041809
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,733",
+            "end_time": "00:00:18,054",
+            "transcript": "Please take a look of our cartoon here.",
+            "MatchedRegion": [
+                {
+                    "Text": "GALIXIR",
+                    "BoundingBox": {
+                        "Width": 0.0721772164106369,
+                        "Height": 0.023998746648430824,
+                        "Left": 0.04797906056046486,
+                        "Top": 0.0859125554561615
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "e03e899c-ee53-4b15-9375-4e47bf0c8781",
+                    "Score": 0.6573622822761536
+                },
+                {
+                    "Text": "HYSEN",
+                    "BoundingBox": {
+                        "Width": 0.058929868042469025,
+                        "Height": 0.1046922504901886,
+                        "Left": 0.27221113443374634,
+                        "Top": 0.037730131298303604
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "08d27200-5044-4626-a4b4-232d9fa2cabf",
+                    "Score": 0.6351059675216675
+                },
+                {
+                    "Text": "TANKBind: Trigonometry-Aware Neural Networks for Drug-Protein Binding Structure Prediction",
+                    "BoundingBox": {
+                        "Width": 0.8001516461372375,
+                        "Height": 0.10907186567783356,
+                        "Left": 0.07297661900520325,
+                        "Top": 0.2868780195713043
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "935d2b89-6d98-4b8f-806b-cf172d99d78e",
+                    "Score": 0.7672277092933655
+                },
+                {
+                    "Text": "1 Galixir Technologies, 2Fudan University, Sun Yat-sen University",
+                    "BoundingBox": {
+                        "Width": 0.4946877658367157,
+                        "Height": 0.032325804233551025,
+                        "Left": 0.2294379621744156,
+                        "Top": 0.5985122323036194
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "de560faa-5912-41dc-aae4-f31ff4148367",
+                    "Score": 0.6594842672348022
+                },
+                {
+                    "Text": "NeurIPS 2022 Presentation",
+                    "BoundingBox": {
+                        "Width": 0.20610210299491882,
+                        "Height": 0.023895276710391045,
+                        "Left": 0.015202590264379978,
+                        "Top": 0.9169659614562988
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "a865cbcc-99c2-4e62-ac73-d80634ac4600",
+                    "Score": 0.7029774785041809
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,915",
+            "end_time": "00:00:25,958",
+            "transcript": "The problem we are trying to solve is to predict how a small molecule will bind to the target",
+            "MatchedRegion": [
+                {
+                    "Text": "GALIXIR",
+                    "BoundingBox": {
+                        "Width": 0.0721772164106369,
+                        "Height": 0.023998746648430824,
+                        "Left": 0.04797906056046486,
+                        "Top": 0.0859125554561615
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "e03e899c-ee53-4b15-9375-4e47bf0c8781",
+                    "Score": 0.6573622822761536
+                },
+                {
+                    "Text": "HYSEN",
+                    "BoundingBox": {
+                        "Width": 0.058929868042469025,
+                        "Height": 0.1046922504901886,
+                        "Left": 0.27221113443374634,
+                        "Top": 0.037730131298303604
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "08d27200-5044-4626-a4b4-232d9fa2cabf",
+                    "Score": 0.6351059675216675
+                },
+                {
+                    "Text": "TANKBind: Trigonometry-Aware Neural Networks for Drug-Protein Binding Structure Prediction",
+                    "BoundingBox": {
+                        "Width": 0.8001516461372375,
+                        "Height": 0.10907186567783356,
+                        "Left": 0.07297661900520325,
+                        "Top": 0.2868780195713043
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "935d2b89-6d98-4b8f-806b-cf172d99d78e",
+                    "Score": 0.7672277092933655
+                },
+                {
+                    "Text": "Wei Lu\u00b9, Qifeng Wu \u00b9, , Jixian Zhang1, Jiahua Rao\u00b3, Chengtao Li , Shuangjia Zheng 1,3",
+                    "BoundingBox": {
+                        "Width": 0.7213560342788696,
+                        "Height": 0.03737691789865494,
+                        "Left": 0.14051538705825806,
+                        "Top": 0.46964162588119507
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b02948c6-eb25-4591-9ad4-ae85cda84efc",
+                    "Score": 0.6016860008239746
+                },
+                {
+                    "Text": "1 Galixir Technologies, 2Fudan University, Sun Yat-sen University",
+                    "BoundingBox": {
+                        "Width": 0.4946877658367157,
+                        "Height": 0.032325804233551025,
+                        "Left": 0.2294379621744156,
+                        "Top": 0.5985122323036194
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "de560faa-5912-41dc-aae4-f31ff4148367",
+                    "Score": 0.6594842672348022
+                },
+                {
+                    "Text": "NeurIPS 2022 Presentation",
+                    "BoundingBox": {
+                        "Width": 0.20610210299491882,
+                        "Height": 0.023895276710391045,
+                        "Left": 0.015202590264379978,
+                        "Top": 0.9169659614562988
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "a865cbcc-99c2-4e62-ac73-d80634ac4600",
+                    "Score": 0.7029774785041809
+                }
+            ]
+        }
+    ]
+}

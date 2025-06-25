@@ -1,0 +1,59 @@
+{
+    "MatchedSlides": [
+        "PART_0003_kRCOWWFvfeHEkO1I",
+        "PART_0005_FdGXOPaQRI40NAEw"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,880",
+            "end_time": "00:00:12,955",
+            "transcript": "For NER benchmarking, we found that COVID Twitter BERT is a strong baseline, but I FE values of disease and organization entities are suboptimal.",
+            "MatchedRegion": [
+                {
+                    "Text": "COVID-TWITTER-BERT can be regarded as a strong baseline on the METS-CoV-NER, and there is still vast room for improvement.",
+                    "BoundingBox": {
+                        "Width": 0.8585659861564636,
+                        "Height": 0.06562283635139465,
+                        "Left": 0.060623496770858765,
+                        "Top": 0.2704038918018341
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b7495a4d-12d7-4885-aef1-80e4d0a5f0c3"
+                },
+                {
+                    "Text": "The F1 value of Disease and Organization entities is suboptimal.",
+                    "BoundingBox": {
+                        "Width": 0.557369589805603,
+                        "Height": 0.03351979702711105,
+                        "Left": 0.06093050166964531,
+                        "Top": 0.35642939805984497
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b26fa314-d781-4803-8ce6-a87218158312"
+                },
+                {
+                    "Text": "Table 3: Model performance on METS-CoV-NER dataset. (* means uncased model)",
+                    "BoundingBox": {
+                        "Width": 0.6781092286109924,
+                        "Height": 0.033249955624341965,
+                        "Left": 0.17170843482017517,
+                        "Top": 0.400208443403244
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3ef80abe-dffe-4bf9-820c-fd0d6573b4ec"
+                },
+                {
+                    "Text": "Results (F1 value + std) Person Location Organization Disease Drug Symptom Vaccine Overall CRF 64.43+1.59 76.37+0.62 54.64+2.08 73.61+0.44 77.34+1.60 74.05+0.56 84.85+0.82 71.58+0.54 WLSTM 72.05+0.79 79.82+0.61 60.79+0.77 73.52+1.26 79.63+1.36 76.72+0.83 86.03+0.84 75.02+0.36 WLSTM + CCNN 80.63+0.62 81.47+0.89 61.30+0.91 74.52+0.75 80.46+0.28 76.63+0.91 85.91+1.17 76.78+0.29 WLSTM + CLSTM 81.16+0.29 81.37+0.48 62.28+1.41 74.80+1.49 79.50+1.01 76.70+0.25 85.59+1.46 76.91+0.22 WLSTM + CRF 72.41+0.44 79.25+0.59 62.39+0.97 74.89+1.28 79.60+0.71 79.14+0.51 88.72+0.62 76.38+0.22 WLSTM + CCNN + CRF 81.38+0.44 82.15+0.44 62.79+0.91 76.12+0.76 80.41+0.58 78.12+0.51 89.11+0.36 78.10+0.19 WLSTM + CLSTM + CRF 77.49+1.67 81.26+1.19 63.21+0.93 75.61+0.76 81.27+0.65 79.14+0.53 87.85+0.43 77.63+0.40 BERT-base* 86.99+1.27 84.47+0.84 71.01+0.52 76.18+1.49 84.78+1.02 80.26+0.43 89.83+0.56 81.49+0.36 BERT-base 86.71+0.73 84.09+1.67 71.90+0.91 76.93+1.11 84.54+1.05 79.70+1.22 89.48+0.99 81.34+0.41 BERT-large* 87.47+1.22 84.43+1.05 71.21+0.59 76.34+0.96 85.53+1.52 81.44+0.18 89.33+1.25 81.98+0.30 BERT-large 88.25+0.52 84.63+1.38 73.30+1.38 76.52+1.11 86.05+1.06 80.12+0.55 89.16+1.58 82.05+0.24 RoBERTa-base 85.58+0.73 85.46+0.86 72.21+1.11 76.49+1.63 85.38+1.15 79.81+0.67 89.89+0.28 81.43+0.20 RoBERTa-large 86.79+0.44 85.85+2.12 73.78+0.72 76.84+0.57 86.79+0.78 81.32+0.67 90.42+1.12 82.55+0.27 BART-base 84.24+0.59 82.85+0.71 70.60+1.46 75.01+1.80 83.39+1.03 79.03+0.48 90.22+1.58 80.17+0.46 BART-large 81.60+4.93 80.04+4.74 64.66+8.86 71.24+1.90 80.61+2.90 74.27+4.45 81.21+6.20 75.56+5.04 BERTweet-covid19-base* 91.63+0.79 85.79+0.75 77.07+0.51 77.09+1.61 83.57+0.65 81.16+0.45 91.16+1.54 83.63+0.36 BERTweet-covid19-base 91.50+0.81 86.26+0.97 76.47+0.46 77.80+0.57 84.16+1.22 80.89+0.52 89.98+1.04 83.49+0.18 COVID-TWITTER-BERT* 91.29+0.42 85.68+0.92 76.27+0.64 77.48+0.81 86.35+0.96 81.85+0.53 90.44+0.94 83.88+0.20",
+                    "BoundingBox": {
+                        "Width": 0.7954620122909546,
+                        "Height": 0.5092719793319702,
+                        "Left": 0.11501104384660721,
+                        "Top": 0.45675525069236755
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "4fc5c586-f110-4c41-be80-08cf62d13772"
+                }
+            ]
+        }
+    ]
+}

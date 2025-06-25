@@ -1,0 +1,16 @@
+1
+00:00:00,600 --> 00:00:12,903
+Then regarding the diverse animal species in the real world, we think it is essential to evaluate the interspecies generalization ability of animal pose estimation models.
+
+2
+00:00:13,563 --> 00:00:23,266
+In each experiment, all the instants from a specific family follow the test set, while those instants belong to other families are used for training.
+
+3
+00:00:23,946 --> 00:00:33,177
+And we can find that the model generalizes well on animal species, where there are similarities between training and test species.
+
+4
+00:00:33,738 --> 00:00:36,702
+And for others, the model doesn't generalize well.
+

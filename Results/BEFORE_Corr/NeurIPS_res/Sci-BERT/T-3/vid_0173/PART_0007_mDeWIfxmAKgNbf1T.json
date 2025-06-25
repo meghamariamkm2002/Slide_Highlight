@@ -1,0 +1,54 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,771",
+            "end_time": "00:00:03,012",
+            "transcript": "Right, thanks for your attention.",
+            "MatchedRegion": [
+                {
+                    "Text": "thanks for your attention!",
+                    "BoundingBox": {
+                        "Width": 0.6777716279029846,
+                        "Height": 0.09951770305633545,
+                        "Left": 0.15880070626735687,
+                        "Top": 0.3921312391757965
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "095d1cdf-4d6a-4c22-b00b-37e81c338b44",
+                    "Score": 0.7081462740898132
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,212",
+            "end_time": "00:00:04,334",
+            "transcript": "I'll take questions offline.",
+            "MatchedRegion": [
+                {
+                    "Text": "thanks for your attention!",
+                    "BoundingBox": {
+                        "Width": 0.6777716279029846,
+                        "Height": 0.09951770305633545,
+                        "Left": 0.15880070626735687,
+                        "Top": 0.3921312391757965
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "095d1cdf-4d6a-4c22-b00b-37e81c338b44",
+                    "Score": 0.7081462740898132
+                },
+                {
+                    "Text": "questions?",
+                    "BoundingBox": {
+                        "Width": 0.1219576895236969,
+                        "Height": 0.04464564472436905,
+                        "Left": 0.4381978511810303,
+                        "Top": 0.6209595203399658
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3bb9bf62-071d-4069-a8fa-0e3f1a9a1053",
+                    "Score": 0.635055422782898
+                }
+            ]
+        }
+    ]
+}

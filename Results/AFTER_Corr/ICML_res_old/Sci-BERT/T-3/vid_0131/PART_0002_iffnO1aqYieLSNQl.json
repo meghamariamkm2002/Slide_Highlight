@@ -1,0 +1,169 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,210",
+            "end_time": "00:00:13,454",
+            "transcript": "Our work is motivated by accumulative poisoning attack, which utilizes the sequential order property of real-time data streaming for sneaky poisoning generation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Exploring Model Dynamics for Accumulative Poisoning Discovery",
+                    "BoundingBox": {
+                        "Width": 0.6337752342224121,
+                        "Height": 0.03418121486902237,
+                        "Left": 0.0072855520993471146,
+                        "Top": 0.02240138128399849
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "892ece9a-6d8d-49d0-aebf-3731d4b83070",
+                    "Score": 0.6343305706977844
+                },
+                {
+                    "Text": "Figure 1. Left: Accumulative poisoning attack compared with conventional poisoning attack. Right: Comparison of the distributions using static information (e.g., outputs mainly on current model) with discrepancy information.",
+                    "BoundingBox": {
+                        "Width": 0.8558616638183594,
+                        "Height": 0.05689209699630737,
+                        "Left": 0.07570775598287582,
+                        "Top": 0.6020842790603638
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f1dd35b8-7a65-4358-a785-9fe6943cc4f4",
+                    "Score": 0.6746870279312134
+                },
+                {
+                    "Text": "As the accumulative poisoning attack utilize the sequential order property of real-time data streaming for sneaky poisoning generation, we raise the following question:",
+                    "BoundingBox": {
+                        "Width": 0.8318005800247192,
+                        "Height": 0.06233128160238266,
+                        "Left": 0.05948998034000397,
+                        "Top": 0.6958681344985962
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "553fb4d1-390a-4a11-bcdc-a45845693664",
+                    "Score": 0.7936363816261292
+                },
+                {
+                    "Text": "Can we also exploit the information of model dynamics to gain some useful clues to identify the imperceptible accumulative poisoning attacks?",
+                    "BoundingBox": {
+                        "Width": 0.7576057314872742,
+                        "Height": 0.05720315873622894,
+                        "Left": 0.11334364116191864,
+                        "Top": 0.7795817852020264
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "38eed38d-b045-47e8-bf30-69db85b50196",
+                    "Score": 0.9910491704940796
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,414",
+            "end_time": "00:00:15,855",
+            "transcript": "We raised the following question.",
+            "MatchedRegion": [
+                {
+                    "Text": "Figure 1. Left: Accumulative poisoning attack compared with conventional poisoning attack. Right: Comparison of the distributions using static information (e.g., outputs mainly on current model) with discrepancy information.",
+                    "BoundingBox": {
+                        "Width": 0.8558616638183594,
+                        "Height": 0.05689209699630737,
+                        "Left": 0.07570775598287582,
+                        "Top": 0.6020842790603638
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f1dd35b8-7a65-4358-a785-9fe6943cc4f4",
+                    "Score": 0.6746870279312134
+                },
+                {
+                    "Text": "As the accumulative poisoning attack utilize the sequential order property of real-time data streaming for sneaky poisoning generation, we raise the following question:",
+                    "BoundingBox": {
+                        "Width": 0.8318005800247192,
+                        "Height": 0.06233128160238266,
+                        "Left": 0.05948998034000397,
+                        "Top": 0.6958681344985962
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "553fb4d1-390a-4a11-bcdc-a45845693664",
+                    "Score": 0.7936363816261292
+                },
+                {
+                    "Text": "Can we also exploit the information of model dynamics to gain some useful clues to identify the imperceptible accumulative poisoning attacks?",
+                    "BoundingBox": {
+                        "Width": 0.7576057314872742,
+                        "Height": 0.05720315873622894,
+                        "Left": 0.11334364116191864,
+                        "Top": 0.7795817852020264
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "38eed38d-b045-47e8-bf30-69db85b50196",
+                    "Score": 0.9910491704940796
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,455",
+            "end_time": "00:00:25,938",
+            "transcript": "Can we also explore the information of model dynamics to gain some useful clues to identify the imperceptible accumulative poisoning attacks?",
+            "MatchedRegion": [
+                {
+                    "Text": "Exploring Model Dynamics for Accumulative Poisoning Discovery",
+                    "BoundingBox": {
+                        "Width": 0.6337752342224121,
+                        "Height": 0.03418121486902237,
+                        "Left": 0.0072855520993471146,
+                        "Top": 0.02240138128399849
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "892ece9a-6d8d-49d0-aebf-3731d4b83070",
+                    "Score": 0.6343305706977844
+                },
+                {
+                    "Text": "Poisoning Attacks Test accuracy before 90 poisoned batch: 83.38% 80 70 Test accuracy after 60 poisoned batch: 72.07% 50 40 Burn-in phase 30 20 0 5 10 15 20 25 30 35 40 45 Training epochs",
+                    "BoundingBox": {
+                        "Width": 0.23733147978782654,
+                        "Height": 0.21662090718746185,
+                        "Left": 0.023703211918473244,
+                        "Top": 0.3685636520385742
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "52642c60-c1d5-48cf-bc72-2d6eb6820b10",
+                    "Score": 0.6212414503097534
+                },
+                {
+                    "Text": "Figure 1. Left: Accumulative poisoning attack compared with conventional poisoning attack. Right: Comparison of the distributions using static information (e.g., outputs mainly on current model) with discrepancy information.",
+                    "BoundingBox": {
+                        "Width": 0.8558616638183594,
+                        "Height": 0.05689209699630737,
+                        "Left": 0.07570775598287582,
+                        "Top": 0.6020842790603638
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f1dd35b8-7a65-4358-a785-9fe6943cc4f4",
+                    "Score": 0.6746870279312134
+                },
+                {
+                    "Text": "As the accumulative poisoning attack utilize the sequential order property of real-time data streaming for sneaky poisoning generation, we raise the following question:",
+                    "BoundingBox": {
+                        "Width": 0.8318005800247192,
+                        "Height": 0.06233128160238266,
+                        "Left": 0.05948998034000397,
+                        "Top": 0.6958681344985962
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "553fb4d1-390a-4a11-bcdc-a45845693664",
+                    "Score": 0.7936363816261292
+                },
+                {
+                    "Text": "Can we also exploit the information of model dynamics to gain some useful clues to identify the imperceptible accumulative poisoning attacks?",
+                    "BoundingBox": {
+                        "Width": 0.7576057314872742,
+                        "Height": 0.05720315873622894,
+                        "Left": 0.11334364116191864,
+                        "Top": 0.7795817852020264
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "38eed38d-b045-47e8-bf30-69db85b50196",
+                    "Score": 0.9910491704940796
+                }
+            ]
+        }
+    ]
+}

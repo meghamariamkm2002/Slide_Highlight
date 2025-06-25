@@ -1,0 +1,44 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,009",
+            "end_time": "00:00:10,132",
+            "transcript": "which make them kind of infeasible for real world out of the options because in practice we really want options to be simple and robust.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,012",
+            "end_time": "00:00:20,295",
+            "transcript": "So they are easy for users to understand and they are easy for the standard to compute and they can tolerate inaccurate priors.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:22,288",
+            "end_time": "00:00:34,011",
+            "transcript": "In this talk, we give a constant approximation posted price maximum, which is both simple and robust for alibiders who are value maximizing subject to RI constraints.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:35,332",
+            "end_time": "00:00:42,093",
+            "transcript": "To complement this result, we show that there is a non-trivial lower bound for posted price maximums with alibiders.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:42,714",
+            "end_time": "00:00:47,755",
+            "transcript": "And as bi-products, we also give results about dynamic auctions and combinatorial auctions",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0002_9YSsGnNa2LLQZQnC",
+            "Score": 0.6248597502708435
+        },
+        {
+            "slide": "PART_0003_NQCryUPuZLRMlxkY",
+            "Score": 0.702703595161438
+        }
+    ]
+}

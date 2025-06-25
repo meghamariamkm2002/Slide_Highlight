@@ -1,0 +1,9 @@
+start	end	text
+129	650	have a bidder.
+2252	3073	Here's the problem.
+3093	6377	Each bidder has a valid distribution DI.
+7338	13246	The seller observes all these valid distributions and computes a single price P for all bidders.
+14656	17918	Now the auction begins, bidders arrive one by one.
+18458	35869	Each bidder observes their own value VI, which is drawing from the distribution DI, and of course the price P. And then the bidder decides whether they want to accept or reject the price P. If they accept the price, then the seller gets revenue P and the auction terminates.
+36589	41452	If they reject the price, then the bidder leaves and the next bidder arrives and the procedure continues.
+42742	59002	The seller's goal is to choose a price P in the proper way so they can maximize the expected revenue, which is the product of the price and the probability that the item is sold, which is the probability that at least one bidder accepts the price.

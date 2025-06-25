@@ -1,0 +1,29 @@
+{
+  "MatchedRegions": [
+      {
+          "start_time": "00:00:00,390",
+          "end_time": "00:00:05,522",
+          "transcript": "the state of the system depicted by the white ball converges to the nearest attractor state and stays there.",
+          "MatchedRegion": [
+            {
+              "Id": "e703178d-a67a-432a-9b8a-65505195fbcf",
+              "Text": "",
+              "BoundingBox": {
+                  "Width": 0.9078248739242554,
+                  "Height": 0.7266461253166199,
+                  "Left": 0.033705223351716995,
+                  "Top": 0.12026514112949371
+              },
+              "BlockType": "LAYOUT_FIGURE"
+            }
+          ]
+      },
+      {
+          "start_time": "00:00:06,444",
+          "end_time": "00:00:06,885",
+          "transcript": "On the other",
+          "MatchedRegion": []
+      }
+  ],
+  "MatchedSlides": []
+}

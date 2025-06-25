@@ -1,0 +1,62 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:06,213",
+            "transcript": "Certainely, we verity the model-wise transferabillty of extraced concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 3: Transferability across different DNNs",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.7426936626434326,
+                        "Height": 0.05903526395559311,
+                        "Left": 0.09787337481975555,
+                        "Top": 0.06477825343608856
+                    },
+                    "Id": "27e6c051-a57a-4126-a75a-5c66529e6ba7"
+                },
+                {
+                    "Text": "Whether concepts extracted from a DNN can be transferred to another DNN trained for the same task",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8660773634910583,
+                        "Height": 0.03526721149682999,
+                        "Left": 0.08008435368537903,
+                        "Top": 0.20942865312099457
+                    },
+                    "Id": "a99806b4-295a-47cc-9606-6ff6f408ada8"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,834",
+            "end_time": "00:00:12,758",
+            "transcript": "That is to say, concepts extracted from a DNN can be transferred to another DNN trained for the same task.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 3: Transferability across different DNNs",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.7426936626434326,
+                        "Height": 0.05903526395559311,
+                        "Left": 0.09787337481975555,
+                        "Top": 0.06477825343608856
+                    },
+                    "Id": "27e6c051-a57a-4126-a75a-5c66529e6ba7"
+                },
+                {
+                    "Text": "Whether concepts extracted from a DNN can be transferred to another DNN trained for the same task",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8660773634910583,
+                        "Height": 0.03526721149682999,
+                        "Left": 0.08008435368537903,
+                        "Top": 0.20942865312099457
+                    },
+                    "Id": "a99806b4-295a-47cc-9606-6ff6f408ada8"
+                }
+            ]
+        }
+    ]
+}

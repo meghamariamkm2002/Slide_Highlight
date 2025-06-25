@@ -1,0 +1,22 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:00,842",
+            "end_time": "00:00:09,147",
+            "transcript": "In the state-only or LFO setting, we compare against Apollo, once again using only a single extra trajectory, and importantly, CFO uses identical hyperparameters as the pre-rate setting.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:09,767",
+            "end_time": "00:00:16,591",
+            "transcript": "The figure shows two versions of CFO compared with Apollo, one estimating the next state distribution and the other limiting itself to the single state distribution.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:17,252",
+            "end_time": "00:00:22,835",
+            "transcript": "Both incarnations of CFO distinctly outperform the LFO-tailored Apollo on every imitation learning metric.",
+            "MatchedRegion": []
+        }
+    ]
+}

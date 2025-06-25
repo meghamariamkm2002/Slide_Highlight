@@ -1,0 +1,12 @@
+1
+00:00:01,350 --> 00:00:05,254
+For the target domain of ToolAin, we create a clean version of the ToSimple dataset.
+
+2
+00:00:05,834 --> 00:00:09,918
+Our goal is to ensure that up to four lanes closest to the car are correctly labeled.
+
+3
+00:00:10,639 --> 00:00:13,982
+To clean the data, we utilize our publicly available labeling tools.
+

@@ -1,0 +1,85 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,923",
+            "end_time": "00:00:11,629",
+            "transcript": "And we also propose the discrepancy-aware sample correction based on the memorization discrepancy to defend against the accumulative poisoning attacks.",
+            "MatchedRegion": [
+                {
+                    "Text": "The high-level intuition of DSC is to adopt the Memorization Discrepancy to the previous principled reverse adversarial generation, as the guidance for selective sample correction.",
+                    "BoundingBox": {
+                        "Width": 0.39495986700057983,
+                        "Height": 0.12723560631275177,
+                        "Left": 0.0543794259428978,
+                        "Top": 0.6368417143821716
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7846fbe5-55c5-49a4-9c5a-009a54bf669c",
+                    "Score": 0.8370013236999512
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,070",
+            "end_time": "00:00:24,438",
+            "transcript": "Different from the AT variant of gradient clipping, which is essential to handle the poisoning sample or cleaning samples,",
+            "MatchedRegion": [
+                {
+                    "Text": "The high-level intuition of DSC is to adopt the Memorization Discrepancy to the previous principled reverse adversarial generation, as the guidance for selective sample correction.",
+                    "BoundingBox": {
+                        "Width": 0.39495986700057983,
+                        "Height": 0.12723560631275177,
+                        "Left": 0.0543794259428978,
+                        "Top": 0.6368417143821716
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7846fbe5-55c5-49a4-9c5a-009a54bf669c",
+                    "Score": 0.8370013236999512
+                },
+                {
+                    "Text": "1.0 Oracle DSC 87 0.8 threshold of DSC AT 86 0.6 85 84 0.4 83 0.2 82 DSC AT 81 0.0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 Batch Batch",
+                    "BoundingBox": {
+                        "Width": 0.481616348028183,
+                        "Height": 0.251598596572876,
+                        "Left": 0.46412429213523865,
+                        "Top": 0.40917909145355225
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "03a1e52f-70d3-48c0-9f11-7789815c9ad0",
+                    "Score": 0.6351989507675171
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,373",
+            "end_time": "00:00:35,598",
+            "transcript": "our discrepancy awareness over a sample correction can selectively correct some potential points in the examples and achieve the better performance.",
+            "MatchedRegion": [
+                {
+                    "Text": "The high-level intuition of DSC is to adopt the Memorization Discrepancy to the previous principled reverse adversarial generation, as the guidance for selective sample correction.",
+                    "BoundingBox": {
+                        "Width": 0.39495986700057983,
+                        "Height": 0.12723560631275177,
+                        "Left": 0.0543794259428978,
+                        "Top": 0.6368417143821716
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7846fbe5-55c5-49a4-9c5a-009a54bf669c",
+                    "Score": 0.8370013236999512
+                },
+                {
+                    "Text": "1.0 Oracle DSC 87 0.8 threshold of DSC AT 86 0.6 85 84 0.4 83 0.2 82 DSC AT 81 0.0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 Batch Batch",
+                    "BoundingBox": {
+                        "Width": 0.481616348028183,
+                        "Height": 0.251598596572876,
+                        "Left": 0.46412429213523865,
+                        "Top": 0.40917909145355225
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "03a1e52f-70d3-48c0-9f11-7789815c9ad0",
+                    "Score": 0.6351989507675171
+                }
+            ]
+        }
+    ]
+}

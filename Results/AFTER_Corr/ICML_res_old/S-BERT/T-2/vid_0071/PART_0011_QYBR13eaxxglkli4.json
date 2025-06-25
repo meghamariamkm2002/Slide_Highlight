@@ -1,0 +1,39 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:06,213",
+            "transcript": "Certainely, we verity the model-wise transferabillty of extraced concepts.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,834",
+            "end_time": "00:00:12,758",
+            "transcript": "That is to say, concepts extracted from a DNN can be transferred to another DNN trained for the same task.",
+            "MatchedRegion": [
+                {
+                    "Text": "Whether concepts extracted from a DNN can be transferred to another DNN trained for the same task",
+                    "BoundingBox": {
+                        "Width": 0.8660773634910583,
+                        "Height": 0.03526721149682999,
+                        "Left": 0.08008435368537903,
+                        "Top": 0.20942865312099457
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a99806b4-295a-47cc-9606-6ff6f408ada8",
+                    "Score": 0.9137665033340454
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0008_uDMfneZqHXprHwrX",
+            "Score": 0.6591214537620544
+        },
+        {
+            "slide": "PART_0009_pvmgIj5VMnijN7V1",
+            "Score": 0.6185307502746582
+        }
+    ]
+}

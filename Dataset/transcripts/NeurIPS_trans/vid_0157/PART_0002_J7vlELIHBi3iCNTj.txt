@@ -1,0 +1,9 @@
+Traditional approach to study the interaction between protein and organs is through darking.
+Darking method typically consists of two components, scoring and sampling.
+For each confirmation, a score will be assigned, and based on this score, they will propose new confirmation, and they do it iteratively.
+Tankpan, however, combines both scoring and sampling into a single neural network.
+Therefore, we are able to predict the final confirmation in a single shot.
+We want to highlight two key innovations inside TankBank.
+First, we create an intermolecular trigonometry module.
+That is, for node i and j, the interaction between them is modulated by the interaction between node i and k and the interaction between j and k simultaneously to account for the many-body effect.
+second, we extract information from the whole protein instead of the binding pocket, because proteins typically have many bulkhead pockets, and the crystal structure tells us that the rodent bind to the native pocket is stronger than to other

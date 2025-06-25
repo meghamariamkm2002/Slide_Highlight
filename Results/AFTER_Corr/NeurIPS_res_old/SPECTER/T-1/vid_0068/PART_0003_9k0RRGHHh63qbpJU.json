@@ -1,0 +1,78 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,753",
+            "end_time": "00:00:07,720",
+            "transcript": "We decided to use block architectures to allow for interesting and diverse connectivity to trade operations.",
+            "MatchedRegion": [
+                {
+                    "Text": "Block architectures",
+                    "BoundingBox": {
+                        "Width": 0.32712841033935547,
+                        "Height": 0.05429581180214882,
+                        "Left": 0.3369843363761902,
+                        "Top": 0.11942058056592941
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "0e2fe90f-7c21-4793-b2c4-350b6c4256b5",
+                    "Score": 0.8103832006454468
+                },
+                {
+                    "Text": "ST1 ST2 ST3 ST4 ST5 ST6 Input Input Input Input Input Input m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv Reduction Reduction Reduction Reduction Reduction Reduction",
+                    "BoundingBox": {
+                        "Width": 0.8246603012084961,
+                        "Height": 0.43467584252357483,
+                        "Left": 0.09016641229391098,
+                        "Top": 0.24162757396697998
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "35205d0e-d007-4409-8f62-a81c861d80c7",
+                    "Score": 0.7025707960128784
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,461",
+            "end_time": "00:00:14,170",
+            "transcript": "In total, there are 45 unique blocks leading to a search base size of more than 91,125 models.",
+            "MatchedRegion": [
+                {
+                    "Text": "Block architectures",
+                    "BoundingBox": {
+                        "Width": 0.32712841033935547,
+                        "Height": 0.05429581180214882,
+                        "Left": 0.3369843363761902,
+                        "Top": 0.11942058056592941
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "0e2fe90f-7c21-4793-b2c4-350b6c4256b5",
+                    "Score": 0.8103832006454468
+                },
+                {
+                    "Text": "ST1 ST2 ST3 ST4 ST5 ST6 Input Input Input Input Input Input m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv m/b/conv Reduction Reduction Reduction Reduction Reduction Reduction",
+                    "BoundingBox": {
+                        "Width": 0.8246603012084961,
+                        "Height": 0.43467584252357483,
+                        "Left": 0.09016641229391098,
+                        "Top": 0.24162757396697998
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "35205d0e-d007-4409-8f62-a81c861d80c7",
+                    "Score": 0.7025707960128784
+                },
+                {
+                    "Text": "45 unique blocks 91,125 models.",
+                    "BoundingBox": {
+                        "Width": 0.3077075481414795,
+                        "Height": 0.03415105864405632,
+                        "Left": 0.06741202622652054,
+                        "Top": 0.9083415865898132
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7928aa8c-13ba-4526-87bc-f9de561c3555",
+                    "Score": 0.9551804661750793
+                }
+            ]
+        }
+    ]
+}

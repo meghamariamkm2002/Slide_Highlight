@@ -1,0 +1,16 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,492",
+            "end_time": "00:00:09,932",
+            "transcript": "Based on this, we can exactly disentangle the DNN's inference score into the sum of effects corresponding to all potential interactions.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0003_IJo3k2vKnh6kX0I6",
+            "Score": 0.6659077405929565
+        }
+    ]
+}

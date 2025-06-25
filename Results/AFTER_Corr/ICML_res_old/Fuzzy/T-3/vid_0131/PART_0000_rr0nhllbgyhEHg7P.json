@@ -1,0 +1,30 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:08,649",
+            "end_time": "00:00:10,610",
+            "transcript": "Hello everyone, this is Jianing Zhu.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,231",
+            "end_time": "00:00:17,895",
+            "transcript": "I will present our research work, namely exploring model dynamics for accumulative poisoning discovery.",
+            "MatchedRegion": [
+                {
+                    "Text": "Exploring Model Dynamics for Accumulative Poisoning Discovery",
+                    "BoundingBox": {
+                        "Width": 0.8100317716598511,
+                        "Height": 0.12145886570215225,
+                        "Left": 0.09228627383708954,
+                        "Top": 0.2874700427055359
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "5e3993b1-8305-4efe-9c0d-7ba211dc20c0",
+                    "Score": 0.6707317073170731
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

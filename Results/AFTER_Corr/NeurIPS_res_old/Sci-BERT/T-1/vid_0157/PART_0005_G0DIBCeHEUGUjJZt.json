@@ -1,0 +1,145 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,109",
+            "end_time": "00:00:06,756",
+            "transcript": "And then achieve new SOTA results in PDBblind dataset.",
+            "MatchedRegion": [
+                {
+                    "Text": "New SOTA results in PDBbind dataset.",
+                    "BoundingBox": {
+                        "Width": 0.4540692865848541,
+                        "Height": 0.03849229961633682,
+                        "Left": 0.06341782212257385,
+                        "Top": 0.06557229906320572
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "fddc609e-b05e-417b-b615-489dcb7f707c",
+                    "Score": 0.8502012491226196
+                },
+                {
+                    "Text": "(a)",
+                    "BoundingBox": {
+                        "Width": 0.02236962877213955,
+                        "Height": 0.034397419542074203,
+                        "Left": 0.17254209518432617,
+                        "Top": 0.8986915349960327
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "954be689-83d9-4c4a-8c4b-9b84857b300a",
+                    "Score": 0.6436139345169067
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,717",
+            "end_time": "00:00:16,968",
+            "transcript": "We have a larger fraction of predictions with lower ligand RMSD and better binding affinity prediction.",
+            "MatchedRegion": [
+                {
+                    "Text": "New SOTA results in PDBbind dataset.",
+                    "BoundingBox": {
+                        "Width": 0.4540692865848541,
+                        "Height": 0.03849229961633682,
+                        "Left": 0.06341782212257385,
+                        "Top": 0.06557229906320572
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "fddc609e-b05e-417b-b615-489dcb7f707c",
+                    "Score": 0.8502012491226196
+                },
+                {
+                    "Text": "The test set is 363 PDBs crystalized after 2019.",
+                    "BoundingBox": {
+                        "Width": 0.3497602045536041,
+                        "Height": 0.03013380989432335,
+                        "Left": 0.03425519913434982,
+                        "Top": 0.17323258519172668
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "648b2f45-426b-4db6-ad5c-9f3562de4769",
+                    "Score": 0.8329298496246338
+                },
+                {
+                    "Text": "The training and validation set are PDBs crystalized before 2019.",
+                    "BoundingBox": {
+                        "Width": 0.47809460759162903,
+                        "Height": 0.03007028065621853,
+                        "Left": 0.034281402826309204,
+                        "Top": 0.22461676597595215
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1128b5e5-2560-4b02-bb6f-7e35ff1567e3",
+                    "Score": 0.8240678906440735
+                },
+                {
+                    "Text": "a) Larger fraction of predictions with lower ligand RMSD, especially at threshold 5A.",
+                    "BoundingBox": {
+                        "Width": 0.6131991147994995,
+                        "Height": 0.034612420946359634,
+                        "Left": 0.03475259616971016,
+                        "Top": 0.3244921565055847
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03ea8784-b870-476f-bb99-365eca679cba",
+                    "Score": 0.8135628700256348
+                },
+                {
+                    "Text": "b) Better binding affinity prediction.",
+                    "BoundingBox": {
+                        "Width": 0.25397226214408875,
+                        "Height": 0.030196238309144974,
+                        "Left": 0.03508977219462395,
+                        "Top": 0.38009992241859436
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e4aea4c8-e8b6-4141-a612-e180962823eb",
+                    "Score": 0.8631094098091125
+                },
+                {
+                    "Text": "0.9 0.8 0.7 0.6 0.5 0.4 TANKBind 0.3 TANKBind-C TANKBind-P 0.2 TANKBind-R 0.1 EQUIBIND VINA 0.0 0 2 4 6 8 10 12 14 Ligand RMSD in Angstrom",
+                    "BoundingBox": {
+                        "Width": 0.32955658435821533,
+                        "Height": 0.37382420897483826,
+                        "Left": 0.009986515156924725,
+                        "Top": 0.5180585980415344
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "194b193d-ed1a-423d-b3e5-c4f3a5b9c8e2",
+                    "Score": 0.689606785774231
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,829",
+            "end_time": "00:00:19,991",
+            "transcript": "And we also have higher inference efficiency.",
+            "MatchedRegion": [
+                {
+                    "Text": "c) Higher Inference efficiency.",
+                    "BoundingBox": {
+                        "Width": 0.21665769815444946,
+                        "Height": 0.029643464833498,
+                        "Left": 0.03493824601173401,
+                        "Top": 0.4322196841239929
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "001fa585-30ce-4396-aeb6-52937611c35d",
+                    "Score": 0.8585931062698364
+                },
+                {
+                    "Text": "(a)",
+                    "BoundingBox": {
+                        "Width": 0.02236962877213955,
+                        "Height": 0.034397419542074203,
+                        "Left": 0.17254209518432617,
+                        "Top": 0.8986915349960327
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "954be689-83d9-4c4a-8c4b-9b84857b300a",
+                    "Score": 0.6436139345169067
+                }
+            ]
+        }
+    ]
+}

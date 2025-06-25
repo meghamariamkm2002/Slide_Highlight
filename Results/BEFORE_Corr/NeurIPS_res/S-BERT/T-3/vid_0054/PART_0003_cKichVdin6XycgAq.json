@@ -1,0 +1,39 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,609",
+            "end_time": "00:00:15,458",
+            "transcript": "It consists of 2,400 video clips collected and filtered from 30 different animal species with 15 frames for each video, resulting in 36,000 frames in total.",
+            "MatchedRegion": [
+                {
+                    "Text": "APT-36K consists of 2,400 video clips collected and filtered from 30 different animal species with 15 frames for each video, resulting in 36,000 frames in total. These animals can be further classified into 15 animal families following taxonomic rank to facilitate the evaluation of inter-species and inter-family generalization ability of pose estimation models. Above is the comparison between APT-36K and existing datasets and the detailed category information of APT-36K",
+                    "BoundingBox": {
+                        "Width": 0.8342397212982178,
+                        "Height": 0.13733236491680145,
+                        "Left": 0.03806576505303383,
+                        "Top": 0.810293436050415
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d466367-d526-43f6-8bea-a9b2163d1266",
+                    "Score": 0.6884405612945557
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,078",
+            "end_time": "00:00:23,383",
+            "transcript": "Above is a comparison between existing datasets and detailed category information of it.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_kIvSfeSA5dfzhobv",
+            "Score": 0.6586416959762573
+        },
+        {
+            "slide": "PART_0002_M8xJHwtfvrTIpy16",
+            "Score": 0.6098030209541321
+        }
+    ]
+}

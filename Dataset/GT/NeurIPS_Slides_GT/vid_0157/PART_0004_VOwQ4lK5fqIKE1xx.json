@@ -1,0 +1,41 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,874",
+            "end_time": "00:00:18,260",
+            "transcript": "handband takes input the structure of protein and structure of ligands and divides the protein into pockets, functional blocks, and models their interaction with the ligand through trigonometric margin.",
+            "MatchedRegion": [
+                {
+                    "Text": "Block Distance Maps DP Segmentation GNN h Interaction Map Prediction Contrastive Protein Functional Blocks Prioritization Generation Loss Interaction Matrix Z Binding Affinity 3D Initialization GNN Trigonometry-aware Prediction h Message Updating CH2 Ligand Distance Map Dc Drug Ligand Conformer",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.8570514917373657,
+                        "Height": 0.5174975991249084,
+                        "Left": 0.060255348682403564,
+                        "Top": 0.17480431497097015
+                    },
+                    "Id": "a52724c9-3be3-4214-b653-d0bfd32bc581"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,080",
+            "end_time": "00:00:23,922",
+            "transcript": "And we also build a contrastive loss to prioritize the native blocks.",
+            "MatchedRegion": [
+                {
+                    "Text": "Block Distance Maps DP Segmentation GNN h Interaction Map Prediction Contrastive Protein Functional Blocks Prioritization Generation Loss Interaction Matrix Z Binding Affinity 3D Initialization GNN Trigonometry-aware Prediction h Message Updating CH2 Ligand Distance Map Dc Drug Ligand Conformer",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.8570514917373657,
+                        "Height": 0.5174975991249084,
+                        "Left": 0.060255348682403564,
+                        "Top": 0.17480431497097015
+                    },
+                    "Id": "a52724c9-3be3-4214-b653-d0bfd32bc581"
+                }
+            ]
+        }
+    ]
+}

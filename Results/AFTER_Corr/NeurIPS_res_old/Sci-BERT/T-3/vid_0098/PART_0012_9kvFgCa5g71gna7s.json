@@ -1,0 +1,138 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,910",
+            "end_time": "00:00:04,596",
+            "transcript": "In this slide, we show qualitative results of target domain predictions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.36274075508117676,
+                        "Height": 0.05850649252533913,
+                        "Left": 0.03721942380070686,
+                        "Top": 0.034986309707164764
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6714184284210205
+                },
+                {
+                    "Text": "INFORMATIC PROCESSING SYSTEM",
+                    "BoundingBox": {
+                        "Width": 0.09252654016017914,
+                        "Height": 0.07987198233604431,
+                        "Left": 0.8913556337356567,
+                        "Top": 0.013704127632081509
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6171891093254089
+                },
+                {
+                    "Text": "MoLane TuLane MuLane UFLD-SO DANN ADDA SGADA SGPCS UFLD-TO",
+                    "BoundingBox": {
+                        "Width": 0.4606419801712036,
+                        "Height": 0.5945661664009094,
+                        "Left": 0.27025097608566284,
+                        "Top": 0.16988888382911682
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6592941880226135
+                },
+                {
+                    "Text": "Qualitative results of target domain predictions. Ground truth lane annotations are marked in blue, predictions in red.",
+                    "BoundingBox": {
+                        "Width": 0.36110904812812805,
+                        "Height": 0.052711647003889084,
+                        "Left": 0.3184841275215149,
+                        "Top": 0.791182279586792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.9178709983825684
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.043272413313388824,
+                        "Height": 0.0421532578766346,
+                        "Left": 0.14686846733093262,
+                        "Top": 0.9289026856422424
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6167253255844116
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,277",
+            "end_time": "00:00:08,822",
+            "transcript": "Ground truth lane annotations are marked in blue, predictions in red.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.36274075508117676,
+                        "Height": 0.05850649252533913,
+                        "Left": 0.03721942380070686,
+                        "Top": 0.034986309707164764
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6714184284210205
+                },
+                {
+                    "Text": "INFORMATIC PROCESSING SYSTEM",
+                    "BoundingBox": {
+                        "Width": 0.09252654016017914,
+                        "Height": 0.07987198233604431,
+                        "Left": 0.8913556337356567,
+                        "Top": 0.013704127632081509
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6171891093254089
+                },
+                {
+                    "Text": "MoLane TuLane MuLane UFLD-SO DANN ADDA SGADA SGPCS UFLD-TO",
+                    "BoundingBox": {
+                        "Width": 0.4606419801712036,
+                        "Height": 0.5945661664009094,
+                        "Left": 0.27025097608566284,
+                        "Top": 0.16988888382911682
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6592941880226135
+                },
+                {
+                    "Text": "Qualitative results of target domain predictions. Ground truth lane annotations are marked in blue, predictions in red.",
+                    "BoundingBox": {
+                        "Width": 0.36110904812812805,
+                        "Height": 0.052711647003889084,
+                        "Left": 0.3184841275215149,
+                        "Top": 0.791182279586792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.9178709983825684
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.043272413313388824,
+                        "Height": 0.0421532578766346,
+                        "Left": 0.14686846733093262,
+                        "Top": 0.9289026856422424
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6167253255844116
+                }
+            ]
+        }
+    ]
+}

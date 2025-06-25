@@ -1,0 +1,17 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:09,756",
+            "transcript": "There have been a lot of works aiming to explain concepts encoded by DNNs, including network dissection, TCIV, and so on.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,677",
+            "end_time": "00:00:17,442",
+            "transcript": "However, these methods usually lack a mathematical framework to objectively formulate concepts encoded by a DNN.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

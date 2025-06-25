@@ -1,0 +1,40 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,669",
+            "transcript": "the well-domained.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,770",
+            "end_time": "00:00:07,052",
+            "transcript": "The CARLANE Benchmark consists of three distinct sim-to-real datasets, which we build from our three different domains",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,812",
+            "end_time": "00:00:11,694",
+            "transcript": "Moline focuses on abstract lane markings in the domain of a 1/8th Model vehicle.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:12,395",
+            "end_time": "00:00:19,798",
+            "transcript": "Tulane incorporates balanced and domain randomized images from simulation as the source domain and the well-known TuSimple dataset as the target domain.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:20,558",
+            "end_time": "00:00:24,520",
+            "transcript": "Moline is a balanced combination of Moline and Tulane with two target domains.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,220",
+            "end_time": "00:00:28,822",
+            "transcript": "Samples of the source and target domains can be seen in the image on the right.",
+            "MatchedRegion": []
+        }
+    ]
+}

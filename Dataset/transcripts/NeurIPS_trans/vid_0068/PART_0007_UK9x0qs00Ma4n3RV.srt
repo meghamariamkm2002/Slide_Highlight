@@ -1,0 +1,20 @@
+1
+00:00:00,029 --> 00:00:00,249
+used.
+
+2
+00:00:01,990 --> 00:00:06,231
+Motor exhibits vastly different performance when distributed compared to normal training.
+
+3
+00:00:07,311 --> 00:00:14,613
+We scale up our analysis to a thousand random student network which are distributed with good and bad teacher respectively.
+
+4
+00:00:15,233 --> 00:00:19,214
+Then we coordinate their training from scratch accuracy to the fine-tuning accuracy.
+
+5
+00:00:19,874 --> 00:00:22,995
+We see that fine-tuning is only beneficial if a good teacher
+

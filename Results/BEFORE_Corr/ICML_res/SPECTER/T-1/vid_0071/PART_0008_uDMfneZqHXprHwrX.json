@@ -1,0 +1,121 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,155",
+            "end_time": "00:00:09,561",
+            "transcript": "Firstly, we verify that most concepts had little effects on the output, which verify the sparsity of encoded concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 1: Sparsity of the encoded concepts",
+                    "BoundingBox": {
+                        "Width": 0.6701961755752563,
+                        "Height": 0.05788072571158409,
+                        "Left": 0.09697156399488449,
+                        "Top": 0.06586696952581406
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "2c000715-5560-4e99-82e7-22999480fe6e",
+                    "Score": 0.8386104106903076
+                },
+                {
+                    "Text": "tic-tac-toe wifi MNIST-3 CeLebA-eyeglasses ShapeNet 1.0 1.0 1.0 1.0 1.0 MLP-5 MLP-5 LeNet AlexNet PointNet 0.8 ResMLP-5 0.8 ResMLP-5 0.8 ResNet-20 0.8 ResNet-18 0.8 PointNet- + ResNet-32 ResNet-34 0.6 salient 0.6 salient 0.6 salient 0.6 salient ResNet-44 0.6 salient VGG-13 0.4 0.4 0.4 0.4 0.4 VGG-16 0.2 noisy 0.2 noisy 0.2 noisy 0.2 noisy 0.2 noisy 0.05 0.05 0.05 0.05 0.05 0.0 0.0 0.0 0.0 0.0 0 250 500 750 1000 0 100 200 0 200 400 0 250 500 750 1000 0 250 500 750 1000 index of interaction concepts S index of interaction concepts S index of interaction concepts S index of interaction concepts S index of interaction concepts S",
+                    "BoundingBox": {
+                        "Width": 0.8698337078094482,
+                        "Height": 0.2782512903213501,
+                        "Left": 0.06709294021129608,
+                        "Top": 0.3672058582305908
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3dd52373-77d5-4f53-b10b-f3e74dcc40c0",
+                    "Score": 0.7447624206542969
+                },
+                {
+                    "Text": "Most concepts had little effects on the output I (S|x) 22 0, which verified the sparsity of the encoded concepts.",
+                    "BoundingBox": {
+                        "Width": 0.875282347202301,
+                        "Height": 0.03441496193408966,
+                        "Left": 0.06112392991781235,
+                        "Top": 0.7437891364097595
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0d09f64c-3833-4bdd-a762-20b104fe486c",
+                    "Score": 0.9569671154022217
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,401",
+            "end_time": "00:00:19,807",
+            "transcript": "This is a distinctive property of symbolism, where it is sufficient to use a small number of explicit symbolic concepts to represent the knowledge.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 1: Sparsity of the encoded concepts",
+                    "BoundingBox": {
+                        "Width": 0.6701961755752563,
+                        "Height": 0.05788072571158409,
+                        "Left": 0.09697156399488449,
+                        "Top": 0.06586696952581406
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "2c000715-5560-4e99-82e7-22999480fe6e",
+                    "Score": 0.8386104106903076
+                },
+                {
+                    "Text": "The DNN's inference on a specific sample is supposed to be concisely explained by a small number of salient concepts, rather than a large number of concepts.",
+                    "BoundingBox": {
+                        "Width": 0.8317951560020447,
+                        "Height": 0.0787949189543724,
+                        "Left": 0.07955576479434967,
+                        "Top": 0.2110220193862915
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "86958918-d928-464d-8c51-ce400f9a7f6a",
+                    "Score": 0.8158296942710876
+                },
+                {
+                    "Text": "tic-tac-toe wifi MNIST-3 CeLebA-eyeglasses ShapeNet 1.0 1.0 1.0 1.0 1.0 MLP-5 MLP-5 LeNet AlexNet PointNet 0.8 ResMLP-5 0.8 ResMLP-5 0.8 ResNet-20 0.8 ResNet-18 0.8 PointNet- + ResNet-32 ResNet-34 0.6 salient 0.6 salient 0.6 salient 0.6 salient ResNet-44 0.6 salient VGG-13 0.4 0.4 0.4 0.4 0.4 VGG-16 0.2 noisy 0.2 noisy 0.2 noisy 0.2 noisy 0.2 noisy 0.05 0.05 0.05 0.05 0.05 0.0 0.0 0.0 0.0 0.0 0 250 500 750 1000 0 100 200 0 200 400 0 250 500 750 1000 0 250 500 750 1000 index of interaction concepts S index of interaction concepts S index of interaction concepts S index of interaction concepts S index of interaction concepts S",
+                    "BoundingBox": {
+                        "Width": 0.8698337078094482,
+                        "Height": 0.2782512903213501,
+                        "Left": 0.06709294021129608,
+                        "Top": 0.3672058582305908
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3dd52373-77d5-4f53-b10b-f3e74dcc40c0",
+                    "Score": 0.7447624206542969
+                },
+                {
+                    "Text": "[Ren et al., 2023] Where we have arrived in proving the emergence of sparse symbolic concepts in Al models. arXiv preprint arXiv:2305.01939.",
+                    "BoundingBox": {
+                        "Width": 0.7197032570838928,
+                        "Height": 0.02159547246992588,
+                        "Left": 0.007571401074528694,
+                        "Top": 0.9700652956962585
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "c0e5c72d-e0af-49be-8ea8-dd06b7da44a3",
+                    "Score": 0.8283967971801758
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,888",
+            "end_time": "00:00:26,392",
+            "transcript": "Such a concept emergent phenomenon has also been mathematically proved in our recent work.",
+            "MatchedRegion": [
+                {
+                    "Text": "tic-tac-toe wifi MNIST-3 CeLebA-eyeglasses ShapeNet 1.0 1.0 1.0 1.0 1.0 MLP-5 MLP-5 LeNet AlexNet PointNet 0.8 ResMLP-5 0.8 ResMLP-5 0.8 ResNet-20 0.8 ResNet-18 0.8 PointNet- + ResNet-32 ResNet-34 0.6 salient 0.6 salient 0.6 salient 0.6 salient ResNet-44 0.6 salient VGG-13 0.4 0.4 0.4 0.4 0.4 VGG-16 0.2 noisy 0.2 noisy 0.2 noisy 0.2 noisy 0.2 noisy 0.05 0.05 0.05 0.05 0.05 0.0 0.0 0.0 0.0 0.0 0 250 500 750 1000 0 100 200 0 200 400 0 250 500 750 1000 0 250 500 750 1000 index of interaction concepts S index of interaction concepts S index of interaction concepts S index of interaction concepts S index of interaction concepts S",
+                    "BoundingBox": {
+                        "Width": 0.8698337078094482,
+                        "Height": 0.2782512903213501,
+                        "Left": 0.06709294021129608,
+                        "Top": 0.3672058582305908
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3dd52373-77d5-4f53-b10b-f3e74dcc40c0",
+                    "Score": 0.7447624206542969
+                }
+            ]
+        }
+    ]
+}

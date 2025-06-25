@@ -1,0 +1,8 @@
+1
+00:00:00,710 --> 00:00:08,600
+In the subsample setting, we compare against, again, the DAC on four different subsampling rates, sampling every 10, 20, 50, and 100 transitions.
+
+2
+00:00:08,981 --> 00:00:15,109
+The final rate implies running from 10 state-action pairs along with CFL once again demonstrating stellar performance.
+

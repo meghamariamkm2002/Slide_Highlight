@@ -1,0 +1,16 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,584",
+            "end_time": "00:00:05,848",
+            "transcript": "Lastly, we examine the discrimination power of different concepts.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,589",
+            "end_time": "00:00:13,456",
+            "transcript": "We found that the same concept usually pushes the classification of different samples towards the same category.",
+            "MatchedRegion": []
+        }
+    ]
+}

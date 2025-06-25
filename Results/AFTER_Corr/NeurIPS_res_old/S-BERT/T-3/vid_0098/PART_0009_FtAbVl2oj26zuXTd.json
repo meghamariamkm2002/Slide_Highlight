@@ -1,0 +1,126 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,829",
+            "end_time": "00:00:02,690",
+            "transcript": "Our method can be seen in the upper figure.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:03,390",
+            "end_time": "00:00:06,772",
+            "transcript": "Features of the source and target domain are aligned by cluster prototypes.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,592",
+            "end_time": "00:00:15,055",
+            "transcript": "To cluster memory bank features into prototypes, we build upon PCS and perform spherical k-means with a momentum of 0.5.",
+            "MatchedRegion": [
+                {
+                    "Text": "Spherical K-means [9] (K=2500) is used to cluster memory bank features into prototypes",
+                    "BoundingBox": {
+                        "Width": 0.686676025390625,
+                        "Height": 0.031396713107824326,
+                        "Left": 0.07358581572771072,
+                        "Top": 0.6649196743965149
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50b152e3-5969-4e35-abfe-6863998289aa",
+                    "Score": 0.86802077293396
+                },
+                {
+                    "Text": "Memory bank features are updated with a momentum of 0.5",
+                    "BoundingBox": {
+                        "Width": 0.48109689354896545,
+                        "Height": 0.030170917510986328,
+                        "Left": 0.07378966361284256,
+                        "Top": 0.6070104241371155
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "deaa3937-6b36-49c6-b6d6-5fca87a02795",
+                    "Score": 0.6274523138999939
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,562",
+            "end_time": "00:00:25,190",
+            "transcript": "Similar to PCS, we perform in-domain contrastive learning and cross-domain self-supervised learning between the features of the feature extractor and the prototypes.",
+            "MatchedRegion": [
+                {
+                    "Text": "We build upon PCS [8] and perform in-domain contrastive learning and cross-domain self-supervised learning via cluster prototypes",
+                    "BoundingBox": {
+                        "Width": 0.8668767809867859,
+                        "Height": 0.07419128715991974,
+                        "Left": 0.0355919674038887,
+                        "Top": 0.5057545900344849
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "452e45e0-2122-47ab-93e7-70cbb98406a0",
+                    "Score": 0.8715145587921143
+                },
+                {
+                    "Text": "[8] X. Yue, Z. Zheng, S. Zhang, Y. Gao, T. Darrell, K. Keutzer, and A. Sangiovanni-Vincentelli \"Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation,\" \" in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2021. [9] J. Johnson, M. Douze, and H. J\u00e9gou, \"Billion-scale similarity search with GPUs,\" IEEE Transactions on Big Data, vol. 7, no. 3, pp. 535-547 2019.",
+                    "BoundingBox": {
+                        "Width": 0.9557241201400757,
+                        "Height": 0.056639306247234344,
+                        "Left": 0.011702191084623337,
+                        "Top": 0.8420529961585999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3f6d70e3-546f-4738-9ee0-dcced317724a",
+                    "Score": 0.633002519607544
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,850",
+            "end_time": "00:00:30,675",
+            "transcript": "To further improve performance, we add our pseudo-loss formulation for grid-based lane detection.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD, and our pseudo loss for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.8981481194496155,
+                        "Height": 0.07419376075267792,
+                        "Left": 0.035986706614494324,
+                        "Top": 0.724291205406189
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d87f5b5-b67c-4812-b8fa-27103f916237",
+                    "Score": 0.6421068906784058
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:31,655",
+            "end_time": "00:00:38,562",
+            "transcript": "Overall, our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD and our",
+            "MatchedRegion": [
+                {
+                    "Text": "Our objective function comprises the in-domain and cross-domain losses from PCS, all losses from UFLD, and our pseudo loss for grid-based lane detection",
+                    "BoundingBox": {
+                        "Width": 0.8981481194496155,
+                        "Height": 0.07419376075267792,
+                        "Left": 0.035986706614494324,
+                        "Top": 0.724291205406189
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d87f5b5-b67c-4812-b8fa-27103f916237",
+                    "Score": 0.6421068906784058
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_Cx54Xgy86xzmhZ9m",
+            "Score": 0.6256809234619141
+        },
+        {
+            "slide": "PART_0002_VPQBRKPuZ5gIgtxw",
+            "Score": 0.6355879306793213
+        }
+    ]
+}

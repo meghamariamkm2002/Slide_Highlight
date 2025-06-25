@@ -1,0 +1,41 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,584",
+            "end_time": "00:00:05,848",
+            "transcript": "Lastly, we examine the discrimination power of different concepts.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,589",
+            "end_time": "00:00:13,456",
+            "transcript": "We found that the same concept usually pushes the classification of different samples towards the same category.",
+            "MatchedRegion": [
+                {
+                    "Text": "For each concept S, if the concept is saliently activated on a set of samples, then interaction effects I (S) of the same concept are supposed to push the classification of these samples towards the same category in most cases.",
+                    "BoundingBox": {
+                        "Width": 0.8602766394615173,
+                        "Height": 0.1224837452173233,
+                        "Left": 0.0806051567196846,
+                        "Top": 0.18538843095302582
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d1e529a1-969b-4c45-89e2-d480df6b4b8d",
+                    "Score": 0.8730636835098267
+                },
+                {
+                    "Text": "The average discrimination power B of concepts was usually higher than 0.8, which verified the discrimination power of extracted concepts.",
+                    "BoundingBox": {
+                        "Width": 0.8176149725914001,
+                        "Height": 0.08177220821380615,
+                        "Left": 0.08886725455522537,
+                        "Top": 0.8433576226234436
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfe552f1-d773-4d65-9d42-bd0303becbcb",
+                    "Score": 0.8518103361129761
+                }
+            ]
+        }
+    ]
+}

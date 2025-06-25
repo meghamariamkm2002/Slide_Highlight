@@ -1,0 +1,5 @@
+start	end	text
+982	9309	Our tests employ three different types of vision transformers, vanilla VIT, date, and VIT with improved augmentations and regularization.
+10270	14354	We measure the increase in robustness to distribution sheets, i.e.
+14494	17656	the increase in accuracy for datasets with shifted distributions.
+18417	21920	We use adversarial, reward, and synthetic datasets.

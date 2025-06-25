@@ -1,0 +1,54 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,568",
+            "end_time": "00:00:06,229",
+            "transcript": "Hello, thank you for watching.",
+            "MatchedRegion": [
+                {
+                    "Text": "HYSEN",
+                    "BoundingBox": {
+                        "Width": 0.058929868042469025,
+                        "Height": 0.1046922504901886,
+                        "Left": 0.27221113443374634,
+                        "Top": 0.037730131298303604
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "08d27200-5044-4626-a4b4-232d9fa2cabf",
+                    "Score": 0.6052716374397278
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,829",
+            "end_time": "00:00:14,633",
+            "transcript": "Today we are presenting Tank Band, Trigonometry-Aware Neural Networks for Drug-Protein Binding Structure Prediction.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:15,733",
+            "end_time": "00:00:18,054",
+            "transcript": "Please take a look of our cartoon here.",
+            "MatchedRegion": [
+                {
+                    "Text": "HYSEN",
+                    "BoundingBox": {
+                        "Width": 0.058929868042469025,
+                        "Height": 0.1046922504901886,
+                        "Left": 0.27221113443374634,
+                        "Top": 0.037730131298303604
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "08d27200-5044-4626-a4b4-232d9fa2cabf",
+                    "Score": 0.6052716374397278
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,915",
+            "end_time": "00:00:25,958",
+            "transcript": "The problem we are trying to solve is to predict how a small molecule will bind to the target.",
+            "MatchedRegion": []
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+1
+00:00:01,271 --> 00:00:11,624
+Furthermore, we paraphrased the question templates using human labor and machine learning paraphrasers, and then we hired crowd workers to review whether the paraphrases were correct or not.
+

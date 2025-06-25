@@ -1,0 +1,17 @@
+start	end	text
+1616	3777	So first, let's talk about our motivation.
+4578	17024	As many previous works pointed out, misinformation campaigns are manipulating public opinions on hotspot topics, such as COVID-19 epidemic and vaccines.
+17585	28711	For example, a publication pointed out that in those places where misinformation from misinformation campaigns spread faster, the vaccination ratio of these places is also
+29980	31961	relatively lower than other places.
+33302	43347	So, to design mitigation strategies to reduce user susceptibility to misinformation, we have to understand how misinformation influence user beliefs and activities.
+43947	49950	However, most of the existing works suffers from one or more of the following limitations.
+50663	62327	So first, almost all the data-driven methodologies or data-driven analysis focus on correlation between misinformation and user activities.
+62888	67950	And it is well known that causality is different from correlation.
+68530	74072	So they cannot distinguish causal effect of misinformation from user prior beliefs.
+75275	79136	Let us use the case of misinformation and the vaccination ratio.
+79916	90839	One explanation could be that in this place, people primarily don't trust vaccines, so they don't take vaccines and they spread a lot of misinformation.
+91359	96360	That could be true, but the correlation analysis cannot help us distinguish them.
+97940	101981	And there are some other works trying to understand the real causal effect.
+102674	106716	But they mainly rely on random controlled experiments and surveys.
+107296	110518	So, first, they are very expensive.
+110878	119002	And secondly, they may bring some ethical risk if we apply them on very huge social media platforms.

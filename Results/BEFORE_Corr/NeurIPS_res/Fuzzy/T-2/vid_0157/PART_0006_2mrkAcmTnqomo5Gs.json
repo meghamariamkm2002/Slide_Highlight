@@ -1,0 +1,65 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,940",
+            "end_time": "00:00:10,184",
+            "transcript": "Here we present two cases in which we correctly identify the native pocket, where previous method cannot.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:12,505",
+            "end_time": "00:00:21,549",
+            "transcript": "In conclusion, we build the first intermolecular trigonometry-aware neural network for the production of protein-drug interaction.",
+            "MatchedRegion": [
+                {
+                    "Text": "We built the first inter-molecular trigonometry-aware neural network for the prediction of protein-drug interaction.",
+                    "BoundingBox": {
+                        "Width": 0.8030426502227783,
+                        "Height": 0.09067066013813019,
+                        "Left": 0.05947369709610939,
+                        "Top": 0.2211126685142517
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a5cb154b-cd49-4032-bc9a-3888589f87ed",
+                    "Score": 0.9024390243902439
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,569",
+            "end_time": "00:00:29,172",
+            "transcript": "And we also achieved a soda result in both binding structure production and binding affinity production.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:30,714",
+            "end_time": "00:00:39,101",
+            "transcript": "In the future, we will explicitly model the protein dynamics because proteins are intrinsically dynamic.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:40,002",
+            "end_time": "00:00:49,390",
+            "transcript": "And we will also incorporate a larger amount binding affinity data because we have much more affinity data than structured data.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_JTz6kDtffaFhmgXo",
+            "Score": 0.7942605018615723
+        },
+        {
+            "slide": "PART_0001_IsStXx8eTvaF30NL",
+            "Score": 0.736312985420227
+        },
+        {
+            "slide": "PART_0002_J7vlELIHBi3iCNTj",
+            "Score": 0.6531398296356201
+        },
+        {
+            "slide": "PART_0004_VOwQ4lK5fqIKE1xx",
+            "Score": 0.6817176342010498
+        }
+    ]
+}

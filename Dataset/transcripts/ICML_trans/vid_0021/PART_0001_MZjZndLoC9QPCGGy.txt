@@ -1,0 +1,8 @@
+In reinforcement and imitation learning, the agent's policy induces a discounted state distribution and state action distribution.
+They are of central importance, appearing all across the literature.
+They form the basis of policy gradient methods in RL and are core to the distribution matching formulation of imitation.
+They are also foundational to other applications like curiosity-based exploration, constrained RL, batch RL, and convex RL.
+Despite this ubiquity across the literature, the distributions are mostly discussed indirectly and theoretically, rather than being modeled explicitly.
+And so this would concentrate on modeling them explicitly with modern density estimators, specifically normalizing flows, focusing on imitation.
+The simplest approach to imitation is behavioral cloning, which reforms supervised regression and maximum likelihood on given expert state action pairs.
+Modern approaches to imitation instead attempt to match the agent's state action distribution with the experts by minimizing some f diverged

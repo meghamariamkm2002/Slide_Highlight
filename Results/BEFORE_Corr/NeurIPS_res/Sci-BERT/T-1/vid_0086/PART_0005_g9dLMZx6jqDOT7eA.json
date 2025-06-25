@@ -1,0 +1,23 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,271",
+            "end_time": "00:00:11,624",
+            "transcript": "Furthermore, we paraphrased the question templates using human labor and machine learning paraphrasers, and then we hired crowd workers to review whether the paraphrases were correct or not.",
+            "MatchedRegion": [
+                {
+                    "Text": "Template Paraphrase Models Paraphrases Filtering & Placeholder Styleformer check Ranking Model Human-para Templates T5 Paraphrasers Quora-Roberta-Large Machine-para (score > 0.9) Templates PpxSorting M2M100 M2M100 + LevDist Filtering mBART50-M2M mBART50-M2M GPT-Neo 1.3B (ppx < 200) mBART-O2M mBART-M2O 45 Languages Filtering (=3) & Post-editing - M2M100 M2M100 100 Languages Raw Machine-para Templates 1) Question Collection 2) Templatization Crowdsourcing 3) Answerability Labeling (paraphrase rating) MIMIC-III elCU",
+                    "BoundingBox": {
+                        "Width": 0.6029582619667053,
+                        "Height": 0.5913965702056885,
+                        "Left": 0.22453919053077698,
+                        "Top": 0.2337278574705124
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "c4240edb-106c-43f9-86f9-e45e302d8a2e",
+                    "Score": 0.6521729230880737
+                }
+            ]
+        }
+    ]
+}

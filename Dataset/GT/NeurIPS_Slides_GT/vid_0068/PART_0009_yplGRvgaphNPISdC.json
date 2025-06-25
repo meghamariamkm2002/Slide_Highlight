@@ -1,0 +1,61 @@
+{
+    "MatchedSlides": [
+        "PART_0009_yplGRvgaphNPISdC",
+        "PART_0010_qsu4z49v9IGcpqg2"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,610",
+            "end_time": "00:00:09,154",
+            "transcript": "Although we know that model selection is robust to the choice of teacher, it is not usually the case that we have prior knowledge of a good teacher.",
+            "MatchedRegion": [
+                {
+                    "Text": "Can we search for good models without prior knowledge of a good teacher?",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.8385560512542725,
+                        "Height": 0.0728774443268776,
+                        "Left": 0.08092252165079117,
+                        "Top": 0.09816949814558029
+                    },
+                    "Id": "0373e2b5-ccaa-4185-8855-7e3f40ce8ee5"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,674",
+            "end_time": "00:00:21,681",
+            "transcript": "In such case, we propose to find better teacher iteratively, and as we can see from the blue curve, the iterative approach has significantly improved the model accuracy.",
+            "MatchedRegion": [
+                {
+                    "Text": "The iterative approach has significantly improved the model accuracy without knowing a good teacher in advance.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8052659630775452,
+                        "Height": 0.08672907948493958,
+                        "Left": 0.10748770087957382,
+                        "Top": 0.18392373621463776
+                    },
+                    "Id": "67795cca-fcfc-4c73-8140-2362974188f0"
+                },
+               {
+                    "Text": "78 DONNA D10_FT10 77 DONNA_D10_FT10 retrained by bad teacher 76 DONNA_D10_FT10 retrained by good teacher 75 DONNA_D10_FT10 74 retrained iteratively 73 72 71 70 69 0 5 10 15 20 25 30 35 40 Training cost",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.4075596332550049,
+                        "Height": 0.5436763763427734,
+                        "Left": 0.5092759728431702,
+                        "Top": 0.3274993598461151
+                    },
+                    "Id":  "063983e8-d406-452a-aca4-10dde3b8dd20"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,681",
+            "end_time": "00:00:24,002",
+            "transcript": "Without knowing a good teacher in",
+            "MatchedRegion": []
+        }
+    ]
+}

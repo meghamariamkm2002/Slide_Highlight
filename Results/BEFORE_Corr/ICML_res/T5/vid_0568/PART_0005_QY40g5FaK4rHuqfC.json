@@ -1,0 +1,22 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,011",
+            "end_time": "00:00:04,337",
+            "transcript": "The schematic diagram of the network operation is shown here.",
+            "MatchedRegion": [
+                {
+                    "Text": "Schematic Representation of GSEMM operation",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.5155589580535889,
+                        "Height": 0.045001640915870667,
+                        "Left": 0.0393863171339035,
+                        "Top": 0.04808302968740463
+                    },
+                    "Id": "dbe7e015-c918-4956-bbbe-b858904bc517"
+                }
+            ]
+        }
+    ]
+}

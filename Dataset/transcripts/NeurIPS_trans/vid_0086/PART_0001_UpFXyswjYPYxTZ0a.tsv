@@ -1,0 +1,11 @@
+start	end	text
+2172	9280	The EHR SQL dataset consists of 24,000 questions to SQL pairs, frequently asked on structured EHR data.
+10410	23835	The questions were collected from a poll conducted at a university hospital and more than 200 hospital staff, including doctors, nurses, insurance review staff, infection control staff, and more participated in the poll.
+24716	30658	The label SQL queries are linked to two open source EHR databases, Mimic 3 and EICU.
+31621	39206	The unique challenges of the dataset are, first, we have a wide range of real-world questions frequently asked on structured EHR data.
+39987	53276	From retrieving a patient's test results, to summing of a patient's total hospital cost, and calculating the survival rate of a certain group of patients, the questions in the dataset reflect the diverse needs of staff in the hospital.
+55074	57635	Second, time is very important in healthcare.
+58115	64498	To reflect that, we templatize time and combine them with the questions to make the data set more realistic.
+65418	69800	Lastly, we have unanswerable questions that were collected together from the poll.
+70480	76023	The questions were unanswerable because they were either ambiguous or went beyond the database schemas.
+76843	81745	These questions are later used to test the trustworthiness of text to SQL models.

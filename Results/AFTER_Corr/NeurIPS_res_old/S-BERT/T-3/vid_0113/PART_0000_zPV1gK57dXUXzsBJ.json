@@ -1,0 +1,30 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,588",
+            "end_time": "00:00:06,290",
+            "transcript": "Hey, everyone, I'm Peilin Zhou.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,550",
+            "end_time": "00:00:15,938",
+            "transcript": "I'm so glad to introduce our paper, Mets-CoV, a dataset of medical entity and targeted sentiment on COVID-19 related tweets.",
+            "MatchedRegion": [
+                {
+                    "Text": "METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets",
+                    "BoundingBox": {
+                        "Width": 0.8003619909286499,
+                        "Height": 0.256885826587677,
+                        "Left": 0.08870193362236023,
+                        "Top": 0.2403709441423416
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "8628335f-246c-443c-8382-588bad727c3f",
+                    "Score": 0.9215974807739258
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

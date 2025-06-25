@@ -1,0 +1,121 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,591",
+            "end_time": "00:00:05,192",
+            "transcript": "Hello, everyone.",
+            "MatchedRegion": [
+                {
+                    "Text": "Yuan Deng Google Research",
+                    "BoundingBox": {
+                        "Width": 0.1696387231349945,
+                        "Height": 0.1262415498495102,
+                        "Left": 0.11663486063480377,
+                        "Top": 0.6084556579589844
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50f872ad-904e-4c55-ac2f-8c7acfb0c134",
+                    "Score": 0.6551677584648132
+                },
+                {
+                    "Text": "Vahab Mirrokni Google Research",
+                    "BoundingBox": {
+                        "Width": 0.18857263028621674,
+                        "Height": 0.12602366507053375,
+                        "Left": 0.40455910563468933,
+                        "Top": 0.6084315776824951
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7c6f81a6-aeef-4a2a-82dd-a8c11c9e3f1f",
+                    "Score": 0.7061216235160828
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,433",
+            "end_time": "00:00:05,914",
+            "transcript": "I'm hungry.",
+            "MatchedRegion": [
+                {
+                    "Text": "Yuan Deng Google Research",
+                    "BoundingBox": {
+                        "Width": 0.1696387231349945,
+                        "Height": 0.1262415498495102,
+                        "Left": 0.11663486063480377,
+                        "Top": 0.6084556579589844
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50f872ad-904e-4c55-ac2f-8c7acfb0c134",
+                    "Score": 0.6551677584648132
+                },
+                {
+                    "Text": "Vahab Mirrokni Google Research",
+                    "BoundingBox": {
+                        "Width": 0.18857263028621674,
+                        "Height": 0.12602366507053375,
+                        "Left": 0.40455910563468933,
+                        "Top": 0.6084315776824951
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7c6f81a6-aeef-4a2a-82dd-a8c11c9e3f1f",
+                    "Score": 0.7061216235160828
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,074",
+            "end_time": "00:00:14,871",
+            "transcript": "This talk is about how surprising and dynamic prior independent maximums as value maximizers as a joint work with random and will have me rock me from.",
+            "MatchedRegion": [
+                {
+                    "Text": "Yuan Deng Google Research",
+                    "BoundingBox": {
+                        "Width": 0.1696387231349945,
+                        "Height": 0.1262415498495102,
+                        "Left": 0.11663486063480377,
+                        "Top": 0.6084556579589844
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "50f872ad-904e-4c55-ac2f-8c7acfb0c134",
+                    "Score": 0.6551677584648132
+                },
+                {
+                    "Text": "Vahab Mirrokni Google Research",
+                    "BoundingBox": {
+                        "Width": 0.18857263028621674,
+                        "Height": 0.12602366507053375,
+                        "Left": 0.40455910563468933,
+                        "Top": 0.6084315776824951
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7c6f81a6-aeef-4a2a-82dd-a8c11c9e3f1f",
+                    "Score": 0.7061216235160828
+                },
+                {
+                    "Text": "Hanrui Zhang",
+                    "BoundingBox": {
+                        "Width": 0.18082739412784576,
+                        "Height": 0.05000101402401924,
+                        "Left": 0.7071852087974548,
+                        "Top": 0.6098923683166504
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a81f545f-7e0b-49a6-abdb-5cd517ee66b1",
+                    "Score": 0.6024019718170166
+                },
+                {
+                    "Text": "Carnegie Mellon University",
+                    "BoundingBox": {
+                        "Width": 0.26360514760017395,
+                        "Height": 0.04050852730870247,
+                        "Left": 0.6658644080162048,
+                        "Top": 0.6976996660232544
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4cfbb788-c943-4eb3-817c-d1a27786e19b",
+                    "Score": 0.6338678598403931
+                }
+            ]
+        }
+    ]
+}

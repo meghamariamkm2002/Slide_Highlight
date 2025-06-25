@@ -1,0 +1,5 @@
+start	end	text
+1033	9075	Unlike other methods, our method employs the losses during a short fine-tuning process on models that were already pre-trained on ImageNet.
+10016	17418	We add a classification loss at classification to ensure that the accuracy of the models does not decrease due to the fine-tuning process.
+18418	24800	The formulation of our classification loss is as follows, and it encourages the model to have high confidence on its predictions.
+25970	32154	Thus, our final loss term is formulated as follows as a combination of the relevance and the classification loss.

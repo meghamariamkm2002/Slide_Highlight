@@ -1,0 +1,12 @@
+1
+00:00:01,155 --> 00:00:09,561
+First, we verify that most concepts had little effects on the output, which verifies the sparsity of encoded concepts.
+
+2
+00:00:10,401 --> 00:00:19,807
+This is a distinctive property of symbolism, where it is sufficient to use a small number of salient symbolic concepts to represent the knowledge.
+
+3
+00:00:20,888 --> 00:00:26,392
+Such a concept emergent phenomenon has also been mathematically proved in our recent work.
+

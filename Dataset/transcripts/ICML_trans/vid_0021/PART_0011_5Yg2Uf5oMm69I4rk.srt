@@ -1,0 +1,4 @@
+1
+00:00:01,072 --> 00:00:03,349
+Mahalo for your time, and see you in Hawaii.
+

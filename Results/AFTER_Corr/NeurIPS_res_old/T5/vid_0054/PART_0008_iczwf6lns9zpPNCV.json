@@ -1,0 +1,47 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,683",
+            "end_time": "00:00:07,806",
+            "transcript": "And to further evaluate the model's generalization ability, we carried out the experiment under the few-shot setting.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. To further evaluate the model's generalization ability, we carried out the experiment under the few-shot setting.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7206131219863892,
+                        "Height": 0.06565970182418823,
+                        "Left": 0.1065688207745552,
+                        "Top": 0.423588365316391
+                    },
+                    "Id": "e158c075-73be-4748-bb7e-4156fd72f359"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,487",
+            "end_time": "00:00:22,213",
+            "transcript": "And we can find that with more data for training, the performance is greatly improved, especially on species with unique texture, appearance, and posture characteristics.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:22,773",
+            "end_time": "00:00:28,476",
+            "transcript": "And we think it's because these unique characteristics are not shared among other species.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. With more data for training, the performance is greatly improved, especially on species with unique textures, appearance, and posture characteristics. It is because these unique characteristics are not shared in the training images of other species.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7416086792945862,
+                        "Height": 0.10053015500307083,
+                        "Left": 0.10738249868154526,
+                        "Top": 0.6027380228042603
+                    },
+                    "Id": "d2a1c891-cb4a-45d4-84f7-00d554046da7"
+                }
+            ]
+        }
+    ]
+}

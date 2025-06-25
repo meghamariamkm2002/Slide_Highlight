@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,987",
+            "end_time": "00:00:03,381",
+            "transcript": "Thank you at the end of the presentation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Thank you !",
+                    "BoundingBox": {
+                        "Width": 0.3269146978855133,
+                        "Height": 0.0865512564778328,
+                        "Left": 0.3405683636665344,
+                        "Top": 0.30530065298080444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7859838008880615
+                },
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19240644574165344,
+                        "Height": 0.0703921839594841,
+                        "Left": 0.029942385852336884,
+                        "Top": 0.8906054496765137
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6185749173164368
+                }
+            ]
+        }
+    ]
+}

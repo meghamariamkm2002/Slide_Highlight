@@ -1,0 +1,22 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:00,249",
+            "end_time": "00:00:00,629",
+            "transcript": "functions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,510",
+            "end_time": "00:00:08,254",
+            "transcript": "As shown in the t-SNE visualizations, there's a noticeable separation between the source and target domains of Moulin.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,894",
+            "end_time": "00:00:15,918",
+            "transcript": "Therefore, we only observe a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS.",
+            "MatchedRegion": []
+        }
+    ]
+}

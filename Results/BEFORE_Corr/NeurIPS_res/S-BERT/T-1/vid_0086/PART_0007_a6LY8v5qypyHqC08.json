@@ -1,0 +1,23 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,015",
+            "end_time": "00:00:13,406",
+            "transcript": "For base lines, we use T5 and T5 bischema serialization, and then we use three threshold methods to evaluate how well each method can distinguish between answerable and unanswerable questions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:14,067",
+            "end_time": "00:00:20,072",
+            "transcript": "The methods include no threshold based on clustering boundary, threshold based on percentile.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:20,593",
+            "end_time": "00:00:22,995",
+            "transcript": "For more details, please refer to our paper.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

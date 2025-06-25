@@ -1,0 +1,89 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:05,896",
+            "transcript": "Second, we verify the transferability of concepts over different samples. \u2714\ufe0f",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,517",
+            "end_time": "00:00:11,183",
+            "transcript": "This means that concepts extracted from one sample can be transferred to other samples.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 2: Transferability over different samples",
+                    "BoundingBox": {
+                        "Width": 0.7445816993713379,
+                        "Height": 0.058222416788339615,
+                        "Left": 0.0971589908003807,
+                        "Top": 0.06615082174539566
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "8f77e510-c211-4579-81f7-397d11deb902",
+                    "Score": 0.7734251022338867
+                },
+                {
+                    "Text": "Whether concepts extracted from a sample can be transferred to other samples",
+                    "BoundingBox": {
+                        "Width": 0.6790326833724976,
+                        "Height": 0.034598458558321,
+                        "Left": 0.08016650378704071,
+                        "Top": 0.21105144917964935
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "855a7695-7092-46d3-bfba-07007ec297e1",
+                    "Score": 0.802192211151123
+                },
+                {
+                    "Text": "To check whether there exists a common concept dictionary, which covers most salient concepts",
+                    "BoundingBox": {
+                        "Width": 0.7400204539299011,
+                        "Height": 0.078300341963768,
+                        "Left": 0.1075756698846817,
+                        "Top": 0.2663296163082123
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1967c71f-d755-4338-94fb-a02a6e605df9",
+                    "Score": 0.7967290878295898
+                },
+                {
+                    "Text": "tic-tac-toe wifi MNIST-3 CelebA-eyeglasses ShapeNet (samples with pattern (samples in the 4th category) (positive samples) (positive samples) (samples in the motorbike 0,6 0.8 category) 0,8 0.8 0.8 0.6 LeNet 0.4 0.6 0.6 0.6 ResNet-20 0.4 ResNet-32 0.4 0.4 0.4 0.2 ResNet-44 AlexNet MLP-5 MLP-5 0.2 VGG-13 0.2 ResNet-18 0.2 PointNet 0.2 ResMLP-5 ResMLP-5 VGG-16 ResNet-34 PointNet 0.0 0.0 0.0 0.0 0 25 50 75 100 0 10 20 30 0 20 40 0 25 50 75 100 0 25 50 75 100 concept dictionary size k = DD concept dictionary size k = DDI concept dictionary size k = |Dkl concept dictionary size k = |Dkl concept dictionary size k = |Dkl",
+                    "BoundingBox": {
+                        "Width": 0.8028144240379333,
+                        "Height": 0.2860370874404907,
+                        "Left": 0.09930155426263809,
+                        "Top": 0.3994673192501068
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b5fbff8b-7e42-4741-b3fe-65a51f05bdff",
+                    "Score": 0.6385447978973389
+                },
+                {
+                    "Text": "The concept dictionary D is constructed based on top-frequent concepts.",
+                    "BoundingBox": {
+                        "Width": 0.5557876229286194,
+                        "Height": 0.030875198543071747,
+                        "Left": 0.2426525205373764,
+                        "Top": 0.7044967412948608
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5fc183c8-5b19-4465-a92c-c9490950397b",
+                    "Score": 0.8465472459793091
+                },
+                {
+                    "Text": "There usually existed a concept dictionary consisting of 30-100 concepts, which could explain more than 60%-80% salient concepts encoded by the DNN",
+                    "BoundingBox": {
+                        "Width": 0.8468753695487976,
+                        "Height": 0.07886554300785065,
+                        "Left": 0.07390371710062027,
+                        "Top": 0.7957817316055298
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2e1dcd03-af39-4cc2-b179-90919928cd67",
+                    "Score": 0.7751206159591675
+                }
+            ]
+        }
+    ]
+}

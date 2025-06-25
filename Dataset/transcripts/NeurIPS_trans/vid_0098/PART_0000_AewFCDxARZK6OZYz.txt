@@ -1,0 +1,3 @@
+Hello, everyone.
+My name is Bonifat Stur, and today we present our work, Carlane, a lane detection benchmark for unsupervised domain adaptation from simulation to multiple real-world domains.
+This is joint work with Johann Haselberger and Julian

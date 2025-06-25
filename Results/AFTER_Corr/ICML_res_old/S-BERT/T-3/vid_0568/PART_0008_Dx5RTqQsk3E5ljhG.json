@@ -1,0 +1,17 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,390",
+            "end_time": "00:00:05,522",
+            "transcript": "the state of the system depicted by the white ball converges to the nearest attractor state and stays there.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,444",
+            "end_time": "00:00:06,885",
+            "transcript": "On the other hand",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

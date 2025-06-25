@@ -1,0 +1,125 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,870",
+            "end_time": "00:00:09,752",
+            "transcript": "Unsupervised domain adaptation demonstrates great potential to mitigate domain shifts by transferring models from labeled source domains to unlabeled target domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "unsupervised knowledge transfer domain shift",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.6713652610778809,
+                        "Height": 0.3796723783016205,
+                        "Left": 0.16458754241466522,
+                        "Top": 0.16522711515426636
+                    },
+                    "Id": "61b08415-f5ab-4125-9fc0-725453858496"
+                },
+                {
+                    "Text": "labeled source domain",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1749057024717331,
+                        "Height": 0.025366567075252533,
+                        "Left": 0.19563709199428558,
+                        "Top": 0.5666717290878296
+                    },
+                    "Id": "b3218f1b-2d4e-410f-817b-2d51ab5b1fd8"
+                },
+                {
+                    "Text": "unlabeled target domain",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.19038709998130798,
+                        "Height": 0.0298610869795084,
+                        "Left": 0.6210153102874756,
+                        "Top": 0.5672021508216858
+                    },
+                    "Id": "253b51da-4af4-4ca0-81f4-b43a17a7ef2c"
+                },
+                {
+                    "Text": "Unsupervised Domain Adaptation (UDA) demonstrates great potential to mitigate domain shifts by transferring models from labeled source domains to unlabeled target domains",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8520699143409729,
+                        "Height": 0.07390082627534866,
+                        "Left": 0.03573311120271683,
+                        "Top": 0.6462298631668091
+                    },
+                    "Id": "829daac5-d0b4-4f02-941e-e877717cd317"
+                },
+                {
+                    "Text": "",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.11481121182441711,
+                        "Height": 0.06538315117359161,
+                        "Left": 0.02482161670923233,
+                        "Top": 0.9281402230262756
+                    },
+                    "Id": "2bb60786-0c11-45b5-8f16-5463852677ff"
+                },
+                {
+                    "Text": "",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.03206498548388481,
+                        "Height": 0.05192842707037926,
+                        "Left": 0.3962666094303131,
+                        "Top": 0.9240065217018127
+                    },
+                    "Id": "2e97832a-6ef4-4e3e-9b0a-a5909defbc0c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,432",
+            "end_time": "00:00:14,294",
+            "transcript": "However, only a few user works focus on lane detection for autonomous driving.",
+            "MatchedRegion": [
+                {
+                    "Text": "Only a few UDA works focus on lane detection for autonomous driving",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.611201822757721,
+                        "Height": 0.033493008464574814,
+                        "Left": 0.03571942076086998,
+                        "Top": 0.748641312122345
+                    },
+                    "Id": "9fd32e69-1aa3-4a14-add0-e8d90d181e5c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,034",
+            "end_time": "00:00:17,975",
+            "transcript": "This can be attributed to the lack of publicly available data",
+            "MatchedRegion": [
+                {
+                    "Text": "Unsupervised Domain Adaptation (UDA) demonstrates great potential to mitigate domain shifts by transferring models from labeled source domains to unlabeled target domains",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8520699143409729,
+                        "Height": 0.07390082627534866,
+                        "Left": 0.03573311120271683,
+                        "Top": 0.6462298631668091
+                    },
+                    "Id": "829daac5-d0b4-4f02-941e-e877717cd317"
+                },
+                {
+                    "Text": "This can be attributed to the lack of publicly available datasets",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5430829524993896,
+                        "Height": 0.03331313654780388,
+                        "Left": 0.03570578992366791,
+                        "Top": 0.810569167137146
+                    },
+                    "Id": "645e79f1-beb0-43f1-88ef-2b4ac9553d2a"
+                }
+            ]
+        }
+    ]
+}

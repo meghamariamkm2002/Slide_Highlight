@@ -1,0 +1,349 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,350",
+            "end_time": "00:00:05,254",
+            "transcript": "For the target domain of TuSimple, we create a clean version of the TuSimple dataset.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset Collection - TuSimple",
+                    "BoundingBox": {
+                        "Width": 0.43451693654060364,
+                        "Height": 0.061753466725349426,
+                        "Left": 0.03761361911892891,
+                        "Top": 0.0328419990837574
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4154bd74-7efc-4b4b-b2f4-a6b3359cabe9",
+                    "Score": 0.7975854277610779
+                },
+                {
+                    "Text": "NEURAL INFORMATIO PROCESSING SYSTEM",
+                    "BoundingBox": {
+                        "Width": 0.09808576852083206,
+                        "Height": 0.07321441918611526,
+                        "Left": 0.888457715511322,
+                        "Top": 0.02062404155731201
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b07ed5fc-414a-4468-8bac-12ad72c65023",
+                    "Score": 0.6433618068695068
+                },
+                {
+                    "Text": "We create a cleaned version of TuSimple [1] for the real-world target domain of TuLane",
+                    "BoundingBox": {
+                        "Width": 0.7478222846984863,
+                        "Height": 0.041326917707920074,
+                        "Left": 0.03559821844100952,
+                        "Top": 0.15510661900043488
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "05b7d546-42b4-424f-8238-54e47bf3b04e",
+                    "Score": 0.7848119735717773
+                },
+                {
+                    "Text": "ensure that up to four lanes closest to the car are correctly labeled",
+                    "BoundingBox": {
+                        "Width": 0.5234382748603821,
+                        "Height": 0.036119457334280014,
+                        "Left": 0.0736241340637207,
+                        "Top": 0.21882902085781097
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bbcd277b-43b3-483f-851e-88331e94ba3f",
+                    "Score": 0.8335447311401367
+                },
+                {
+                    "Text": "To clean the data, we utilize our publicly available labeling tool",
+                    "BoundingBox": {
+                        "Width": 0.5442882776260376,
+                        "Height": 0.03812306746840477,
+                        "Left": 0.0360487662255764,
+                        "Top": 0.2774321734905243
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d97e1871-af84-43f3-b474-c7595fd014d1",
+                    "Score": 0.9976271390914917
+                },
+                {
+                    "Text": "[1] TuSimple, \"TuSimple-benchmark.\" https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection",
+                    "BoundingBox": {
+                        "Width": 0.4691006541252136,
+                        "Height": 0.017883213236927986,
+                        "Left": 0.013246620073914528,
+                        "Top": 0.8777663707733154
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a0968d5f-68f8-4636-bf05-2a0b512f1d9d",
+                    "Score": 0.7113220691680908
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04360087215900421,
+                        "Height": 0.04169461876153946,
+                        "Left": 0.14680033922195435,
+                        "Top": 0.9290584325790405
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0c1ea14-b499-4b14-8fe7-789f80965ac5",
+                    "Score": 0.7163110971450806
+                },
+                {
+                    "Text": "Technische n Universit\u00e4t",
+                    "BoundingBox": {
+                        "Width": 0.0669245794415474,
+                        "Height": 0.05222812294960022,
+                        "Left": 0.44566717743873596,
+                        "Top": 0.921760618686676
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d6363659-a308-455a-99bf-bfbe93fb65ba",
+                    "Score": 0.7033752202987671
+                },
+                {
+                    "Text": "UAB UniversitatAutbnoma",
+                    "BoundingBox": {
+                        "Width": 0.07383567094802856,
+                        "Height": 0.05197251960635185,
+                        "Left": 0.5283709764480591,
+                        "Top": 0.9202224016189575
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "30d0ee1e-c634-484f-98be-bab27749fad1",
+                    "Score": 0.7032389044761658
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.06075221300125122,
+                        "Height": 0.019423192366957664,
+                        "Left": 0.8589314818382263,
+                        "Top": 0.9444677233695984
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "3f0b3f8a-7ca0-4a46-a45c-43c0cd2a4e8d",
+                    "Score": 0.718733549118042
+                },
+                {
+                    "Text": "7",
+                    "BoundingBox": {
+                        "Width": 0.006478533614426851,
+                        "Height": 0.016546156257390976,
+                        "Left": 0.9543489217758179,
+                        "Top": 0.9451919198036194
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "4755266d-bbbf-445c-b5db-b0cced082804",
+                    "Score": 0.7642723321914673
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,834",
+            "end_time": "00:00:09,918",
+            "transcript": "Our goal is to ensure that up to four lanes closest to the car are correctly labeled.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATIO PROCESSING SYSTEM",
+                    "BoundingBox": {
+                        "Width": 0.09808576852083206,
+                        "Height": 0.07321441918611526,
+                        "Left": 0.888457715511322,
+                        "Top": 0.02062404155731201
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b07ed5fc-414a-4468-8bac-12ad72c65023",
+                    "Score": 0.6433618068695068
+                },
+                {
+                    "Text": "ensure that up to four lanes closest to the car are correctly labeled",
+                    "BoundingBox": {
+                        "Width": 0.5234382748603821,
+                        "Height": 0.036119457334280014,
+                        "Left": 0.0736241340637207,
+                        "Top": 0.21882902085781097
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bbcd277b-43b3-483f-851e-88331e94ba3f",
+                    "Score": 0.8335447311401367
+                },
+                {
+                    "Text": "To clean the data, we utilize our publicly available labeling tool",
+                    "BoundingBox": {
+                        "Width": 0.5442882776260376,
+                        "Height": 0.03812306746840477,
+                        "Left": 0.0360487662255764,
+                        "Top": 0.2774321734905243
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d97e1871-af84-43f3-b474-c7595fd014d1",
+                    "Score": 0.9976271390914917
+                },
+                {
+                    "Text": "[1] TuSimple, \"TuSimple-benchmark.\" https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection",
+                    "BoundingBox": {
+                        "Width": 0.4691006541252136,
+                        "Height": 0.017883213236927986,
+                        "Left": 0.013246620073914528,
+                        "Top": 0.8777663707733154
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a0968d5f-68f8-4636-bf05-2a0b512f1d9d",
+                    "Score": 0.7113220691680908
+                },
+                {
+                    "Text": "Technische n Universit\u00e4t",
+                    "BoundingBox": {
+                        "Width": 0.0669245794415474,
+                        "Height": 0.05222812294960022,
+                        "Left": 0.44566717743873596,
+                        "Top": 0.921760618686676
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d6363659-a308-455a-99bf-bfbe93fb65ba",
+                    "Score": 0.7033752202987671
+                },
+                {
+                    "Text": "7",
+                    "BoundingBox": {
+                        "Width": 0.006478533614426851,
+                        "Height": 0.016546156257390976,
+                        "Left": 0.9543489217758179,
+                        "Top": 0.9451919198036194
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "4755266d-bbbf-445c-b5db-b0cced082804",
+                    "Score": 0.7642723321914673
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,639",
+            "end_time": "00:00:13,982",
+            "transcript": "To clean the data, we utilize our publicly available labeling tool.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset Collection - TuSimple",
+                    "BoundingBox": {
+                        "Width": 0.43451693654060364,
+                        "Height": 0.061753466725349426,
+                        "Left": 0.03761361911892891,
+                        "Top": 0.0328419990837574
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4154bd74-7efc-4b4b-b2f4-a6b3359cabe9",
+                    "Score": 0.7975854277610779
+                },
+                {
+                    "Text": "NEURAL INFORMATIO PROCESSING SYSTEM",
+                    "BoundingBox": {
+                        "Width": 0.09808576852083206,
+                        "Height": 0.07321441918611526,
+                        "Left": 0.888457715511322,
+                        "Top": 0.02062404155731201
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b07ed5fc-414a-4468-8bac-12ad72c65023",
+                    "Score": 0.6433618068695068
+                },
+                {
+                    "Text": "We create a cleaned version of TuSimple [1] for the real-world target domain of TuLane",
+                    "BoundingBox": {
+                        "Width": 0.7478222846984863,
+                        "Height": 0.041326917707920074,
+                        "Left": 0.03559821844100952,
+                        "Top": 0.15510661900043488
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "05b7d546-42b4-424f-8238-54e47bf3b04e",
+                    "Score": 0.7848119735717773
+                },
+                {
+                    "Text": "ensure that up to four lanes closest to the car are correctly labeled",
+                    "BoundingBox": {
+                        "Width": 0.5234382748603821,
+                        "Height": 0.036119457334280014,
+                        "Left": 0.0736241340637207,
+                        "Top": 0.21882902085781097
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bbcd277b-43b3-483f-851e-88331e94ba3f",
+                    "Score": 0.8335447311401367
+                },
+                {
+                    "Text": "To clean the data, we utilize our publicly available labeling tool",
+                    "BoundingBox": {
+                        "Width": 0.5442882776260376,
+                        "Height": 0.03812306746840477,
+                        "Left": 0.0360487662255764,
+                        "Top": 0.2774321734905243
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d97e1871-af84-43f3-b474-c7595fd014d1",
+                    "Score": 0.9976271390914917
+                },
+                {
+                    "Text": "[1] TuSimple, \"TuSimple-benchmark.\" https://github.com/TuSimple/tusimple-benchmark/tree/master/doc/lane_detection",
+                    "BoundingBox": {
+                        "Width": 0.4691006541252136,
+                        "Height": 0.017883213236927986,
+                        "Left": 0.013246620073914528,
+                        "Top": 0.8777663707733154
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a0968d5f-68f8-4636-bf05-2a0b512f1d9d",
+                    "Score": 0.7113220691680908
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04360087215900421,
+                        "Height": 0.04169461876153946,
+                        "Left": 0.14680033922195435,
+                        "Top": 0.9290584325790405
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b0c1ea14-b499-4b14-8fe7-789f80965ac5",
+                    "Score": 0.7163110971450806
+                },
+                {
+                    "Text": "Technische n Universit\u00e4t",
+                    "BoundingBox": {
+                        "Width": 0.0669245794415474,
+                        "Height": 0.05222812294960022,
+                        "Left": 0.44566717743873596,
+                        "Top": 0.921760618686676
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d6363659-a308-455a-99bf-bfbe93fb65ba",
+                    "Score": 0.7033752202987671
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.06075221300125122,
+                        "Height": 0.019423192366957664,
+                        "Left": 0.8589314818382263,
+                        "Top": 0.9444677233695984
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "3f0b3f8a-7ca0-4a46-a45c-43c0cd2a4e8d",
+                    "Score": 0.718733549118042
+                },
+                {
+                    "Text": "7",
+                    "BoundingBox": {
+                        "Width": 0.006478533614426851,
+                        "Height": 0.016546156257390976,
+                        "Left": 0.9543489217758179,
+                        "Top": 0.9451919198036194
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "4755266d-bbbf-445c-b5db-b0cced082804",
+                    "Score": 0.7642723321914673
+                }
+            ]
+        }
+    ]
+}

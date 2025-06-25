@@ -1,0 +1,55 @@
+{
+    "MatchedSlides": [
+        "PART_0003_AVYdxgQ3ohclNiow",
+        "PART_0004_CwGPLtp3Ag53OvR5"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,550",
+            "end_time": "00:00:07,257",
+            "transcript": "In total, our carline benchmark contains 163,000 unique images, of which 180,000 images are annotated.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,818",
+            "end_time": "00:00:10,721",
+            "transcript": "The distribution of the images can be seen in the table on the slide.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,341",
+            "end_time": "00:00:15,486",
+            "transcript": "For dama, we show the distribution of the annotated lanes for each dataset in the right-hand figure.",
+            "MatchedRegion": [
+                {
+                    "Text": "Lane annotation distributions of the three subsets of CARLANE.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.38188621401786804,
+                        "Height": 0.019233878701925278,
+                        "Left": 0.5517857074737549,
+                        "Top": 0.6675443649291992
+                    },
+                    "Id": "fb9b14dc-ef48-4cae-9f98-368b253a980d"
+                },
+                {
+                    "Text": "Dataset domain total images train validation test lanes CARLA simulation 84,000 80,000 4,000 - < 2 MoLane model vehicle 46,843 43,843* 2,000 1,000 2 CARLA simulation 26,400 24,000 2,400 - TuLane < 4 TuSimple 6,408 3,268 358 2,782 < 4 CARLA simulation 52,800 48,000 4,800 - < 4 MuLane model vehicle + TuSimple 12,536 6,536** 4,000 2,000 < 4",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.4735901355743408,
+                        "Height": 0.20992226898670197,
+                        "Left": 0.022183481603860855,
+                        "Top": 0.43013638257980347
+                    },
+                    "Id": "605fb5ed-632e-40c5-a317-2665e431b319"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,027",
+            "end_time": "00:00:19,330",
+            "transcript": "You observe that the source and target domain annotations are well aligned.",
+            "MatchedRegion": []
+        }
+    ]
+}

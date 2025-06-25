@@ -1,0 +1,87 @@
+{
+  "MatchedRegions": [
+      {
+          "start_time": "00:00:00,930",
+          "end_time": "00:00:06,071",
+          "transcript": "Based on cooperative game theory, we have a mathematical tool to formalize this idea.",
+          "MatchedRegion": []
+      },
+      {
+        "start_time": "00:00:06,731",
+        "end_time": "00:00:10,172",
+        "transcript": "So let me first introduce some preliminaries of this framework.",
+        "MatchedRegion": [
+          {
+            "Id": "c2ad934f-0335-4363-bc7e-e5f7efc21356",
+            "Text": "Preliminary: Disentangling DNN inference into interactions",
+            "BoundingBox": {
+                "Width": 0.7676267623901367,
+                "Height": 0.05243968591094017,
+                "Left": 0.09668763726949692,
+                "Top": 0.0681004524230957
+            },
+            "BlockType": "LAYOUT_TITLE"
+          }
+        ]
+      },
+      {
+        "start_time": "00:00:11,072",
+        "end_time": "00:00:16,393",
+        "transcript": "First of all, the DNN encodes interactions between different input variables for inference.",
+        "MatchedRegion": [
+          {
+            "Id": "076fb1e7-23cd-4509-94c5-c1ebfa86109d",
+            "Text": "The non-linearity enables a DNN to encode interactions between different input variables for inference, instead of treating them independently, like a linear model. [Ren et al., 2021, 2023]",
+            "BoundingBox": {
+                "Width": 0.7923091053962708,
+                "Height": 0.07876493036746979,
+                "Left": 0.09875020384788513,
+                "Top": 0.3468187153339386
+            },
+            "BlockType": "LAYOUT_TEXT"
+          }
+        ]
+      },
+      {
+        "start_time": "00:00:17,173",
+        "end_time": "00:00:27,955",
+        "transcript": "For example, in the sentence, he is a green hand, a DNN may memorize the interaction between words in green and hand that pushes the DNN's inference towards the meaning of a begin",
+        "MatchedRegion": [
+          {
+            "Id": "fd3d4124-f1af-421c-83d5-d31b1d394929",
+            "Text": "For example, given an input sentence",
+            "BoundingBox": {
+                "Width": 0.30607137084007263,
+                "Height": 0.0304859708994627,
+                "Left": 0.10664783418178558,
+                "Top": 0.5029149055480957
+            },
+            "BlockType": "LAYOUT_TEXT"
+          },
+          {
+              "Id": "43945e73-14ee-4e26-96f5-768926051d5e",
+              "Text": "He is a green hand.",
+              "BoundingBox": {
+                  "Width": 0.16342739760875702,
+                  "Height": 0.030560163781046867,
+                  "Left": 0.4325880706310272,
+                  "Top": 0.5001357197761536
+              },
+              "BlockType": "LAYOUT_TEXT"
+          },
+          {
+              "Id": "6e1c9ed4-f062-4457-b713-1556a229b51c",
+              "Text": "\"green\" and \"hand\" interact with each other",
+              "BoundingBox": {
+                  "Width": 0.2623352110385895,
+                  "Height": 0.024463215842843056,
+                  "Left": 0.38444414734840393,
+                  "Top": 0.5571098327636719
+              },
+              "BlockType": "LAYOUT_TEXT"
+          }
+        ]
+      }
+  ],
+  "MatchedSlides": []
+}

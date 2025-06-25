@@ -1,0 +1,3 @@
+We compare with ValueDice and DAT, two state-of-the-art approaches, along with a custom ADC baseline.
+CFL is the only approach to achieve expert level performance on all tasks, while ValueDice, being semi-offline, has the advantage of interactions needed to reach expert level.
+That is, of course, only for the tasks it succeeds on.

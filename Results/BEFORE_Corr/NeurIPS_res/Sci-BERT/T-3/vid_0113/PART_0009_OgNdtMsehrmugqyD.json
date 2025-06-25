@@ -1,0 +1,279 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,790",
+            "end_time": "00:00:09,476",
+            "transcript": "To conclude, public health researchers can use mass code to mine valuable medical information from tweets.",
+            "MatchedRegion": [
+                {
+                    "Text": "Mine valuable medical information from tweets!",
+                    "BoundingBox": {
+                        "Width": 0.4073265492916107,
+                        "Height": 0.031550146639347076,
+                        "Left": 0.3035597503185272,
+                        "Top": 0.22084949910640717
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "825498eb-5181-466e-98b3-3fc588dd3917",
+                    "Score": 0.6404376029968262
+                },
+                {
+                    "Text": "Codes",
+                    "BoundingBox": {
+                        "Width": 0.05204353854060173,
+                        "Height": 0.026468683034181595,
+                        "Left": 0.3022839426994324,
+                        "Top": 0.5315729975700378
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5e19b417-a94a-4786-9350-341c4d15779a",
+                    "Score": 0.6293806433677673
+                },
+                {
+                    "Text": "Benchmark",
+                    "BoundingBox": {
+                        "Width": 0.09512637555599213,
+                        "Height": 0.026283739134669304,
+                        "Left": 0.28992167115211487,
+                        "Top": 0.7453802227973938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "96265278-08cc-4804-8cf2-ff5a6df4c33e",
+                    "Score": 0.6571232080459595
+                },
+                {
+                    "Text": "... ->",
+                    "BoundingBox": {
+                        "Width": 0.023837339133024216,
+                        "Height": 0.01216837577521801,
+                        "Left": 0.07210135459899902,
+                        "Top": 0.9788950681686401
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "f4525f57-c4b7-44c1-8923-3c6d0ff40965",
+                    "Score": 0.609992504119873
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,196",
+            "end_time": "00:00:26,528",
+            "transcript": "For example, the dataset can be used as a training dataset for examining public attitudes toward COVID-19 vaccines and drugs or tracking the public's mental status change during different COVID-19 phases and etc.",
+            "MatchedRegion": [
+                {
+                    "Text": "Mine valuable medical information from tweets!",
+                    "BoundingBox": {
+                        "Width": 0.4073265492916107,
+                        "Height": 0.031550146639347076,
+                        "Left": 0.3035597503185272,
+                        "Top": 0.22084949910640717
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "825498eb-5181-466e-98b3-3fc588dd3917",
+                    "Score": 0.6404376029968262
+                },
+                {
+                    "Text": "Benchmark",
+                    "BoundingBox": {
+                        "Width": 0.09512637555599213,
+                        "Height": 0.026283739134669304,
+                        "Left": 0.28992167115211487,
+                        "Top": 0.7453802227973938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "96265278-08cc-4804-8cf2-ff5a6df4c33e",
+                    "Score": 0.6571232080459595
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:27,771",
+            "end_time": "00:00:35,055",
+            "transcript": "Our experiments also show that current models have not fully exploited the data's potential.",
+            "MatchedRegion": [
+                {
+                    "Text": "4 Conclusion and Future work",
+                    "BoundingBox": {
+                        "Width": 0.37474745512008667,
+                        "Height": 0.04159979522228241,
+                        "Left": 0.026499666273593903,
+                        "Top": 0.04877160117030144
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "40db47fa-0279-4691-9f49-7557ba29a523",
+                    "Score": 0.6093157529830933
+                },
+                {
+                    "Text": "Mine valuable medical information from tweets!",
+                    "BoundingBox": {
+                        "Width": 0.4073265492916107,
+                        "Height": 0.031550146639347076,
+                        "Left": 0.3035597503185272,
+                        "Top": 0.22084949910640717
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "825498eb-5181-466e-98b3-3fc588dd3917",
+                    "Score": 0.6404376029968262
+                },
+                {
+                    "Text": "Benchmark",
+                    "BoundingBox": {
+                        "Width": 0.09512637555599213,
+                        "Height": 0.026283739134669304,
+                        "Left": 0.28992167115211487,
+                        "Top": 0.7453802227973938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "96265278-08cc-4804-8cf2-ff5a6df4c33e",
+                    "Score": 0.6571232080459595
+                },
+                {
+                    "Text": "... ->",
+                    "BoundingBox": {
+                        "Width": 0.023837339133024216,
+                        "Height": 0.01216837577521801,
+                        "Left": 0.07210135459899902,
+                        "Top": 0.9788950681686401
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "f4525f57-c4b7-44c1-8923-3c6d0ff40965",
+                    "Score": 0.609992504119873
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,355",
+            "end_time": "00:00:42,058",
+            "transcript": "Therefore, we call for more efforts on developing models for social media-based public health studies.",
+            "MatchedRegion": [
+                {
+                    "Text": "Mine valuable medical information from tweets!",
+                    "BoundingBox": {
+                        "Width": 0.4073265492916107,
+                        "Height": 0.031550146639347076,
+                        "Left": 0.3035597503185272,
+                        "Top": 0.22084949910640717
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "825498eb-5181-466e-98b3-3fc588dd3917",
+                    "Score": 0.6404376029968262
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:42,859",
+            "end_time": "00:00:48,902",
+            "transcript": "For coast data and guidelines, please refer to our paper and GitHub",
+            "MatchedRegion": [
+                {
+                    "Text": "Mine valuable medical information from tweets!",
+                    "BoundingBox": {
+                        "Width": 0.4073265492916107,
+                        "Height": 0.031550146639347076,
+                        "Left": 0.3035597503185272,
+                        "Top": 0.22084949910640717
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "825498eb-5181-466e-98b3-3fc588dd3917",
+                    "Score": 0.6404376029968262
+                },
+                {
+                    "Text": "/",
+                    "BoundingBox": {
+                        "Width": 0.07385702431201935,
+                        "Height": 0.1089065819978714,
+                        "Left": 0.29672831296920776,
+                        "Top": 0.3888040781021118
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "2b2446e3-3f46-4f6a-85a6-b4bd6cddbe3c",
+                    "Score": 0.6132023930549622
+                },
+                {
+                    "Text": "Dataset",
+                    "BoundingBox": {
+                        "Width": 0.0640023946762085,
+                        "Height": 0.025758342817425728,
+                        "Left": 0.16835059225559235,
+                        "Top": 0.5323261022567749
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f03e72f5-c775-4aed-b847-f4644c7cb560",
+                    "Score": 0.6556620597839355
+                },
+                {
+                    "Text": "Codes",
+                    "BoundingBox": {
+                        "Width": 0.05204353854060173,
+                        "Height": 0.026468683034181595,
+                        "Left": 0.3022839426994324,
+                        "Top": 0.5315729975700378
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5e19b417-a94a-4786-9350-341c4d15779a",
+                    "Score": 0.6293806433677673
+                },
+                {
+                    "Text": "X",
+                    "BoundingBox": {
+                        "Width": 0.0818166732788086,
+                        "Height": 0.12992408871650696,
+                        "Left": 0.15619349479675293,
+                        "Top": 0.6019373536109924
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e657a5b3-49fd-4972-b9a1-ac1fe2b227ab",
+                    "Score": 0.6287446022033691
+                },
+                {
+                    "Text": "Guidelines",
+                    "BoundingBox": {
+                        "Width": 0.08907632529735565,
+                        "Height": 0.0267393309623003,
+                        "Left": 0.15410993993282318,
+                        "Top": 0.7450271248817444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "083d38db-5840-4cfb-a107-a17871b4a587",
+                    "Score": 0.6665410995483398
+                },
+                {
+                    "Text": "Benchmark",
+                    "BoundingBox": {
+                        "Width": 0.09512637555599213,
+                        "Height": 0.026283739134669304,
+                        "Left": 0.28992167115211487,
+                        "Top": 0.7453802227973938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "96265278-08cc-4804-8cf2-ff5a6df4c33e",
+                    "Score": 0.6571232080459595
+                },
+                {
+                    "Text": "... ->",
+                    "BoundingBox": {
+                        "Width": 0.023837339133024216,
+                        "Height": 0.01216837577521801,
+                        "Left": 0.07210135459899902,
+                        "Top": 0.9788950681686401
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "f4525f57-c4b7-44c1-8923-3c6d0ff40965",
+                    "Score": 0.609992504119873
+                },
+                {
+                    "Text": "10",
+                    "BoundingBox": {
+                        "Width": 0.012805026955902576,
+                        "Height": 0.017985772341489792,
+                        "Left": 0.9104017019271851,
+                        "Top": 0.9440481066703796
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "5ef464d1-e9bb-44c8-bdb6-8476e52468e2",
+                    "Score": 0.6193403005599976
+                }
+            ]
+        }
+    ]
+}

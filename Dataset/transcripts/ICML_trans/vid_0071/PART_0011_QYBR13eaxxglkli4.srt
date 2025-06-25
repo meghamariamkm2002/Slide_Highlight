@@ -1,0 +1,8 @@
+1
+00:00:00,009 --> 00:00:06,213
+Certainly, we verify the model-wise transferability of extracted concepts.
+
+2
+00:00:06,834 --> 00:00:12,758
+That is to say, concept extracted from a DNN can be transferred to another DNN trained for the same task.
+

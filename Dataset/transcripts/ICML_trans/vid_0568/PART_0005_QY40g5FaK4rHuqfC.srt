@@ -1,0 +1,4 @@
+1
+00:00:01,011 --> 00:00:04,337
+The schematic diagram of the network operation is shown here.
+

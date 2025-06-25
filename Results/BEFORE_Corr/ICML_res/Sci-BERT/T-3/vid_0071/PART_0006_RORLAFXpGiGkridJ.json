@@ -1,0 +1,138 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,527",
+            "end_time": "00:00:07,674",
+            "transcript": "However, there still lacks sufficient support to claim that these interactions really represent concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "We formulate the effect I (S) of each concept S, such that each sample x satisfies",
+                    "BoundingBox": {
+                        "Width": 0.6876718401908875,
+                        "Height": 0.03525840863585472,
+                        "Left": 0.09751429408788681,
+                        "Top": 0.21085745096206665
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8da72cbf-9077-4b74-9ed6-ea352a3c1bcb",
+                    "Score": 0.7545628547668457
+                },
+                {
+                    "Text": "I(S) SCN,S#0",
+                    "BoundingBox": {
+                        "Width": 0.10347641259431839,
+                        "Height": 0.07949022203683853,
+                        "Left": 0.5153037309646606,
+                        "Top": 0.3301134407520294
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "886ad4ad-f001-4855-b49f-07eb25045e01",
+                    "Score": 0.7668706178665161
+                },
+                {
+                    "Text": "Potential problem of such formulation",
+                    "BoundingBox": {
+                        "Width": 0.3081949055194855,
+                        "Height": 0.03086700290441513,
+                        "Left": 0.19867683947086334,
+                        "Top": 0.5198299884796143
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "faaf60b5-355c-44c0-b0d5-da4c509b282e",
+                    "Score": 0.7837549448013306
+                },
+                {
+                    "Text": "can be just a meaningless transformation on each individual sample",
+                    "BoundingBox": {
+                        "Width": 0.5365966558456421,
+                        "Height": 0.029767177999019623,
+                        "Left": 0.1992415487766266,
+                        "Top": 0.5778927206993103
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c274df50-5a64-49bf-b98b-66f89488428c",
+                    "Score": 0.8439152240753174
+                },
+                {
+                    "Text": "may not representing a meaningful and transferable concept",
+                    "BoundingBox": {
+                        "Width": 0.4843476116657257,
+                        "Height": 0.030144531279802322,
+                        "Left": 0.19876429438591003,
+                        "Top": 0.6262350678443909
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b4aa842-fa5c-403c-8e16-971f41dcc01c",
+                    "Score": 0.7586953043937683
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,636",
+            "end_time": "00:00:14,002",
+            "transcript": "Because this interaction metric may simply be a meaningless mathematical transformation.",
+            "MatchedRegion": [
+                {
+                    "Text": "We formulate the effect I (S) of each concept S, such that each sample x satisfies",
+                    "BoundingBox": {
+                        "Width": 0.6876718401908875,
+                        "Height": 0.03525840863585472,
+                        "Left": 0.09751429408788681,
+                        "Top": 0.21085745096206665
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8da72cbf-9077-4b74-9ed6-ea352a3c1bcb",
+                    "Score": 0.7545628547668457
+                },
+                {
+                    "Text": "I(S) SCN,S#0",
+                    "BoundingBox": {
+                        "Width": 0.10347641259431839,
+                        "Height": 0.07949022203683853,
+                        "Left": 0.5153037309646606,
+                        "Top": 0.3301134407520294
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "886ad4ad-f001-4855-b49f-07eb25045e01",
+                    "Score": 0.7668706178665161
+                },
+                {
+                    "Text": "Potential problem of such formulation",
+                    "BoundingBox": {
+                        "Width": 0.3081949055194855,
+                        "Height": 0.03086700290441513,
+                        "Left": 0.19867683947086334,
+                        "Top": 0.5198299884796143
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "faaf60b5-355c-44c0-b0d5-da4c509b282e",
+                    "Score": 0.7837549448013306
+                },
+                {
+                    "Text": "can be just a meaningless transformation on each individual sample",
+                    "BoundingBox": {
+                        "Width": 0.5365966558456421,
+                        "Height": 0.029767177999019623,
+                        "Left": 0.1992415487766266,
+                        "Top": 0.5778927206993103
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c274df50-5a64-49bf-b98b-66f89488428c",
+                    "Score": 0.8439152240753174
+                },
+                {
+                    "Text": "may not representing a meaningful and transferable concept",
+                    "BoundingBox": {
+                        "Width": 0.4843476116657257,
+                        "Height": 0.030144531279802322,
+                        "Left": 0.19876429438591003,
+                        "Top": 0.6262350678443909
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b4aa842-fa5c-403c-8e16-971f41dcc01c",
+                    "Score": 0.7586953043937683
+                }
+            ]
+        }
+    ]
+}

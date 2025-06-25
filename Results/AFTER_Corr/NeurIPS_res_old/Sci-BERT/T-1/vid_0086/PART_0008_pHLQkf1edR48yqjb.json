@@ -1,0 +1,73 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,570",
+            "end_time": "00:00:08,613",
+            "transcript": "possible extensions to this work are one can develop a new class of semantic parsing models that can handle unanswerable questions.",
+            "MatchedRegion": [
+                {
+                    "Text": "ehr sql",
+                    "BoundingBox": {
+                        "Width": 0.07874806970357895,
+                        "Height": 0.168341264128685,
+                        "Left": 0.8424978256225586,
+                        "Top": 0.6152995228767395
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b40d17ff-6ee4-44c6-b671-7675e426cf96",
+                    "Score": 0.6916211843490601
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,174",
+            "end_time": "00:00:13,856",
+            "transcript": "The dataset itself can be extended to interactive and conversational settings.",
+            "MatchedRegion": [
+                {
+                    "Text": "ehr sql",
+                    "BoundingBox": {
+                        "Width": 0.07874806970357895,
+                        "Height": 0.168341264128685,
+                        "Left": 0.8424978256225586,
+                        "Top": 0.6152995228767395
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b40d17ff-6ee4-44c6-b671-7675e426cf96",
+                    "Score": 0.6916211843490601
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,556",
+            "end_time": "00:00:19,198",
+            "transcript": "And this is a great starting point for creating multimodal EHR-QA data sets.",
+            "MatchedRegion": [
+                {
+                    "Text": "ehr sql",
+                    "BoundingBox": {
+                        "Width": 0.07874806970357895,
+                        "Height": 0.168341264128685,
+                        "Left": 0.8424978256225586,
+                        "Top": 0.6152995228767395
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b40d17ff-6ee4-44c6-b671-7675e426cf96",
+                    "Score": 0.6916211843490601
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,119",
+            "end_time": "00:00:24,921",
+            "transcript": "Our dataset is currently available on GitHub, and their leaderboard can be found at this link.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,421",
+            "end_time": "00:00:26,322",
+            "transcript": "Thank you for listening.",
+            "MatchedRegion": []
+        }
+    ]
+}

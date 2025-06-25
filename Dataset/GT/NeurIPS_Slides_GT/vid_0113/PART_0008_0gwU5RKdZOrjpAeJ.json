@@ -1,0 +1,54 @@
+{
+    "MatchedSlides": [
+        "PART_0002_L6pLWK5w83eRrPzI",
+        "PART_0003_kRCOWWFvfeHEkO1I"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,169",
+            "end_time": "00:00:00,809",
+            "transcript": "benchmarking.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,870",
+            "end_time": "00:00:12,995",
+            "transcript": "We can observe that models incorporating COVID trigger birds as feature extractor significantly outperform other types of models on these TSA subsets.",
+            "MatchedRegion": [
+                {
+                    "Text": "The pre-trained models on COVID-19 tweets, such as COVID-TWITTER-BERT, can be utilized to further improve the performance of previous TSA models on the METS-CoV-TSA.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8601208329200745,
+                        "Height": 0.06591028720140457,
+                        "Left": 0.0812235176563263,
+                        "Top": 0.27065807580947876
+                    },
+                    "Id": "fa1b285f-f3d0-485a-8615-f9c7484998ea"
+                },
+                {
+                    "Text": "Table 4: Model performance on METS-CoV-TSA dataset. (t means our implementation. The standard deviation of SVM model is not reported because the prediction of LibSVM4 is not affected by random seeds when the dataset splitting is fixed.)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7927069664001465,
+                        "Height": 0.11446083337068558,
+                        "Left": 0.0914791002869606,
+                        "Top": 0.3899111747741699
+                    },
+                    "Id": "ff7ad35c-1ee7-4de4-8a9e-f30920705963"
+                },
+                {
+                    "Text": "Person Organization Drug Vaccine Overall Model (mean + std) Acc F1 Acc F1 Acc F1 Acc F1 Acc F1 SVM (Vo and Zhang, 2015) 50.72 36.99 64.57 42.02 58.15 30.17 70.89 46.09 59.53 38.73 LSTM (Hochreiter and Schmidhuber, 1997) 58.56+1.79 50.41+2.48 61.00+0.95 45.64+0.47 56.39+2.18 41.53+1.92 65.99+2.41 40.03+3.62 60.21+1.53 49.08+1.58 TD-LSTM (Tang et al., 2016b) 59.26+0.98 49.54+1.81 63.90+2.19 41.57+2.76 59.91+1.72 41.04+2.22 73.08+0.77 38.14+2.73 63.16+0.65 48.26+1.09 MemNet (Tang et al., 2016a) 59.79+1.57 43.97+3.30 64.79+2.48 37.98+1.92 59.21+1.86 40.24+1.19 74.43+1.21 36.98+2.79 63.73+0.85 45.04+1.65 IAN (Ma et al., 2017) 52.81+1.72 32.75+2.65 67.68+0.45 36.701.94 59.73+0.45 25.22+0.10 77.22+0.00 30.88+0.00 62.59+0.55 34.62+1.77 MGAN (Fan et al., 2018) 57.17+2.00 43.84+4.70 63.84+2.68 40.09+1.20 58.33+2.22 35.32+5.01 72.49+0.98 37.05+5.10 62.00+1.10 42.55+3.17 TNet-LF (Li et al., 2018) 58.07+1.19 51.17+2.10 63.16+1.52 47.68+1.59 60.00+2.00 46.30+2.51 68.52+3.15 41.57+2.17 61.71+1.01 50.80+1.22 ASGCN(Zhang et al., 2019) 58.89+0.63 42.48+2.61 63.89+0.84 39.73+2.62 58.41+1.90 31.12+3.91 72.66+2.02 38.24+2.95 62.69+0.23 41.32+2.22 AEN (Song et al., 2019) 56.84+2.54 47.91+4.12 60.63+4.22 45.68+3.58 52.51+3.12 37.08+4.31 69.12+4.59 41.46+3.31 59.37+2.43 46.28+3.73 LCF (Zeng et al., 2019) 60.29+2.10 52.43+2.31 68.58+1.06 50.15+4.17 58.42+3.16 44.01+1.64 71.14+2.73 41.75+1.90 64.27+1.61 51.29+2.06 BERT-SPC (Devlin et al., 2019) t 64.39+0.91 60.06+1.01 73.28+0.93 58.48+1.50 62.38+1.33 49.11+2.90 77.22+0.96 50.28+5.09 68.87+0.34 59.31+1.18 depGCN (Zhang et al., 2019) 67.39+1.16 62.35+2.08 74.02+0.71 58.62+1.06 63.61+1.07 49.32+0.74 77.13+1.54 47.50+2.73 70.38+0.40 59.96+0.77 kumaGCN (Chen et al., 2020b)t 66.28+1.33 61.84+2.46 72.86+0.59 58.01+2.04 63.61+0.77 49.67+3.14 76.88+0.73 50.17+4.56 69.59+0.73 59.91+2.48 dotGCN (Chen et al.,2022)t 67.06+1.63 62.56+1.54 73.33+0.68 58.34+1.52 63.35+2.13 50.20+1.98 77.55+0.77 45.98+2.90 70.09+0.75 60.05+1.41 BERT-SPC(COVID-TWITTER-BERT)t 73.72+1.47 70.25+2.10 78.53+0.61 66.24+1.59 75.07+1.06 62.67+3.10 79.15+1.02 61.68+3.70 76.29+0.57 70.03+0.92",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.8173989057540894,
+                        "Height": 0.4342198073863983,
+                        "Left": 0.0813952088356018,
+                        "Top": 0.528911292552948
+                    },
+                    "Id": "60dbb45b-998d-4b69-8224-d2358ef3ff73"
+                }
+            ]
+        }
+    ]
+}

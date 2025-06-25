@@ -1,0 +1,222 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:09,756",
+            "transcript": "There have been a lot of works aiming to explain concepts encoded by DNNs, including network dissection, TCIV, and so on.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background: Explaining \"concepts\" encoded by DNNs",
+                    "BoundingBox": {
+                        "Width": 0.7757488489151001,
+                        "Height": 0.058135051280260086,
+                        "Left": 0.09762056171894073,
+                        "Top": 0.06547774374485016
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "cee703ac-11a7-407c-90b0-f25b73645da0",
+                    "Score": 0.8896039128303528
+                },
+                {
+                    "Text": "House Dog Train Plant res5c unit 1410 loU=0.142 res5c unit 1573 IoU=0 216 res5c unit 924 IoU=0.293 res5c unit 264 IOU=0.126 301 IoU=0.087 unit 1718 loU=0 res5c unit 2001 IoU=0.255 res50 unit 766 IOU=0.092 unit 789 loU=0 inception 4a unit 750 IOU=0 203 inception 5b unit 626 IOU=0 145 inception 4e unit 56 IOU=0 unit 175 IOU=0 unit 225 IOU=0 152 inception 5b unit 415 leU=0.143 inception 40 unit 714 IOU=0 105 a C Kth class m b d (II) e f() fi Vc fi 8 fi fi e vc",
+                    "BoundingBox": {
+                        "Width": 0.4116300940513611,
+                        "Height": 0.5385225415229797,
+                        "Left": 0.08812830597162247,
+                        "Top": 0.17400693893432617
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "48e1fca3-9104-4c5c-a4a2-c28f351eb76c",
+                    "Score": 0.6747235059738159
+                },
+                {
+                    "Text": "Network Dissection [Bau et al., 2017]",
+                    "BoundingBox": {
+                        "Width": 0.28371095657348633,
+                        "Height": 0.03019425831735134,
+                        "Left": 0.521759569644928,
+                        "Top": 0.18852876126766205
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "58e39b42-f793-4b49-8170-68d79fc83273",
+                    "Score": 0.7303518056869507
+                },
+                {
+                    "Text": "Visualize potential correspondence between convolutional filters and visual concepts in an empirical manner.",
+                    "BoundingBox": {
+                        "Width": 0.3559415638446808,
+                        "Height": 0.106097012758255,
+                        "Left": 0.5204558372497559,
+                        "Top": 0.2406494915485382
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f1918ecf-8645-4357-b862-44f9d7bdaf68",
+                    "Score": 0.8200876116752625
+                },
+                {
+                    "Text": "TCAV [Kim et al., 2018]",
+                    "BoundingBox": {
+                        "Width": 0.17366556823253632,
+                        "Height": 0.03043033368885517,
+                        "Left": 0.5206046104431152,
+                        "Top": 0.4678705632686615
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "40b91141-04a9-425c-ba7b-9d5451410abe",
+                    "Score": 0.7835859060287476
+                },
+                {
+                    "Text": "Key Problem: lacking a mathematical framework to objectively formulate \"concepts\" encoded by a DNN.",
+                    "BoundingBox": {
+                        "Width": 0.7245287895202637,
+                        "Height": 0.07750511914491653,
+                        "Left": 0.16344180703163147,
+                        "Top": 0.7861931920051575
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab0f311a-c68f-43f7-9ac0-1228afc6d6f7",
+                    "Score": 0.976230263710022
+                },
+                {
+                    "Text": "[Bau et al., 2017] Network dissection: Quantifying interpretability of deep visual representations. CVPR 2017. [Kim et al., 2018] Interpretability beyond feature attribution: Quantitative testing with concept activation vectors (tcav). ICML 2018.",
+                    "BoundingBox": {
+                        "Width": 0.6636426448822021,
+                        "Height": 0.04684627801179886,
+                        "Left": 0.007633984554558992,
+                        "Top": 0.9432486295700073
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "04d7e29b-52ee-4c8b-bb28-815d158f2cae",
+                    "Score": 0.8272450566291809
+                },
+                {
+                    "Text": "2",
+                    "BoundingBox": {
+                        "Width": 0.014599322341382504,
+                        "Height": 0.04239840805530548,
+                        "Left": 0.9642959237098694,
+                        "Top": 0.9269202351570129
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "836b9366-8910-4431-b52a-1ae1fcda491c",
+                    "Score": 0.8037829995155334
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,677",
+            "end_time": "00:00:17,442",
+            "transcript": "However, these methods usually lack a mathematical framework to objectively formulate concepts encoded by a DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background: Explaining \"concepts\" encoded by DNNs",
+                    "BoundingBox": {
+                        "Width": 0.7757488489151001,
+                        "Height": 0.058135051280260086,
+                        "Left": 0.09762056171894073,
+                        "Top": 0.06547774374485016
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "cee703ac-11a7-407c-90b0-f25b73645da0",
+                    "Score": 0.8896039128303528
+                },
+                {
+                    "Text": "House Dog Train Plant res5c unit 1410 loU=0.142 res5c unit 1573 IoU=0 216 res5c unit 924 IoU=0.293 res5c unit 264 IOU=0.126 301 IoU=0.087 unit 1718 loU=0 res5c unit 2001 IoU=0.255 res50 unit 766 IOU=0.092 unit 789 loU=0 inception 4a unit 750 IOU=0 203 inception 5b unit 626 IOU=0 145 inception 4e unit 56 IOU=0 unit 175 IOU=0 unit 225 IOU=0 152 inception 5b unit 415 leU=0.143 inception 40 unit 714 IOU=0 105 a C Kth class m b d (II) e f() fi Vc fi 8 fi fi e vc",
+                    "BoundingBox": {
+                        "Width": 0.4116300940513611,
+                        "Height": 0.5385225415229797,
+                        "Left": 0.08812830597162247,
+                        "Top": 0.17400693893432617
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "48e1fca3-9104-4c5c-a4a2-c28f351eb76c",
+                    "Score": 0.6747235059738159
+                },
+                {
+                    "Text": "Network Dissection [Bau et al., 2017]",
+                    "BoundingBox": {
+                        "Width": 0.28371095657348633,
+                        "Height": 0.03019425831735134,
+                        "Left": 0.521759569644928,
+                        "Top": 0.18852876126766205
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "58e39b42-f793-4b49-8170-68d79fc83273",
+                    "Score": 0.7303518056869507
+                },
+                {
+                    "Text": "Visualize potential correspondence between convolutional filters and visual concepts in an empirical manner.",
+                    "BoundingBox": {
+                        "Width": 0.3559415638446808,
+                        "Height": 0.106097012758255,
+                        "Left": 0.5204558372497559,
+                        "Top": 0.2406494915485382
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f1918ecf-8645-4357-b862-44f9d7bdaf68",
+                    "Score": 0.8200876116752625
+                },
+                {
+                    "Text": "TCAV [Kim et al., 2018]",
+                    "BoundingBox": {
+                        "Width": 0.17366556823253632,
+                        "Height": 0.03043033368885517,
+                        "Left": 0.5206046104431152,
+                        "Top": 0.4678705632686615
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "40b91141-04a9-425c-ba7b-9d5451410abe",
+                    "Score": 0.7835859060287476
+                },
+                {
+                    "Text": "Train a hyperplane to separate activations w.r.t. examples with and without a concept.",
+                    "BoundingBox": {
+                        "Width": 0.35849037766456604,
+                        "Height": 0.06922350078821182,
+                        "Left": 0.5207924246788025,
+                        "Top": 0.5198964476585388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "da8bc04e-e71d-4211-9ed3-9cc1b33db61e",
+                    "Score": 0.7613915205001831
+                },
+                {
+                    "Text": "Key Problem: lacking a mathematical framework to objectively formulate \"concepts\" encoded by a DNN.",
+                    "BoundingBox": {
+                        "Width": 0.7245287895202637,
+                        "Height": 0.07750511914491653,
+                        "Left": 0.16344180703163147,
+                        "Top": 0.7861931920051575
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab0f311a-c68f-43f7-9ac0-1228afc6d6f7",
+                    "Score": 0.976230263710022
+                },
+                {
+                    "Text": "[Bau et al., 2017] Network dissection: Quantifying interpretability of deep visual representations. CVPR 2017. [Kim et al., 2018] Interpretability beyond feature attribution: Quantitative testing with concept activation vectors (tcav). ICML 2018.",
+                    "BoundingBox": {
+                        "Width": 0.6636426448822021,
+                        "Height": 0.04684627801179886,
+                        "Left": 0.007633984554558992,
+                        "Top": 0.9432486295700073
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "04d7e29b-52ee-4c8b-bb28-815d158f2cae",
+                    "Score": 0.8272450566291809
+                },
+                {
+                    "Text": "2",
+                    "BoundingBox": {
+                        "Width": 0.014599322341382504,
+                        "Height": 0.04239840805530548,
+                        "Left": 0.9642959237098694,
+                        "Top": 0.9269202351570129
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "836b9366-8910-4431-b52a-1ae1fcda491c",
+                    "Score": 0.8037829995155334
+                }
+            ]
+        }
+    ]
+}

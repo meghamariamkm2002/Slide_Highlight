@@ -1,0 +1,22 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:00,029",
+            "end_time": "00:00:00,510",
+            "transcript": "this point.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,792",
+            "end_time": "00:00:05,577",
+            "transcript": "For the target domain of MOLAN, we capture data with our 1/8th model vehicle.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,078",
+            "end_time": "00:00:09,223",
+            "transcript": "Tracks roughly contain the same proportion of straight and curved segments.",
+            "MatchedRegion": []
+        }
+    ]
+}

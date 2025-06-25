@@ -1,0 +1,7 @@
+We use the ultra-fast lane detection method as a backbone for lane detection.
+The following UDA methods are evaluated.
+Done, ADA, SKADA and our SGPCS.
+To work with UFLD, the UDA methods had to be adapted for grid-based lane detection, which is not always a trivial task.
+As can be seen on the right-side figure, grid-based lane detection divides the image into grid cells and classifies different lane types.
+Results are given as an average over five runs.
+Baselines, implementations and weights are publicly available.

@@ -1,0 +1,102 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,669",
+            "transcript": "the well-domained.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,770",
+            "end_time": "00:00:07,052",
+            "transcript": "The Carl and Benchmark consists of three distinct simtary data sets, which we built from all three different domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "The CARLANE Benchmark consists of three distinct sim-to-real datasets, which we build from our three different domains:",
+                    "BoundingBox": {
+                        "Width": 0.850683331489563,
+                        "Height": 0.06193832680583,
+                        "Left": 0.053603965789079666,
+                        "Top": 0.15877434611320496
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d50dc9cf-33ef-4ade-a9e0-5f5431c18608",
+                    "Score": 0.864406779661017
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,812",
+            "end_time": "00:00:11,694",
+            "transcript": "Moline focuses on upcycling markings in the domain of a 1A model vehicle.",
+            "MatchedRegion": [
+                {
+                    "Text": "focuses on abstract lane markings in the domain of a 1/8th Model vehicle.",
+                    "BoundingBox": {
+                        "Width": 0.30508163571357727,
+                        "Height": 0.06978338211774826,
+                        "Left": 0.1363299936056137,
+                        "Top": 0.3613431453704834
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "454f49f6-aeef-4927-b368-a4309cffd111",
+                    "Score": 0.7945205479452055
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,395",
+            "end_time": "00:00:19,798",
+            "transcript": "Tulane incorporates balanced and domain randomized images from simulation as the source domain and the well-known to simple data set as the target domain.",
+            "MatchedRegion": [
+                {
+                    "Text": "incorporates balanced and domain-randomized TuLane images from simulation as the source domain and the well-known TuSimple dataset.",
+                    "BoundingBox": {
+                        "Width": 0.4539164900779724,
+                        "Height": 0.11083197593688965,
+                        "Left": 0.04141167551279068,
+                        "Top": 0.5056071877479553
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "78efc5ff-20ce-4528-a02d-7f9efdd79be0",
+                    "Score": 0.8421052631578947
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,558",
+            "end_time": "00:00:24,520",
+            "transcript": "Moline is a balanced combination of Moline and Tulane with two target domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "is a balanced combination of MoLane and MuLane TuLane with two target domains.",
+                    "BoundingBox": {
+                        "Width": 0.41626104712486267,
+                        "Height": 0.07118652015924454,
+                        "Left": 0.03732973709702492,
+                        "Top": 0.6890611052513123
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "943109d6-937d-41f7-9959-d386b5ebc63c",
+                    "Score": 0.8717948717948718
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,220",
+            "end_time": "00:00:28,822",
+            "transcript": "Samples of the source and target domains can be seen in the image on the right.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_Cx54Xgy86xzmhZ9m",
+            "Score": 0.6359488368034363
+        },
+        {
+            "slide": "PART_0002_VPQBRKPuZ5gIgtxw",
+            "Score": 0.7017896175384521
+        }
+    ]
+}

@@ -1,0 +1,402 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,479",
+            "end_time": "00:00:03,109",
+            "transcript": "Thank you very much for your attention.",
+            "MatchedRegion": [
+                {
+                    "Text": "TEL AVIV UNIVERSITY",
+                    "BoundingBox": {
+                        "Width": 0.0897330790758133,
+                        "Height": 0.05394846200942993,
+                        "Left": 0.06912583857774734,
+                        "Top": 0.13169491291046143
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "b2b08a74-da65-4bd7-888f-b3b415aede91",
+                    "Score": 0.7584130167961121
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.26199871301651,
+                        "Height": 0.20226241648197174,
+                        "Left": 0.68828946352005,
+                        "Top": 0.005720503628253937
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3c7470ba-62a8-4e6b-9d13-a21fef78cd96",
+                    "Score": 0.7402896881103516
+                },
+                {
+                    "Text": "Optimizing Relevance Maps of Vision Transformers",
+                    "BoundingBox": {
+                        "Width": 0.6813557147979736,
+                        "Height": 0.05542116239666939,
+                        "Left": 0.14561302959918976,
+                        "Top": 0.2500682771205902
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "b233bf08-701d-4825-8590-be21dae65215",
+                    "Score": 0.7585091590881348
+                },
+                {
+                    "Text": "Improves Robustness",
+                    "BoundingBox": {
+                        "Width": 0.2847760319709778,
+                        "Height": 0.05123444274067879,
+                        "Left": 0.3487313985824585,
+                        "Top": 0.32373371720314026
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "490fb99c-72a8-4118-9dbb-7445e4807115",
+                    "Score": 0.838204562664032
+                },
+                {
+                    "Text": "Hila Chefer, Idan Schwartz, Lior Wolf",
+                    "BoundingBox": {
+                        "Width": 0.2900007963180542,
+                        "Height": 0.028570160269737244,
+                        "Left": 0.34620699286460876,
+                        "Top": 0.4095187187194824
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "67267898-6264-43af-a83b-a01f860fd46f",
+                    "Score": 0.8625904321670532
+                },
+                {
+                    "Text": "The School of Computer Science, Tel Aviv University",
+                    "BoundingBox": {
+                        "Width": 0.29003411531448364,
+                        "Height": 0.02298084832727909,
+                        "Left": 0.3457373082637787,
+                        "Top": 0.47005999088287354
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8ee2e93e-f9b6-49a0-ac68-be544177ee0c",
+                    "Score": 0.8000683188438416
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.11796467006206512,
+                        "Height": 0.09341698884963989,
+                        "Left": 0.42262348532676697,
+                        "Top": 0.5636034607887268
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "51acf7df-4731-4bc2-b78f-07776408b22a",
+                    "Score": 0.8636115789413452
+                },
+                {
+                    "Text": "Golf ball",
+                    "BoundingBox": {
+                        "Width": 0.02996458113193512,
+                        "Height": 0.012151477858424187,
+                        "Left": 0.46725931763648987,
+                        "Top": 0.6555896997451782
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cc7eaf87-842f-4a41-888c-9930da28890d",
+                    "Score": 0.8348158597946167
+                },
+                {
+                    "Text": "Lemon",
+                    "BoundingBox": {
+                        "Width": 0.023574352264404297,
+                        "Height": 0.01169454213231802,
+                        "Left": 0.510343074798584,
+                        "Top": 0.6562064290046692
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5a561dac-2717-4496-834c-1c8b62096ea7",
+                    "Score": 0.8441615700721741
+                },
+                {
+                    "Text": "CODE",
+                    "BoundingBox": {
+                        "Width": 0.10257451981306076,
+                        "Height": 0.2580249607563019,
+                        "Left": 0.104679174721241,
+                        "Top": 0.6848087310791016
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "44da0dfc-3817-4d6f-ba04-b58b8232f978",
+                    "Score": 0.879852831363678
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.12005393207073212,
+                        "Height": 0.08741435408592224,
+                        "Left": 0.42186588048934937,
+                        "Top": 0.7161266803741455
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "50e8d544-f805-4a68-b47e-5c837e839db7",
+                    "Score": 0.8636115789413452
+                },
+                {
+                    "Text": "Maze",
+                    "BoundingBox": {
+                        "Width": 0.018817849457263947,
+                        "Height": 0.011963373981416225,
+                        "Left": 0.47345030307769775,
+                        "Top": 0.8077437877655029
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cd513dae-8c27-46ef-a4fb-53691e3b5294",
+                    "Score": 0.7615669965744019
+                },
+                {
+                    "Text": "Orange",
+                    "BoundingBox": {
+                        "Width": 0.025016572326421738,
+                        "Height": 0.014952331781387329,
+                        "Left": 0.5106237530708313,
+                        "Top": 0.8076481223106384
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0a56cc62-5383-4dc7-a96c-18602a822659",
+                    "Score": 0.8338358998298645
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.11850717663764954,
+                        "Height": 0.08743228763341904,
+                        "Left": 0.42216530442237854,
+                        "Top": 0.8765813112258911
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4a6ed641-2b95-44e7-ac4e-d53b6f3b921d",
+                    "Score": 0.8636115789413452
+                },
+                {
+                    "Text": "CODE",
+                    "BoundingBox": {
+                        "Width": 0.10276293754577637,
+                        "Height": 0.25759974122047424,
+                        "Left": 0.7929330468177795,
+                        "Top": 0.6857414841651917
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6eeff139-2e0c-43cd-acbd-37e4bf595d77",
+                    "Score": 0.879852831363678
+                },
+                {
+                    "Text": "Snowplow School bus",
+                    "BoundingBox": {
+                        "Width": 0.07603272050619125,
+                        "Height": 0.014845808036625385,
+                        "Left": 0.4639095366001129,
+                        "Top": 0.9667671322822571
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d12f2b2a-2155-4e86-ab7d-6f9cbd73242b",
+                    "Score": 0.7428791522979736
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,512",
+            "end_time": "00:00:05,082",
+            "transcript": "Please check out our code and paper.",
+            "MatchedRegion": [
+                {
+                    "Text": "TEL AVIV UNIVERSITY",
+                    "BoundingBox": {
+                        "Width": 0.0897330790758133,
+                        "Height": 0.05394846200942993,
+                        "Left": 0.06912583857774734,
+                        "Top": 0.13169491291046143
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "b2b08a74-da65-4bd7-888f-b3b415aede91",
+                    "Score": 0.7584130167961121
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.26199871301651,
+                        "Height": 0.20226241648197174,
+                        "Left": 0.68828946352005,
+                        "Top": 0.005720503628253937
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3c7470ba-62a8-4e6b-9d13-a21fef78cd96",
+                    "Score": 0.7402896881103516
+                },
+                {
+                    "Text": "Optimizing Relevance Maps of Vision Transformers",
+                    "BoundingBox": {
+                        "Width": 0.6813557147979736,
+                        "Height": 0.05542116239666939,
+                        "Left": 0.14561302959918976,
+                        "Top": 0.2500682771205902
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "b233bf08-701d-4825-8590-be21dae65215",
+                    "Score": 0.7585091590881348
+                },
+                {
+                    "Text": "Improves Robustness",
+                    "BoundingBox": {
+                        "Width": 0.2847760319709778,
+                        "Height": 0.05123444274067879,
+                        "Left": 0.3487313985824585,
+                        "Top": 0.32373371720314026
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "490fb99c-72a8-4118-9dbb-7445e4807115",
+                    "Score": 0.838204562664032
+                },
+                {
+                    "Text": "Hila Chefer, Idan Schwartz, Lior Wolf",
+                    "BoundingBox": {
+                        "Width": 0.2900007963180542,
+                        "Height": 0.028570160269737244,
+                        "Left": 0.34620699286460876,
+                        "Top": 0.4095187187194824
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "67267898-6264-43af-a83b-a01f860fd46f",
+                    "Score": 0.8625904321670532
+                },
+                {
+                    "Text": "The School of Computer Science, Tel Aviv University",
+                    "BoundingBox": {
+                        "Width": 0.29003411531448364,
+                        "Height": 0.02298084832727909,
+                        "Left": 0.3457373082637787,
+                        "Top": 0.47005999088287354
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8ee2e93e-f9b6-49a0-ac68-be544177ee0c",
+                    "Score": 0.8000683188438416
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.11796467006206512,
+                        "Height": 0.09341698884963989,
+                        "Left": 0.42262348532676697,
+                        "Top": 0.5636034607887268
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "51acf7df-4731-4bc2-b78f-07776408b22a",
+                    "Score": 0.8636115789413452
+                },
+                {
+                    "Text": "Golf ball",
+                    "BoundingBox": {
+                        "Width": 0.02996458113193512,
+                        "Height": 0.012151477858424187,
+                        "Left": 0.46725931763648987,
+                        "Top": 0.6555896997451782
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cc7eaf87-842f-4a41-888c-9930da28890d",
+                    "Score": 0.8348158597946167
+                },
+                {
+                    "Text": "Lemon",
+                    "BoundingBox": {
+                        "Width": 0.023574352264404297,
+                        "Height": 0.01169454213231802,
+                        "Left": 0.510343074798584,
+                        "Top": 0.6562064290046692
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5a561dac-2717-4496-834c-1c8b62096ea7",
+                    "Score": 0.8441615700721741
+                },
+                {
+                    "Text": "CODE",
+                    "BoundingBox": {
+                        "Width": 0.10257451981306076,
+                        "Height": 0.2580249607563019,
+                        "Left": 0.104679174721241,
+                        "Top": 0.6848087310791016
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "44da0dfc-3817-4d6f-ba04-b58b8232f978",
+                    "Score": 0.879852831363678
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.12005393207073212,
+                        "Height": 0.08741435408592224,
+                        "Left": 0.42186588048934937,
+                        "Top": 0.7161266803741455
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "50e8d544-f805-4a68-b47e-5c837e839db7",
+                    "Score": 0.8636115789413452
+                },
+                {
+                    "Text": "Maze",
+                    "BoundingBox": {
+                        "Width": 0.018817849457263947,
+                        "Height": 0.011963373981416225,
+                        "Left": 0.47345030307769775,
+                        "Top": 0.8077437877655029
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cd513dae-8c27-46ef-a4fb-53691e3b5294",
+                    "Score": 0.7615669965744019
+                },
+                {
+                    "Text": "Orange",
+                    "BoundingBox": {
+                        "Width": 0.025016572326421738,
+                        "Height": 0.014952331781387329,
+                        "Left": 0.5106237530708313,
+                        "Top": 0.8076481223106384
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0a56cc62-5383-4dc7-a96c-18602a822659",
+                    "Score": 0.8338358998298645
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.11850717663764954,
+                        "Height": 0.08743228763341904,
+                        "Left": 0.42216530442237854,
+                        "Top": 0.8765813112258911
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4a6ed641-2b95-44e7-ac4e-d53b6f3b921d",
+                    "Score": 0.8636115789413452
+                },
+                {
+                    "Text": "CODE",
+                    "BoundingBox": {
+                        "Width": 0.10276293754577637,
+                        "Height": 0.25759974122047424,
+                        "Left": 0.7929330468177795,
+                        "Top": 0.6857414841651917
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6eeff139-2e0c-43cd-acbd-37e4bf595d77",
+                    "Score": 0.879852831363678
+                },
+                {
+                    "Text": "Snowplow School bus",
+                    "BoundingBox": {
+                        "Width": 0.07603272050619125,
+                        "Height": 0.014845808036625385,
+                        "Left": 0.4639095366001129,
+                        "Top": 0.9667671322822571
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d12f2b2a-2155-4e86-ab7d-6f9cbd73242b",
+                    "Score": 0.7428791522979736
+                }
+            ]
+        }
+    ]
+}

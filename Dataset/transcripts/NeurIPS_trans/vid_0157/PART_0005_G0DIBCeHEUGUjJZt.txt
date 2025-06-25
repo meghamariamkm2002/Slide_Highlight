@@ -1,0 +1,3 @@
+And then achieve new SOTA results in PDV blind dataset.
+We have a larger fraction of predictions with lower IMSD and better binding affinity prediction.
+And we also have higher inference efficiency.

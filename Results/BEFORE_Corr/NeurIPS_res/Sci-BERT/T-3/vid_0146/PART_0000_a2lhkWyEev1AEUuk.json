@@ -1,0 +1,107 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,662",
+            "end_time": "00:00:16,638",
+            "transcript": "Hello, my name is Hila and I'll be presenting the work Optimizing Relevance Maps of Vision Transformers improves robustness, which is a collaboration with Edan Schwartz and Leo Wolfe from Tel Aviv University.",
+            "MatchedRegion": [
+                {
+                    "Text": "TEL AVIV UNIVERSITY",
+                    "BoundingBox": {
+                        "Width": 0.08984767645597458,
+                        "Height": 0.05446271598339081,
+                        "Left": 0.06914312392473221,
+                        "Top": 0.13165433704853058
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "baf86794-ccb3-4c0d-a7db-86280299f083",
+                    "Score": 0.6435803174972534
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.26300248503685,
+                        "Height": 0.20113912224769592,
+                        "Left": 0.6870982050895691,
+                        "Top": 0.0063102394342422485
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "5e2918b3-6287-43ad-866c-2c510e31caf5",
+                    "Score": 0.6277796030044556
+                },
+                {
+                    "Text": "Hila Chefer, Idan Schwartz, Lior Wolf",
+                    "BoundingBox": {
+                        "Width": 0.2897002100944519,
+                        "Height": 0.02778726816177368,
+                        "Left": 0.3463900089263916,
+                        "Top": 0.4101695418357849
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "1ca48991-d370-4d63-9af9-9f3cd31ea96f",
+                    "Score": 0.6846188306808472
+                },
+                {
+                    "Text": "The School of Computer Science, Tel Aviv University",
+                    "BoundingBox": {
+                        "Width": 0.28987109661102295,
+                        "Height": 0.022799955680966377,
+                        "Left": 0.34569787979125977,
+                        "Top": 0.4701268970966339
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "f6610243-a034-42a8-a184-9159dccce9a6",
+                    "Score": 0.7027238607406616
+                },
+                {
+                    "Text": "A lemon is classified as a golf ball due to the grass in the background:",
+                    "BoundingBox": {
+                        "Width": 0.2688960134983063,
+                        "Height": 0.01674637198448181,
+                        "Left": 0.34655144810676575,
+                        "Top": 0.5358894467353821
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9d992fcb-4f0e-49b2-8bab-c35e1c72f686",
+                    "Score": 0.6324106454849243
+                },
+                {
+                    "Text": "An orange is classified as a maze due to the carpet in the background:",
+                    "BoundingBox": {
+                        "Width": 0.2710270583629608,
+                        "Height": 0.01616746000945568,
+                        "Left": 0.34665200114250183,
+                        "Top": 0.6867737174034119
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "21634290-d160-45b1-8517-c09e02029fec",
+                    "Score": 0.6282789707183838
+                },
+                {
+                    "Text": "Input Original Ours Maze Orange",
+                    "BoundingBox": {
+                        "Width": 0.1213998943567276,
+                        "Height": 0.10706831514835358,
+                        "Left": 0.4210928678512573,
+                        "Top": 0.7169889211654663
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "38f5c9f7-606e-417b-a90e-c8cfa62fb338",
+                    "Score": 0.6041032075881958
+                },
+                {
+                    "Text": "A school bus is classified as a snowplow due to the snow in the background:",
+                    "BoundingBox": {
+                        "Width": 0.29514917731285095,
+                        "Height": 0.016491709277033806,
+                        "Left": 0.34662553668022156,
+                        "Top": 0.8424373269081116
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a1512adb-648d-4a1f-bf11-f9a5e21f5a1d",
+                    "Score": 0.6096019744873047
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:09,756",
+            "transcript": "There have been a lot of works aiming to explain concepts encoded by DNNs, including network dissection, TCIV, and so on.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background: Explaining \"concepts\" encoded by DNNs",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.7757488489151001,
+                        "Height": 0.058135051280260086,
+                        "Left": 0.09762056171894073,
+                        "Top": 0.06547774374485016
+                    },
+                    "Id": "cee703ac-11a7-407c-90b0-f25b73645da0"
+                },
+                {
+                    "Text": "Network Dissection [Bau et al., 2017]",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.28371095657348633,
+                        "Height": 0.03019425831735134,
+                        "Left": 0.521759569644928,
+                        "Top": 0.18852876126766205
+                    },
+                    "Id": "58e39b42-f793-4b49-8170-68d79fc83273"
+                },
+                {
+                    "Text": "Visualize potential correspondence between convolutional filters and visual concepts in an empirical manner.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3559415638446808,
+                        "Height": 0.106097012758255,
+                        "Left": 0.5204558372497559,
+                        "Top": 0.2406494915485382
+                    },
+                    "Id": "f1918ecf-8645-4357-b862-44f9d7bdaf68"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,677",
+            "end_time": "00:00:17,442",
+            "transcript": "However, these methods usually lack a mathematical framework to objectively formulate concepts encoded by a DNN.",
+            "MatchedRegion": []
+        }
+    ]
+}

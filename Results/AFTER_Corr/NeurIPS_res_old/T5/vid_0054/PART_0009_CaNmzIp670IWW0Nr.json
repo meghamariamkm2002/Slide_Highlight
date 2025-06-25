@@ -1,0 +1,46 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,606",
+            "end_time": "00:00:13,917",
+            "transcript": "Last, in animal pose tracking, we use representative object trackers with both CNN-based backbones and vision transformer-based backbones to track each animal instance across the video clips.",
+            "MatchedRegion": [
+                {
+                    "Text": "Animal pose tracking(APT)",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.3446780741214752,
+                        "Height": 0.049053315073251724,
+                        "Left": 0.020396050065755844,
+                        "Top": 0.05616394802927971
+                    },
+                    "Id": "49940dbb-d501-4f0d-9301-d46c4248aa71"
+                },
+                {
+                    "Text": "1. In this track, we use representative object trackers with both CNN-based backbones and vision transformer-based backbones to track each animal instance across the video clips, giving each animal's ground truth bounding box in the first frame.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7165358066558838,
+                        "Height": 0.10019708424806595,
+                        "Left": 0.1467856764793396,
+                        "Top": 0.44666194915771484
+                    },
+                    "Id": "dc839b68-3240-4c98-8c13-1a97adfc5b01"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,497",
+            "end_time": "00:00:20,802",
+            "transcript": "And it can be observed that vision transformer-based trackers obtain slightly better performance.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:21,522",
+            "end_time": "00:00:29,609",
+            "transcript": "And we think these results imply the potential of plain vision-transformers as they fund mental models in the future work.",
+            "MatchedRegion": []
+        }
+    ]
+}

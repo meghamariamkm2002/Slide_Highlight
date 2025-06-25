@@ -1,0 +1,20 @@
+1
+00:00:00,370 --> 00:00:06,887
+To summarize, we proposed car lane, the first three ways seem to real domain adaptation benchmark for 2D lane detection.
+
+2
+00:00:07,742 --> 00:00:15,526
+The current difficulties of examined UDAR methods to align the source and target domains confirm the need for the proposed car lane benchmark.
+
+3
+00:00:16,206 --> 00:00:20,449
+UDAR methods should be tested with care and under the right conditions on a full-scale car.
+
+4
+00:00:20,989 --> 00:00:26,532
+However, we were testing in the model vehicle domain can be carried out in a safe and controlled environment.
+
+5
+00:00:27,332 --> 00:00:32,335
+We believe that car lane eases the development and comparison of UDAR methods for lane detection.
+

@@ -1,0 +1,55 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,271",
+            "end_time": "00:00:13,549",
+            "transcript": "In both cases, we found the decrease of transferability and determination power, because the noise corrupted the original discriminated patterns in each category.",
+            "MatchedRegion": [
+                {
+                    "Text": "Failure case 2: When input samples are noisy",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.6418466567993164,
+                        "Height": 0.057331643998622894,
+                        "Left": 0.09788516163825989,
+                        "Top": 0.06623894721269608
+                    },
+                    "Id": "bb019716-0137-49cd-b024-6b11d1241857"
+                },
+                {
+                    "Text": "When training samples are noisy and lack meaningful patterns, it is difficult for a DNN to learn transferable concepts from noisy training samples.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8038635849952698,
+                        "Height": 0.0779191330075264,
+                        "Left": 0.07064893841743469,
+                        "Top": 0.1983613222837448
+                    },
+                    "Id": "6867f892-9656-4dc3-ac34-18340032e284"
+                },
+                {
+                    "Text": "The transferability of concepts was usually low when the DNN was learned from noisy input data.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7605571746826172,
+                        "Height": 0.0777139887213707,
+                        "Left": 0.1205899715423584,
+                        "Top": 0.734334409236908
+                    },
+                    "Id": "67765433-e866-48c5-b6e9-dad514e1d273"
+                },
+                {
+                    "Text": "the average discrimination power B of concepts decreased along with the increasing strength 8 of injected noise. Ls",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7483997344970703,
+                        "Height": 0.08307048678398132,
+                        "Left": 0.12074113637208939,
+                        "Top": 0.8199929594993591
+                    },
+                    "Id": "a415e9f3-6179-4b76-9e73-bf80d39badf0"
+                }
+            ]
+        }
+    ]
+}

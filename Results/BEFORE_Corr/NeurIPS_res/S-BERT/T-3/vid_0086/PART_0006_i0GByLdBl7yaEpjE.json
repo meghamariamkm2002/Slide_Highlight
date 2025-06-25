@@ -1,0 +1,97 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,311",
+            "end_time": "00:00:10,057",
+            "transcript": "Trustworthy Semantic Parsing is a new test that we propose to evaluate text-to-escalant models under the practical challenges mentioned in the previous slides.",
+            "MatchedRegion": [
+                {
+                    "Text": "Trustworthy Semantic Parsing",
+                    "BoundingBox": {
+                        "Width": 0.36922869086265564,
+                        "Height": 0.05008293688297272,
+                        "Left": 0.1052887886762619,
+                        "Top": 0.2200460433959961
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "bdf0bd9c-74da-4317-accc-28ae1d57a4ec",
+                    "Score": 0.6732487678527832
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,898",
+            "end_time": "00:00:17,923",
+            "transcript": "In Trustworthy Semantic Parsing, the model should only answer answerable questions and refuse to answer if they are unanswerable.",
+            "MatchedRegion": [
+                {
+                    "Text": "Trustworthy Semantic Parsing",
+                    "BoundingBox": {
+                        "Width": 0.36922869086265564,
+                        "Height": 0.05008293688297272,
+                        "Left": 0.1052887886762619,
+                        "Top": 0.2200460433959961
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "bdf0bd9c-74da-4317-accc-28ae1d57a4ec",
+                    "Score": 0.6732487678527832
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,581",
+            "end_time": "00:00:29,010",
+            "transcript": "Because the answer from the EHR database may be directly used for clinical decision making, the model should have a strategy to predict whether it can confidently answer the question or not.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,670",
+            "end_time": "00:00:33,033",
+            "transcript": "We use two metrics here to measure the performance of this task.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:33,654",
+            "end_time": "00:00:35,756",
+            "transcript": "F1 answer and effort execution.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:36,396",
+            "end_time": "00:00:42,101",
+            "transcript": "Effort answer measures how well the model distinguishes between answerable and unanswerable questions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:42,741",
+            "end_time": "00:00:44,803",
+            "transcript": "F1 execution is a more strict metric.",
+            "MatchedRegion": [
+                {
+                    "Text": "Metrics: F1ans and F1exe",
+                    "BoundingBox": {
+                        "Width": 0.2294272929430008,
+                        "Height": 0.03258039057254791,
+                        "Left": 0.15624625980854034,
+                        "Top": 0.8733363747596741
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "52a59785-b490-421c-a281-5c0ac8500228",
+                    "Score": 0.7057634592056274
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:45,264",
+            "end_time": "00:00:46,945",
+            "transcript": "It only counts when the retrieved answer",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_UpFXyswjYPYxTZ0a",
+            "Score": 0.6186119318008423
+        }
+    ]
+}

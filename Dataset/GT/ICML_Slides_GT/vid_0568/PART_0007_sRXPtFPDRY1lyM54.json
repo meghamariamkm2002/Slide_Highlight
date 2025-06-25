@@ -1,0 +1,34 @@
+{
+  "MatchedRegions": [
+      {
+          "start_time": "00:00:00,009",
+          "end_time": "00:00:02,979",
+          "transcript": "surface of GSM has different behavior compared to GSM.",
+          "MatchedRegion": [
+            {
+              "Id": "da5b8754-b3f1-40dd-bfb7-d7670f889621",
+              "Text": "",
+              "BoundingBox": {
+                  "Width": 0.2384060025215149,
+                  "Height": 0.4572075307369232,
+                  "Left": 0.1610906571149826,
+                  "Top": 0.22868730127811432
+              },
+              "BlockType": "LAYOUT_FIGURE"
+          },
+          {
+              "Id": "44de9594-39f3-4ba1-8a83-826c87b997a6",
+              "Text": "",
+              "BoundingBox": {
+                  "Width": 0.2190503180027008,
+                  "Height": 0.4429219365119934,
+                  "Left": 0.6630218625068665,
+                  "Top": 0.1434556394815445
+              },
+              "BlockType": "LAYOUT_FIGURE"
+          }
+          ]
+      }
+  ],
+  "MatchedSlides": []
+}

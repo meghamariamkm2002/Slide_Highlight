@@ -1,0 +1,85 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,625",
+            "end_time": "00:00:05,266",
+            "transcript": "Hello, everyone.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.20059311389923096,
+                        "Height": 0.15097332000732422,
+                        "Left": 0.7594585418701172,
+                        "Top": 0.04977139085531235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0866c02e-d9b2-41ec-90eb-d9447b56922d",
+                    "Score": 0.6017792820930481
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,607",
+            "end_time": "00:00:13,760",
+            "transcript": "My name is Bonifat Stur, and today we present our work, Carlane, a lane detection benchmark for unsupervised domain adaptation from simulation to multiple real-world domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.20059311389923096,
+                        "Height": 0.15097332000732422,
+                        "Left": 0.7594585418701172,
+                        "Top": 0.04977139085531235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0866c02e-d9b2-41ec-90eb-d9447b56922d",
+                    "Score": 0.6017792820930481
+                },
+                {
+                    "Text": "CARLANE: A Lane Detection Benchmark for Unsupervised Domain Adaptation from Simulation to multiple Real-World Domains",
+                    "BoundingBox": {
+                        "Width": 0.740811288356781,
+                        "Height": 0.20649506151676178,
+                        "Left": 0.03581993654370308,
+                        "Top": 0.34182584285736084
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "020aa9a7-15ec-42c8-b91d-811622948e47",
+                    "Score": 0.7844504117965698
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,661",
+            "end_time": "00:00:16,985",
+            "transcript": "This is joint work with Johann Haselberger and Julian Gebele.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.20059311389923096,
+                        "Height": 0.15097332000732422,
+                        "Left": 0.7594585418701172,
+                        "Top": 0.04977139085531235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0866c02e-d9b2-41ec-90eb-d9447b56922d",
+                    "Score": 0.6017792820930481
+                },
+                {
+                    "Text": "Technische n Universit\u00e4t",
+                    "BoundingBox": {
+                        "Width": 0.06749160587787628,
+                        "Height": 0.052867792546749115,
+                        "Left": 0.44519782066345215,
+                        "Top": 0.9210484027862549
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "63d98d8f-c5ac-4ad8-bafd-2ed36db7c04e",
+                    "Score": 0.6130461692810059
+                }
+            ]
+        }
+    ]
+}

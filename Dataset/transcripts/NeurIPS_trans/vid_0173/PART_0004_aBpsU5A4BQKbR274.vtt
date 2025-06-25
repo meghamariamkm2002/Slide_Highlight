@@ -1,0 +1,17 @@
+WEBVTT
+
+00:01.009 --> 00:10.132
+which make them kind of infeasible for real world out of the options because in practice we really want options to be simple and robust.
+
+00:11.012 --> 00:20.295
+So they are easy for users to understand and they are easy for the standard to compute and they can tolerate inaccurate priors.
+
+00:22.288 --> 00:34.011
+In this talk, we give a constant approximation posted price maximum, which is both simple and robust for alibiders who are value maximizing subject to RI constraints.
+
+00:35.332 --> 00:42.093
+To complement this result, we show that there is a non-trivial lower bound for posted price maximums with alibiders.
+
+00:42.714 --> 00:47.755
+And as bi-products, we also give results about dynamic auctions and combinatorial auctions
+

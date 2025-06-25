@@ -1,0 +1,90 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,290",
+            "end_time": "00:00:00,811",
+            "transcript": "and neutral.",
+            "MatchedRegion": [
+                {
+                    "Text": "2.2 Data Statistics",
+                    "BoundingBox": {
+                        "Width": 0.18316026031970978,
+                        "Height": 0.03132336214184761,
+                        "Left": 0.02761019580066204,
+                        "Top": 0.1425241380929947
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "3014fba5-1c44-40fa-8434-02905c7450ac",
+                    "Score": 0.8143495917320251
+                },
+                {
+                    "Text": "Neutral sentiment accounts for the highest proportion across all 4 target entities.",
+                    "BoundingBox": {
+                        "Width": 0.7133693099021912,
+                        "Height": 0.034028831869363785,
+                        "Left": 0.05780689790844917,
+                        "Top": 0.35634106397628784
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6d20a644-205b-4032-b6ff-a44fa9075ea5",
+                    "Score": 0.8525036573410034
+                },
+                {
+                    "Text": "600 500 400 300 200 100 0 0 20 40 60 >80 Tweets Length",
+                    "BoundingBox": {
+                        "Width": 0.28832268714904785,
+                        "Height": 0.33501604199409485,
+                        "Left": 0.051365748047828674,
+                        "Top": 0.5005331635475159
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4be729ee-426d-4c00-ab95-f78ab6a9deea",
+                    "Score": 0.6153128743171692
+                },
+                {
+                    "Text": "cc V",
+                    "BoundingBox": {
+                        "Width": 0.09891657531261444,
+                        "Height": 0.022261744365096092,
+                        "Left": 0.0005031853797845542,
+                        "Top": 0.9747605919837952
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b2e2276b-1e27-4674-94c5-ca11ada384f2",
+                    "Score": 0.6535255908966064
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,475",
+            "end_time": "00:00:07,005",
+            "transcript": "This slide shows the data statistics of our proposed MASC code.",
+            "MatchedRegion": [
+                {
+                    "Text": "600 500 400 300 200 100 0 0 20 40 60 >80 Tweets Length",
+                    "BoundingBox": {
+                        "Width": 0.28832268714904785,
+                        "Height": 0.33501604199409485,
+                        "Left": 0.051365748047828674,
+                        "Top": 0.5005331635475159
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "4be729ee-426d-4c00-ab95-f78ab6a9deea",
+                    "Score": 0.6153128743171692
+                },
+                {
+                    "Text": "cc V",
+                    "BoundingBox": {
+                        "Width": 0.09891657531261444,
+                        "Height": 0.022261744365096092,
+                        "Left": 0.0005031853797845542,
+                        "Top": 0.9747605919837952
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b2e2276b-1e27-4674-94c5-ca11ada384f2",
+                    "Score": 0.6535255908966064
+                }
+            ]
+        }
+    ]
+}

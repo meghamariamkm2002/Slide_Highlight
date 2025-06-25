@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,791",
+            "end_time": "00:00:07,005",
+            "transcript": "But the point is optimal auctions for elevators are often delicate and counterintuitive in some sense.",
+            "MatchedRegion": [
+                {
+                    "Text": "traditional bidders:",
+                    "BoundingBox": {
+                        "Width": 0.2081139236688614,
+                        "Height": 0.03441479429602623,
+                        "Left": 0.07441071420907974,
+                        "Top": 0.322858065366745
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "88727c1f-b3a6-46b8-bc9f-869882ae64fb",
+                    "Score": 0.8051964044570923
+                },
+                {
+                    "Text": "optimal auctions are delicate and \"counterintuitive\"",
+                    "BoundingBox": {
+                        "Width": 0.5700274705886841,
+                        "Height": 0.043007876724004745,
+                        "Left": 0.24283818900585175,
+                        "Top": 0.8987741470336914
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "d0ec708e-e2bf-48b0-95b1-60ddde71eb6f",
+                    "Score": 0.8101270198822021
+                }
+            ]
+        }
+    ]
+}

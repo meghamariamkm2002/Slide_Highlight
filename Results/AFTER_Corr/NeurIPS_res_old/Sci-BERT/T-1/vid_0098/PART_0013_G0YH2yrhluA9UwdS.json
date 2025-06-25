@@ -1,0 +1,23 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,850",
+            "end_time": "00:00:08,802",
+            "transcript": "When we zoom in, two specific failure cases can be seen in the highlighted images, where we observe a mis-prediction and a false negative.",
+            "MatchedRegion": [
+                {
+                    "Text": "MoLane TuLane MuLane UFLD-SO DANN ADDA SGADA SGPCS UFLD-TO",
+                    "BoundingBox": {
+                        "Width": 0.4873448312282562,
+                        "Height": 0.5984307527542114,
+                        "Left": 0.2758445143699646,
+                        "Top": 0.16709309816360474
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6921a06f-6d66-4ee7-b3d0-3d7e67b34895",
+                    "Score": 0.6452375650405884
+                }
+            ]
+        }
+    ]
+}

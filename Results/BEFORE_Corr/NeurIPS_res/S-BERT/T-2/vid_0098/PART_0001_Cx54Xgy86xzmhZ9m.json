@@ -1,0 +1,61 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,870",
+            "end_time": "00:00:09,752",
+            "transcript": "Unsupervised domain adaptation demonstrates great potential to mitigate domain shifts by transferring models from labeled source domains to unlabeled target domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "Unsupervised Domain Adaptation (UDA) demonstrates great potential to mitigate domain shifts by transferring models from labeled source domains to unlabeled target domains",
+                    "BoundingBox": {
+                        "Width": 0.8520699143409729,
+                        "Height": 0.07390082627534866,
+                        "Left": 0.03573311120271683,
+                        "Top": 0.6462298631668091
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "829daac5-d0b4-4f02-941e-e877717cd317",
+                    "Score": 0.9845149517059326
+                },
+                {
+                    "Text": "unsupervised knowledge transfer domain shift",
+                    "BoundingBox": {
+                        "Width": 0.6713652610778809,
+                        "Height": 0.3796723783016205,
+                        "Left": 0.16458754241466522,
+                        "Top": 0.16522711515426636
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "61b08415-f5ab-4125-9fc0-725453858496",
+                    "Score": 0.7126225233078003
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,432",
+            "end_time": "00:00:14,294",
+            "transcript": "However, only a few user works focus on lane detection for autonomous driving.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:15,034",
+            "end_time": "00:00:17,975",
+            "transcript": "This can be attributed to the lack of publicly available data",
+            "MatchedRegion": [
+                {
+                    "Text": "This can be attributed to the lack of publicly available datasets",
+                    "BoundingBox": {
+                        "Width": 0.5430829524993896,
+                        "Height": 0.03331313654780388,
+                        "Left": 0.03570578992366791,
+                        "Top": 0.810569167137146
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "645e79f1-beb0-43f1-88ef-2b4ac9553d2a",
+                    "Score": 0.9160410165786743
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

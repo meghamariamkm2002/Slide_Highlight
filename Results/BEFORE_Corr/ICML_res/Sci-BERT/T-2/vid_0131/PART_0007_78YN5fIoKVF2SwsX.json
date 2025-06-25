@@ -1,0 +1,133 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,236",
+            "end_time": "00:00:16,605",
+            "transcript": "There is a difference between the training objectives of poisoning and standard learning, and we may utilize the model dynamics during training to find useful information of identifying imperceptible poisoning samples from clean ones.",
+            "MatchedRegion": [
+                {
+                    "Text": "There is difference between the training objectives of poisoning and standard learning.",
+                    "BoundingBox": {
+                        "Width": 0.757369339466095,
+                        "Height": 0.08349479734897614,
+                        "Left": 0.10826438665390015,
+                        "Top": 0.28672778606414795
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "346496dd-19af-46ab-9535-034a0aec5f57",
+                    "Score": 0.7244130373001099
+                },
+                {
+                    "Text": "We may utilize the model dynamics during training to find useful information of identifying imperceptible poison sample from clean ones.",
+                    "BoundingBox": {
+                        "Width": 0.7387921810150146,
+                        "Height": 0.12090269476175308,
+                        "Left": 0.10798122733831406,
+                        "Top": 0.3750542998313904
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "597e713c-35d6-4828-b6b0-710bccff8cef",
+                    "Score": 0.7768986821174622
+                },
+                {
+                    "Text": "More experimental results and related discussion can refer to our paper",
+                    "BoundingBox": {
+                        "Width": 0.7243826985359192,
+                        "Height": 0.08330436050891876,
+                        "Left": 0.10822544246912003,
+                        "Top": 0.5088246464729309
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ffc6358c-5df1-4a01-ac74-d9637e58bcc5",
+                    "Score": 0.8528735041618347
+                },
+                {
+                    "Text": "CODE",
+                    "BoundingBox": {
+                        "Width": 0.19331476092338562,
+                        "Height": 0.10699332505464554,
+                        "Left": 0.7222133874893188,
+                        "Top": 0.5908260941505432
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "76fae21d-95c1-40b4-9038-528207bac114",
+                    "Score": 0.6009088158607483
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,486",
+            "end_time": "00:00:22,689",
+            "transcript": "More experimental details and the related discussion can refer to our paper.",
+            "MatchedRegion": [
+                {
+                    "Text": "There is difference between the training objectives of poisoning and standard learning.",
+                    "BoundingBox": {
+                        "Width": 0.757369339466095,
+                        "Height": 0.08349479734897614,
+                        "Left": 0.10826438665390015,
+                        "Top": 0.28672778606414795
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "346496dd-19af-46ab-9535-034a0aec5f57",
+                    "Score": 0.7244130373001099
+                },
+                {
+                    "Text": "We may utilize the model dynamics during training to find useful information of identifying imperceptible poison sample from clean ones.",
+                    "BoundingBox": {
+                        "Width": 0.7387921810150146,
+                        "Height": 0.12090269476175308,
+                        "Left": 0.10798122733831406,
+                        "Top": 0.3750542998313904
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "597e713c-35d6-4828-b6b0-710bccff8cef",
+                    "Score": 0.7768986821174622
+                },
+                {
+                    "Text": "More experimental results and related discussion can refer to our paper",
+                    "BoundingBox": {
+                        "Width": 0.7243826985359192,
+                        "Height": 0.08330436050891876,
+                        "Left": 0.10822544246912003,
+                        "Top": 0.5088246464729309
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ffc6358c-5df1-4a01-ac74-d9637e58bcc5",
+                    "Score": 0.8528735041618347
+                },
+                {
+                    "Text": "CODE",
+                    "BoundingBox": {
+                        "Width": 0.19331476092338562,
+                        "Height": 0.10699332505464554,
+                        "Left": 0.7222133874893188,
+                        "Top": 0.5908260941505432
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "76fae21d-95c1-40b4-9038-528207bac114",
+                    "Score": 0.6009088158607483
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:23,070",
+            "end_time": "00:00:23,410",
+            "transcript": "Thank you.",
+            "MatchedRegion": [
+                {
+                    "Text": "Thank You!",
+                    "BoundingBox": {
+                        "Width": 0.17339858412742615,
+                        "Height": 0.037406131625175476,
+                        "Left": 0.1739632785320282,
+                        "Top": 0.7802744507789612
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8d19becd-f7bc-4275-8ba1-7a1a932a3726",
+                    "Score": 0.8366291522979736
+                }
+            ]
+        }
+    ]
+}

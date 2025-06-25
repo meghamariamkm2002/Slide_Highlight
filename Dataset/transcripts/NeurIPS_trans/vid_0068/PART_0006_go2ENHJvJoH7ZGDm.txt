@@ -1,0 +1,4 @@
+from the teacher.
+We asked several questions related to the performance model where they are fine-tuned in the block-by-setting compared to that when trained normally.
+From the result in this figure, we can see that in all cases, the student model is able to improve upon the teacher.
+However, when compared to the accuracy achievable when a student is trained normally, fine-tuning does not always result in improvement, especially when a teacher

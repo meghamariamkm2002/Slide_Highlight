@@ -1,0 +1,6 @@
+start	end	text
+9	469	algorithms.
+3090	5711	This will give an overview of the block-wise last methods.
+6591	18996	First, block-wise distillation divides a pre-trained reference model, known as teacher, into sequential blocks that are later distributed into a library of pre-trained replacement blocks together with their signatures.
+20536	28659	Two, search uses this signature to guide an algorithm to find a well-performing model built by stacking a number of blocks from the block library.
+29983	38982	Third, fine tuning is a process when block of student model are initialized with weights obtained in distillation, that the model are trained with knowledge distributed.

@@ -1,0 +1,11 @@
+WEBVTT
+
+00:01.870 --> 00:09.752
+Unsupervised domain adaptation demonstrates great potential to mitigate domain shifts by transferring models from labeled source domains to unlabeled target domains.
+
+00:10.432 --> 00:14.294
+However, only a few user works focus on lane detection for autonomous driving.
+
+00:15.034 --> 00:17.975
+This can be attributed to the lack of publicly available data
+

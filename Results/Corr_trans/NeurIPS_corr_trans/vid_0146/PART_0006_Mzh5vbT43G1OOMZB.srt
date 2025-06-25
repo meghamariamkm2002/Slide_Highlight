@@ -1,0 +1,16 @@
+1
+00:00:00,982 --> 00:00:09,309
+Our tests employ three different types of vision transformers, vanilla ViT, DeiT, and ViT with improved augmentations and regularization.
+
+2
+00:00:10,270 --> 00:00:14,354
+We measure the increase in robustness to distribution shifts, i.e.
+
+3
+00:00:14,494 --> 00:00:17,656
+the increase in accuracy for datasets with shifted distributions.
+
+4
+00:00:18,417 --> 00:00:21,920
+We use adversarial, real-world, and synthetic datasets.
+

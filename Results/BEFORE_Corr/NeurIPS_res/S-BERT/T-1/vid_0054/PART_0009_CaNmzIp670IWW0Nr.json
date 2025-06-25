@@ -1,0 +1,62 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,606",
+            "end_time": "00:00:13,917",
+            "transcript": "Last, in animal post tracking, we use representative object trackers with both CNN-based backbones and vision-transformers-based backbones to track each animal instance across the video clips.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. In this track, we use representative object trackers with both CNN-based backbones and vision transformer-based backbones to track each animal instance across the video clips, giving each animal's ground truth bounding box in the first frame.",
+                    "BoundingBox": {
+                        "Width": 0.7165358066558838,
+                        "Height": 0.10019708424806595,
+                        "Left": 0.1467856764793396,
+                        "Top": 0.44666194915771484
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dc839b68-3240-4c98-8c13-1a97adfc5b01",
+                    "Score": 0.8980790376663208
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,497",
+            "end_time": "00:00:20,802",
+            "transcript": "And it can be observed that vision-transformers-based trackers obtain slightly better performance.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. It can be observed that vision transformer-based trackers obtain slightly better performance compared with CNN-based trackers.",
+                    "BoundingBox": {
+                        "Width": 0.7396261692047119,
+                        "Height": 0.05796588212251663,
+                        "Left": 0.14819280803203583,
+                        "Top": 0.6262006163597107
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3d9c2c79-716e-49ca-a5f4-2ee0d3f3d9a3",
+                    "Score": 0.8048049211502075
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:21,522",
+            "end_time": "00:00:29,609",
+            "transcript": "And we think these results imply the potential of plan vision-transformers as they fund mental models in the future work.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_kIvSfeSA5dfzhobv",
+            "Score": 0.6267496347427368
+        },
+        {
+            "slide": "PART_0005_D1FuHVm3thPIylSy",
+            "Score": 0.605950117111206
+        },
+        {
+            "slide": "PART_0006_M9SXiHRTpKT6IBJh",
+            "Score": 0.8343319892883301
+        }
+    ]
+}

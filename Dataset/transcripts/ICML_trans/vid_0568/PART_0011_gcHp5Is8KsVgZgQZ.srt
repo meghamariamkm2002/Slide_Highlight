@@ -1,0 +1,16 @@
+1
+00:00:00,089 --> 00:00:08,836
+In the G-SOM theory, we introduce dense G-SOM that is capable of improving the capacity of sequence memory models beyond the current capacity of 0.14 times the number of neurons.
+
+2
+00:00:09,477 --> 00:00:18,584
+Dense G-SOM introduces polynomial intermemory interactions, that is, sigma h is equal to x power p, similar to the dense versions of singleton memories.
+
+3
+00:00:19,024 --> 00:00:23,688
+Current memory models fall in the degree 1 limit of dense G-SOM, which we call the linear G-SOM.
+
+4
+00:00:24,509 --> 00:00:25,009
+Similar to the
+

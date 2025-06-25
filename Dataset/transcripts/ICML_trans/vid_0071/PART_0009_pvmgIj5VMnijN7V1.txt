@@ -1,0 +1,2 @@
+Secondly, we verify the transferability of concepts over different samples.
+This means that concepts extracted from one sample can be transferred to other samples.

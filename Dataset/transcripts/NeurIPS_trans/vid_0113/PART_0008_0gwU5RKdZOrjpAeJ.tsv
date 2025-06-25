@@ -1,0 +1,3 @@
+start	end	text
+169	809	benchmarking.
+1870	12995	We can observe that models incorporating COVID trigger birds as feature extractor significantly outperform other types of models on these TSA subsets.

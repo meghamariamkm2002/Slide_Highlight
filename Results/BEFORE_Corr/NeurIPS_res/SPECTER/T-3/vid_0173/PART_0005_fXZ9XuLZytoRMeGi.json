@@ -1,0 +1,720 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,129",
+            "end_time": "00:00:00,650",
+            "transcript": "have a bidder.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem formulation",
+                    "BoundingBox": {
+                        "Width": 0.5454055666923523,
+                        "Height": 0.078818678855896,
+                        "Left": 0.22715364396572113,
+                        "Top": 0.06655117124319077
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3fa827be-de3e-43b7-8403-d12173ae9260",
+                    "Score": 0.6830788850784302
+                },
+                {
+                    "Text": "each bidder has a value distribution Di",
+                    "BoundingBox": {
+                        "Width": 0.4222599267959595,
+                        "Height": 0.04841911420226097,
+                        "Left": 0.07000011950731277,
+                        "Top": 0.24649827182292938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a6b57fb-7d8f-4a1c-9766-068ac97b9ee7",
+                    "Score": 0.8270580172538757
+                },
+                {
+                    "Text": "seller observes {Di}i and computes a price p",
+                    "BoundingBox": {
+                        "Width": 0.4920117259025574,
+                        "Height": 0.048898834735155106,
+                        "Left": 0.07070372998714447,
+                        "Top": 0.35737624764442444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "344a4ec3-441f-41cd-a129-8f1c48b965a0",
+                    "Score": 0.8696607351303101
+                },
+                {
+                    "Text": "bidders arrive one by one, each bidder observes own value Vi~Di and decides to accept or reject price p",
+                    "BoundingBox": {
+                        "Width": 0.8479005694389343,
+                        "Height": 0.10753817856311798,
+                        "Left": 0.07036935538053513,
+                        "Top": 0.47106701135635376
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0ab5f69d-13ca-433b-8eb9-c39d22722903",
+                    "Score": 0.8351625204086304
+                },
+                {
+                    "Text": "if accept: seller gets revenue p, auction terminates",
+                    "BoundingBox": {
+                        "Width": 0.5428239703178406,
+                        "Height": 0.04239632934331894,
+                        "Left": 0.09627572447061539,
+                        "Top": 0.6451114416122437
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b1c08476-06d0-4c1a-af02-e3f2163ebca7",
+                    "Score": 0.8472973108291626
+                },
+                {
+                    "Text": "if reject: bidder leaves and next bidder arrives",
+                    "BoundingBox": {
+                        "Width": 0.4928953945636749,
+                        "Height": 0.039584290236234665,
+                        "Left": 0.09623683243989944,
+                        "Top": 0.7463878989219666
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a419137-6e83-4af9-850c-c4d3367923ea",
+                    "Score": 0.7494473457336426
+                },
+                {
+                    "Text": "seller's goal: maximize expected revenue = p . Pr[at least one bidder accepts p]",
+                    "BoundingBox": {
+                        "Width": 0.8517045974731445,
+                        "Height": 0.04610184580087662,
+                        "Left": 0.07024013251066208,
+                        "Top": 0.8503016829490662
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67dafca7-4fa7-42a5-bb29-0966875917ce",
+                    "Score": 0.9095313549041748
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,252",
+            "end_time": "00:00:03,073",
+            "transcript": "Here's the problem.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem formulation",
+                    "BoundingBox": {
+                        "Width": 0.5454055666923523,
+                        "Height": 0.078818678855896,
+                        "Left": 0.22715364396572113,
+                        "Top": 0.06655117124319077
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3fa827be-de3e-43b7-8403-d12173ae9260",
+                    "Score": 0.6830788850784302
+                },
+                {
+                    "Text": "each bidder has a value distribution Di",
+                    "BoundingBox": {
+                        "Width": 0.4222599267959595,
+                        "Height": 0.04841911420226097,
+                        "Left": 0.07000011950731277,
+                        "Top": 0.24649827182292938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a6b57fb-7d8f-4a1c-9766-068ac97b9ee7",
+                    "Score": 0.8270580172538757
+                },
+                {
+                    "Text": "seller observes {Di}i and computes a price p",
+                    "BoundingBox": {
+                        "Width": 0.4920117259025574,
+                        "Height": 0.048898834735155106,
+                        "Left": 0.07070372998714447,
+                        "Top": 0.35737624764442444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "344a4ec3-441f-41cd-a129-8f1c48b965a0",
+                    "Score": 0.8696607351303101
+                },
+                {
+                    "Text": "bidders arrive one by one, each bidder observes own value Vi~Di and decides to accept or reject price p",
+                    "BoundingBox": {
+                        "Width": 0.8479005694389343,
+                        "Height": 0.10753817856311798,
+                        "Left": 0.07036935538053513,
+                        "Top": 0.47106701135635376
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0ab5f69d-13ca-433b-8eb9-c39d22722903",
+                    "Score": 0.8351625204086304
+                },
+                {
+                    "Text": "if accept: seller gets revenue p, auction terminates",
+                    "BoundingBox": {
+                        "Width": 0.5428239703178406,
+                        "Height": 0.04239632934331894,
+                        "Left": 0.09627572447061539,
+                        "Top": 0.6451114416122437
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b1c08476-06d0-4c1a-af02-e3f2163ebca7",
+                    "Score": 0.8472973108291626
+                },
+                {
+                    "Text": "seller's goal: maximize expected revenue = p . Pr[at least one bidder accepts p]",
+                    "BoundingBox": {
+                        "Width": 0.8517045974731445,
+                        "Height": 0.04610184580087662,
+                        "Left": 0.07024013251066208,
+                        "Top": 0.8503016829490662
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67dafca7-4fa7-42a5-bb29-0966875917ce",
+                    "Score": 0.9095313549041748
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,093",
+            "end_time": "00:00:06,377",
+            "transcript": "Each bidder has a valid distribution DI.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem formulation",
+                    "BoundingBox": {
+                        "Width": 0.5454055666923523,
+                        "Height": 0.078818678855896,
+                        "Left": 0.22715364396572113,
+                        "Top": 0.06655117124319077
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3fa827be-de3e-43b7-8403-d12173ae9260",
+                    "Score": 0.6830788850784302
+                },
+                {
+                    "Text": "each bidder has a value distribution Di",
+                    "BoundingBox": {
+                        "Width": 0.4222599267959595,
+                        "Height": 0.04841911420226097,
+                        "Left": 0.07000011950731277,
+                        "Top": 0.24649827182292938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a6b57fb-7d8f-4a1c-9766-068ac97b9ee7",
+                    "Score": 0.8270580172538757
+                },
+                {
+                    "Text": "seller observes {Di}i and computes a price p",
+                    "BoundingBox": {
+                        "Width": 0.4920117259025574,
+                        "Height": 0.048898834735155106,
+                        "Left": 0.07070372998714447,
+                        "Top": 0.35737624764442444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "344a4ec3-441f-41cd-a129-8f1c48b965a0",
+                    "Score": 0.8696607351303101
+                },
+                {
+                    "Text": "bidders arrive one by one, each bidder observes own value Vi~Di and decides to accept or reject price p",
+                    "BoundingBox": {
+                        "Width": 0.8479005694389343,
+                        "Height": 0.10753817856311798,
+                        "Left": 0.07036935538053513,
+                        "Top": 0.47106701135635376
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0ab5f69d-13ca-433b-8eb9-c39d22722903",
+                    "Score": 0.8351625204086304
+                },
+                {
+                    "Text": "if accept: seller gets revenue p, auction terminates",
+                    "BoundingBox": {
+                        "Width": 0.5428239703178406,
+                        "Height": 0.04239632934331894,
+                        "Left": 0.09627572447061539,
+                        "Top": 0.6451114416122437
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b1c08476-06d0-4c1a-af02-e3f2163ebca7",
+                    "Score": 0.8472973108291626
+                },
+                {
+                    "Text": "if reject: bidder leaves and next bidder arrives",
+                    "BoundingBox": {
+                        "Width": 0.4928953945636749,
+                        "Height": 0.039584290236234665,
+                        "Left": 0.09623683243989944,
+                        "Top": 0.7463878989219666
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a419137-6e83-4af9-850c-c4d3367923ea",
+                    "Score": 0.7494473457336426
+                },
+                {
+                    "Text": "seller's goal: maximize expected revenue = p . Pr[at least one bidder accepts p]",
+                    "BoundingBox": {
+                        "Width": 0.8517045974731445,
+                        "Height": 0.04610184580087662,
+                        "Left": 0.07024013251066208,
+                        "Top": 0.8503016829490662
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67dafca7-4fa7-42a5-bb29-0966875917ce",
+                    "Score": 0.9095313549041748
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,338",
+            "end_time": "00:00:13,246",
+            "transcript": "The seller observes all these valid distributions and computes a single price P for all bidders.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem formulation",
+                    "BoundingBox": {
+                        "Width": 0.5454055666923523,
+                        "Height": 0.078818678855896,
+                        "Left": 0.22715364396572113,
+                        "Top": 0.06655117124319077
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3fa827be-de3e-43b7-8403-d12173ae9260",
+                    "Score": 0.6830788850784302
+                },
+                {
+                    "Text": "each bidder has a value distribution Di",
+                    "BoundingBox": {
+                        "Width": 0.4222599267959595,
+                        "Height": 0.04841911420226097,
+                        "Left": 0.07000011950731277,
+                        "Top": 0.24649827182292938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a6b57fb-7d8f-4a1c-9766-068ac97b9ee7",
+                    "Score": 0.8270580172538757
+                },
+                {
+                    "Text": "seller observes {Di}i and computes a price p",
+                    "BoundingBox": {
+                        "Width": 0.4920117259025574,
+                        "Height": 0.048898834735155106,
+                        "Left": 0.07070372998714447,
+                        "Top": 0.35737624764442444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "344a4ec3-441f-41cd-a129-8f1c48b965a0",
+                    "Score": 0.8696607351303101
+                },
+                {
+                    "Text": "bidders arrive one by one, each bidder observes own value Vi~Di and decides to accept or reject price p",
+                    "BoundingBox": {
+                        "Width": 0.8479005694389343,
+                        "Height": 0.10753817856311798,
+                        "Left": 0.07036935538053513,
+                        "Top": 0.47106701135635376
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0ab5f69d-13ca-433b-8eb9-c39d22722903",
+                    "Score": 0.8351625204086304
+                },
+                {
+                    "Text": "if accept: seller gets revenue p, auction terminates",
+                    "BoundingBox": {
+                        "Width": 0.5428239703178406,
+                        "Height": 0.04239632934331894,
+                        "Left": 0.09627572447061539,
+                        "Top": 0.6451114416122437
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b1c08476-06d0-4c1a-af02-e3f2163ebca7",
+                    "Score": 0.8472973108291626
+                },
+                {
+                    "Text": "if reject: bidder leaves and next bidder arrives",
+                    "BoundingBox": {
+                        "Width": 0.4928953945636749,
+                        "Height": 0.039584290236234665,
+                        "Left": 0.09623683243989944,
+                        "Top": 0.7463878989219666
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a419137-6e83-4af9-850c-c4d3367923ea",
+                    "Score": 0.7494473457336426
+                },
+                {
+                    "Text": "seller's goal: maximize expected revenue = p . Pr[at least one bidder accepts p]",
+                    "BoundingBox": {
+                        "Width": 0.8517045974731445,
+                        "Height": 0.04610184580087662,
+                        "Left": 0.07024013251066208,
+                        "Top": 0.8503016829490662
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67dafca7-4fa7-42a5-bb29-0966875917ce",
+                    "Score": 0.9095313549041748
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,656",
+            "end_time": "00:00:17,918",
+            "transcript": "Now the auction begins, bidders arrive one by one.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem formulation",
+                    "BoundingBox": {
+                        "Width": 0.5454055666923523,
+                        "Height": 0.078818678855896,
+                        "Left": 0.22715364396572113,
+                        "Top": 0.06655117124319077
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3fa827be-de3e-43b7-8403-d12173ae9260",
+                    "Score": 0.6830788850784302
+                },
+                {
+                    "Text": "each bidder has a value distribution Di",
+                    "BoundingBox": {
+                        "Width": 0.4222599267959595,
+                        "Height": 0.04841911420226097,
+                        "Left": 0.07000011950731277,
+                        "Top": 0.24649827182292938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a6b57fb-7d8f-4a1c-9766-068ac97b9ee7",
+                    "Score": 0.8270580172538757
+                },
+                {
+                    "Text": "seller observes {Di}i and computes a price p",
+                    "BoundingBox": {
+                        "Width": 0.4920117259025574,
+                        "Height": 0.048898834735155106,
+                        "Left": 0.07070372998714447,
+                        "Top": 0.35737624764442444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "344a4ec3-441f-41cd-a129-8f1c48b965a0",
+                    "Score": 0.8696607351303101
+                },
+                {
+                    "Text": "bidders arrive one by one, each bidder observes own value Vi~Di and decides to accept or reject price p",
+                    "BoundingBox": {
+                        "Width": 0.8479005694389343,
+                        "Height": 0.10753817856311798,
+                        "Left": 0.07036935538053513,
+                        "Top": 0.47106701135635376
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0ab5f69d-13ca-433b-8eb9-c39d22722903",
+                    "Score": 0.8351625204086304
+                },
+                {
+                    "Text": "if accept: seller gets revenue p, auction terminates",
+                    "BoundingBox": {
+                        "Width": 0.5428239703178406,
+                        "Height": 0.04239632934331894,
+                        "Left": 0.09627572447061539,
+                        "Top": 0.6451114416122437
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b1c08476-06d0-4c1a-af02-e3f2163ebca7",
+                    "Score": 0.8472973108291626
+                },
+                {
+                    "Text": "if reject: bidder leaves and next bidder arrives",
+                    "BoundingBox": {
+                        "Width": 0.4928953945636749,
+                        "Height": 0.039584290236234665,
+                        "Left": 0.09623683243989944,
+                        "Top": 0.7463878989219666
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a419137-6e83-4af9-850c-c4d3367923ea",
+                    "Score": 0.7494473457336426
+                },
+                {
+                    "Text": "seller's goal: maximize expected revenue = p . Pr[at least one bidder accepts p]",
+                    "BoundingBox": {
+                        "Width": 0.8517045974731445,
+                        "Height": 0.04610184580087662,
+                        "Left": 0.07024013251066208,
+                        "Top": 0.8503016829490662
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67dafca7-4fa7-42a5-bb29-0966875917ce",
+                    "Score": 0.9095313549041748
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,458",
+            "end_time": "00:00:35,869",
+            "transcript": "Each bidder observes their own value VI, which is drawing from the distribution DI, and of course the price P. And then the bidder decides whether they want to accept or reject the price P. If they accept the price, then the seller gets revenue P and the auction terminates.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem formulation",
+                    "BoundingBox": {
+                        "Width": 0.5454055666923523,
+                        "Height": 0.078818678855896,
+                        "Left": 0.22715364396572113,
+                        "Top": 0.06655117124319077
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3fa827be-de3e-43b7-8403-d12173ae9260",
+                    "Score": 0.6830788850784302
+                },
+                {
+                    "Text": "each bidder has a value distribution Di",
+                    "BoundingBox": {
+                        "Width": 0.4222599267959595,
+                        "Height": 0.04841911420226097,
+                        "Left": 0.07000011950731277,
+                        "Top": 0.24649827182292938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a6b57fb-7d8f-4a1c-9766-068ac97b9ee7",
+                    "Score": 0.8270580172538757
+                },
+                {
+                    "Text": "seller observes {Di}i and computes a price p",
+                    "BoundingBox": {
+                        "Width": 0.4920117259025574,
+                        "Height": 0.048898834735155106,
+                        "Left": 0.07070372998714447,
+                        "Top": 0.35737624764442444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "344a4ec3-441f-41cd-a129-8f1c48b965a0",
+                    "Score": 0.8696607351303101
+                },
+                {
+                    "Text": "bidders arrive one by one, each bidder observes own value Vi~Di and decides to accept or reject price p",
+                    "BoundingBox": {
+                        "Width": 0.8479005694389343,
+                        "Height": 0.10753817856311798,
+                        "Left": 0.07036935538053513,
+                        "Top": 0.47106701135635376
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0ab5f69d-13ca-433b-8eb9-c39d22722903",
+                    "Score": 0.8351625204086304
+                },
+                {
+                    "Text": "if accept: seller gets revenue p, auction terminates",
+                    "BoundingBox": {
+                        "Width": 0.5428239703178406,
+                        "Height": 0.04239632934331894,
+                        "Left": 0.09627572447061539,
+                        "Top": 0.6451114416122437
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b1c08476-06d0-4c1a-af02-e3f2163ebca7",
+                    "Score": 0.8472973108291626
+                },
+                {
+                    "Text": "if reject: bidder leaves and next bidder arrives",
+                    "BoundingBox": {
+                        "Width": 0.4928953945636749,
+                        "Height": 0.039584290236234665,
+                        "Left": 0.09623683243989944,
+                        "Top": 0.7463878989219666
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a419137-6e83-4af9-850c-c4d3367923ea",
+                    "Score": 0.7494473457336426
+                },
+                {
+                    "Text": "seller's goal: maximize expected revenue = p . Pr[at least one bidder accepts p]",
+                    "BoundingBox": {
+                        "Width": 0.8517045974731445,
+                        "Height": 0.04610184580087662,
+                        "Left": 0.07024013251066208,
+                        "Top": 0.8503016829490662
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67dafca7-4fa7-42a5-bb29-0966875917ce",
+                    "Score": 0.9095313549041748
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,589",
+            "end_time": "00:00:41,452",
+            "transcript": "If they reject the price, then the bidder leaves and the next bidder arrives and the procedure continues.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem formulation",
+                    "BoundingBox": {
+                        "Width": 0.5454055666923523,
+                        "Height": 0.078818678855896,
+                        "Left": 0.22715364396572113,
+                        "Top": 0.06655117124319077
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3fa827be-de3e-43b7-8403-d12173ae9260",
+                    "Score": 0.6830788850784302
+                },
+                {
+                    "Text": "each bidder has a value distribution Di",
+                    "BoundingBox": {
+                        "Width": 0.4222599267959595,
+                        "Height": 0.04841911420226097,
+                        "Left": 0.07000011950731277,
+                        "Top": 0.24649827182292938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a6b57fb-7d8f-4a1c-9766-068ac97b9ee7",
+                    "Score": 0.8270580172538757
+                },
+                {
+                    "Text": "seller observes {Di}i and computes a price p",
+                    "BoundingBox": {
+                        "Width": 0.4920117259025574,
+                        "Height": 0.048898834735155106,
+                        "Left": 0.07070372998714447,
+                        "Top": 0.35737624764442444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "344a4ec3-441f-41cd-a129-8f1c48b965a0",
+                    "Score": 0.8696607351303101
+                },
+                {
+                    "Text": "bidders arrive one by one, each bidder observes own value Vi~Di and decides to accept or reject price p",
+                    "BoundingBox": {
+                        "Width": 0.8479005694389343,
+                        "Height": 0.10753817856311798,
+                        "Left": 0.07036935538053513,
+                        "Top": 0.47106701135635376
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0ab5f69d-13ca-433b-8eb9-c39d22722903",
+                    "Score": 0.8351625204086304
+                },
+                {
+                    "Text": "if accept: seller gets revenue p, auction terminates",
+                    "BoundingBox": {
+                        "Width": 0.5428239703178406,
+                        "Height": 0.04239632934331894,
+                        "Left": 0.09627572447061539,
+                        "Top": 0.6451114416122437
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b1c08476-06d0-4c1a-af02-e3f2163ebca7",
+                    "Score": 0.8472973108291626
+                },
+                {
+                    "Text": "if reject: bidder leaves and next bidder arrives",
+                    "BoundingBox": {
+                        "Width": 0.4928953945636749,
+                        "Height": 0.039584290236234665,
+                        "Left": 0.09623683243989944,
+                        "Top": 0.7463878989219666
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a419137-6e83-4af9-850c-c4d3367923ea",
+                    "Score": 0.7494473457336426
+                },
+                {
+                    "Text": "seller's goal: maximize expected revenue = p . Pr[at least one bidder accepts p]",
+                    "BoundingBox": {
+                        "Width": 0.8517045974731445,
+                        "Height": 0.04610184580087662,
+                        "Left": 0.07024013251066208,
+                        "Top": 0.8503016829490662
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67dafca7-4fa7-42a5-bb29-0966875917ce",
+                    "Score": 0.9095313549041748
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:42,742",
+            "end_time": "00:00:59,002",
+            "transcript": "The seller's goal is to choose a price P in the proper way so they can maximize the expected revenue, which is the product of the price and the probability that the item is sold, which is the probability that at least one bidder accepts the price.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem formulation",
+                    "BoundingBox": {
+                        "Width": 0.5454055666923523,
+                        "Height": 0.078818678855896,
+                        "Left": 0.22715364396572113,
+                        "Top": 0.06655117124319077
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "3fa827be-de3e-43b7-8403-d12173ae9260",
+                    "Score": 0.6830788850784302
+                },
+                {
+                    "Text": "each bidder has a value distribution Di",
+                    "BoundingBox": {
+                        "Width": 0.4222599267959595,
+                        "Height": 0.04841911420226097,
+                        "Left": 0.07000011950731277,
+                        "Top": 0.24649827182292938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9a6b57fb-7d8f-4a1c-9766-068ac97b9ee7",
+                    "Score": 0.8270580172538757
+                },
+                {
+                    "Text": "seller observes {Di}i and computes a price p",
+                    "BoundingBox": {
+                        "Width": 0.4920117259025574,
+                        "Height": 0.048898834735155106,
+                        "Left": 0.07070372998714447,
+                        "Top": 0.35737624764442444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "344a4ec3-441f-41cd-a129-8f1c48b965a0",
+                    "Score": 0.8696607351303101
+                },
+                {
+                    "Text": "bidders arrive one by one, each bidder observes own value Vi~Di and decides to accept or reject price p",
+                    "BoundingBox": {
+                        "Width": 0.8479005694389343,
+                        "Height": 0.10753817856311798,
+                        "Left": 0.07036935538053513,
+                        "Top": 0.47106701135635376
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0ab5f69d-13ca-433b-8eb9-c39d22722903",
+                    "Score": 0.8351625204086304
+                },
+                {
+                    "Text": "if accept: seller gets revenue p, auction terminates",
+                    "BoundingBox": {
+                        "Width": 0.5428239703178406,
+                        "Height": 0.04239632934331894,
+                        "Left": 0.09627572447061539,
+                        "Top": 0.6451114416122437
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b1c08476-06d0-4c1a-af02-e3f2163ebca7",
+                    "Score": 0.8472973108291626
+                },
+                {
+                    "Text": "if reject: bidder leaves and next bidder arrives",
+                    "BoundingBox": {
+                        "Width": 0.4928953945636749,
+                        "Height": 0.039584290236234665,
+                        "Left": 0.09623683243989944,
+                        "Top": 0.7463878989219666
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a419137-6e83-4af9-850c-c4d3367923ea",
+                    "Score": 0.7494473457336426
+                },
+                {
+                    "Text": "seller's goal: maximize expected revenue = p . Pr[at least one bidder accepts p]",
+                    "BoundingBox": {
+                        "Width": 0.8517045974731445,
+                        "Height": 0.04610184580087662,
+                        "Left": 0.07024013251066208,
+                        "Top": 0.8503016829490662
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67dafca7-4fa7-42a5-bb29-0966875917ce",
+                    "Score": 0.9095313549041748
+                }
+            ]
+        }
+    ]
+}

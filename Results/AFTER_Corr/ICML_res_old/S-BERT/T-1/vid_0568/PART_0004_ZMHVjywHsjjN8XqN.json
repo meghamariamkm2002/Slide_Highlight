@@ -1,0 +1,45 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,370",
+            "end_time": "00:00:06,053",
+            "transcript": "The general sequential episodic memory model, or GSEMM, deals with these two limitations.",
+            "MatchedRegion": [
+                {
+                    "Text": "General Sequential Episodic Memory Model (GSEMM) has a dynamic energy landscape capable of storing and retrieving of temporal memories in its dynamical evolution.",
+                    "BoundingBox": {
+                        "Width": 0.4362073540687561,
+                        "Height": 0.14139100909233093,
+                        "Left": 0.054878998547792435,
+                        "Top": 0.391903817653656
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60e93f30-2261-4edd-a667-7403bc364a86",
+                    "Score": 0.8448745012283325
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,533",
+            "end_time": "00:00:11,597",
+            "transcript": "We derive GSEMM by introducing asymmetric synapses with signal propagation delays in the GAMM.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:12,257",
+            "end_time": "00:00:19,002",
+            "transcript": "The asymmetric synapses result in the temporal behavior of the model and the delay stabilizes individual memories over time.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_MEOJKJ3n58NsNxBI",
+            "Score": 0.6138516664505005
+        },
+        {
+            "slide": "PART_0001_pXxJk9ctFPwTH6UL",
+            "Score": 0.7234017848968506
+        }
+    ]
+}

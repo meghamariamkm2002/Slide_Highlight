@@ -1,0 +1,82 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,210",
+            "end_time": "00:00:13,454",
+            "transcript": "Our work is motivated by accumulative poisoning attack, which utilizes the sequential order property of real-time data streaming for sneaky poisoning generation.",
+            "MatchedRegion": [
+                {
+                    "Text": "As the accumulative poisoning attack utilize the sequential order property of real-time data streaming for sneaky poisoning generation, we raise the following question:",
+                    "BoundingBox": {
+                        "Width": 0.8318005800247192,
+                        "Height": 0.06233128160238266,
+                        "Left": 0.05948998034000397,
+                        "Top": 0.6958681344985962
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "553fb4d1-390a-4a11-bcdc-a45845693664",
+                    "Score": 0.9657192826271057
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,414",
+            "end_time": "00:00:15,855",
+            "transcript": "We raised the following question.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,455",
+            "end_time": "00:00:25,938",
+            "transcript": "Can we also explore the information of model dynamics to gain some useful clues to identify the imperceptible accumulative poisoning attacks?",
+            "MatchedRegion": [
+                {
+                    "Text": "Can we also exploit the information of model dynamics to gain some useful clues to identify the imperceptible accumulative poisoning attacks?",
+                    "BoundingBox": {
+                        "Width": 0.7576057314872742,
+                        "Height": 0.05720315873622894,
+                        "Left": 0.11334364116191864,
+                        "Top": 0.7795817852020264
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "38eed38d-b045-47e8-bf30-69db85b50196",
+                    "Score": 0.9850533604621887
+                },
+                {
+                    "Text": "Exploring Model Dynamics for Accumulative Poisoning Discovery",
+                    "BoundingBox": {
+                        "Width": 0.6337752342224121,
+                        "Height": 0.03418121486902237,
+                        "Left": 0.0072855520993471146,
+                        "Top": 0.02240138128399849
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "892ece9a-6d8d-49d0-aebf-3731d4b83070",
+                    "Score": 0.8441513776779175
+                },
+                {
+                    "Text": "Accumulative Poisoning Attacks 90 Accumulative phase 0.8 clean 0.8 clean 80 Test accuracy before 0.7 poison 0.7 poison (clean) trigger batch: 70 82.09% 0.6 0.6 0.5 0.5 60 0.4 0.4 50 0.3 0.3 40 0.2 0.2 Burn-in phase 30 Test accuracy after 0.1 0.1 (clean) trigger batch: 20 27.66% 0.0 -2 0 2 4 0.0 6 8 -2.5 0.0 2.5 5.0 7.5 10.0 12.5 15.0 0 5 10 15 20 25 30 35 40 45 Static information with current model Discrepancy information with historical model Training epochs",
+                    "BoundingBox": {
+                        "Width": 0.7029129266738892,
+                        "Height": 0.2204442322254181,
+                        "Left": 0.26642730832099915,
+                        "Top": 0.3662503659725189
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "0fdf08fb-e874-4442-b691-93c217ad582f",
+                    "Score": 0.6267348527908325
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_rr0nhllbgyhEHg7P",
+            "Score": 0.6810788512229919
+        },
+        {
+            "slide": "PART_0001_R7Vln9RC6tI0pbWc",
+            "Score": 0.6665761470794678
+        }
+    ]
+}

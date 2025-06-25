@@ -1,0 +1,155 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,669",
+            "transcript": "the well-domained.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,770",
+            "end_time": "00:00:07,052",
+            "transcript": "The CARLANE Benchmark consists of three distinct sim-to-real datasets, which we build from our three different domains",
+            "MatchedRegion": [
+                {
+                    "Text": "The CARLANE Benchmark",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.3831692934036255,
+                        "Height": 0.047246333211660385,
+                        "Left": 0.03454586863517761,
+                        "Top": 0.035564593970775604
+                    },
+                    "Id": "1622ef93-af05-4900-be8a-0977839381ca"
+                },
+                {
+                    "Text": "The CARLANE Benchmark consists of three distinct sim-to-real datasets, which we build from our three different domains:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.850683331489563,
+                        "Height": 0.06193832680583,
+                        "Left": 0.053603965789079666,
+                        "Top": 0.15877434611320496
+                    },
+                    "Id": "d50dc9cf-33ef-4ade-a9e0-5f5431c18608"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,812",
+            "end_time": "00:00:11,694",
+            "transcript": "Moline focuses on abstract lane markings in the domain of a 1/8th Model vehicle.",
+            "MatchedRegion": [
+                {
+                    "Text": "MoLane",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.08251677453517914,
+                        "Height": 0.03002176061272621,
+                        "Left": 0.03697475045919418,
+                        "Top": 0.38053154945373535
+                    },
+                    "Id": "cc23dccd-cf89-40b9-a6c0-0be759524c28"
+                },
+                {
+                    "Text": "focuses on abstract lane markings in the domain of a 1/8th Model vehicle.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.30508163571357727,
+                        "Height": 0.06978338211774826,
+                        "Left": 0.1363299936056137,
+                        "Top": 0.3613431453704834
+                    },
+                    "Id": "454f49f6-aeef-4927-b368-a4309cffd111"
+                },
+                {
+                    "Text": "MoLane",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.03880199044942856,
+                        "Height": 0.015417697839438915,
+                        "Left": 0.6539137959480286,
+                        "Top": 0.4361543655395508
+                    },
+                    "Id": "b6e52d68-76a0-4b8b-832d-7a1b876ca443"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,395",
+            "end_time": "00:00:19,798",
+            "transcript": "Tulane incorporates balanced and domain randomized images from simulation as the source domain and the well-known TuSimple dataset as the target domain.",
+            "MatchedRegion": [
+                {
+                    "Text": "incorporates balanced and domain-randomized TuLane images from simulation as the source domain and the well-known TuSimple dataset.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4539164900779724,
+                        "Height": 0.11083197593688965,
+                        "Left": 0.04141167551279068,
+                        "Top": 0.5056071877479553
+                    },
+                    "Id": "78efc5ff-20ce-4528-a02d-7f9efdd79be0"
+                },
+                {
+                    "Text": "TuLane",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.03585987165570259,
+                        "Height": 0.015084749087691307,
+                        "Left": 0.8560206890106201,
+                        "Top": 0.4362547993659973
+                    },
+                    "Id": "f69192df-0301-4ed1-8a27-d3a4f01825e6"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,558",
+            "end_time": "00:00:24,520",
+            "transcript": "Moline is a balanced combination of Moline and Tulane with two target domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "MoLane",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.08251677453517914,
+                        "Height": 0.03002176061272621,
+                        "Left": 0.03697475045919418,
+                        "Top": 0.38053154945373535
+                    },
+                    "Id": "cc23dccd-cf89-40b9-a6c0-0be759524c28"
+                },
+                {
+                    "Text": "MoLane",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.03880199044942856,
+                        "Height": 0.015417697839438915,
+                        "Left": 0.6539137959480286,
+                        "Top": 0.4361543655395508
+                    },
+                    "Id": "b6e52d68-76a0-4b8b-832d-7a1b876ca443"
+                },
+                {
+                    "Text": "TuLane",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.03585987165570259,
+                        "Height": 0.015084749087691307,
+                        "Left": 0.8560206890106201,
+                        "Top": 0.4362547993659973
+                    },
+                    "Id": "f69192df-0301-4ed1-8a27-d3a4f01825e6"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,220",
+            "end_time": "00:00:28,822",
+            "transcript": "Samples of the source and target domains can be seen in the image on the right.",
+            "MatchedRegion": []
+        }
+    ]
+}

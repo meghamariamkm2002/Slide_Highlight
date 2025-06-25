@@ -1,0 +1,41 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,814",
+            "end_time": "00:00:14,960",
+            "transcript": "In these tables, the results demonstrate that our method increases the accuracy significantly on shifted data sets across all the tested data sets that are not from the ImageNet distribution, i.e., not ImageNetVal and not ImageNet-V2.",
+            "MatchedRegion": [
+                {
+                    "Text": "Results",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.09377378970384598,
+                        "Height": 0.044963184744119644,
+                        "Left": 0.07826141268014908,
+                        "Top": 0.12230193614959717
+                    },
+                    "Id": "9b455e95-e968-487b-8530-56d64b36e6f2"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,587",
+            "end_time": "00:00:28,816",
+            "transcript": "For example, the accuracy on the ImageNet A dataset is increased by 5.8% on average across all the architectures with human annotations and by 6.1% on average with dino annotations.",
+            "MatchedRegion": [
+                {
+                    "Text": "Results",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.09377378970384598,
+                        "Height": 0.044963184744119644,
+                        "Left": 0.07826141268014908,
+                        "Top": 0.12230193614959717
+                    },
+                    "Id": "9b455e95-e968-487b-8530-56d64b36e6f2"
+                }
+            ]
+        }
+    ]
+}

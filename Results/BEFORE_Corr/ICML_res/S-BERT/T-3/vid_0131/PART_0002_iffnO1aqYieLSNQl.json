@@ -1,0 +1,45 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,210",
+            "end_time": "00:00:13,454",
+            "transcript": "Our work is motivated by accumulative point-in-the-ring attack, which utilizes the sequential order property of real-time data streaming for sneaky point-in-the-ring generation.",
+            "MatchedRegion": [
+                {
+                    "Text": "As the accumulative poisoning attack utilize the sequential order property of real-time data streaming for sneaky poisoning generation, we raise the following question:",
+                    "BoundingBox": {
+                        "Width": 0.8318005800247192,
+                        "Height": 0.06233128160238266,
+                        "Left": 0.05948998034000397,
+                        "Top": 0.6958681344985962
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "553fb4d1-390a-4a11-bcdc-a45845693664",
+                    "Score": 0.684354305267334
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,414",
+            "end_time": "00:00:15,855",
+            "transcript": "We raised the following question.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,455",
+            "end_time": "00:00:25,938",
+            "transcript": "Can we also explore the information of modal dynamics to gain some useful clues to identify the imperceptible accumulative point-in-the-ring attacks?",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_rr0nhllbgyhEHg7P",
+            "Score": 0.666822612285614
+        },
+        {
+            "slide": "PART_0001_R7Vln9RC6tI0pbWc",
+            "Score": 0.6665762066841125
+        }
+    ]
+}

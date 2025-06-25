@@ -1,0 +1,30 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,699",
+            "end_time": "00:00:06,062",
+            "transcript": "Hi, my name is Cuba.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,443",
+            "end_time": "00:00:12,895",
+            "transcript": "Today, I would like to introduce our EHR SQL, a practical text to SQL benchmark for electronic health records.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL: A Practical Text-to-SQL Benchmark for Electronic Health Records",
+                    "BoundingBox": {
+                        "Width": 0.7748316526412964,
+                        "Height": 0.15453927218914032,
+                        "Left": 0.11337125301361084,
+                        "Top": 0.41333064436912537
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "85d8dbfe-5865-4735-96b0-68dcb8ca295a",
+                    "Score": 0.881544828414917
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

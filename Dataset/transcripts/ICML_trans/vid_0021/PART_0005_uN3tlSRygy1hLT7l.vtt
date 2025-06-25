@@ -1,0 +1,11 @@
+WEBVTT
+
+00:00.269 --> 00:04.991
+We compare with ValueDice and DAT, two state-of-the-art approaches, along with a custom ADC baseline.
+
+00:05.651 --> 00:13.373
+CFL is the only approach to achieve expert level performance on all tasks, while ValueDice, being semi-offline, has the advantage of interactions needed to reach expert level.
+
+00:13.874 --> 00:16.154
+That is, of course, only for the tasks it succeeds on.
+

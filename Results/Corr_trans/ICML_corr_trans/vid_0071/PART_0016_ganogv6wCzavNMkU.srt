@@ -1,0 +1,12 @@
+1
+00:00:00,009 --> 00:00:06,752
+However, even if there exist meaningful patterns in the training data, the DNN may still not learn these concepts.
+
+2
+00:00:07,592 --> 00:00:12,554
+A typical example is when the task can be conducted with some shortcut solutions.
+
+3
+00:00:13,635 --> 00:00:20,118
+In this case, the DNN probably converges to the shortcut solution, without encoding complex concepts.
+

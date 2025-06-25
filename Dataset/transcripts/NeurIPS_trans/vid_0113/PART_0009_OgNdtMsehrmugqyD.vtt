@@ -1,0 +1,17 @@
+WEBVTT
+
+00:01.790 --> 00:09.476
+To conclude, public health researchers can use mass code to mine valuable medical information from tweets.
+
+00:10.196 --> 00:26.528
+For example, the dataset can be used as a training dataset for examining public attitudes toward COVID-19 vaccines and drugs or tracking the public's mental status change during different COVID-19 phases and etc.
+
+00:27.771 --> 00:35.055
+Our experiments also show that current models have not fully exploited the data's potential.
+
+00:36.355 --> 00:42.058
+Therefore, we call for more efforts on developing models for social media-based public health studies.
+
+00:42.859 --> 00:48.902
+For coast data and guidelines, please refer to our paper and GitHub
+

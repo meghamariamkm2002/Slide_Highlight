@@ -1,0 +1,16 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:01,811",
+            "end_time": "00:00:10,218",
+            "transcript": "Therefore, we believe that we need more aspects to verify this metric can be used to quantify concepts learned by a DNN.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,059",
+            "end_time": "00:00:13,542",
+            "transcript": "Specifically, we propose four perspectives.",
+            "MatchedRegion": []
+        }
+    ]
+}

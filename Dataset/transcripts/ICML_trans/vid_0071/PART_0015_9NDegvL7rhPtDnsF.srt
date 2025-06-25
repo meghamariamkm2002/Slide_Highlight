@@ -1,0 +1,4 @@
+1
+00:00:01,271 --> 00:00:13,549
+In both cases, we found the decrease of transferability and determination power, because the noise corrupted the original discriminated patterns in each category.
+

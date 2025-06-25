@@ -1,0 +1,181 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,606",
+            "end_time": "00:00:13,917",
+            "transcript": "Last, in animal post tracking, we use representative object trackers with both CNN-based backbones and vision-transformers-based backbones to track each animal instance across the video clips.",
+            "MatchedRegion": [
+                {
+                    "Text": "Animal pose tracking(APT)",
+                    "BoundingBox": {
+                        "Width": 0.3446780741214752,
+                        "Height": 0.049053315073251724,
+                        "Left": 0.020396050065755844,
+                        "Top": 0.05616394802927971
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "49940dbb-d501-4f0d-9301-d46c4248aa71",
+                    "Score": 0.7612255811691284
+                },
+                {
+                    "Text": "1. In this track, we use representative object trackers with both CNN-based backbones and vision transformer-based backbones to track each animal instance across the video clips, giving each animal's ground truth bounding box in the first frame.",
+                    "BoundingBox": {
+                        "Width": 0.7165358066558838,
+                        "Height": 0.10019708424806595,
+                        "Left": 0.1467856764793396,
+                        "Top": 0.44666194915771484
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dc839b68-3240-4c98-8c13-1a97adfc5b01",
+                    "Score": 0.7322476506233215
+                },
+                {
+                    "Text": "1. It can be observed that vision transformer-based trackers obtain slightly better performance compared with CNN-based trackers.",
+                    "BoundingBox": {
+                        "Width": 0.7396261692047119,
+                        "Height": 0.05796588212251663,
+                        "Left": 0.14819280803203583,
+                        "Top": 0.6262006163597107
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3d9c2c79-716e-49ca-a5f4-2ee0d3f3d9a3",
+                    "Score": 0.7609527111053467
+                },
+                {
+                    "Text": "2. Even without further finetuning, the shared backbone model ViTTrack+ obtains superior performance in the APT track.",
+                    "BoundingBox": {
+                        "Width": 0.7304064035415649,
+                        "Height": 0.06500481814146042,
+                        "Left": 0.14577250182628632,
+                        "Top": 0.6971005201339722
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60c53f64-0fb5-42d4-a753-a02d291626c8",
+                    "Score": 0.7479835748672485
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,497",
+            "end_time": "00:00:20,802",
+            "transcript": "And it can be observed that vision-transformers-based trackers obtain slightly better performance.",
+            "MatchedRegion": [
+                {
+                    "Text": "Animal pose tracking(APT)",
+                    "BoundingBox": {
+                        "Width": 0.3446780741214752,
+                        "Height": 0.049053315073251724,
+                        "Left": 0.020396050065755844,
+                        "Top": 0.05616394802927971
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "49940dbb-d501-4f0d-9301-d46c4248aa71",
+                    "Score": 0.7612255811691284
+                },
+                {
+                    "Text": "1. In this track, we use representative object trackers with both CNN-based backbones and vision transformer-based backbones to track each animal instance across the video clips, giving each animal's ground truth bounding box in the first frame.",
+                    "BoundingBox": {
+                        "Width": 0.7165358066558838,
+                        "Height": 0.10019708424806595,
+                        "Left": 0.1467856764793396,
+                        "Top": 0.44666194915771484
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dc839b68-3240-4c98-8c13-1a97adfc5b01",
+                    "Score": 0.7322476506233215
+                },
+                {
+                    "Text": "1. It can be observed that vision transformer-based trackers obtain slightly better performance compared with CNN-based trackers.",
+                    "BoundingBox": {
+                        "Width": 0.7396261692047119,
+                        "Height": 0.05796588212251663,
+                        "Left": 0.14819280803203583,
+                        "Top": 0.6262006163597107
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3d9c2c79-716e-49ca-a5f4-2ee0d3f3d9a3",
+                    "Score": 0.7609527111053467
+                },
+                {
+                    "Text": "2. Even without further finetuning, the shared backbone model ViTTrack+ obtains superior performance in the APT track.",
+                    "BoundingBox": {
+                        "Width": 0.7304064035415649,
+                        "Height": 0.06500481814146042,
+                        "Left": 0.14577250182628632,
+                        "Top": 0.6971005201339722
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60c53f64-0fb5-42d4-a753-a02d291626c8",
+                    "Score": 0.7479835748672485
+                },
+                {
+                    "Text": "3. These results imply the potential of plain vision transformers as a foundation model for simultaneously serving multiple vision tasks, which is of great significance and deserves more research in future work.",
+                    "BoundingBox": {
+                        "Width": 0.7160610556602478,
+                        "Height": 0.06505099684000015,
+                        "Left": 0.14598549902439117,
+                        "Top": 0.7749438285827637
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "98001b23-c37c-4634-bebc-bb375a5aa270",
+                    "Score": 0.851344108581543
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:21,522",
+            "end_time": "00:00:29,609",
+            "transcript": "And we think these results imply the potential of plan vision-transformers as they fund mental models in the future work.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. In this track, we use representative object trackers with both CNN-based backbones and vision transformer-based backbones to track each animal instance across the video clips, giving each animal's ground truth bounding box in the first frame.",
+                    "BoundingBox": {
+                        "Width": 0.7165358066558838,
+                        "Height": 0.10019708424806595,
+                        "Left": 0.1467856764793396,
+                        "Top": 0.44666194915771484
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dc839b68-3240-4c98-8c13-1a97adfc5b01",
+                    "Score": 0.7322476506233215
+                },
+                {
+                    "Text": "1. It can be observed that vision transformer-based trackers obtain slightly better performance compared with CNN-based trackers.",
+                    "BoundingBox": {
+                        "Width": 0.7396261692047119,
+                        "Height": 0.05796588212251663,
+                        "Left": 0.14819280803203583,
+                        "Top": 0.6262006163597107
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3d9c2c79-716e-49ca-a5f4-2ee0d3f3d9a3",
+                    "Score": 0.7609527111053467
+                },
+                {
+                    "Text": "2. Even without further finetuning, the shared backbone model ViTTrack+ obtains superior performance in the APT track.",
+                    "BoundingBox": {
+                        "Width": 0.7304064035415649,
+                        "Height": 0.06500481814146042,
+                        "Left": 0.14577250182628632,
+                        "Top": 0.6971005201339722
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60c53f64-0fb5-42d4-a753-a02d291626c8",
+                    "Score": 0.7479835748672485
+                },
+                {
+                    "Text": "3. These results imply the potential of plain vision transformers as a foundation model for simultaneously serving multiple vision tasks, which is of great significance and deserves more research in future work.",
+                    "BoundingBox": {
+                        "Width": 0.7160610556602478,
+                        "Height": 0.06505099684000015,
+                        "Left": 0.14598549902439117,
+                        "Top": 0.7749438285827637
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "98001b23-c37c-4634-bebc-bb375a5aa270",
+                    "Score": 0.851344108581543
+                }
+            ]
+        }
+    ]
+}

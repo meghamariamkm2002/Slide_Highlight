@@ -1,0 +1,66 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,169",
+            "end_time": "00:00:00,809",
+            "transcript": "benchmarking.",
+            "MatchedRegion": [
+                {
+                    "Text": "3 Model Benchmarking",
+                    "BoundingBox": {
+                        "Width": 0.2927423119544983,
+                        "Height": 0.046421151608228683,
+                        "Left": 0.02827976457774639,
+                        "Top": 0.05057132989168167
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "71f52b0a-68de-4fd6-90d1-3edcda4b0187",
+                    "Score": 0.7048640847206116
+                },
+                {
+                    "Text": "Overall Performance",
+                    "BoundingBox": {
+                        "Width": 0.17737993597984314,
+                        "Height": 0.0267608854919672,
+                        "Left": 0.0585303008556366,
+                        "Top": 0.21560664474964142
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "6bc2fbb6-6cf1-4bd2-bfe8-d8686f8beb7d",
+                    "Score": 0.7097921967506409
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,870",
+            "end_time": "00:00:12,995",
+            "transcript": "We can observe that models incorporating COVID trigger birds as feature extractor significantly outperform other types of models on these TSA subsets.",
+            "MatchedRegion": [
+                {
+                    "Text": "The pre-trained models on COVID-19 tweets, such as COVID-TWITTER-BERT, can be utilized to further improve the performance of previous TSA models on the METS-CoV-TSA.",
+                    "BoundingBox": {
+                        "Width": 0.8601208329200745,
+                        "Height": 0.06591028720140457,
+                        "Left": 0.0812235176563263,
+                        "Top": 0.27065807580947876
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fa1b285f-f3d0-485a-8615-f9c7484998ea",
+                    "Score": 0.8307925462722778
+                },
+                {
+                    "Text": "Table 4: Model performance on METS-CoV-TSA dataset. (t means our implementation. The standard deviation of SVM model is not reported because the prediction of LibSVM4 is not affected by random seeds when the dataset splitting is fixed.)",
+                    "BoundingBox": {
+                        "Width": 0.7927069664001465,
+                        "Height": 0.11446083337068558,
+                        "Left": 0.0914791002869606,
+                        "Top": 0.3899111747741699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ff7ad35c-1ee7-4de4-8a9e-f30920705963",
+                    "Score": 0.7281621694564819
+                }
+            ]
+        }
+    ]
+}

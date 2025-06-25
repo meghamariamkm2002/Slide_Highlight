@@ -1,0 +1,17 @@
+WEBVTT
+
+00:01.121 --> 00:02.722
+Now, let's describe the method.
+
+00:03.302 --> 00:12.405
+We propose to manipulate the explainability maps of the model directly, to ensure that the model avoids using spurious correlations in the background and in the foreground of the image.
+
+00:13.305 --> 00:18.187
+Our main loss is comprised of two loss functions, L background and L foreground.
+
+00:19.107 --> 00:25.329
+L background prevents the model from over-interpreting the background by demanding that the relevance on the background is close to zero.
+
+00:26.260 --> 00:33.872
+The foreground encourages the model to use as much as the foreground as possible by encouraging the relevance on the foreground to be close to one.
+

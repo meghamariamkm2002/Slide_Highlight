@@ -1,0 +1,83 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,594",
+            "end_time": "00:00:09,931",
+            "transcript": "The first two cases are when there exists label noise in the training set, neither noise in label nor noise in sample.",
+            "MatchedRegion": [
+                {
+                    "Text": "Failure case 1: When there exists label noise",
+                    "BoundingBox": {
+                        "Width": 0.6254555583000183,
+                        "Height": 0.04691232740879059,
+                        "Left": 0.09720639884471893,
+                        "Top": 0.065825454890728
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "9a927d90-b397-4f39-9d9f-bf50a6cefddd",
+                    "Score": 0.8884010314941406
+                },
+                {
+                    "Text": "In this case, the DNN usually encodes more non-transferable concepts, because the DNN usually has to memorize each incorrectly-labeled training sample for classification without summarizing many common features from such chaotic annotations.",
+                    "BoundingBox": {
+                        "Width": 0.847665548324585,
+                        "Height": 0.12382795661687851,
+                        "Left": 0.07021975517272949,
+                        "Top": 0.19513830542564392
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2e7790e2-1411-4ca5-b0a5-cb671c8e06b6",
+                    "Score": 0.7885733842849731
+                },
+                {
+                    "Text": "0.8 r=0% r=2% 0,9 0,6 r=5% r=10% 0.4 r=20% 0.8 r=40% 0.2 r=80% 0,7 0.0 0 10 20 30 0% 2% 5% 10% 20% 40% 80% concept dictionary size k = |Dkl label noise level r",
+                    "BoundingBox": {
+                        "Width": 0.5482633709907532,
+                        "Height": 0.37325319647789,
+                        "Left": 0.22785472869873047,
+                        "Top": 0.3463590741157532
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "f771cc14-acf0-4b85-ac29-4a3db4f9aa1f",
+                    "Score": 0.7835426330566406
+                },
+                {
+                    "Text": "The concept dictionary usually explained much fewer concepts encoded by the network",
+                    "BoundingBox": {
+                        "Width": 0.7748857140541077,
+                        "Height": 0.050432201474905014,
+                        "Left": 0.11232136189937592,
+                        "Top": 0.770879328250885
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d7c0cd18-89b7-4daf-9611-563f405f53d8",
+                    "Score": 0.7387726306915283
+                },
+                {
+                    "Text": "The average discrimination power B of the extracted concepts also decreased",
+                    "BoundingBox": {
+                        "Width": 0.6902385950088501,
+                        "Height": 0.05058286339044571,
+                        "Left": 0.11213941127061844,
+                        "Top": 0.8166731595993042
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f2bafe68-47c7-4388-a327-b91ac69ef919",
+                    "Score": 0.7241626381874084
+                },
+                {
+                    "Text": "15",
+                    "BoundingBox": {
+                        "Width": 0.024030104279518127,
+                        "Height": 0.030511224642395973,
+                        "Left": 0.9543058276176453,
+                        "Top": 0.9266954064369202
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "4e2fd860-d349-44f6-9be3-4c40466561d3",
+                    "Score": 0.7047158479690552
+                }
+            ]
+        }
+    ]
+}

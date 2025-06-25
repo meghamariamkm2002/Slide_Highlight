@@ -1,0 +1,51 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:08,878",
+            "transcript": "We conduct various experiments from different perspectives of the proposed information measure to show its properties.",
+            "MatchedRegion": [
+                {
+                    "Text": "We conduct various experiments from different perspectives of the proposed information measure to show its properties. (e.g., backtracking intervals, threshold adjustment, poisoning capacity, and discrepancy measures)",
+                    "BoundingBox": {
+                        "Width": 0.16999401152133942,
+                        "Height": 0.2630336284637451,
+                        "Left": 0.7021515965461731,
+                        "Top": 0.4752826988697052
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "abaa533d-4720-4c94-bc50-f0f824202c1f",
+                    "Score": 0.7044776119402986
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,619",
+            "end_time": "00:00:15,386",
+            "transcript": "And we also compare the performance of our DSC with the representative method.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_rr0nhllbgyhEHg7P",
+            "Score": 0.619810938835144
+        },
+        {
+            "slide": "PART_0001_R7Vln9RC6tI0pbWc",
+            "Score": 0.6023747324943542
+        },
+        {
+            "slide": "PART_0002_iffnO1aqYieLSNQl",
+            "Score": 0.7984065413475037
+        },
+        {
+            "slide": "PART_0003_j1ClhMhgU1PD5wYA",
+            "Score": 0.6718987226486206
+        },
+        {
+            "slide": "PART_0004_kJOwEfCWYdy5iAHz",
+            "Score": 0.6105151772499084
+        }
+    ]
+}

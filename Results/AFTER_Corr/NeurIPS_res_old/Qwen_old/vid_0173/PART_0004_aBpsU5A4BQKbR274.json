@@ -1,0 +1,94 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,009",
+            "end_time": "00:00:10,132",
+            "transcript": "which make them kind of infeasible for real world out of the options because in practice we really want options to be simple and robust.",
+            "MatchedRegion": [
+                {
+                    "Text": "this talk: constant approximation posted-price mechanism (simple + robust) for autobidders (value-maximizing + ROl-constrained)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.837205708026886,
+                        "Height": 0.09562250971794128,
+                        "Left": 0.07031189650297165,
+                        "Top": 0.5465985536575317
+                    },
+                    "Id": "333f8804-6e0b-4d97-aa0c-af5d9b02b1f9"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,012",
+            "end_time": "00:00:20,295",
+            "transcript": "So they are easy for users to understand and they are easy for the standard to compute and they can tolerate inaccurate priors.",
+            "MatchedRegion": [
+                {
+                    "Text": "simplicity: easy for users to understand, computational efficiency",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7227407097816467,
+                        "Height": 0.04301515594124794,
+                        "Left": 0.09655169397592545,
+                        "Top": 0.34000760316848755
+                    },
+                    "Id": "86c3145d-8d9f-4e2e-8932-f19557c75183"
+                },
+                {
+                    "Text": "robustness: tolerance to inaccurate priors",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.47235292196273804,
+                        "Height": 0.041429873555898666,
+                        "Left": 0.09641774743795395,
+                        "Top": 0.44487980008125305
+                    },
+                    "Id": "0d7c64ed-6fc6-4544-81ae-3fb6aea28510"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,288",
+            "end_time": "00:00:34,011",
+            "transcript": "In this talk, we give a constant approximation posted price mechanism, which is both simple and robust for alibiders who are value maximizing subject to RI constraints.",
+            "MatchedRegion": [
+                {
+                    "Text": "this talk: constant approximation posted-price mechanism (simple + robust) for autobidders (value-maximizing + ROl-constrained)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.837205708026886,
+                        "Height": 0.09562250971794128,
+                        "Left": 0.07031189650297165,
+                        "Top": 0.5465985536575317
+                    },
+                    "Id": "333f8804-6e0b-4d97-aa0c-af5d9b02b1f9"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:35,332",
+            "end_time": "00:00:42,093",
+            "transcript": "To complement this result, we show that there is a non-trivial lower bound for posted price mechanisms with autobidders.",
+            "MatchedRegion": [
+                {
+                    "Text": "on the negative side: nontrivial lower bound for posted-price mechanisms",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8153055310249329,
+                        "Height": 0.04247508943080902,
+                        "Left": 0.09665549546480179,
+                        "Top": 0.7026506066322327
+                    },
+                    "Id": "c791cf51-eae3-46e2-bcd4-5fc92e627a2f"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:42,714",
+            "end_time": "00:00:47,755",
+            "transcript": "And as by-products, we also give results about dynamic auctions and combinatorial auctions",
+            "MatchedRegion": []
+        }
+    ]
+}

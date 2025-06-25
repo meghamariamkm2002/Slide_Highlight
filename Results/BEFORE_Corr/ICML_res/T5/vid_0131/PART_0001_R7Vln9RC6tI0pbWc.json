@@ -1,0 +1,28 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,130",
+            "end_time": "00:00:04,663",
+            "transcript": "This is the outline of this presentation.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:04,885",
+            "end_time": "00:00:06,372",
+            "transcript": "The first part is background.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.2346334457397461,
+                        "Height": 0.0518421046435833,
+                        "Left": 0.06205221265554428,
+                        "Top": 0.37167829275131226
+                    },
+                    "Id": "70e52bae-0f35-4794-9c42-bc8fe5f03961"
+                }
+            ]
+        }
+    ]
+}

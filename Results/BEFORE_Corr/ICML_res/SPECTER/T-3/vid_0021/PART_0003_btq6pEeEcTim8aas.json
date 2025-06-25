@@ -1,0 +1,3497 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,850",
+            "end_time": "00:00:07,094",
+            "transcript": "To couple them, we employ the Donsker-Varadhan form of the KL whose optimality point is precisely at the negative log distribution ratio.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our Approach",
+                    "BoundingBox": {
+                        "Width": 0.2552487254142761,
+                        "Height": 0.07418031245470047,
+                        "Left": 0.08381976932287216,
+                        "Top": 0.1310279369354248
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4825b256-e12c-4580-ac60-57e9cfd8e86c",
+                    "Score": 0.7574312686920166
+                },
+                {
+                    "Text": "To couple them, we employ the Donsker-Varadhan form of the KL:",
+                    "BoundingBox": {
+                        "Width": 0.43984246253967285,
+                        "Height": 0.052858587354421616,
+                        "Left": 0.08627782016992569,
+                        "Top": 0.25599557161331177
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c8c819e8-ff9c-4713-9ecf-6d34aad70126",
+                    "Score": 0.7307854890823364
+                },
+                {
+                    "Text": "= -",
+                    "BoundingBox": {
+                        "Width": 0.23357291519641876,
+                        "Height": 0.00954031478613615,
+                        "Left": 0.11957528442144394,
+                        "Top": 0.34276002645492554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a7599c03-b105-4792-8f6b-56f2ef63f659",
+                    "Score": 0.692771852016449
+                },
+                {
+                    "Text": "Optimality point: =",
+                    "BoundingBox": {
+                        "Width": 0.150637686252594,
+                        "Height": 0.026235166937112808,
+                        "Left": 0.12012599408626556,
+                        "Top": 0.3906784653663635
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d4b1f6a1-d364-4920-b307-a560af90cc23",
+                    "Score": 0.6421314477920532
+                },
+                {
+                    "Text": "Precisely the negative log distribution ratio!",
+                    "BoundingBox": {
+                        "Width": 0.22660091519355774,
+                        "Height": 0.02336869388818741,
+                        "Left": 0.1502748280763626,
+                        "Top": 0.4373888075351715
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "934b5d3e-e7d7-4e34-8a72-d14f1ee02c65",
+                    "Score": 0.7397570610046387
+                },
+                {
+                    "Text": "Can compute X through the DV and use -X as reward in an RL algorithm",
+                    "BoundingBox": {
+                        "Width": 0.3708685040473938,
+                        "Height": 0.02624555677175522,
+                        "Left": 0.14954575896263123,
+                        "Top": 0.4718223512172699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bdd204f0-974f-4dd5-99eb-612d5e8b7e61",
+                    "Score": 0.7735795378684998
+                },
+                {
+                    "Text": "Set = - logq(s,a)",
+                    "BoundingBox": {
+                        "Width": 0.22249743342399597,
+                        "Height": 0.025945404544472694,
+                        "Left": 0.1498292088508606,
+                        "Top": 0.509273886680603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bea63f48-35d4-4514-aa0c-ecdc746cdd5c",
+                    "Score": 0.7594764232635498
+                },
+                {
+                    "Text": "Guarantees more meaningful values when the flows are evaluated on each others data",
+                    "BoundingBox": {
+                        "Width": 0.44531604647636414,
+                        "Height": 0.046655502170324326,
+                        "Left": 0.12046785652637482,
+                        "Top": 0.5451908707618713
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3eed7128-8c33-448c-b303-5750aa44fa69",
+                    "Score": 0.7115473747253418
+                },
+                {
+                    "Text": "Note the drop at the end occurs precisely beyond expert level",
+                    "BoundingBox": {
+                        "Width": 0.31147831678390503,
+                        "Height": 0.02544696070253849,
+                        "Left": 0.14978119730949402,
+                        "Top": 0.608549177646637
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "95f7dceb-e8bf-426c-84e0-5ed0230bf165",
+                    "Score": 0.7815161347389221
+                },
+                {
+                    "Text": "Additional components:",
+                    "BoundingBox": {
+                        "Width": 0.17354679107666016,
+                        "Height": 0.028303956612944603,
+                        "Left": 0.08618079125881195,
+                        "Top": 0.646504819393158
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f841b72b-4c60-4839-ae44-3640f5a42565",
+                    "Score": 0.744364321231842
+                },
+                {
+                    "Text": "Squasher",
+                    "BoundingBox": {
+                        "Width": 0.0780271664261818,
+                        "Height": 0.026117246598005295,
+                        "Left": 0.12009787559509277,
+                        "Top": 0.6896262764930725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3ff198c2-4a27-4b30-987c-515fba878268",
+                    "Score": 0.7175924777984619
+                },
+                {
+                    "Text": "Flow regularization",
+                    "BoundingBox": {
+                        "Width": 0.14271873235702515,
+                        "Height": 0.027549488469958305,
+                        "Left": 0.12034054845571518,
+                        "Top": 0.7314811944961548
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfc7bc0f-2a04-45d6-b4a4-ff6e6315f306",
+                    "Score": 0.8126780986785889
+                },
+                {
+                    "Text": "Smoothing",
+                    "BoundingBox": {
+                        "Width": 0.09060020744800568,
+                        "Height": 0.02719319611787796,
+                        "Left": 0.11993347853422165,
+                        "Top": 0.7740697860717773
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7cd0c497-ee7a-44a2-872a-b2c8b7e80935",
+                    "Score": 0.7492398023605347
+                },
+                {
+                    "Text": "Coupled Flow Imitation Learning (CFIL)",
+                    "BoundingBox": {
+                        "Width": 0.30069637298583984,
+                        "Height": 0.03103284165263176,
+                        "Left": 0.08596180379390717,
+                        "Top": 0.815504789352417
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a63e44fa-d29b-4cd0-9fce-600b8a098471",
+                    "Score": 0.9689202308654785
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c",
+                    "Score": 0.8037679195404053
+                },
+                {
+                    "Text": "Algorithm 1 CFIL",
+                    "BoundingBox": {
+                        "Width": 0.0828833132982254,
+                        "Height": 0.019590632990002632,
+                        "Left": 0.670870304107666,
+                        "Top": 0.3362143933773041
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f5bb092-d9c3-498a-a238-9158330c6dc1",
+                    "Score": 0.7705063819885254
+                },
+                {
+                    "Text": "Input: Expert demos parameterized flow pair off-policy RL algorithm A; density update rate k; squashing function o: regularization and smoothing coefficients a,B. Define: -log qo)",
+                    "BoundingBox": {
+                        "Width": 0.2560811936855316,
+                        "Height": 0.11572200059890747,
+                        "Left": 0.6708709597587585,
+                        "Top": 0.36365148425102234
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d8cf97a-505f-470a-97d1-bc573495715a",
+                    "Score": 0.7444448471069336
+                },
+                {
+                    "Text": "1: for timestep t = 0,1, do",
+                    "BoundingBox": {
+                        "Width": 0.1396663635969162,
+                        "Height": 0.020521555095911026,
+                        "Left": 0.6773104667663574,
+                        "Top": 0.4840567111968994
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c9b4ecf2-ced6-497b-ac84-33ad5c814b56",
+                    "Score": 0.8228523135185242
+                },
+                {
+                    "Text": "2: Take a step in A with reward r = -x.o. while filling agent buffer RA and potentially updating the policy and value networks according to A's settings.",
+                    "BoundingBox": {
+                        "Width": 0.25170138478279114,
+                        "Height": 0.06944938749074936,
+                        "Left": 0.6767525672912598,
+                        "Top": 0.5066950917243958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "24095792-725d-44b3-bb21-75249eb40647",
+                    "Score": 0.7177184224128723
+                },
+                {
+                    "Text": "3: if t mod k = 0 then",
+                    "BoundingBox": {
+                        "Width": 0.11795639991760254,
+                        "Height": 0.017107278108596802,
+                        "Left": 0.6768065690994263,
+                        "Top": 0.576528012752533
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "76915d78-4e4c-4d4b-8b16-4026604fb6e2",
+                    "Score": 0.6981593370437622
+                },
+                {
+                    "Text": "4: Sample expert and agent batches:",
+                    "BoundingBox": {
+                        "Width": 0.1799318790435791,
+                        "Height": 0.021673336625099182,
+                        "Left": 0.6768251657485962,
+                        "Top": 0.5996250510215759
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b4697cd7-ab1f-4ed7-89c2-3609bbed1415",
+                    "Score": 0.7435723543167114
+                },
+                {
+                    "Text": "5: {(s,at)}M1~RE and{(st,at)}M1~RA",
+                    "BoundingBox": {
+                        "Width": 0.2364535927772522,
+                        "Height": 0.026747502386569977,
+                        "Left": 0.676265299320221,
+                        "Top": 0.6197099685668945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bfa1c18-7b7f-4fb9-bd9c-7ef17e605918",
+                    "Score": 0.7762458920478821
+                },
+                {
+                    "Text": "6: if smooth then",
+                    "BoundingBox": {
+                        "Width": 0.09955423325300217,
+                        "Height": 0.017305947840213776,
+                        "Left": 0.6762852668762207,
+                        "Top": 0.6461942791938782
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60fb100f-db96-4986-bfed-ab475e9c9af3",
+                    "Score": 0.746662437915802
+                },
+                {
+                    "Text": "7: (s,a)+=.(s,a)ou,u~U(-11)dim((sa)",
+                    "BoundingBox": {
+                        "Width": 0.2635779082775116,
+                        "Height": 0.029066184535622597,
+                        "Left": 0.6768776774406433,
+                        "Top": 0.6657017469406128
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1be06b00-b276-4734-b238-99f464e33653",
+                    "Score": 0.7140491008758545
+                },
+                {
+                    "Text": "8: end if",
+                    "BoundingBox": {
+                        "Width": 0.06257922202348709,
+                        "Height": 0.016439352184534073,
+                        "Left": 0.6763218641281128,
+                        "Top": 0.6928592920303345
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "948e42db-4f20-4e39-ad59-50b2d7ee189e",
+                    "Score": 0.7623188495635986
+                },
+                {
+                    "Text": "9: Compute loss: x(sa",
+                    "BoundingBox": {
+                        "Width": 0.24823442101478577,
+                        "Height": 0.05238351225852966,
+                        "Left": 0.6763402819633484,
+                        "Top": 0.7145422697067261
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e30f0ca-efe1-40da-b7ed-fca093135917",
+                    "Score": 0.7363237142562866
+                },
+                {
+                    "Text": "10:",
+                    "BoundingBox": {
+                        "Width": 0.010174974799156189,
+                        "Height": 0.014248657040297985,
+                        "Left": 0.6740590929985046,
+                        "Top": 0.7435961961746216
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "524288c9-dd3d-439b-85bf-6f0656bb2f83",
+                    "Score": 0.7697439193725586
+                },
+                {
+                    "Text": "11:",
+                    "BoundingBox": {
+                        "Width": 0.010381573811173439,
+                        "Height": 0.013858991675078869,
+                        "Left": 0.6740780472755432,
+                        "Top": 0.767194390296936
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d558716-c7de-4f7c-b0c0-3fc4019cd652",
+                    "Score": 0.7640563249588013
+                },
+                {
+                    "Text": "12:",
+                    "BoundingBox": {
+                        "Width": 0.01013150904327631,
+                        "Height": 0.013978523202240467,
+                        "Left": 0.6740962862968445,
+                        "Top": 0.7899336814880371
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ad5ba8ae-ce32-493e-bc2b-d5224df7e579",
+                    "Score": 0.7551001310348511
+                },
+                {
+                    "Text": "13:",
+                    "BoundingBox": {
+                        "Width": 0.010812133550643921,
+                        "Height": 0.014367709867656231,
+                        "Left": 0.6735395789146423,
+                        "Top": 0.8131252527236938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "55c46651-04b5-4a9c-b223-ca30fd35bd8f",
+                    "Score": 0.7551751732826233
+                },
+                {
+                    "Text": "if flow reg then",
+                    "BoundingBox": {
+                        "Width": 0.06708834320306778,
+                        "Height": 0.02099611610174179,
+                        "Left": 0.7114844918251038,
+                        "Top": 0.7643839716911316
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a0445ae-a794-4a66-ba96-7aa5e0d2be1c",
+                    "Score": 0.786113977432251
+                },
+                {
+                    "Text": "Compute regularization loss:",
+                    "BoundingBox": {
+                        "Width": 0.12926647067070007,
+                        "Height": 0.02089293673634529,
+                        "Left": 0.7184028029441833,
+                        "Top": 0.7869296073913574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0705f86d-f8fb-4bd7-b18a-d4d26bce59c1",
+                    "Score": 0.7638189792633057
+                },
+                {
+                    "Text": "14:",
+                    "BoundingBox": {
+                        "Width": 0.011405645869672298,
+                        "Height": 0.01407183613628149,
+                        "Left": 0.6729835867881775,
+                        "Top": 0.8370752334594727
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b6bdaf92-dfa8-43fb-ac31-1506ce1693a9",
+                    "Score": 0.7364600896835327
+                },
+                {
+                    "Text": "15:",
+                    "BoundingBox": {
+                        "Width": 0.010854097083210945,
+                        "Height": 0.014848075807094574,
+                        "Left": 0.673576831817627,
+                        "Top": 0.8593888878822327
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bab8e169-8617-49a6-9633-27e2a3473ea9",
+                    "Score": 0.7472083568572998
+                },
+                {
+                    "Text": "16:",
+                    "BoundingBox": {
+                        "Width": 0.010898884385824203,
+                        "Height": 0.0146627863869071,
+                        "Left": 0.6735957264900208,
+                        "Top": 0.8828087449073792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "13bdf215-4d25-4a4c-ab99-c87fc9f75b2d",
+                    "Score": 0.7467216849327087
+                },
+                {
+                    "Text": "17:",
+                    "BoundingBox": {
+                        "Width": 0.010808435268700123,
+                        "Height": 0.014661555178463459,
+                        "Left": 0.6736141443252563,
+                        "Top": 0.9056627154350281
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfdf41bc-b948-4510-9581-41b0aea14195",
+                    "Score": 0.754075288772583
+                },
+                {
+                    "Text": "18:",
+                    "BoundingBox": {
+                        "Width": 0.01009803544729948,
+                        "Height": 0.014707306399941444,
+                        "Left": 0.6742080450057983,
+                        "Top": 0.9291086196899414
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d88bd10c-6ab5-4495-938b-647fcb3649e8",
+                    "Score": 0.7550474405288696
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.028965437784790993,
+                        "Height": 0.016280539333820343,
+                        "Left": 0.7098132967948914,
+                        "Top": 0.8575446605682373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8cf6b068-82bc-46f9-9566-383d828e4d78",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.027254844084382057,
+                        "Height": 0.015744755044579506,
+                        "Left": 0.7005547881126404,
+                        "Top": 0.9277599453926086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8d9a579e-728c-4beb-a0da-971be66c2cdc",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "19: end for",
+                    "BoundingBox": {
+                        "Width": 0.049652159214019775,
+                        "Height": 0.015879152342677116,
+                        "Left": 0.6736507415771484,
+                        "Top": 0.9506427645683289
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e9c920d0-cda9-4f83-8168-911265d8695d",
+                    "Score": 0.7775236368179321
+                },
+                {
+                    "Text": "Update Update",
+                    "BoundingBox": {
+                        "Width": 0.03438271954655647,
+                        "Height": 0.04311647266149521,
+                        "Left": 0.7086775302886963,
+                        "Top": 0.8816715478897095
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a92f2adc-9bad-48a0-9e04-548f5b4526e7",
+                    "Score": 0.7382539510726929
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,555",
+            "end_time": "00:00:13,119",
+            "transcript": "Therefore, we can alternate between computing x through the DV and using -x as your reward in an RL algorithm.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our Approach",
+                    "BoundingBox": {
+                        "Width": 0.2552487254142761,
+                        "Height": 0.07418031245470047,
+                        "Left": 0.08381976932287216,
+                        "Top": 0.1310279369354248
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4825b256-e12c-4580-ac60-57e9cfd8e86c",
+                    "Score": 0.7574312686920166
+                },
+                {
+                    "Text": "To couple them, we employ the Donsker-Varadhan form of the KL:",
+                    "BoundingBox": {
+                        "Width": 0.43984246253967285,
+                        "Height": 0.052858587354421616,
+                        "Left": 0.08627782016992569,
+                        "Top": 0.25599557161331177
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c8c819e8-ff9c-4713-9ecf-6d34aad70126",
+                    "Score": 0.7307854890823364
+                },
+                {
+                    "Text": "= -",
+                    "BoundingBox": {
+                        "Width": 0.23357291519641876,
+                        "Height": 0.00954031478613615,
+                        "Left": 0.11957528442144394,
+                        "Top": 0.34276002645492554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a7599c03-b105-4792-8f6b-56f2ef63f659",
+                    "Score": 0.692771852016449
+                },
+                {
+                    "Text": "Optimality point: =",
+                    "BoundingBox": {
+                        "Width": 0.150637686252594,
+                        "Height": 0.026235166937112808,
+                        "Left": 0.12012599408626556,
+                        "Top": 0.3906784653663635
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d4b1f6a1-d364-4920-b307-a560af90cc23",
+                    "Score": 0.6421314477920532
+                },
+                {
+                    "Text": "Precisely the negative log distribution ratio!",
+                    "BoundingBox": {
+                        "Width": 0.22660091519355774,
+                        "Height": 0.02336869388818741,
+                        "Left": 0.1502748280763626,
+                        "Top": 0.4373888075351715
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "934b5d3e-e7d7-4e34-8a72-d14f1ee02c65",
+                    "Score": 0.7397570610046387
+                },
+                {
+                    "Text": "Can compute X through the DV and use -X as reward in an RL algorithm",
+                    "BoundingBox": {
+                        "Width": 0.3708685040473938,
+                        "Height": 0.02624555677175522,
+                        "Left": 0.14954575896263123,
+                        "Top": 0.4718223512172699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bdd204f0-974f-4dd5-99eb-612d5e8b7e61",
+                    "Score": 0.7735795378684998
+                },
+                {
+                    "Text": "Set = - logq(s,a)",
+                    "BoundingBox": {
+                        "Width": 0.22249743342399597,
+                        "Height": 0.025945404544472694,
+                        "Left": 0.1498292088508606,
+                        "Top": 0.509273886680603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bea63f48-35d4-4514-aa0c-ecdc746cdd5c",
+                    "Score": 0.7594764232635498
+                },
+                {
+                    "Text": "Guarantees more meaningful values when the flows are evaluated on each others data",
+                    "BoundingBox": {
+                        "Width": 0.44531604647636414,
+                        "Height": 0.046655502170324326,
+                        "Left": 0.12046785652637482,
+                        "Top": 0.5451908707618713
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3eed7128-8c33-448c-b303-5750aa44fa69",
+                    "Score": 0.7115473747253418
+                },
+                {
+                    "Text": "Note the drop at the end occurs precisely beyond expert level",
+                    "BoundingBox": {
+                        "Width": 0.31147831678390503,
+                        "Height": 0.02544696070253849,
+                        "Left": 0.14978119730949402,
+                        "Top": 0.608549177646637
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "95f7dceb-e8bf-426c-84e0-5ed0230bf165",
+                    "Score": 0.7815161347389221
+                },
+                {
+                    "Text": "Additional components:",
+                    "BoundingBox": {
+                        "Width": 0.17354679107666016,
+                        "Height": 0.028303956612944603,
+                        "Left": 0.08618079125881195,
+                        "Top": 0.646504819393158
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f841b72b-4c60-4839-ae44-3640f5a42565",
+                    "Score": 0.744364321231842
+                },
+                {
+                    "Text": "Squasher",
+                    "BoundingBox": {
+                        "Width": 0.0780271664261818,
+                        "Height": 0.026117246598005295,
+                        "Left": 0.12009787559509277,
+                        "Top": 0.6896262764930725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3ff198c2-4a27-4b30-987c-515fba878268",
+                    "Score": 0.7175924777984619
+                },
+                {
+                    "Text": "Flow regularization",
+                    "BoundingBox": {
+                        "Width": 0.14271873235702515,
+                        "Height": 0.027549488469958305,
+                        "Left": 0.12034054845571518,
+                        "Top": 0.7314811944961548
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfc7bc0f-2a04-45d6-b4a4-ff6e6315f306",
+                    "Score": 0.8126780986785889
+                },
+                {
+                    "Text": "Smoothing",
+                    "BoundingBox": {
+                        "Width": 0.09060020744800568,
+                        "Height": 0.02719319611787796,
+                        "Left": 0.11993347853422165,
+                        "Top": 0.7740697860717773
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7cd0c497-ee7a-44a2-872a-b2c8b7e80935",
+                    "Score": 0.7492398023605347
+                },
+                {
+                    "Text": "Coupled Flow Imitation Learning (CFIL)",
+                    "BoundingBox": {
+                        "Width": 0.30069637298583984,
+                        "Height": 0.03103284165263176,
+                        "Left": 0.08596180379390717,
+                        "Top": 0.815504789352417
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a63e44fa-d29b-4cd0-9fce-600b8a098471",
+                    "Score": 0.9689202308654785
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c",
+                    "Score": 0.8037679195404053
+                },
+                {
+                    "Text": "Algorithm 1 CFIL",
+                    "BoundingBox": {
+                        "Width": 0.0828833132982254,
+                        "Height": 0.019590632990002632,
+                        "Left": 0.670870304107666,
+                        "Top": 0.3362143933773041
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f5bb092-d9c3-498a-a238-9158330c6dc1",
+                    "Score": 0.7705063819885254
+                },
+                {
+                    "Text": "Input: Expert demos parameterized flow pair off-policy RL algorithm A; density update rate k; squashing function o: regularization and smoothing coefficients a,B. Define: -log qo)",
+                    "BoundingBox": {
+                        "Width": 0.2560811936855316,
+                        "Height": 0.11572200059890747,
+                        "Left": 0.6708709597587585,
+                        "Top": 0.36365148425102234
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d8cf97a-505f-470a-97d1-bc573495715a",
+                    "Score": 0.7444448471069336
+                },
+                {
+                    "Text": "1: for timestep t = 0,1, do",
+                    "BoundingBox": {
+                        "Width": 0.1396663635969162,
+                        "Height": 0.020521555095911026,
+                        "Left": 0.6773104667663574,
+                        "Top": 0.4840567111968994
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c9b4ecf2-ced6-497b-ac84-33ad5c814b56",
+                    "Score": 0.8228523135185242
+                },
+                {
+                    "Text": "2: Take a step in A with reward r = -x.o. while filling agent buffer RA and potentially updating the policy and value networks according to A's settings.",
+                    "BoundingBox": {
+                        "Width": 0.25170138478279114,
+                        "Height": 0.06944938749074936,
+                        "Left": 0.6767525672912598,
+                        "Top": 0.5066950917243958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "24095792-725d-44b3-bb21-75249eb40647",
+                    "Score": 0.7177184224128723
+                },
+                {
+                    "Text": "3: if t mod k = 0 then",
+                    "BoundingBox": {
+                        "Width": 0.11795639991760254,
+                        "Height": 0.017107278108596802,
+                        "Left": 0.6768065690994263,
+                        "Top": 0.576528012752533
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "76915d78-4e4c-4d4b-8b16-4026604fb6e2",
+                    "Score": 0.6981593370437622
+                },
+                {
+                    "Text": "4: Sample expert and agent batches:",
+                    "BoundingBox": {
+                        "Width": 0.1799318790435791,
+                        "Height": 0.021673336625099182,
+                        "Left": 0.6768251657485962,
+                        "Top": 0.5996250510215759
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b4697cd7-ab1f-4ed7-89c2-3609bbed1415",
+                    "Score": 0.7435723543167114
+                },
+                {
+                    "Text": "5: {(s,at)}M1~RE and{(st,at)}M1~RA",
+                    "BoundingBox": {
+                        "Width": 0.2364535927772522,
+                        "Height": 0.026747502386569977,
+                        "Left": 0.676265299320221,
+                        "Top": 0.6197099685668945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bfa1c18-7b7f-4fb9-bd9c-7ef17e605918",
+                    "Score": 0.7762458920478821
+                },
+                {
+                    "Text": "6: if smooth then",
+                    "BoundingBox": {
+                        "Width": 0.09955423325300217,
+                        "Height": 0.017305947840213776,
+                        "Left": 0.6762852668762207,
+                        "Top": 0.6461942791938782
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60fb100f-db96-4986-bfed-ab475e9c9af3",
+                    "Score": 0.746662437915802
+                },
+                {
+                    "Text": "7: (s,a)+=.(s,a)ou,u~U(-11)dim((sa)",
+                    "BoundingBox": {
+                        "Width": 0.2635779082775116,
+                        "Height": 0.029066184535622597,
+                        "Left": 0.6768776774406433,
+                        "Top": 0.6657017469406128
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1be06b00-b276-4734-b238-99f464e33653",
+                    "Score": 0.7140491008758545
+                },
+                {
+                    "Text": "8: end if",
+                    "BoundingBox": {
+                        "Width": 0.06257922202348709,
+                        "Height": 0.016439352184534073,
+                        "Left": 0.6763218641281128,
+                        "Top": 0.6928592920303345
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "948e42db-4f20-4e39-ad59-50b2d7ee189e",
+                    "Score": 0.7623188495635986
+                },
+                {
+                    "Text": "9: Compute loss: x(sa",
+                    "BoundingBox": {
+                        "Width": 0.24823442101478577,
+                        "Height": 0.05238351225852966,
+                        "Left": 0.6763402819633484,
+                        "Top": 0.7145422697067261
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e30f0ca-efe1-40da-b7ed-fca093135917",
+                    "Score": 0.7363237142562866
+                },
+                {
+                    "Text": "10:",
+                    "BoundingBox": {
+                        "Width": 0.010174974799156189,
+                        "Height": 0.014248657040297985,
+                        "Left": 0.6740590929985046,
+                        "Top": 0.7435961961746216
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "524288c9-dd3d-439b-85bf-6f0656bb2f83",
+                    "Score": 0.7697439193725586
+                },
+                {
+                    "Text": "11:",
+                    "BoundingBox": {
+                        "Width": 0.010381573811173439,
+                        "Height": 0.013858991675078869,
+                        "Left": 0.6740780472755432,
+                        "Top": 0.767194390296936
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d558716-c7de-4f7c-b0c0-3fc4019cd652",
+                    "Score": 0.7640563249588013
+                },
+                {
+                    "Text": "12:",
+                    "BoundingBox": {
+                        "Width": 0.01013150904327631,
+                        "Height": 0.013978523202240467,
+                        "Left": 0.6740962862968445,
+                        "Top": 0.7899336814880371
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ad5ba8ae-ce32-493e-bc2b-d5224df7e579",
+                    "Score": 0.7551001310348511
+                },
+                {
+                    "Text": "13:",
+                    "BoundingBox": {
+                        "Width": 0.010812133550643921,
+                        "Height": 0.014367709867656231,
+                        "Left": 0.6735395789146423,
+                        "Top": 0.8131252527236938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "55c46651-04b5-4a9c-b223-ca30fd35bd8f",
+                    "Score": 0.7551751732826233
+                },
+                {
+                    "Text": "if flow reg then",
+                    "BoundingBox": {
+                        "Width": 0.06708834320306778,
+                        "Height": 0.02099611610174179,
+                        "Left": 0.7114844918251038,
+                        "Top": 0.7643839716911316
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a0445ae-a794-4a66-ba96-7aa5e0d2be1c",
+                    "Score": 0.786113977432251
+                },
+                {
+                    "Text": "Compute regularization loss:",
+                    "BoundingBox": {
+                        "Width": 0.12926647067070007,
+                        "Height": 0.02089293673634529,
+                        "Left": 0.7184028029441833,
+                        "Top": 0.7869296073913574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0705f86d-f8fb-4bd7-b18a-d4d26bce59c1",
+                    "Score": 0.7638189792633057
+                },
+                {
+                    "Text": "14:",
+                    "BoundingBox": {
+                        "Width": 0.011405645869672298,
+                        "Height": 0.01407183613628149,
+                        "Left": 0.6729835867881775,
+                        "Top": 0.8370752334594727
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b6bdaf92-dfa8-43fb-ac31-1506ce1693a9",
+                    "Score": 0.7364600896835327
+                },
+                {
+                    "Text": "15:",
+                    "BoundingBox": {
+                        "Width": 0.010854097083210945,
+                        "Height": 0.014848075807094574,
+                        "Left": 0.673576831817627,
+                        "Top": 0.8593888878822327
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bab8e169-8617-49a6-9633-27e2a3473ea9",
+                    "Score": 0.7472083568572998
+                },
+                {
+                    "Text": "16:",
+                    "BoundingBox": {
+                        "Width": 0.010898884385824203,
+                        "Height": 0.0146627863869071,
+                        "Left": 0.6735957264900208,
+                        "Top": 0.8828087449073792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "13bdf215-4d25-4a4c-ab99-c87fc9f75b2d",
+                    "Score": 0.7467216849327087
+                },
+                {
+                    "Text": "17:",
+                    "BoundingBox": {
+                        "Width": 0.010808435268700123,
+                        "Height": 0.014661555178463459,
+                        "Left": 0.6736141443252563,
+                        "Top": 0.9056627154350281
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfdf41bc-b948-4510-9581-41b0aea14195",
+                    "Score": 0.754075288772583
+                },
+                {
+                    "Text": "18:",
+                    "BoundingBox": {
+                        "Width": 0.01009803544729948,
+                        "Height": 0.014707306399941444,
+                        "Left": 0.6742080450057983,
+                        "Top": 0.9291086196899414
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d88bd10c-6ab5-4495-938b-647fcb3649e8",
+                    "Score": 0.7550474405288696
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.028965437784790993,
+                        "Height": 0.016280539333820343,
+                        "Left": 0.7098132967948914,
+                        "Top": 0.8575446605682373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8cf6b068-82bc-46f9-9566-383d828e4d78",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.027254844084382057,
+                        "Height": 0.015744755044579506,
+                        "Left": 0.7005547881126404,
+                        "Top": 0.9277599453926086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8d9a579e-728c-4beb-a0da-971be66c2cdc",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "19: end for",
+                    "BoundingBox": {
+                        "Width": 0.049652159214019775,
+                        "Height": 0.015879152342677116,
+                        "Left": 0.6736507415771484,
+                        "Top": 0.9506427645683289
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e9c920d0-cda9-4f83-8168-911265d8695d",
+                    "Score": 0.7775236368179321
+                },
+                {
+                    "Text": "Update Update",
+                    "BoundingBox": {
+                        "Width": 0.03438271954655647,
+                        "Height": 0.04311647266149521,
+                        "Left": 0.7086775302886963,
+                        "Top": 0.8816715478897095
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a92f2adc-9bad-48a0-9e04-548f5b4526e7",
+                    "Score": 0.7382539510726929
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,780",
+            "end_time": "00:00:23,988",
+            "transcript": "This leads directly to our approach for estimating the longer ratio by coupling two flows through x, that is, instead of training two flows independently, we propose to do so by injecting the inductive bias seen in the slide.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our Approach",
+                    "BoundingBox": {
+                        "Width": 0.2552487254142761,
+                        "Height": 0.07418031245470047,
+                        "Left": 0.08381976932287216,
+                        "Top": 0.1310279369354248
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4825b256-e12c-4580-ac60-57e9cfd8e86c",
+                    "Score": 0.7574312686920166
+                },
+                {
+                    "Text": "To couple them, we employ the Donsker-Varadhan form of the KL:",
+                    "BoundingBox": {
+                        "Width": 0.43984246253967285,
+                        "Height": 0.052858587354421616,
+                        "Left": 0.08627782016992569,
+                        "Top": 0.25599557161331177
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c8c819e8-ff9c-4713-9ecf-6d34aad70126",
+                    "Score": 0.7307854890823364
+                },
+                {
+                    "Text": "= -",
+                    "BoundingBox": {
+                        "Width": 0.23357291519641876,
+                        "Height": 0.00954031478613615,
+                        "Left": 0.11957528442144394,
+                        "Top": 0.34276002645492554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a7599c03-b105-4792-8f6b-56f2ef63f659",
+                    "Score": 0.692771852016449
+                },
+                {
+                    "Text": "Optimality point: =",
+                    "BoundingBox": {
+                        "Width": 0.150637686252594,
+                        "Height": 0.026235166937112808,
+                        "Left": 0.12012599408626556,
+                        "Top": 0.3906784653663635
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d4b1f6a1-d364-4920-b307-a560af90cc23",
+                    "Score": 0.6421314477920532
+                },
+                {
+                    "Text": "Precisely the negative log distribution ratio!",
+                    "BoundingBox": {
+                        "Width": 0.22660091519355774,
+                        "Height": 0.02336869388818741,
+                        "Left": 0.1502748280763626,
+                        "Top": 0.4373888075351715
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "934b5d3e-e7d7-4e34-8a72-d14f1ee02c65",
+                    "Score": 0.7397570610046387
+                },
+                {
+                    "Text": "Can compute X through the DV and use -X as reward in an RL algorithm",
+                    "BoundingBox": {
+                        "Width": 0.3708685040473938,
+                        "Height": 0.02624555677175522,
+                        "Left": 0.14954575896263123,
+                        "Top": 0.4718223512172699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bdd204f0-974f-4dd5-99eb-612d5e8b7e61",
+                    "Score": 0.7735795378684998
+                },
+                {
+                    "Text": "Set = - logq(s,a)",
+                    "BoundingBox": {
+                        "Width": 0.22249743342399597,
+                        "Height": 0.025945404544472694,
+                        "Left": 0.1498292088508606,
+                        "Top": 0.509273886680603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bea63f48-35d4-4514-aa0c-ecdc746cdd5c",
+                    "Score": 0.7594764232635498
+                },
+                {
+                    "Text": "Guarantees more meaningful values when the flows are evaluated on each others data",
+                    "BoundingBox": {
+                        "Width": 0.44531604647636414,
+                        "Height": 0.046655502170324326,
+                        "Left": 0.12046785652637482,
+                        "Top": 0.5451908707618713
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3eed7128-8c33-448c-b303-5750aa44fa69",
+                    "Score": 0.7115473747253418
+                },
+                {
+                    "Text": "Note the drop at the end occurs precisely beyond expert level",
+                    "BoundingBox": {
+                        "Width": 0.31147831678390503,
+                        "Height": 0.02544696070253849,
+                        "Left": 0.14978119730949402,
+                        "Top": 0.608549177646637
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "95f7dceb-e8bf-426c-84e0-5ed0230bf165",
+                    "Score": 0.7815161347389221
+                },
+                {
+                    "Text": "Additional components:",
+                    "BoundingBox": {
+                        "Width": 0.17354679107666016,
+                        "Height": 0.028303956612944603,
+                        "Left": 0.08618079125881195,
+                        "Top": 0.646504819393158
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f841b72b-4c60-4839-ae44-3640f5a42565",
+                    "Score": 0.744364321231842
+                },
+                {
+                    "Text": "Squasher",
+                    "BoundingBox": {
+                        "Width": 0.0780271664261818,
+                        "Height": 0.026117246598005295,
+                        "Left": 0.12009787559509277,
+                        "Top": 0.6896262764930725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3ff198c2-4a27-4b30-987c-515fba878268",
+                    "Score": 0.7175924777984619
+                },
+                {
+                    "Text": "Flow regularization",
+                    "BoundingBox": {
+                        "Width": 0.14271873235702515,
+                        "Height": 0.027549488469958305,
+                        "Left": 0.12034054845571518,
+                        "Top": 0.7314811944961548
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfc7bc0f-2a04-45d6-b4a4-ff6e6315f306",
+                    "Score": 0.8126780986785889
+                },
+                {
+                    "Text": "Smoothing",
+                    "BoundingBox": {
+                        "Width": 0.09060020744800568,
+                        "Height": 0.02719319611787796,
+                        "Left": 0.11993347853422165,
+                        "Top": 0.7740697860717773
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7cd0c497-ee7a-44a2-872a-b2c8b7e80935",
+                    "Score": 0.7492398023605347
+                },
+                {
+                    "Text": "Coupled Flow Imitation Learning (CFIL)",
+                    "BoundingBox": {
+                        "Width": 0.30069637298583984,
+                        "Height": 0.03103284165263176,
+                        "Left": 0.08596180379390717,
+                        "Top": 0.815504789352417
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a63e44fa-d29b-4cd0-9fce-600b8a098471",
+                    "Score": 0.9689202308654785
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c",
+                    "Score": 0.8037679195404053
+                },
+                {
+                    "Text": "Algorithm 1 CFIL",
+                    "BoundingBox": {
+                        "Width": 0.0828833132982254,
+                        "Height": 0.019590632990002632,
+                        "Left": 0.670870304107666,
+                        "Top": 0.3362143933773041
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f5bb092-d9c3-498a-a238-9158330c6dc1",
+                    "Score": 0.7705063819885254
+                },
+                {
+                    "Text": "Input: Expert demos parameterized flow pair off-policy RL algorithm A; density update rate k; squashing function o: regularization and smoothing coefficients a,B. Define: -log qo)",
+                    "BoundingBox": {
+                        "Width": 0.2560811936855316,
+                        "Height": 0.11572200059890747,
+                        "Left": 0.6708709597587585,
+                        "Top": 0.36365148425102234
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d8cf97a-505f-470a-97d1-bc573495715a",
+                    "Score": 0.7444448471069336
+                },
+                {
+                    "Text": "1: for timestep t = 0,1, do",
+                    "BoundingBox": {
+                        "Width": 0.1396663635969162,
+                        "Height": 0.020521555095911026,
+                        "Left": 0.6773104667663574,
+                        "Top": 0.4840567111968994
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c9b4ecf2-ced6-497b-ac84-33ad5c814b56",
+                    "Score": 0.8228523135185242
+                },
+                {
+                    "Text": "2: Take a step in A with reward r = -x.o. while filling agent buffer RA and potentially updating the policy and value networks according to A's settings.",
+                    "BoundingBox": {
+                        "Width": 0.25170138478279114,
+                        "Height": 0.06944938749074936,
+                        "Left": 0.6767525672912598,
+                        "Top": 0.5066950917243958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "24095792-725d-44b3-bb21-75249eb40647",
+                    "Score": 0.7177184224128723
+                },
+                {
+                    "Text": "3: if t mod k = 0 then",
+                    "BoundingBox": {
+                        "Width": 0.11795639991760254,
+                        "Height": 0.017107278108596802,
+                        "Left": 0.6768065690994263,
+                        "Top": 0.576528012752533
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "76915d78-4e4c-4d4b-8b16-4026604fb6e2",
+                    "Score": 0.6981593370437622
+                },
+                {
+                    "Text": "4: Sample expert and agent batches:",
+                    "BoundingBox": {
+                        "Width": 0.1799318790435791,
+                        "Height": 0.021673336625099182,
+                        "Left": 0.6768251657485962,
+                        "Top": 0.5996250510215759
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b4697cd7-ab1f-4ed7-89c2-3609bbed1415",
+                    "Score": 0.7435723543167114
+                },
+                {
+                    "Text": "5: {(s,at)}M1~RE and{(st,at)}M1~RA",
+                    "BoundingBox": {
+                        "Width": 0.2364535927772522,
+                        "Height": 0.026747502386569977,
+                        "Left": 0.676265299320221,
+                        "Top": 0.6197099685668945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bfa1c18-7b7f-4fb9-bd9c-7ef17e605918",
+                    "Score": 0.7762458920478821
+                },
+                {
+                    "Text": "6: if smooth then",
+                    "BoundingBox": {
+                        "Width": 0.09955423325300217,
+                        "Height": 0.017305947840213776,
+                        "Left": 0.6762852668762207,
+                        "Top": 0.6461942791938782
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60fb100f-db96-4986-bfed-ab475e9c9af3",
+                    "Score": 0.746662437915802
+                },
+                {
+                    "Text": "7: (s,a)+=.(s,a)ou,u~U(-11)dim((sa)",
+                    "BoundingBox": {
+                        "Width": 0.2635779082775116,
+                        "Height": 0.029066184535622597,
+                        "Left": 0.6768776774406433,
+                        "Top": 0.6657017469406128
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1be06b00-b276-4734-b238-99f464e33653",
+                    "Score": 0.7140491008758545
+                },
+                {
+                    "Text": "8: end if",
+                    "BoundingBox": {
+                        "Width": 0.06257922202348709,
+                        "Height": 0.016439352184534073,
+                        "Left": 0.6763218641281128,
+                        "Top": 0.6928592920303345
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "948e42db-4f20-4e39-ad59-50b2d7ee189e",
+                    "Score": 0.7623188495635986
+                },
+                {
+                    "Text": "9: Compute loss: x(sa",
+                    "BoundingBox": {
+                        "Width": 0.24823442101478577,
+                        "Height": 0.05238351225852966,
+                        "Left": 0.6763402819633484,
+                        "Top": 0.7145422697067261
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e30f0ca-efe1-40da-b7ed-fca093135917",
+                    "Score": 0.7363237142562866
+                },
+                {
+                    "Text": "10:",
+                    "BoundingBox": {
+                        "Width": 0.010174974799156189,
+                        "Height": 0.014248657040297985,
+                        "Left": 0.6740590929985046,
+                        "Top": 0.7435961961746216
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "524288c9-dd3d-439b-85bf-6f0656bb2f83",
+                    "Score": 0.7697439193725586
+                },
+                {
+                    "Text": "11:",
+                    "BoundingBox": {
+                        "Width": 0.010381573811173439,
+                        "Height": 0.013858991675078869,
+                        "Left": 0.6740780472755432,
+                        "Top": 0.767194390296936
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d558716-c7de-4f7c-b0c0-3fc4019cd652",
+                    "Score": 0.7640563249588013
+                },
+                {
+                    "Text": "12:",
+                    "BoundingBox": {
+                        "Width": 0.01013150904327631,
+                        "Height": 0.013978523202240467,
+                        "Left": 0.6740962862968445,
+                        "Top": 0.7899336814880371
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ad5ba8ae-ce32-493e-bc2b-d5224df7e579",
+                    "Score": 0.7551001310348511
+                },
+                {
+                    "Text": "13:",
+                    "BoundingBox": {
+                        "Width": 0.010812133550643921,
+                        "Height": 0.014367709867656231,
+                        "Left": 0.6735395789146423,
+                        "Top": 0.8131252527236938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "55c46651-04b5-4a9c-b223-ca30fd35bd8f",
+                    "Score": 0.7551751732826233
+                },
+                {
+                    "Text": "if flow reg then",
+                    "BoundingBox": {
+                        "Width": 0.06708834320306778,
+                        "Height": 0.02099611610174179,
+                        "Left": 0.7114844918251038,
+                        "Top": 0.7643839716911316
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a0445ae-a794-4a66-ba96-7aa5e0d2be1c",
+                    "Score": 0.786113977432251
+                },
+                {
+                    "Text": "Compute regularization loss:",
+                    "BoundingBox": {
+                        "Width": 0.12926647067070007,
+                        "Height": 0.02089293673634529,
+                        "Left": 0.7184028029441833,
+                        "Top": 0.7869296073913574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0705f86d-f8fb-4bd7-b18a-d4d26bce59c1",
+                    "Score": 0.7638189792633057
+                },
+                {
+                    "Text": "14:",
+                    "BoundingBox": {
+                        "Width": 0.011405645869672298,
+                        "Height": 0.01407183613628149,
+                        "Left": 0.6729835867881775,
+                        "Top": 0.8370752334594727
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b6bdaf92-dfa8-43fb-ac31-1506ce1693a9",
+                    "Score": 0.7364600896835327
+                },
+                {
+                    "Text": "15:",
+                    "BoundingBox": {
+                        "Width": 0.010854097083210945,
+                        "Height": 0.014848075807094574,
+                        "Left": 0.673576831817627,
+                        "Top": 0.8593888878822327
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bab8e169-8617-49a6-9633-27e2a3473ea9",
+                    "Score": 0.7472083568572998
+                },
+                {
+                    "Text": "16:",
+                    "BoundingBox": {
+                        "Width": 0.010898884385824203,
+                        "Height": 0.0146627863869071,
+                        "Left": 0.6735957264900208,
+                        "Top": 0.8828087449073792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "13bdf215-4d25-4a4c-ab99-c87fc9f75b2d",
+                    "Score": 0.7467216849327087
+                },
+                {
+                    "Text": "17:",
+                    "BoundingBox": {
+                        "Width": 0.010808435268700123,
+                        "Height": 0.014661555178463459,
+                        "Left": 0.6736141443252563,
+                        "Top": 0.9056627154350281
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfdf41bc-b948-4510-9581-41b0aea14195",
+                    "Score": 0.754075288772583
+                },
+                {
+                    "Text": "18:",
+                    "BoundingBox": {
+                        "Width": 0.01009803544729948,
+                        "Height": 0.014707306399941444,
+                        "Left": 0.6742080450057983,
+                        "Top": 0.9291086196899414
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d88bd10c-6ab5-4495-938b-647fcb3649e8",
+                    "Score": 0.7550474405288696
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.028965437784790993,
+                        "Height": 0.016280539333820343,
+                        "Left": 0.7098132967948914,
+                        "Top": 0.8575446605682373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8cf6b068-82bc-46f9-9566-383d828e4d78",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.027254844084382057,
+                        "Height": 0.015744755044579506,
+                        "Left": 0.7005547881126404,
+                        "Top": 0.9277599453926086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8d9a579e-728c-4beb-a0da-971be66c2cdc",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "19: end for",
+                    "BoundingBox": {
+                        "Width": 0.049652159214019775,
+                        "Height": 0.015879152342677116,
+                        "Left": 0.6736507415771484,
+                        "Top": 0.9506427645683289
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e9c920d0-cda9-4f83-8168-911265d8695d",
+                    "Score": 0.7775236368179321
+                },
+                {
+                    "Text": "Update Update",
+                    "BoundingBox": {
+                        "Width": 0.03438271954655647,
+                        "Height": 0.04311647266149521,
+                        "Left": 0.7086775302886963,
+                        "Top": 0.8816715478897095
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a92f2adc-9bad-48a0-9e04-548f5b4526e7",
+                    "Score": 0.7382539510726929
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,628",
+            "end_time": "00:00:33,833",
+            "transcript": "This coupling guarantees more meaningful values when the flows are evaluated on each other\u2019s data, since it has already occurred during the maximization phase, hence sidestepping the ODE I should have described earlier.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our Approach",
+                    "BoundingBox": {
+                        "Width": 0.2552487254142761,
+                        "Height": 0.07418031245470047,
+                        "Left": 0.08381976932287216,
+                        "Top": 0.1310279369354248
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4825b256-e12c-4580-ac60-57e9cfd8e86c",
+                    "Score": 0.7574312686920166
+                },
+                {
+                    "Text": "To couple them, we employ the Donsker-Varadhan form of the KL:",
+                    "BoundingBox": {
+                        "Width": 0.43984246253967285,
+                        "Height": 0.052858587354421616,
+                        "Left": 0.08627782016992569,
+                        "Top": 0.25599557161331177
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c8c819e8-ff9c-4713-9ecf-6d34aad70126",
+                    "Score": 0.7307854890823364
+                },
+                {
+                    "Text": "= -",
+                    "BoundingBox": {
+                        "Width": 0.23357291519641876,
+                        "Height": 0.00954031478613615,
+                        "Left": 0.11957528442144394,
+                        "Top": 0.34276002645492554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a7599c03-b105-4792-8f6b-56f2ef63f659",
+                    "Score": 0.692771852016449
+                },
+                {
+                    "Text": "Optimality point: =",
+                    "BoundingBox": {
+                        "Width": 0.150637686252594,
+                        "Height": 0.026235166937112808,
+                        "Left": 0.12012599408626556,
+                        "Top": 0.3906784653663635
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d4b1f6a1-d364-4920-b307-a560af90cc23",
+                    "Score": 0.6421314477920532
+                },
+                {
+                    "Text": "Precisely the negative log distribution ratio!",
+                    "BoundingBox": {
+                        "Width": 0.22660091519355774,
+                        "Height": 0.02336869388818741,
+                        "Left": 0.1502748280763626,
+                        "Top": 0.4373888075351715
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "934b5d3e-e7d7-4e34-8a72-d14f1ee02c65",
+                    "Score": 0.7397570610046387
+                },
+                {
+                    "Text": "Can compute X through the DV and use -X as reward in an RL algorithm",
+                    "BoundingBox": {
+                        "Width": 0.3708685040473938,
+                        "Height": 0.02624555677175522,
+                        "Left": 0.14954575896263123,
+                        "Top": 0.4718223512172699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bdd204f0-974f-4dd5-99eb-612d5e8b7e61",
+                    "Score": 0.7735795378684998
+                },
+                {
+                    "Text": "Set = - logq(s,a)",
+                    "BoundingBox": {
+                        "Width": 0.22249743342399597,
+                        "Height": 0.025945404544472694,
+                        "Left": 0.1498292088508606,
+                        "Top": 0.509273886680603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bea63f48-35d4-4514-aa0c-ecdc746cdd5c",
+                    "Score": 0.7594764232635498
+                },
+                {
+                    "Text": "Guarantees more meaningful values when the flows are evaluated on each others data",
+                    "BoundingBox": {
+                        "Width": 0.44531604647636414,
+                        "Height": 0.046655502170324326,
+                        "Left": 0.12046785652637482,
+                        "Top": 0.5451908707618713
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3eed7128-8c33-448c-b303-5750aa44fa69",
+                    "Score": 0.7115473747253418
+                },
+                {
+                    "Text": "Note the drop at the end occurs precisely beyond expert level",
+                    "BoundingBox": {
+                        "Width": 0.31147831678390503,
+                        "Height": 0.02544696070253849,
+                        "Left": 0.14978119730949402,
+                        "Top": 0.608549177646637
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "95f7dceb-e8bf-426c-84e0-5ed0230bf165",
+                    "Score": 0.7815161347389221
+                },
+                {
+                    "Text": "Additional components:",
+                    "BoundingBox": {
+                        "Width": 0.17354679107666016,
+                        "Height": 0.028303956612944603,
+                        "Left": 0.08618079125881195,
+                        "Top": 0.646504819393158
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f841b72b-4c60-4839-ae44-3640f5a42565",
+                    "Score": 0.744364321231842
+                },
+                {
+                    "Text": "Squasher",
+                    "BoundingBox": {
+                        "Width": 0.0780271664261818,
+                        "Height": 0.026117246598005295,
+                        "Left": 0.12009787559509277,
+                        "Top": 0.6896262764930725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3ff198c2-4a27-4b30-987c-515fba878268",
+                    "Score": 0.7175924777984619
+                },
+                {
+                    "Text": "Flow regularization",
+                    "BoundingBox": {
+                        "Width": 0.14271873235702515,
+                        "Height": 0.027549488469958305,
+                        "Left": 0.12034054845571518,
+                        "Top": 0.7314811944961548
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfc7bc0f-2a04-45d6-b4a4-ff6e6315f306",
+                    "Score": 0.8126780986785889
+                },
+                {
+                    "Text": "Smoothing",
+                    "BoundingBox": {
+                        "Width": 0.09060020744800568,
+                        "Height": 0.02719319611787796,
+                        "Left": 0.11993347853422165,
+                        "Top": 0.7740697860717773
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7cd0c497-ee7a-44a2-872a-b2c8b7e80935",
+                    "Score": 0.7492398023605347
+                },
+                {
+                    "Text": "Coupled Flow Imitation Learning (CFIL)",
+                    "BoundingBox": {
+                        "Width": 0.30069637298583984,
+                        "Height": 0.03103284165263176,
+                        "Left": 0.08596180379390717,
+                        "Top": 0.815504789352417
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a63e44fa-d29b-4cd0-9fce-600b8a098471",
+                    "Score": 0.9689202308654785
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c",
+                    "Score": 0.8037679195404053
+                },
+                {
+                    "Text": "Algorithm 1 CFIL",
+                    "BoundingBox": {
+                        "Width": 0.0828833132982254,
+                        "Height": 0.019590632990002632,
+                        "Left": 0.670870304107666,
+                        "Top": 0.3362143933773041
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f5bb092-d9c3-498a-a238-9158330c6dc1",
+                    "Score": 0.7705063819885254
+                },
+                {
+                    "Text": "Input: Expert demos parameterized flow pair off-policy RL algorithm A; density update rate k; squashing function o: regularization and smoothing coefficients a,B. Define: -log qo)",
+                    "BoundingBox": {
+                        "Width": 0.2560811936855316,
+                        "Height": 0.11572200059890747,
+                        "Left": 0.6708709597587585,
+                        "Top": 0.36365148425102234
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d8cf97a-505f-470a-97d1-bc573495715a",
+                    "Score": 0.7444448471069336
+                },
+                {
+                    "Text": "1: for timestep t = 0,1, do",
+                    "BoundingBox": {
+                        "Width": 0.1396663635969162,
+                        "Height": 0.020521555095911026,
+                        "Left": 0.6773104667663574,
+                        "Top": 0.4840567111968994
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c9b4ecf2-ced6-497b-ac84-33ad5c814b56",
+                    "Score": 0.8228523135185242
+                },
+                {
+                    "Text": "2: Take a step in A with reward r = -x.o. while filling agent buffer RA and potentially updating the policy and value networks according to A's settings.",
+                    "BoundingBox": {
+                        "Width": 0.25170138478279114,
+                        "Height": 0.06944938749074936,
+                        "Left": 0.6767525672912598,
+                        "Top": 0.5066950917243958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "24095792-725d-44b3-bb21-75249eb40647",
+                    "Score": 0.7177184224128723
+                },
+                {
+                    "Text": "3: if t mod k = 0 then",
+                    "BoundingBox": {
+                        "Width": 0.11795639991760254,
+                        "Height": 0.017107278108596802,
+                        "Left": 0.6768065690994263,
+                        "Top": 0.576528012752533
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "76915d78-4e4c-4d4b-8b16-4026604fb6e2",
+                    "Score": 0.6981593370437622
+                },
+                {
+                    "Text": "4: Sample expert and agent batches:",
+                    "BoundingBox": {
+                        "Width": 0.1799318790435791,
+                        "Height": 0.021673336625099182,
+                        "Left": 0.6768251657485962,
+                        "Top": 0.5996250510215759
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b4697cd7-ab1f-4ed7-89c2-3609bbed1415",
+                    "Score": 0.7435723543167114
+                },
+                {
+                    "Text": "5: {(s,at)}M1~RE and{(st,at)}M1~RA",
+                    "BoundingBox": {
+                        "Width": 0.2364535927772522,
+                        "Height": 0.026747502386569977,
+                        "Left": 0.676265299320221,
+                        "Top": 0.6197099685668945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bfa1c18-7b7f-4fb9-bd9c-7ef17e605918",
+                    "Score": 0.7762458920478821
+                },
+                {
+                    "Text": "6: if smooth then",
+                    "BoundingBox": {
+                        "Width": 0.09955423325300217,
+                        "Height": 0.017305947840213776,
+                        "Left": 0.6762852668762207,
+                        "Top": 0.6461942791938782
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60fb100f-db96-4986-bfed-ab475e9c9af3",
+                    "Score": 0.746662437915802
+                },
+                {
+                    "Text": "7: (s,a)+=.(s,a)ou,u~U(-11)dim((sa)",
+                    "BoundingBox": {
+                        "Width": 0.2635779082775116,
+                        "Height": 0.029066184535622597,
+                        "Left": 0.6768776774406433,
+                        "Top": 0.6657017469406128
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1be06b00-b276-4734-b238-99f464e33653",
+                    "Score": 0.7140491008758545
+                },
+                {
+                    "Text": "8: end if",
+                    "BoundingBox": {
+                        "Width": 0.06257922202348709,
+                        "Height": 0.016439352184534073,
+                        "Left": 0.6763218641281128,
+                        "Top": 0.6928592920303345
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "948e42db-4f20-4e39-ad59-50b2d7ee189e",
+                    "Score": 0.7623188495635986
+                },
+                {
+                    "Text": "9: Compute loss: x(sa",
+                    "BoundingBox": {
+                        "Width": 0.24823442101478577,
+                        "Height": 0.05238351225852966,
+                        "Left": 0.6763402819633484,
+                        "Top": 0.7145422697067261
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e30f0ca-efe1-40da-b7ed-fca093135917",
+                    "Score": 0.7363237142562866
+                },
+                {
+                    "Text": "10:",
+                    "BoundingBox": {
+                        "Width": 0.010174974799156189,
+                        "Height": 0.014248657040297985,
+                        "Left": 0.6740590929985046,
+                        "Top": 0.7435961961746216
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "524288c9-dd3d-439b-85bf-6f0656bb2f83",
+                    "Score": 0.7697439193725586
+                },
+                {
+                    "Text": "11:",
+                    "BoundingBox": {
+                        "Width": 0.010381573811173439,
+                        "Height": 0.013858991675078869,
+                        "Left": 0.6740780472755432,
+                        "Top": 0.767194390296936
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d558716-c7de-4f7c-b0c0-3fc4019cd652",
+                    "Score": 0.7640563249588013
+                },
+                {
+                    "Text": "12:",
+                    "BoundingBox": {
+                        "Width": 0.01013150904327631,
+                        "Height": 0.013978523202240467,
+                        "Left": 0.6740962862968445,
+                        "Top": 0.7899336814880371
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ad5ba8ae-ce32-493e-bc2b-d5224df7e579",
+                    "Score": 0.7551001310348511
+                },
+                {
+                    "Text": "13:",
+                    "BoundingBox": {
+                        "Width": 0.010812133550643921,
+                        "Height": 0.014367709867656231,
+                        "Left": 0.6735395789146423,
+                        "Top": 0.8131252527236938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "55c46651-04b5-4a9c-b223-ca30fd35bd8f",
+                    "Score": 0.7551751732826233
+                },
+                {
+                    "Text": "if flow reg then",
+                    "BoundingBox": {
+                        "Width": 0.06708834320306778,
+                        "Height": 0.02099611610174179,
+                        "Left": 0.7114844918251038,
+                        "Top": 0.7643839716911316
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a0445ae-a794-4a66-ba96-7aa5e0d2be1c",
+                    "Score": 0.786113977432251
+                },
+                {
+                    "Text": "Compute regularization loss:",
+                    "BoundingBox": {
+                        "Width": 0.12926647067070007,
+                        "Height": 0.02089293673634529,
+                        "Left": 0.7184028029441833,
+                        "Top": 0.7869296073913574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0705f86d-f8fb-4bd7-b18a-d4d26bce59c1",
+                    "Score": 0.7638189792633057
+                },
+                {
+                    "Text": "14:",
+                    "BoundingBox": {
+                        "Width": 0.011405645869672298,
+                        "Height": 0.01407183613628149,
+                        "Left": 0.6729835867881775,
+                        "Top": 0.8370752334594727
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b6bdaf92-dfa8-43fb-ac31-1506ce1693a9",
+                    "Score": 0.7364600896835327
+                },
+                {
+                    "Text": "15:",
+                    "BoundingBox": {
+                        "Width": 0.010854097083210945,
+                        "Height": 0.014848075807094574,
+                        "Left": 0.673576831817627,
+                        "Top": 0.8593888878822327
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bab8e169-8617-49a6-9633-27e2a3473ea9",
+                    "Score": 0.7472083568572998
+                },
+                {
+                    "Text": "16:",
+                    "BoundingBox": {
+                        "Width": 0.010898884385824203,
+                        "Height": 0.0146627863869071,
+                        "Left": 0.6735957264900208,
+                        "Top": 0.8828087449073792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "13bdf215-4d25-4a4c-ab99-c87fc9f75b2d",
+                    "Score": 0.7467216849327087
+                },
+                {
+                    "Text": "17:",
+                    "BoundingBox": {
+                        "Width": 0.010808435268700123,
+                        "Height": 0.014661555178463459,
+                        "Left": 0.6736141443252563,
+                        "Top": 0.9056627154350281
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfdf41bc-b948-4510-9581-41b0aea14195",
+                    "Score": 0.754075288772583
+                },
+                {
+                    "Text": "18:",
+                    "BoundingBox": {
+                        "Width": 0.01009803544729948,
+                        "Height": 0.014707306399941444,
+                        "Left": 0.6742080450057983,
+                        "Top": 0.9291086196899414
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d88bd10c-6ab5-4495-938b-647fcb3649e8",
+                    "Score": 0.7550474405288696
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.028965437784790993,
+                        "Height": 0.016280539333820343,
+                        "Left": 0.7098132967948914,
+                        "Top": 0.8575446605682373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8cf6b068-82bc-46f9-9566-383d828e4d78",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.027254844084382057,
+                        "Height": 0.015744755044579506,
+                        "Left": 0.7005547881126404,
+                        "Top": 0.9277599453926086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8d9a579e-728c-4beb-a0da-971be66c2cdc",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "19: end for",
+                    "BoundingBox": {
+                        "Width": 0.049652159214019775,
+                        "Height": 0.015879152342677116,
+                        "Left": 0.6736507415771484,
+                        "Top": 0.9506427645683289
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e9c920d0-cda9-4f83-8168-911265d8695d",
+                    "Score": 0.7775236368179321
+                },
+                {
+                    "Text": "Update Update",
+                    "BoundingBox": {
+                        "Width": 0.03438271954655647,
+                        "Height": 0.04311647266149521,
+                        "Left": 0.7086775302886963,
+                        "Top": 0.8816715478897095
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a92f2adc-9bad-48a0-9e04-548f5b4526e7",
+                    "Score": 0.7382539510726929
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:34,294",
+            "end_time": "00:00:36,035",
+            "transcript": "The new BC graph illustrates this advantage.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our Approach",
+                    "BoundingBox": {
+                        "Width": 0.2552487254142761,
+                        "Height": 0.07418031245470047,
+                        "Left": 0.08381976932287216,
+                        "Top": 0.1310279369354248
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4825b256-e12c-4580-ac60-57e9cfd8e86c",
+                    "Score": 0.7574312686920166
+                },
+                {
+                    "Text": "To couple them, we employ the Donsker-Varadhan form of the KL:",
+                    "BoundingBox": {
+                        "Width": 0.43984246253967285,
+                        "Height": 0.052858587354421616,
+                        "Left": 0.08627782016992569,
+                        "Top": 0.25599557161331177
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c8c819e8-ff9c-4713-9ecf-6d34aad70126",
+                    "Score": 0.7307854890823364
+                },
+                {
+                    "Text": "= -",
+                    "BoundingBox": {
+                        "Width": 0.23357291519641876,
+                        "Height": 0.00954031478613615,
+                        "Left": 0.11957528442144394,
+                        "Top": 0.34276002645492554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a7599c03-b105-4792-8f6b-56f2ef63f659",
+                    "Score": 0.692771852016449
+                },
+                {
+                    "Text": "Optimality point: =",
+                    "BoundingBox": {
+                        "Width": 0.150637686252594,
+                        "Height": 0.026235166937112808,
+                        "Left": 0.12012599408626556,
+                        "Top": 0.3906784653663635
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d4b1f6a1-d364-4920-b307-a560af90cc23",
+                    "Score": 0.6421314477920532
+                },
+                {
+                    "Text": "Precisely the negative log distribution ratio!",
+                    "BoundingBox": {
+                        "Width": 0.22660091519355774,
+                        "Height": 0.02336869388818741,
+                        "Left": 0.1502748280763626,
+                        "Top": 0.4373888075351715
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "934b5d3e-e7d7-4e34-8a72-d14f1ee02c65",
+                    "Score": 0.7397570610046387
+                },
+                {
+                    "Text": "Can compute X through the DV and use -X as reward in an RL algorithm",
+                    "BoundingBox": {
+                        "Width": 0.3708685040473938,
+                        "Height": 0.02624555677175522,
+                        "Left": 0.14954575896263123,
+                        "Top": 0.4718223512172699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bdd204f0-974f-4dd5-99eb-612d5e8b7e61",
+                    "Score": 0.7735795378684998
+                },
+                {
+                    "Text": "Set = - logq(s,a)",
+                    "BoundingBox": {
+                        "Width": 0.22249743342399597,
+                        "Height": 0.025945404544472694,
+                        "Left": 0.1498292088508606,
+                        "Top": 0.509273886680603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bea63f48-35d4-4514-aa0c-ecdc746cdd5c",
+                    "Score": 0.7594764232635498
+                },
+                {
+                    "Text": "Guarantees more meaningful values when the flows are evaluated on each others data",
+                    "BoundingBox": {
+                        "Width": 0.44531604647636414,
+                        "Height": 0.046655502170324326,
+                        "Left": 0.12046785652637482,
+                        "Top": 0.5451908707618713
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3eed7128-8c33-448c-b303-5750aa44fa69",
+                    "Score": 0.7115473747253418
+                },
+                {
+                    "Text": "Note the drop at the end occurs precisely beyond expert level",
+                    "BoundingBox": {
+                        "Width": 0.31147831678390503,
+                        "Height": 0.02544696070253849,
+                        "Left": 0.14978119730949402,
+                        "Top": 0.608549177646637
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "95f7dceb-e8bf-426c-84e0-5ed0230bf165",
+                    "Score": 0.7815161347389221
+                },
+                {
+                    "Text": "Additional components:",
+                    "BoundingBox": {
+                        "Width": 0.17354679107666016,
+                        "Height": 0.028303956612944603,
+                        "Left": 0.08618079125881195,
+                        "Top": 0.646504819393158
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f841b72b-4c60-4839-ae44-3640f5a42565",
+                    "Score": 0.744364321231842
+                },
+                {
+                    "Text": "Squasher",
+                    "BoundingBox": {
+                        "Width": 0.0780271664261818,
+                        "Height": 0.026117246598005295,
+                        "Left": 0.12009787559509277,
+                        "Top": 0.6896262764930725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3ff198c2-4a27-4b30-987c-515fba878268",
+                    "Score": 0.7175924777984619
+                },
+                {
+                    "Text": "Flow regularization",
+                    "BoundingBox": {
+                        "Width": 0.14271873235702515,
+                        "Height": 0.027549488469958305,
+                        "Left": 0.12034054845571518,
+                        "Top": 0.7314811944961548
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfc7bc0f-2a04-45d6-b4a4-ff6e6315f306",
+                    "Score": 0.8126780986785889
+                },
+                {
+                    "Text": "Smoothing",
+                    "BoundingBox": {
+                        "Width": 0.09060020744800568,
+                        "Height": 0.02719319611787796,
+                        "Left": 0.11993347853422165,
+                        "Top": 0.7740697860717773
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7cd0c497-ee7a-44a2-872a-b2c8b7e80935",
+                    "Score": 0.7492398023605347
+                },
+                {
+                    "Text": "Coupled Flow Imitation Learning (CFIL)",
+                    "BoundingBox": {
+                        "Width": 0.30069637298583984,
+                        "Height": 0.03103284165263176,
+                        "Left": 0.08596180379390717,
+                        "Top": 0.815504789352417
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a63e44fa-d29b-4cd0-9fce-600b8a098471",
+                    "Score": 0.9689202308654785
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c",
+                    "Score": 0.8037679195404053
+                },
+                {
+                    "Text": "Algorithm 1 CFIL",
+                    "BoundingBox": {
+                        "Width": 0.0828833132982254,
+                        "Height": 0.019590632990002632,
+                        "Left": 0.670870304107666,
+                        "Top": 0.3362143933773041
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f5bb092-d9c3-498a-a238-9158330c6dc1",
+                    "Score": 0.7705063819885254
+                },
+                {
+                    "Text": "Input: Expert demos parameterized flow pair off-policy RL algorithm A; density update rate k; squashing function o: regularization and smoothing coefficients a,B. Define: -log qo)",
+                    "BoundingBox": {
+                        "Width": 0.2560811936855316,
+                        "Height": 0.11572200059890747,
+                        "Left": 0.6708709597587585,
+                        "Top": 0.36365148425102234
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d8cf97a-505f-470a-97d1-bc573495715a",
+                    "Score": 0.7444448471069336
+                },
+                {
+                    "Text": "1: for timestep t = 0,1, do",
+                    "BoundingBox": {
+                        "Width": 0.1396663635969162,
+                        "Height": 0.020521555095911026,
+                        "Left": 0.6773104667663574,
+                        "Top": 0.4840567111968994
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c9b4ecf2-ced6-497b-ac84-33ad5c814b56",
+                    "Score": 0.8228523135185242
+                },
+                {
+                    "Text": "2: Take a step in A with reward r = -x.o. while filling agent buffer RA and potentially updating the policy and value networks according to A's settings.",
+                    "BoundingBox": {
+                        "Width": 0.25170138478279114,
+                        "Height": 0.06944938749074936,
+                        "Left": 0.6767525672912598,
+                        "Top": 0.5066950917243958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "24095792-725d-44b3-bb21-75249eb40647",
+                    "Score": 0.7177184224128723
+                },
+                {
+                    "Text": "3: if t mod k = 0 then",
+                    "BoundingBox": {
+                        "Width": 0.11795639991760254,
+                        "Height": 0.017107278108596802,
+                        "Left": 0.6768065690994263,
+                        "Top": 0.576528012752533
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "76915d78-4e4c-4d4b-8b16-4026604fb6e2",
+                    "Score": 0.6981593370437622
+                },
+                {
+                    "Text": "4: Sample expert and agent batches:",
+                    "BoundingBox": {
+                        "Width": 0.1799318790435791,
+                        "Height": 0.021673336625099182,
+                        "Left": 0.6768251657485962,
+                        "Top": 0.5996250510215759
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b4697cd7-ab1f-4ed7-89c2-3609bbed1415",
+                    "Score": 0.7435723543167114
+                },
+                {
+                    "Text": "5: {(s,at)}M1~RE and{(st,at)}M1~RA",
+                    "BoundingBox": {
+                        "Width": 0.2364535927772522,
+                        "Height": 0.026747502386569977,
+                        "Left": 0.676265299320221,
+                        "Top": 0.6197099685668945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bfa1c18-7b7f-4fb9-bd9c-7ef17e605918",
+                    "Score": 0.7762458920478821
+                },
+                {
+                    "Text": "6: if smooth then",
+                    "BoundingBox": {
+                        "Width": 0.09955423325300217,
+                        "Height": 0.017305947840213776,
+                        "Left": 0.6762852668762207,
+                        "Top": 0.6461942791938782
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60fb100f-db96-4986-bfed-ab475e9c9af3",
+                    "Score": 0.746662437915802
+                },
+                {
+                    "Text": "7: (s,a)+=.(s,a)ou,u~U(-11)dim((sa)",
+                    "BoundingBox": {
+                        "Width": 0.2635779082775116,
+                        "Height": 0.029066184535622597,
+                        "Left": 0.6768776774406433,
+                        "Top": 0.6657017469406128
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1be06b00-b276-4734-b238-99f464e33653",
+                    "Score": 0.7140491008758545
+                },
+                {
+                    "Text": "8: end if",
+                    "BoundingBox": {
+                        "Width": 0.06257922202348709,
+                        "Height": 0.016439352184534073,
+                        "Left": 0.6763218641281128,
+                        "Top": 0.6928592920303345
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "948e42db-4f20-4e39-ad59-50b2d7ee189e",
+                    "Score": 0.7623188495635986
+                },
+                {
+                    "Text": "9: Compute loss: x(sa",
+                    "BoundingBox": {
+                        "Width": 0.24823442101478577,
+                        "Height": 0.05238351225852966,
+                        "Left": 0.6763402819633484,
+                        "Top": 0.7145422697067261
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e30f0ca-efe1-40da-b7ed-fca093135917",
+                    "Score": 0.7363237142562866
+                },
+                {
+                    "Text": "10:",
+                    "BoundingBox": {
+                        "Width": 0.010174974799156189,
+                        "Height": 0.014248657040297985,
+                        "Left": 0.6740590929985046,
+                        "Top": 0.7435961961746216
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "524288c9-dd3d-439b-85bf-6f0656bb2f83",
+                    "Score": 0.7697439193725586
+                },
+                {
+                    "Text": "11:",
+                    "BoundingBox": {
+                        "Width": 0.010381573811173439,
+                        "Height": 0.013858991675078869,
+                        "Left": 0.6740780472755432,
+                        "Top": 0.767194390296936
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d558716-c7de-4f7c-b0c0-3fc4019cd652",
+                    "Score": 0.7640563249588013
+                },
+                {
+                    "Text": "12:",
+                    "BoundingBox": {
+                        "Width": 0.01013150904327631,
+                        "Height": 0.013978523202240467,
+                        "Left": 0.6740962862968445,
+                        "Top": 0.7899336814880371
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ad5ba8ae-ce32-493e-bc2b-d5224df7e579",
+                    "Score": 0.7551001310348511
+                },
+                {
+                    "Text": "13:",
+                    "BoundingBox": {
+                        "Width": 0.010812133550643921,
+                        "Height": 0.014367709867656231,
+                        "Left": 0.6735395789146423,
+                        "Top": 0.8131252527236938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "55c46651-04b5-4a9c-b223-ca30fd35bd8f",
+                    "Score": 0.7551751732826233
+                },
+                {
+                    "Text": "if flow reg then",
+                    "BoundingBox": {
+                        "Width": 0.06708834320306778,
+                        "Height": 0.02099611610174179,
+                        "Left": 0.7114844918251038,
+                        "Top": 0.7643839716911316
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a0445ae-a794-4a66-ba96-7aa5e0d2be1c",
+                    "Score": 0.786113977432251
+                },
+                {
+                    "Text": "Compute regularization loss:",
+                    "BoundingBox": {
+                        "Width": 0.12926647067070007,
+                        "Height": 0.02089293673634529,
+                        "Left": 0.7184028029441833,
+                        "Top": 0.7869296073913574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0705f86d-f8fb-4bd7-b18a-d4d26bce59c1",
+                    "Score": 0.7638189792633057
+                },
+                {
+                    "Text": "14:",
+                    "BoundingBox": {
+                        "Width": 0.011405645869672298,
+                        "Height": 0.01407183613628149,
+                        "Left": 0.6729835867881775,
+                        "Top": 0.8370752334594727
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b6bdaf92-dfa8-43fb-ac31-1506ce1693a9",
+                    "Score": 0.7364600896835327
+                },
+                {
+                    "Text": "15:",
+                    "BoundingBox": {
+                        "Width": 0.010854097083210945,
+                        "Height": 0.014848075807094574,
+                        "Left": 0.673576831817627,
+                        "Top": 0.8593888878822327
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bab8e169-8617-49a6-9633-27e2a3473ea9",
+                    "Score": 0.7472083568572998
+                },
+                {
+                    "Text": "16:",
+                    "BoundingBox": {
+                        "Width": 0.010898884385824203,
+                        "Height": 0.0146627863869071,
+                        "Left": 0.6735957264900208,
+                        "Top": 0.8828087449073792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "13bdf215-4d25-4a4c-ab99-c87fc9f75b2d",
+                    "Score": 0.7467216849327087
+                },
+                {
+                    "Text": "17:",
+                    "BoundingBox": {
+                        "Width": 0.010808435268700123,
+                        "Height": 0.014661555178463459,
+                        "Left": 0.6736141443252563,
+                        "Top": 0.9056627154350281
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfdf41bc-b948-4510-9581-41b0aea14195",
+                    "Score": 0.754075288772583
+                },
+                {
+                    "Text": "18:",
+                    "BoundingBox": {
+                        "Width": 0.01009803544729948,
+                        "Height": 0.014707306399941444,
+                        "Left": 0.6742080450057983,
+                        "Top": 0.9291086196899414
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d88bd10c-6ab5-4495-938b-647fcb3649e8",
+                    "Score": 0.7550474405288696
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.028965437784790993,
+                        "Height": 0.016280539333820343,
+                        "Left": 0.7098132967948914,
+                        "Top": 0.8575446605682373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8cf6b068-82bc-46f9-9566-383d828e4d78",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.027254844084382057,
+                        "Height": 0.015744755044579506,
+                        "Left": 0.7005547881126404,
+                        "Top": 0.9277599453926086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8d9a579e-728c-4beb-a0da-971be66c2cdc",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "19: end for",
+                    "BoundingBox": {
+                        "Width": 0.049652159214019775,
+                        "Height": 0.015879152342677116,
+                        "Left": 0.6736507415771484,
+                        "Top": 0.9506427645683289
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e9c920d0-cda9-4f83-8168-911265d8695d",
+                    "Score": 0.7775236368179321
+                },
+                {
+                    "Text": "Update Update",
+                    "BoundingBox": {
+                        "Width": 0.03438271954655647,
+                        "Height": 0.04311647266149521,
+                        "Left": 0.7086775302886963,
+                        "Top": 0.8816715478897095
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a92f2adc-9bad-48a0-9e04-548f5b4526e7",
+                    "Score": 0.7382539510726929
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,695",
+            "end_time": "00:00:44,059",
+            "transcript": "Some additional components we find useful, whose motivation and details can be found in the paper, are a squasher on.X, an optional flow regularization and smoothing.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our Approach",
+                    "BoundingBox": {
+                        "Width": 0.2552487254142761,
+                        "Height": 0.07418031245470047,
+                        "Left": 0.08381976932287216,
+                        "Top": 0.1310279369354248
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4825b256-e12c-4580-ac60-57e9cfd8e86c",
+                    "Score": 0.7574312686920166
+                },
+                {
+                    "Text": "To couple them, we employ the Donsker-Varadhan form of the KL:",
+                    "BoundingBox": {
+                        "Width": 0.43984246253967285,
+                        "Height": 0.052858587354421616,
+                        "Left": 0.08627782016992569,
+                        "Top": 0.25599557161331177
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c8c819e8-ff9c-4713-9ecf-6d34aad70126",
+                    "Score": 0.7307854890823364
+                },
+                {
+                    "Text": "= -",
+                    "BoundingBox": {
+                        "Width": 0.23357291519641876,
+                        "Height": 0.00954031478613615,
+                        "Left": 0.11957528442144394,
+                        "Top": 0.34276002645492554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a7599c03-b105-4792-8f6b-56f2ef63f659",
+                    "Score": 0.692771852016449
+                },
+                {
+                    "Text": "Optimality point: =",
+                    "BoundingBox": {
+                        "Width": 0.150637686252594,
+                        "Height": 0.026235166937112808,
+                        "Left": 0.12012599408626556,
+                        "Top": 0.3906784653663635
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d4b1f6a1-d364-4920-b307-a560af90cc23",
+                    "Score": 0.6421314477920532
+                },
+                {
+                    "Text": "Precisely the negative log distribution ratio!",
+                    "BoundingBox": {
+                        "Width": 0.22660091519355774,
+                        "Height": 0.02336869388818741,
+                        "Left": 0.1502748280763626,
+                        "Top": 0.4373888075351715
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "934b5d3e-e7d7-4e34-8a72-d14f1ee02c65",
+                    "Score": 0.7397570610046387
+                },
+                {
+                    "Text": "Can compute X through the DV and use -X as reward in an RL algorithm",
+                    "BoundingBox": {
+                        "Width": 0.3708685040473938,
+                        "Height": 0.02624555677175522,
+                        "Left": 0.14954575896263123,
+                        "Top": 0.4718223512172699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bdd204f0-974f-4dd5-99eb-612d5e8b7e61",
+                    "Score": 0.7735795378684998
+                },
+                {
+                    "Text": "Set = - logq(s,a)",
+                    "BoundingBox": {
+                        "Width": 0.22249743342399597,
+                        "Height": 0.025945404544472694,
+                        "Left": 0.1498292088508606,
+                        "Top": 0.509273886680603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bea63f48-35d4-4514-aa0c-ecdc746cdd5c",
+                    "Score": 0.7594764232635498
+                },
+                {
+                    "Text": "Guarantees more meaningful values when the flows are evaluated on each others data",
+                    "BoundingBox": {
+                        "Width": 0.44531604647636414,
+                        "Height": 0.046655502170324326,
+                        "Left": 0.12046785652637482,
+                        "Top": 0.5451908707618713
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3eed7128-8c33-448c-b303-5750aa44fa69",
+                    "Score": 0.7115473747253418
+                },
+                {
+                    "Text": "Note the drop at the end occurs precisely beyond expert level",
+                    "BoundingBox": {
+                        "Width": 0.31147831678390503,
+                        "Height": 0.02544696070253849,
+                        "Left": 0.14978119730949402,
+                        "Top": 0.608549177646637
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "95f7dceb-e8bf-426c-84e0-5ed0230bf165",
+                    "Score": 0.7815161347389221
+                },
+                {
+                    "Text": "Additional components:",
+                    "BoundingBox": {
+                        "Width": 0.17354679107666016,
+                        "Height": 0.028303956612944603,
+                        "Left": 0.08618079125881195,
+                        "Top": 0.646504819393158
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f841b72b-4c60-4839-ae44-3640f5a42565",
+                    "Score": 0.744364321231842
+                },
+                {
+                    "Text": "Squasher",
+                    "BoundingBox": {
+                        "Width": 0.0780271664261818,
+                        "Height": 0.026117246598005295,
+                        "Left": 0.12009787559509277,
+                        "Top": 0.6896262764930725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3ff198c2-4a27-4b30-987c-515fba878268",
+                    "Score": 0.7175924777984619
+                },
+                {
+                    "Text": "Flow regularization",
+                    "BoundingBox": {
+                        "Width": 0.14271873235702515,
+                        "Height": 0.027549488469958305,
+                        "Left": 0.12034054845571518,
+                        "Top": 0.7314811944961548
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfc7bc0f-2a04-45d6-b4a4-ff6e6315f306",
+                    "Score": 0.8126780986785889
+                },
+                {
+                    "Text": "Smoothing",
+                    "BoundingBox": {
+                        "Width": 0.09060020744800568,
+                        "Height": 0.02719319611787796,
+                        "Left": 0.11993347853422165,
+                        "Top": 0.7740697860717773
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7cd0c497-ee7a-44a2-872a-b2c8b7e80935",
+                    "Score": 0.7492398023605347
+                },
+                {
+                    "Text": "Coupled Flow Imitation Learning (CFIL)",
+                    "BoundingBox": {
+                        "Width": 0.30069637298583984,
+                        "Height": 0.03103284165263176,
+                        "Left": 0.08596180379390717,
+                        "Top": 0.815504789352417
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a63e44fa-d29b-4cd0-9fce-600b8a098471",
+                    "Score": 0.9689202308654785
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c",
+                    "Score": 0.8037679195404053
+                },
+                {
+                    "Text": "Algorithm 1 CFIL",
+                    "BoundingBox": {
+                        "Width": 0.0828833132982254,
+                        "Height": 0.019590632990002632,
+                        "Left": 0.670870304107666,
+                        "Top": 0.3362143933773041
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f5bb092-d9c3-498a-a238-9158330c6dc1",
+                    "Score": 0.7705063819885254
+                },
+                {
+                    "Text": "Input: Expert demos parameterized flow pair off-policy RL algorithm A; density update rate k; squashing function o: regularization and smoothing coefficients a,B. Define: -log qo)",
+                    "BoundingBox": {
+                        "Width": 0.2560811936855316,
+                        "Height": 0.11572200059890747,
+                        "Left": 0.6708709597587585,
+                        "Top": 0.36365148425102234
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d8cf97a-505f-470a-97d1-bc573495715a",
+                    "Score": 0.7444448471069336
+                },
+                {
+                    "Text": "1: for timestep t = 0,1, do",
+                    "BoundingBox": {
+                        "Width": 0.1396663635969162,
+                        "Height": 0.020521555095911026,
+                        "Left": 0.6773104667663574,
+                        "Top": 0.4840567111968994
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c9b4ecf2-ced6-497b-ac84-33ad5c814b56",
+                    "Score": 0.8228523135185242
+                },
+                {
+                    "Text": "2: Take a step in A with reward r = -x.o. while filling agent buffer RA and potentially updating the policy and value networks according to A's settings.",
+                    "BoundingBox": {
+                        "Width": 0.25170138478279114,
+                        "Height": 0.06944938749074936,
+                        "Left": 0.6767525672912598,
+                        "Top": 0.5066950917243958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "24095792-725d-44b3-bb21-75249eb40647",
+                    "Score": 0.7177184224128723
+                },
+                {
+                    "Text": "3: if t mod k = 0 then",
+                    "BoundingBox": {
+                        "Width": 0.11795639991760254,
+                        "Height": 0.017107278108596802,
+                        "Left": 0.6768065690994263,
+                        "Top": 0.576528012752533
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "76915d78-4e4c-4d4b-8b16-4026604fb6e2",
+                    "Score": 0.6981593370437622
+                },
+                {
+                    "Text": "4: Sample expert and agent batches:",
+                    "BoundingBox": {
+                        "Width": 0.1799318790435791,
+                        "Height": 0.021673336625099182,
+                        "Left": 0.6768251657485962,
+                        "Top": 0.5996250510215759
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b4697cd7-ab1f-4ed7-89c2-3609bbed1415",
+                    "Score": 0.7435723543167114
+                },
+                {
+                    "Text": "5: {(s,at)}M1~RE and{(st,at)}M1~RA",
+                    "BoundingBox": {
+                        "Width": 0.2364535927772522,
+                        "Height": 0.026747502386569977,
+                        "Left": 0.676265299320221,
+                        "Top": 0.6197099685668945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bfa1c18-7b7f-4fb9-bd9c-7ef17e605918",
+                    "Score": 0.7762458920478821
+                },
+                {
+                    "Text": "6: if smooth then",
+                    "BoundingBox": {
+                        "Width": 0.09955423325300217,
+                        "Height": 0.017305947840213776,
+                        "Left": 0.6762852668762207,
+                        "Top": 0.6461942791938782
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60fb100f-db96-4986-bfed-ab475e9c9af3",
+                    "Score": 0.746662437915802
+                },
+                {
+                    "Text": "7: (s,a)+=.(s,a)ou,u~U(-11)dim((sa)",
+                    "BoundingBox": {
+                        "Width": 0.2635779082775116,
+                        "Height": 0.029066184535622597,
+                        "Left": 0.6768776774406433,
+                        "Top": 0.6657017469406128
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1be06b00-b276-4734-b238-99f464e33653",
+                    "Score": 0.7140491008758545
+                },
+                {
+                    "Text": "8: end if",
+                    "BoundingBox": {
+                        "Width": 0.06257922202348709,
+                        "Height": 0.016439352184534073,
+                        "Left": 0.6763218641281128,
+                        "Top": 0.6928592920303345
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "948e42db-4f20-4e39-ad59-50b2d7ee189e",
+                    "Score": 0.7623188495635986
+                },
+                {
+                    "Text": "9: Compute loss: x(sa",
+                    "BoundingBox": {
+                        "Width": 0.24823442101478577,
+                        "Height": 0.05238351225852966,
+                        "Left": 0.6763402819633484,
+                        "Top": 0.7145422697067261
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e30f0ca-efe1-40da-b7ed-fca093135917",
+                    "Score": 0.7363237142562866
+                },
+                {
+                    "Text": "10:",
+                    "BoundingBox": {
+                        "Width": 0.010174974799156189,
+                        "Height": 0.014248657040297985,
+                        "Left": 0.6740590929985046,
+                        "Top": 0.7435961961746216
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "524288c9-dd3d-439b-85bf-6f0656bb2f83",
+                    "Score": 0.7697439193725586
+                },
+                {
+                    "Text": "11:",
+                    "BoundingBox": {
+                        "Width": 0.010381573811173439,
+                        "Height": 0.013858991675078869,
+                        "Left": 0.6740780472755432,
+                        "Top": 0.767194390296936
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d558716-c7de-4f7c-b0c0-3fc4019cd652",
+                    "Score": 0.7640563249588013
+                },
+                {
+                    "Text": "12:",
+                    "BoundingBox": {
+                        "Width": 0.01013150904327631,
+                        "Height": 0.013978523202240467,
+                        "Left": 0.6740962862968445,
+                        "Top": 0.7899336814880371
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ad5ba8ae-ce32-493e-bc2b-d5224df7e579",
+                    "Score": 0.7551001310348511
+                },
+                {
+                    "Text": "13:",
+                    "BoundingBox": {
+                        "Width": 0.010812133550643921,
+                        "Height": 0.014367709867656231,
+                        "Left": 0.6735395789146423,
+                        "Top": 0.8131252527236938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "55c46651-04b5-4a9c-b223-ca30fd35bd8f",
+                    "Score": 0.7551751732826233
+                },
+                {
+                    "Text": "if flow reg then",
+                    "BoundingBox": {
+                        "Width": 0.06708834320306778,
+                        "Height": 0.02099611610174179,
+                        "Left": 0.7114844918251038,
+                        "Top": 0.7643839716911316
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a0445ae-a794-4a66-ba96-7aa5e0d2be1c",
+                    "Score": 0.786113977432251
+                },
+                {
+                    "Text": "Compute regularization loss:",
+                    "BoundingBox": {
+                        "Width": 0.12926647067070007,
+                        "Height": 0.02089293673634529,
+                        "Left": 0.7184028029441833,
+                        "Top": 0.7869296073913574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0705f86d-f8fb-4bd7-b18a-d4d26bce59c1",
+                    "Score": 0.7638189792633057
+                },
+                {
+                    "Text": "14:",
+                    "BoundingBox": {
+                        "Width": 0.011405645869672298,
+                        "Height": 0.01407183613628149,
+                        "Left": 0.6729835867881775,
+                        "Top": 0.8370752334594727
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b6bdaf92-dfa8-43fb-ac31-1506ce1693a9",
+                    "Score": 0.7364600896835327
+                },
+                {
+                    "Text": "15:",
+                    "BoundingBox": {
+                        "Width": 0.010854097083210945,
+                        "Height": 0.014848075807094574,
+                        "Left": 0.673576831817627,
+                        "Top": 0.8593888878822327
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bab8e169-8617-49a6-9633-27e2a3473ea9",
+                    "Score": 0.7472083568572998
+                },
+                {
+                    "Text": "16:",
+                    "BoundingBox": {
+                        "Width": 0.010898884385824203,
+                        "Height": 0.0146627863869071,
+                        "Left": 0.6735957264900208,
+                        "Top": 0.8828087449073792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "13bdf215-4d25-4a4c-ab99-c87fc9f75b2d",
+                    "Score": 0.7467216849327087
+                },
+                {
+                    "Text": "17:",
+                    "BoundingBox": {
+                        "Width": 0.010808435268700123,
+                        "Height": 0.014661555178463459,
+                        "Left": 0.6736141443252563,
+                        "Top": 0.9056627154350281
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfdf41bc-b948-4510-9581-41b0aea14195",
+                    "Score": 0.754075288772583
+                },
+                {
+                    "Text": "18:",
+                    "BoundingBox": {
+                        "Width": 0.01009803544729948,
+                        "Height": 0.014707306399941444,
+                        "Left": 0.6742080450057983,
+                        "Top": 0.9291086196899414
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d88bd10c-6ab5-4495-938b-647fcb3649e8",
+                    "Score": 0.7550474405288696
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.028965437784790993,
+                        "Height": 0.016280539333820343,
+                        "Left": 0.7098132967948914,
+                        "Top": 0.8575446605682373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8cf6b068-82bc-46f9-9566-383d828e4d78",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.027254844084382057,
+                        "Height": 0.015744755044579506,
+                        "Left": 0.7005547881126404,
+                        "Top": 0.9277599453926086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8d9a579e-728c-4beb-a0da-971be66c2cdc",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "19: end for",
+                    "BoundingBox": {
+                        "Width": 0.049652159214019775,
+                        "Height": 0.015879152342677116,
+                        "Left": 0.6736507415771484,
+                        "Top": 0.9506427645683289
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e9c920d0-cda9-4f83-8168-911265d8695d",
+                    "Score": 0.7775236368179321
+                },
+                {
+                    "Text": "Update Update",
+                    "BoundingBox": {
+                        "Width": 0.03438271954655647,
+                        "Height": 0.04311647266149521,
+                        "Left": 0.7086775302886963,
+                        "Top": 0.8816715478897095
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a92f2adc-9bad-48a0-9e04-548f5b4526e7",
+                    "Score": 0.7382539510726929
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:44,760",
+            "end_time": "00:00:49,002",
+            "transcript": "Finally, combining all these elements is our algorithm, coupled flow imitation learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our Approach",
+                    "BoundingBox": {
+                        "Width": 0.2552487254142761,
+                        "Height": 0.07418031245470047,
+                        "Left": 0.08381976932287216,
+                        "Top": 0.1310279369354248
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4825b256-e12c-4580-ac60-57e9cfd8e86c",
+                    "Score": 0.7574312686920166
+                },
+                {
+                    "Text": "To couple them, we employ the Donsker-Varadhan form of the KL:",
+                    "BoundingBox": {
+                        "Width": 0.43984246253967285,
+                        "Height": 0.052858587354421616,
+                        "Left": 0.08627782016992569,
+                        "Top": 0.25599557161331177
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c8c819e8-ff9c-4713-9ecf-6d34aad70126",
+                    "Score": 0.7307854890823364
+                },
+                {
+                    "Text": "= -",
+                    "BoundingBox": {
+                        "Width": 0.23357291519641876,
+                        "Height": 0.00954031478613615,
+                        "Left": 0.11957528442144394,
+                        "Top": 0.34276002645492554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a7599c03-b105-4792-8f6b-56f2ef63f659",
+                    "Score": 0.692771852016449
+                },
+                {
+                    "Text": "Optimality point: =",
+                    "BoundingBox": {
+                        "Width": 0.150637686252594,
+                        "Height": 0.026235166937112808,
+                        "Left": 0.12012599408626556,
+                        "Top": 0.3906784653663635
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d4b1f6a1-d364-4920-b307-a560af90cc23",
+                    "Score": 0.6421314477920532
+                },
+                {
+                    "Text": "Precisely the negative log distribution ratio!",
+                    "BoundingBox": {
+                        "Width": 0.22660091519355774,
+                        "Height": 0.02336869388818741,
+                        "Left": 0.1502748280763626,
+                        "Top": 0.4373888075351715
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "934b5d3e-e7d7-4e34-8a72-d14f1ee02c65",
+                    "Score": 0.7397570610046387
+                },
+                {
+                    "Text": "Can compute X through the DV and use -X as reward in an RL algorithm",
+                    "BoundingBox": {
+                        "Width": 0.3708685040473938,
+                        "Height": 0.02624555677175522,
+                        "Left": 0.14954575896263123,
+                        "Top": 0.4718223512172699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bdd204f0-974f-4dd5-99eb-612d5e8b7e61",
+                    "Score": 0.7735795378684998
+                },
+                {
+                    "Text": "Set = - logq(s,a)",
+                    "BoundingBox": {
+                        "Width": 0.22249743342399597,
+                        "Height": 0.025945404544472694,
+                        "Left": 0.1498292088508606,
+                        "Top": 0.509273886680603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bea63f48-35d4-4514-aa0c-ecdc746cdd5c",
+                    "Score": 0.7594764232635498
+                },
+                {
+                    "Text": "Guarantees more meaningful values when the flows are evaluated on each others data",
+                    "BoundingBox": {
+                        "Width": 0.44531604647636414,
+                        "Height": 0.046655502170324326,
+                        "Left": 0.12046785652637482,
+                        "Top": 0.5451908707618713
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3eed7128-8c33-448c-b303-5750aa44fa69",
+                    "Score": 0.7115473747253418
+                },
+                {
+                    "Text": "Note the drop at the end occurs precisely beyond expert level",
+                    "BoundingBox": {
+                        "Width": 0.31147831678390503,
+                        "Height": 0.02544696070253849,
+                        "Left": 0.14978119730949402,
+                        "Top": 0.608549177646637
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "95f7dceb-e8bf-426c-84e0-5ed0230bf165",
+                    "Score": 0.7815161347389221
+                },
+                {
+                    "Text": "Additional components:",
+                    "BoundingBox": {
+                        "Width": 0.17354679107666016,
+                        "Height": 0.028303956612944603,
+                        "Left": 0.08618079125881195,
+                        "Top": 0.646504819393158
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f841b72b-4c60-4839-ae44-3640f5a42565",
+                    "Score": 0.744364321231842
+                },
+                {
+                    "Text": "Squasher",
+                    "BoundingBox": {
+                        "Width": 0.0780271664261818,
+                        "Height": 0.026117246598005295,
+                        "Left": 0.12009787559509277,
+                        "Top": 0.6896262764930725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3ff198c2-4a27-4b30-987c-515fba878268",
+                    "Score": 0.7175924777984619
+                },
+                {
+                    "Text": "Flow regularization",
+                    "BoundingBox": {
+                        "Width": 0.14271873235702515,
+                        "Height": 0.027549488469958305,
+                        "Left": 0.12034054845571518,
+                        "Top": 0.7314811944961548
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfc7bc0f-2a04-45d6-b4a4-ff6e6315f306",
+                    "Score": 0.8126780986785889
+                },
+                {
+                    "Text": "Smoothing",
+                    "BoundingBox": {
+                        "Width": 0.09060020744800568,
+                        "Height": 0.02719319611787796,
+                        "Left": 0.11993347853422165,
+                        "Top": 0.7740697860717773
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7cd0c497-ee7a-44a2-872a-b2c8b7e80935",
+                    "Score": 0.7492398023605347
+                },
+                {
+                    "Text": "Coupled Flow Imitation Learning (CFIL)",
+                    "BoundingBox": {
+                        "Width": 0.30069637298583984,
+                        "Height": 0.03103284165263176,
+                        "Left": 0.08596180379390717,
+                        "Top": 0.815504789352417
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a63e44fa-d29b-4cd0-9fce-600b8a098471",
+                    "Score": 0.9689202308654785
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c",
+                    "Score": 0.8037679195404053
+                },
+                {
+                    "Text": "Algorithm 1 CFIL",
+                    "BoundingBox": {
+                        "Width": 0.0828833132982254,
+                        "Height": 0.019590632990002632,
+                        "Left": 0.670870304107666,
+                        "Top": 0.3362143933773041
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f5bb092-d9c3-498a-a238-9158330c6dc1",
+                    "Score": 0.7705063819885254
+                },
+                {
+                    "Text": "Input: Expert demos parameterized flow pair off-policy RL algorithm A; density update rate k; squashing function o: regularization and smoothing coefficients a,B. Define: -log qo)",
+                    "BoundingBox": {
+                        "Width": 0.2560811936855316,
+                        "Height": 0.11572200059890747,
+                        "Left": 0.6708709597587585,
+                        "Top": 0.36365148425102234
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d8cf97a-505f-470a-97d1-bc573495715a",
+                    "Score": 0.7444448471069336
+                },
+                {
+                    "Text": "1: for timestep t = 0,1, do",
+                    "BoundingBox": {
+                        "Width": 0.1396663635969162,
+                        "Height": 0.020521555095911026,
+                        "Left": 0.6773104667663574,
+                        "Top": 0.4840567111968994
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c9b4ecf2-ced6-497b-ac84-33ad5c814b56",
+                    "Score": 0.8228523135185242
+                },
+                {
+                    "Text": "2: Take a step in A with reward r = -x.o. while filling agent buffer RA and potentially updating the policy and value networks according to A's settings.",
+                    "BoundingBox": {
+                        "Width": 0.25170138478279114,
+                        "Height": 0.06944938749074936,
+                        "Left": 0.6767525672912598,
+                        "Top": 0.5066950917243958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "24095792-725d-44b3-bb21-75249eb40647",
+                    "Score": 0.7177184224128723
+                },
+                {
+                    "Text": "3: if t mod k = 0 then",
+                    "BoundingBox": {
+                        "Width": 0.11795639991760254,
+                        "Height": 0.017107278108596802,
+                        "Left": 0.6768065690994263,
+                        "Top": 0.576528012752533
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "76915d78-4e4c-4d4b-8b16-4026604fb6e2",
+                    "Score": 0.6981593370437622
+                },
+                {
+                    "Text": "4: Sample expert and agent batches:",
+                    "BoundingBox": {
+                        "Width": 0.1799318790435791,
+                        "Height": 0.021673336625099182,
+                        "Left": 0.6768251657485962,
+                        "Top": 0.5996250510215759
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b4697cd7-ab1f-4ed7-89c2-3609bbed1415",
+                    "Score": 0.7435723543167114
+                },
+                {
+                    "Text": "5: {(s,at)}M1~RE and{(st,at)}M1~RA",
+                    "BoundingBox": {
+                        "Width": 0.2364535927772522,
+                        "Height": 0.026747502386569977,
+                        "Left": 0.676265299320221,
+                        "Top": 0.6197099685668945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bfa1c18-7b7f-4fb9-bd9c-7ef17e605918",
+                    "Score": 0.7762458920478821
+                },
+                {
+                    "Text": "6: if smooth then",
+                    "BoundingBox": {
+                        "Width": 0.09955423325300217,
+                        "Height": 0.017305947840213776,
+                        "Left": 0.6762852668762207,
+                        "Top": 0.6461942791938782
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "60fb100f-db96-4986-bfed-ab475e9c9af3",
+                    "Score": 0.746662437915802
+                },
+                {
+                    "Text": "7: (s,a)+=.(s,a)ou,u~U(-11)dim((sa)",
+                    "BoundingBox": {
+                        "Width": 0.2635779082775116,
+                        "Height": 0.029066184535622597,
+                        "Left": 0.6768776774406433,
+                        "Top": 0.6657017469406128
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1be06b00-b276-4734-b238-99f464e33653",
+                    "Score": 0.7140491008758545
+                },
+                {
+                    "Text": "8: end if",
+                    "BoundingBox": {
+                        "Width": 0.06257922202348709,
+                        "Height": 0.016439352184534073,
+                        "Left": 0.6763218641281128,
+                        "Top": 0.6928592920303345
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "948e42db-4f20-4e39-ad59-50b2d7ee189e",
+                    "Score": 0.7623188495635986
+                },
+                {
+                    "Text": "9: Compute loss: x(sa",
+                    "BoundingBox": {
+                        "Width": 0.24823442101478577,
+                        "Height": 0.05238351225852966,
+                        "Left": 0.6763402819633484,
+                        "Top": 0.7145422697067261
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e30f0ca-efe1-40da-b7ed-fca093135917",
+                    "Score": 0.7363237142562866
+                },
+                {
+                    "Text": "10:",
+                    "BoundingBox": {
+                        "Width": 0.010174974799156189,
+                        "Height": 0.014248657040297985,
+                        "Left": 0.6740590929985046,
+                        "Top": 0.7435961961746216
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "524288c9-dd3d-439b-85bf-6f0656bb2f83",
+                    "Score": 0.7697439193725586
+                },
+                {
+                    "Text": "11:",
+                    "BoundingBox": {
+                        "Width": 0.010381573811173439,
+                        "Height": 0.013858991675078869,
+                        "Left": 0.6740780472755432,
+                        "Top": 0.767194390296936
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5d558716-c7de-4f7c-b0c0-3fc4019cd652",
+                    "Score": 0.7640563249588013
+                },
+                {
+                    "Text": "12:",
+                    "BoundingBox": {
+                        "Width": 0.01013150904327631,
+                        "Height": 0.013978523202240467,
+                        "Left": 0.6740962862968445,
+                        "Top": 0.7899336814880371
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ad5ba8ae-ce32-493e-bc2b-d5224df7e579",
+                    "Score": 0.7551001310348511
+                },
+                {
+                    "Text": "13:",
+                    "BoundingBox": {
+                        "Width": 0.010812133550643921,
+                        "Height": 0.014367709867656231,
+                        "Left": 0.6735395789146423,
+                        "Top": 0.8131252527236938
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "55c46651-04b5-4a9c-b223-ca30fd35bd8f",
+                    "Score": 0.7551751732826233
+                },
+                {
+                    "Text": "if flow reg then",
+                    "BoundingBox": {
+                        "Width": 0.06708834320306778,
+                        "Height": 0.02099611610174179,
+                        "Left": 0.7114844918251038,
+                        "Top": 0.7643839716911316
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2a0445ae-a794-4a66-ba96-7aa5e0d2be1c",
+                    "Score": 0.786113977432251
+                },
+                {
+                    "Text": "Compute regularization loss:",
+                    "BoundingBox": {
+                        "Width": 0.12926647067070007,
+                        "Height": 0.02089293673634529,
+                        "Left": 0.7184028029441833,
+                        "Top": 0.7869296073913574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0705f86d-f8fb-4bd7-b18a-d4d26bce59c1",
+                    "Score": 0.7638189792633057
+                },
+                {
+                    "Text": "14:",
+                    "BoundingBox": {
+                        "Width": 0.011405645869672298,
+                        "Height": 0.01407183613628149,
+                        "Left": 0.6729835867881775,
+                        "Top": 0.8370752334594727
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b6bdaf92-dfa8-43fb-ac31-1506ce1693a9",
+                    "Score": 0.7364600896835327
+                },
+                {
+                    "Text": "15:",
+                    "BoundingBox": {
+                        "Width": 0.010854097083210945,
+                        "Height": 0.014848075807094574,
+                        "Left": 0.673576831817627,
+                        "Top": 0.8593888878822327
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bab8e169-8617-49a6-9633-27e2a3473ea9",
+                    "Score": 0.7472083568572998
+                },
+                {
+                    "Text": "16:",
+                    "BoundingBox": {
+                        "Width": 0.010898884385824203,
+                        "Height": 0.0146627863869071,
+                        "Left": 0.6735957264900208,
+                        "Top": 0.8828087449073792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "13bdf215-4d25-4a4c-ab99-c87fc9f75b2d",
+                    "Score": 0.7467216849327087
+                },
+                {
+                    "Text": "17:",
+                    "BoundingBox": {
+                        "Width": 0.010808435268700123,
+                        "Height": 0.014661555178463459,
+                        "Left": 0.6736141443252563,
+                        "Top": 0.9056627154350281
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dfdf41bc-b948-4510-9581-41b0aea14195",
+                    "Score": 0.754075288772583
+                },
+                {
+                    "Text": "18:",
+                    "BoundingBox": {
+                        "Width": 0.01009803544729948,
+                        "Height": 0.014707306399941444,
+                        "Left": 0.6742080450057983,
+                        "Top": 0.9291086196899414
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d88bd10c-6ab5-4495-938b-647fcb3649e8",
+                    "Score": 0.7550474405288696
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.028965437784790993,
+                        "Height": 0.016280539333820343,
+                        "Left": 0.7098132967948914,
+                        "Top": 0.8575446605682373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8cf6b068-82bc-46f9-9566-383d828e4d78",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "end if",
+                    "BoundingBox": {
+                        "Width": 0.027254844084382057,
+                        "Height": 0.015744755044579506,
+                        "Left": 0.7005547881126404,
+                        "Top": 0.9277599453926086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8d9a579e-728c-4beb-a0da-971be66c2cdc",
+                    "Score": 0.7749379873275757
+                },
+                {
+                    "Text": "19: end for",
+                    "BoundingBox": {
+                        "Width": 0.049652159214019775,
+                        "Height": 0.015879152342677116,
+                        "Left": 0.6736507415771484,
+                        "Top": 0.9506427645683289
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e9c920d0-cda9-4f83-8168-911265d8695d",
+                    "Score": 0.7775236368179321
+                },
+                {
+                    "Text": "Update Update",
+                    "BoundingBox": {
+                        "Width": 0.03438271954655647,
+                        "Height": 0.04311647266149521,
+                        "Left": 0.7086775302886963,
+                        "Top": 0.8816715478897095
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a92f2adc-9bad-48a0-9e04-548f5b4526e7",
+                    "Score": 0.7382539510726929
+                }
+            ]
+        }
+    ]
+}

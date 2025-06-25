@@ -1,0 +1,29 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,030",
+            "end_time": "00:00:04,951",
+            "transcript": "This figure shows an overview of the block architecture.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,852",
+            "end_time": "00:00:12,034",
+            "transcript": "The network architecture consists of three stages, each containing a searchable block and a fixed reduction block.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:12,694",
+            "end_time": "00:00:16,476",
+            "transcript": "The searchable block architecture can be expressed as a defendable supernet.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:17,156",
+            "end_time": "00:00:20,878",
+            "transcript": "Each stage is allowed to be different to construct the architecture.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

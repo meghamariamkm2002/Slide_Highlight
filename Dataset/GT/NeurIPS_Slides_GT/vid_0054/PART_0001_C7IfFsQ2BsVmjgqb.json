@@ -1,0 +1,95 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,600",
+            "end_time": "00:00:05,863",
+            "transcript": "First of all, I would like to introduce the motivation of our work.",
+            "MatchedRegion": [
+                {
+                    "Text": "Introduction",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.15786558389663696,
+                        "Height": 0.038122136145830154,
+                        "Left": 0.02062373049557209,
+                        "Top": 0.057744719088077545
+                    },
+                    "Id": "55c7f97e-170a-4dff-95d2-3026ebf4a064"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,543",
+            "end_time": "00:00:17,208",
+            "transcript": "As we all know, animal pose estimation is crucial in animal behavior understanding and wildlife conservation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Although there is abundant human pose estimation datasets, animal pose estimation datasets are largely ignored, especially for video-based animal pose estimation, although it is crucial in animal behavior understanding and wildlife conservation.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8438963890075684,
+                        "Height": 0.06742990761995316,
+                        "Left": 0.020929498597979546,
+                        "Top": 0.7107188701629639
+                    },
+                    "Id": "b9c15130-6b33-4789-904e-c1ba66a19910"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,708",
+            "end_time": "00:00:21,650",
+            "transcript": "But animal pose estimation datasets are largely ignored.",
+            "MatchedRegion": [
+                {
+                    "Text": "Although there is abundant human pose estimation datasets, animal pose estimation datasets are largely ignored, especially for video-based animal pose estimation, although it is crucial in animal behavior understanding and wildlife conservation.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8438963890075684,
+                        "Height": 0.06742990761995316,
+                        "Left": 0.020929498597979546,
+                        "Top": 0.7107188701629639
+                    },
+                    "Id": "b9c15130-6b33-4789-904e-c1ba66a19910"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,131",
+            "end_time": "00:00:24,212",
+            "transcript": "And existing datasets",
+            "MatchedRegion": [
+                {
+                    "Text": "Besides, existing datasets for animal pose estimation are not available for tracking tasks because they do not have continuous time information. Likewise, datasets prepared for tracking tasks lack detailed keypoint annotations.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7815401554107666,
+                        "Height": 0.06630676984786987,
+                        "Left": 0.020677810534834862,
+                        "Top": 0.8184082508087158
+                    },
+                    "Id": "41c1f952-3dd1-44ef-afa9-11f00e3cef09"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,117",
+            "end_time": "00:00:31,347",
+            "transcript": "You really don't have continuous time information or lack detailed keypoint annotations.",
+            "MatchedRegion": [
+                {
+                    "Text": "Besides, existing datasets for animal pose estimation are not available for tracking tasks because they do not have continuous time information. Likewise, datasets prepared for tracking tasks lack detailed keypoint annotations.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7815401554107666,
+                        "Height": 0.06630676984786987,
+                        "Left": 0.020677810534834862,
+                        "Top": 0.8184082508087158
+                    },
+                    "Id": "41c1f952-3dd1-44ef-afa9-11f00e3cef09"
+                }
+            ]
+        }
+    ]
+}

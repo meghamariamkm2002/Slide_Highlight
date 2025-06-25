@@ -1,0 +1,59 @@
+{
+  "MatchedRegions": [
+      {
+          "start_time": "00:00:01,155",
+          "end_time": "00:00:09,561",
+          "transcript": "Firstly, we verify that most concepts had little effects on the output, which verify the sparsity of encoded concepts.",
+          "MatchedRegion": [
+            {
+              "Id": "0d09f64c-3833-4bdd-a762-20b104fe486c",
+              "Text": "Most concepts had little effects on the output I (S|x) 22 0, which verified the sparsity of the encoded concepts.",
+              "BoundingBox": {
+                  "Width": 0.875282347202301,
+                  "Height": 0.03441496193408966,
+                  "Left": 0.06112392991781235,
+                  "Top": 0.7437891364097595
+              },
+              "BlockType": "LAYOUT_TEXT"
+            }    
+          ]
+      },
+      {
+        "start_time": "00:00:10,401",
+        "end_time": "00:00:19,807",
+        "transcript": "This is a distinctive property of symbolism, where it is sufficient to use a small number of explicit symbolic concepts to represent the knowledge.",
+        "MatchedRegion": [
+          {
+            "Id": "86958918-d928-464d-8c51-ce400f9a7f6a",
+            "Text": "The DNN's inference on a specific sample is supposed to be concisely explained by a small number of salient concepts, rather than a large number of concepts.",
+            "BoundingBox": {
+                "Width": 0.8317951560020447,
+                "Height": 0.0787949189543724,
+                "Left": 0.07955576479434967,
+                "Top": 0.2110220193862915
+            },
+            "BlockType": "LAYOUT_TEXT"
+          }
+        ]
+      },
+      {
+        "start_time": "00:00:20,888",
+        "end_time": "00:00:26,392",
+        "transcript": "Such a concept emergent phenomenon has also been mathematically proved in our recent work.",
+        "MatchedRegion": [
+          {
+            "Id": "6a4811df-b344-475d-b990-f7e94eb39be2",
+            "Text": "Actually, in our recent work [Ren et al., 2023], we have mathematically proved the above sparse concept emerging phenomenon.",
+            "BoundingBox": {
+                "Width": 0.828789472579956,
+                "Height": 0.03143046051263809,
+                "Left": 0.05538651719689369,
+                "Top": 0.8540380597114563
+            },
+            "BlockType": "LAYOUT_TEXT"
+         }
+        ]
+      }
+  ],
+  "MatchedSlides": []
+}

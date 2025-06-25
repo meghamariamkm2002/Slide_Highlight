@@ -1,0 +1,40 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,479",
+            "end_time": "00:00:03,109",
+            "transcript": "Thank you very much for your attention.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:03,512",
+            "end_time": "00:00:05,082",
+            "transcript": "Please check out our code and paper.",
+            "MatchedRegion": [
+                {
+                    "Text": "CODE",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.10257451981306076,
+                        "Height": 0.2580249607563019,
+                        "Left": 0.104679174721241,
+                        "Top": 0.6848087310791016
+                    },
+                    "Id": "44da0dfc-3817-4d6f-ba04-b58b8232f978"
+                },
+                {
+                    "Text": "CODE",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.10276293754577637,
+                        "Height": 0.25759974122047424,
+                        "Left": 0.7929330468177795,
+                        "Top": 0.6857414841651917
+                    },
+                    "Id": "6eeff139-2e0c-43cd-acbd-37e4bf595d77"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,554",
+            "end_time": "00:00:03,975",
+            "transcript": "Why is this data important?",
+            "MatchedRegion": [
+                {
+                    "Text": "Electronic Health Records (EHRs)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.45564550161361694,
+                        "Height": 0.04941798001527786,
+                        "Left": 0.06966426223516464,
+                        "Top": 0.2110387235879898
+                    },
+                    "Id": "2c31a0d0-91c9-4699-82d1-bfb6781364ee"
+                },
+                {
+                    "Text": "Also called Electronic Medical Records (EMRs)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.49818989634513855,
+                        "Height": 0.039558038115501404,
+                        "Left": 0.12058144807815552,
+                        "Top": 0.2842004895210266
+                    },
+                    "Id": "6908ee52-5b5e-401a-859b-0ca4d9571f83"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:04,615",
+            "end_time": "00:00:07,836",
+            "transcript": "First, we need to get familiarized with what EHRs are.",
+            "MatchedRegion": [
+                {
+                    "Text": "Electronic Health Records (EHRs)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.45564550161361694,
+                        "Height": 0.04941798001527786,
+                        "Left": 0.06966426223516464,
+                        "Top": 0.2110387235879898
+                    },
+                    "Id": "2c31a0d0-91c9-4699-82d1-bfb6781364ee"
+                },
+                {
+                    "Text": "Also called Electronic Medical Records (EMRs)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.49818989634513855,
+                        "Height": 0.039558038115501404,
+                        "Left": 0.12058144807815552,
+                        "Top": 0.2842004895210266
+                    },
+                    "Id": "6908ee52-5b5e-401a-859b-0ca4d9571f83"
+                },
+                {
+                    "Text": "Hospital Admission Diagnosis, Procedure, Chartevent, I/O, EHR (ex: MIMIC, elCU) Hospital Discharge",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.4688071012496948,
+                        "Height": 0.6276530623435974,
+                        "Left": 0.3194434642791748,
+                        "Top": 0.36177515983581543
+                    },
+                    "Id": "6e175607-7ab6-4381-9eda-d2040fa353d5"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,436",
+            "end_time": "00:00:10,657",
+            "transcript": "EHR stands for electronic health record.",
+            "MatchedRegion": [
+                {
+                    "Text": "Electronic Health Records (EHRs)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.45564550161361694,
+                        "Height": 0.04941798001527786,
+                        "Left": 0.06966426223516464,
+                        "Top": 0.2110387235879898
+                    },
+                    "Id": "2c31a0d0-91c9-4699-82d1-bfb6781364ee"
+                },
+                {
+                    "Text": "Also called Electronic Medical Records (EMRs)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.49818989634513855,
+                        "Height": 0.039558038115501404,
+                        "Left": 0.12058144807815552,
+                        "Top": 0.2842004895210266
+                    },
+                    "Id": "6908ee52-5b5e-401a-859b-0ca4d9571f83"
+                },
+                {
+                    "Text": "Hospital Admission Diagnosis, Procedure, Chartevent, I/O, EHR (ex: MIMIC, elCU) Hospital Discharge",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.4688071012496948,
+                        "Height": 0.6276530623435974,
+                        "Left": 0.3194434642791748,
+                        "Top": 0.36177515983581543
+                    },
+                    "Id": "6e175607-7ab6-4381-9eda-d2040fa353d5"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,177",
+            "end_time": "00:00:14,358",
+            "transcript": "They are also called electron medical records or EMRs.",
+            "MatchedRegion": [
+                {
+                    "Text": "Electronic Health Records (EHRs)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.45564550161361694,
+                        "Height": 0.04941798001527786,
+                        "Left": 0.06966426223516464,
+                        "Top": 0.2110387235879898
+                    },
+                    "Id": "2c31a0d0-91c9-4699-82d1-bfb6781364ee"
+                },
+                {
+                    "Text": "Also called Electronic Medical Records (EMRs)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.49818989634513855,
+                        "Height": 0.039558038115501404,
+                        "Left": 0.12058144807815552,
+                        "Top": 0.2842004895210266
+                    },
+                    "Id": "6908ee52-5b5e-401a-859b-0ca4d9571f83"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,219",
+            "end_time": "00:00:23,902",
+            "transcript": "From hospital automation to diagnosis, procedure, and hospital discharge, all medical events that happen in the hospital are stored in this database.",
+            "MatchedRegion": [
+                {
+                    "Text": "Electronic Health Records (EHRs)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.45564550161361694,
+                        "Height": 0.04941798001527786,
+                        "Left": 0.06966426223516464,
+                        "Top": 0.2110387235879898
+                    },
+                    "Id": "2c31a0d0-91c9-4699-82d1-bfb6781364ee"
+                },
+                {
+                    "Text": "Hospital Admission Diagnosis, Procedure, Chartevent, I/O, EHR (ex: MIMIC, elCU) Hospital Discharge",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.4688071012496948,
+                        "Height": 0.6276530623435974,
+                        "Left": 0.3194434642791748,
+                        "Top": 0.36177515983581543
+                    },
+                    "Id": "6e175607-7ab6-4381-9eda-d2040fa353d5"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,249",
+            "end_time": "00:00:00,629",
+            "transcript": "functions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,510",
+            "end_time": "00:00:08,254",
+            "transcript": "As shown in the Disney visualizations, there's a noticeable separation between the source and target domains of Moulin.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,894",
+            "end_time": "00:00:15,918",
+            "transcript": "Therefore, we only observe a slight adaption of the source and target domain features for other SKR and SKP",
+            "MatchedRegion": [
+                {
+                    "Text": "In accordance with the quantitative results, we observe only a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS compared to the supervised baseline UFLD-SO",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8974785804748535,
+                        "Height": 0.07349909096956253,
+                        "Left": 0.03530073165893555,
+                        "Top": 0.16038255393505096
+                    },
+                    "Id": "7a34dd71-a1b8-4fcb-997e-b06b3ce1b81c"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,870",
+            "end_time": "00:00:09,752",
+            "transcript": "Unsupervised domain adaptation demonstrates great potential to mitigate domain shifts by transferring models from labeled source domains to unlabeled target domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10476077347993851,
+                        "Height": 0.07972654700279236,
+                        "Left": 0.8890101313591003,
+                        "Top": 0.01380322314798832
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "792d7c84-e6b6-4ecb-8473-addfa40a70ad",
+                    "Score": 0.6742139458656311
+                },
+                {
+                    "Text": "unsupervised knowledge transfer domain shift",
+                    "BoundingBox": {
+                        "Width": 0.6713652610778809,
+                        "Height": 0.3796723783016205,
+                        "Left": 0.16458754241466522,
+                        "Top": 0.16522711515426636
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "61b08415-f5ab-4125-9fc0-725453858496",
+                    "Score": 0.77001953125
+                },
+                {
+                    "Text": "labeled source domain",
+                    "BoundingBox": {
+                        "Width": 0.1749057024717331,
+                        "Height": 0.025366567075252533,
+                        "Left": 0.19563709199428558,
+                        "Top": 0.5666717290878296
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b3218f1b-2d4e-410f-817b-2d51ab5b1fd8",
+                    "Score": 0.8770392537117004
+                },
+                {
+                    "Text": "unlabeled target domain",
+                    "BoundingBox": {
+                        "Width": 0.19038709998130798,
+                        "Height": 0.0298610869795084,
+                        "Left": 0.6210153102874756,
+                        "Top": 0.5672021508216858
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "253b51da-4af4-4ca0-81f4-b43a17a7ef2c",
+                    "Score": 0.8120869398117065
+                },
+                {
+                    "Text": "Unsupervised Domain Adaptation (UDA) demonstrates great potential to mitigate domain shifts by transferring models from labeled source domains to unlabeled target domains",
+                    "BoundingBox": {
+                        "Width": 0.8520699143409729,
+                        "Height": 0.07390082627534866,
+                        "Left": 0.03573311120271683,
+                        "Top": 0.6462298631668091
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "829daac5-d0b4-4f02-941e-e877717cd317",
+                    "Score": 0.8467851877212524
+                },
+                {
+                    "Text": "This can be attributed to the lack of publicly available datasets",
+                    "BoundingBox": {
+                        "Width": 0.5430829524993896,
+                        "Height": 0.03331313654780388,
+                        "Left": 0.03570578992366791,
+                        "Top": 0.810569167137146
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "645e79f1-beb0-43f1-88ef-2b4ac9553d2a",
+                    "Score": 0.9966192245483398
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.044924162328243256,
+                        "Height": 0.042930968105793,
+                        "Left": 0.14658336341381073,
+                        "Top": 0.9292705059051514
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "37fac549-cea3-41fd-a5fd-dfe66ef254c5",
+                    "Score": 0.7633633613586426
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06648728251457214,
+                        "Height": 0.06723158061504364,
+                        "Left": 0.44552138447761536,
+                        "Top": 0.9216936230659485
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "410a8f66-b93d-4e9c-9222-636ee5dad76f",
+                    "Score": 0.7582587003707886
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,432",
+            "end_time": "00:00:14,294",
+            "transcript": "However, only a few works focus on lane detection for autonomous driving.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10476077347993851,
+                        "Height": 0.07972654700279236,
+                        "Left": 0.8890101313591003,
+                        "Top": 0.01380322314798832
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "792d7c84-e6b6-4ecb-8473-addfa40a70ad",
+                    "Score": 0.6742139458656311
+                },
+                {
+                    "Text": "unsupervised knowledge transfer domain shift",
+                    "BoundingBox": {
+                        "Width": 0.6713652610778809,
+                        "Height": 0.3796723783016205,
+                        "Left": 0.16458754241466522,
+                        "Top": 0.16522711515426636
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "61b08415-f5ab-4125-9fc0-725453858496",
+                    "Score": 0.77001953125
+                },
+                {
+                    "Text": "Only a few UDA works focus on lane detection for autonomous driving",
+                    "BoundingBox": {
+                        "Width": 0.611201822757721,
+                        "Height": 0.033493008464574814,
+                        "Left": 0.03571942076086998,
+                        "Top": 0.748641312122345
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9fd32e69-1aa3-4a14-add0-e8d90d181e5c",
+                    "Score": 0.9181207418441772
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.044924162328243256,
+                        "Height": 0.042930968105793,
+                        "Left": 0.14658336341381073,
+                        "Top": 0.9292705059051514
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "37fac549-cea3-41fd-a5fd-dfe66ef254c5",
+                    "Score": 0.7633633613586426
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06648728251457214,
+                        "Height": 0.06723158061504364,
+                        "Left": 0.44552138447761536,
+                        "Top": 0.9216936230659485
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "410a8f66-b93d-4e9c-9222-636ee5dad76f",
+                    "Score": 0.7582587003707886
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,034",
+            "end_time": "00:00:17,975",
+            "transcript": "This can be attributed to the lack of publicly available datasets.",
+            "MatchedRegion": [
+                {
+                    "Text": "Introduction",
+                    "BoundingBox": {
+                        "Width": 0.18326759338378906,
+                        "Height": 0.046243876218795776,
+                        "Left": 0.036899302154779434,
+                        "Top": 0.036384470760822296
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "96d77586-162f-41d9-98eb-5ad4db107631",
+                    "Score": 0.8097256422042847
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10476077347993851,
+                        "Height": 0.07972654700279236,
+                        "Left": 0.8890101313591003,
+                        "Top": 0.01380322314798832
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "792d7c84-e6b6-4ecb-8473-addfa40a70ad",
+                    "Score": 0.6742139458656311
+                },
+                {
+                    "Text": "unsupervised knowledge transfer domain shift",
+                    "BoundingBox": {
+                        "Width": 0.6713652610778809,
+                        "Height": 0.3796723783016205,
+                        "Left": 0.16458754241466522,
+                        "Top": 0.16522711515426636
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "61b08415-f5ab-4125-9fc0-725453858496",
+                    "Score": 0.77001953125
+                },
+                {
+                    "Text": "unlabeled target domain",
+                    "BoundingBox": {
+                        "Width": 0.19038709998130798,
+                        "Height": 0.0298610869795084,
+                        "Left": 0.6210153102874756,
+                        "Top": 0.5672021508216858
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "253b51da-4af4-4ca0-81f4-b43a17a7ef2c",
+                    "Score": 0.8120869398117065
+                },
+                {
+                    "Text": "Unsupervised Domain Adaptation (UDA) demonstrates great potential to mitigate domain shifts by transferring models from labeled source domains to unlabeled target domains",
+                    "BoundingBox": {
+                        "Width": 0.8520699143409729,
+                        "Height": 0.07390082627534866,
+                        "Left": 0.03573311120271683,
+                        "Top": 0.6462298631668091
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "829daac5-d0b4-4f02-941e-e877717cd317",
+                    "Score": 0.8467851877212524
+                },
+                {
+                    "Text": "This can be attributed to the lack of publicly available datasets",
+                    "BoundingBox": {
+                        "Width": 0.5430829524993896,
+                        "Height": 0.03331313654780388,
+                        "Left": 0.03570578992366791,
+                        "Top": 0.810569167137146
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "645e79f1-beb0-43f1-88ef-2b4ac9553d2a",
+                    "Score": 0.9966192245483398
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.044924162328243256,
+                        "Height": 0.042930968105793,
+                        "Left": 0.14658336341381073,
+                        "Top": 0.9292705059051514
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "37fac549-cea3-41fd-a5fd-dfe66ef254c5",
+                    "Score": 0.7633633613586426
+                },
+                {
+                    "Text": "University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07270858436822891,
+                        "Height": 0.01049770601093769,
+                        "Left": 0.35120511054992676,
+                        "Top": 0.9754533171653748
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "cb9e8954-484f-4733-9cf1-cb591216e77b",
+                    "Score": 0.8110224008560181
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06648728251457214,
+                        "Height": 0.06723158061504364,
+                        "Left": 0.44552138447761536,
+                        "Top": 0.9216936230659485
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "410a8f66-b93d-4e9c-9222-636ee5dad76f",
+                    "Score": 0.7582587003707886
+                },
+                {
+                    "Text": "2",
+                    "BoundingBox": {
+                        "Width": 0.005778516177088022,
+                        "Height": 0.014899058267474174,
+                        "Left": 0.9545242190361023,
+                        "Top": 0.9465152621269226
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "bb3437a0-9893-42f7-8e83-b0b1438111e5",
+                    "Score": 0.8165550827980042
+                }
+            ]
+        }
+    ]
+}

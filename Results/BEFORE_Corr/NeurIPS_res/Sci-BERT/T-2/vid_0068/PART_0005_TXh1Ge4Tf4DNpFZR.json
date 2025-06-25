@@ -1,0 +1,110 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,469",
+            "transcript": "algorithms.",
+            "MatchedRegion": [
+                {
+                    "Text": "Blockwise NAS",
+                    "BoundingBox": {
+                        "Width": 0.2607707977294922,
+                        "Height": 0.05398986488580704,
+                        "Left": 0.370076984167099,
+                        "Top": 0.11907633394002914
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "557272ee-da87-4e6a-8334-02e273cebba6",
+                    "Score": 0.7240951061248779
+                },
+                {
+                    "Text": "Block signatures Blockwise distillation Fine tuning Search Labels DONNA : Evolutionary + B B1 B Pre-trained B B1 B linear regression of distillation loss Fine-tuned weights accuracy Teacher Soft CE LANA : ILP + sum of Avalidation accuracy B0.1 A Loss B2.1 > Loss CE : : Bo, B B1. B2,k Others 0.m B Student Next student to evaluate",
+                    "BoundingBox": {
+                        "Width": 0.8300134539604187,
+                        "Height": 0.4452390670776367,
+                        "Left": 0.08778494596481323,
+                        "Top": 0.2733086943626404
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b28d2b6d-622a-4aac-ad8c-9dff699a8d1f",
+                    "Score": 0.672295331954956
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,090",
+            "end_time": "00:00:05,711",
+            "transcript": "This will give an overview of the block-wise last methods.",
+            "MatchedRegion": [
+                {
+                    "Text": "Blockwise NAS",
+                    "BoundingBox": {
+                        "Width": 0.2607707977294922,
+                        "Height": 0.05398986488580704,
+                        "Left": 0.370076984167099,
+                        "Top": 0.11907633394002914
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "557272ee-da87-4e6a-8334-02e273cebba6",
+                    "Score": 0.7240951061248779
+                },
+                {
+                    "Text": "Block signatures Blockwise distillation Fine tuning Search Labels DONNA : Evolutionary + B B1 B Pre-trained B B1 B linear regression of distillation loss Fine-tuned weights accuracy Teacher Soft CE LANA : ILP + sum of Avalidation accuracy B0.1 A Loss B2.1 > Loss CE : : Bo, B B1. B2,k Others 0.m B Student Next student to evaluate",
+                    "BoundingBox": {
+                        "Width": 0.8300134539604187,
+                        "Height": 0.4452390670776367,
+                        "Left": 0.08778494596481323,
+                        "Top": 0.2733086943626404
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b28d2b6d-622a-4aac-ad8c-9dff699a8d1f",
+                    "Score": 0.672295331954956
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,591",
+            "end_time": "00:00:18,996",
+            "transcript": "First, block-wise distillation divides a pre-trained reference model, known as teacher, into sequential blocks that are later distributed into a library of pre-trained replacement blocks together with their signatures.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:20,536",
+            "end_time": "00:00:28,659",
+            "transcript": "Two, search uses this signature to guide an algorithm to find a well-performing model built by stacking a number of blocks from the block library.",
+            "MatchedRegion": [
+                {
+                    "Text": "Block signatures Blockwise distillation Fine tuning Search Labels DONNA : Evolutionary + B B1 B Pre-trained B B1 B linear regression of distillation loss Fine-tuned weights accuracy Teacher Soft CE LANA : ILP + sum of Avalidation accuracy B0.1 A Loss B2.1 > Loss CE : : Bo, B B1. B2,k Others 0.m B Student Next student to evaluate",
+                    "BoundingBox": {
+                        "Width": 0.8300134539604187,
+                        "Height": 0.4452390670776367,
+                        "Left": 0.08778494596481323,
+                        "Top": 0.2733086943626404
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b28d2b6d-622a-4aac-ad8c-9dff699a8d1f",
+                    "Score": 0.672295331954956
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,983",
+            "end_time": "00:00:38,982",
+            "transcript": "Third, fine tuning is a process when block of student model are initialized with weights obtained in distillation, that the model are trained with knowledge distributed.",
+            "MatchedRegion": [
+                {
+                    "Text": "Block signatures Blockwise distillation Fine tuning Search Labels DONNA : Evolutionary + B B1 B Pre-trained B B1 B linear regression of distillation loss Fine-tuned weights accuracy Teacher Soft CE LANA : ILP + sum of Avalidation accuracy B0.1 A Loss B2.1 > Loss CE : : Bo, B B1. B2,k Others 0.m B Student Next student to evaluate",
+                    "BoundingBox": {
+                        "Width": 0.8300134539604187,
+                        "Height": 0.4452390670776367,
+                        "Left": 0.08778494596481323,
+                        "Top": 0.2733086943626404
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b28d2b6d-622a-4aac-ad8c-9dff699a8d1f",
+                    "Score": 0.672295331954956
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "MatchedSlides": [
+        "PART_0006_go2ENHJvJoH7ZGDm",
+        "PART_0009_yplGRvgaphNPISdC"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,509",
+            "end_time": "00:00:06,411",
+            "transcript": "Here we quantify the performance of different NAS methods in our block search base.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,111",
+            "end_time": "00:00:15,013",
+            "transcript": "We measure the accuracy after reaching a fixed search cost of 40 and also we measure the cost required to achieve a good accuracy of 76.6.",
+            "MatchedRegion": [
+                {
+                    "Text": "Acc. Cost Method @ cost=40 @ acc.=76.6 Conventional NAS Regularized Evolution 76.10 BRP-NAS 76.40 400 DARTS-PT 74.52- Blockwise NAS assuming good teacher (M1) FT200 76.90 25 Standard blockwise with good teacher FT10 73.47 FT10 + FT200 77.66 30 Reduced fine-tuning followed by full Blockwise NAS assuming bad teacher (M5) fine-tuning with good teacher FT10 70.67 FT10 + FT200 74.90 FT10 + FT200 iter. 76.67 30 Iterative fine-tuning approach FT10 + FT200 M1 76.88 30",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.8450175523757935,
+                        "Height": 0.6993016600608826,
+                        "Left": 0.12682850658893585,
+                        "Top": 0.23247921466827393
+                    },
+                    "Id": "c74b5ce0-8fde-4542-9bbe-944b114ef522"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,194",
+            "end_time": "00:00:25,896",
+            "transcript": "We can see that we can improve block-wise NAS by utilizing reduced fine-tuning proxy followed by full fine-tuning and when a bad teacher is used it,",
+            "MatchedRegion": [
+                {
+                    "Text": "Acc. Cost Method @ cost=40 @ acc.=76.6 Conventional NAS Regularized Evolution 76.10 BRP-NAS 76.40 400 DARTS-PT 74.52- Blockwise NAS assuming good teacher (M1) FT200 76.90 25 Standard blockwise with good teacher FT10 73.47 FT10 + FT200 77.66 30 Reduced fine-tuning followed by full Blockwise NAS assuming bad teacher (M5) fine-tuning with good teacher FT10 70.67 FT10 + FT200 74.90 FT10 + FT200 iter. 76.67 30 Iterative fine-tuning approach FT10 + FT200 M1 76.88 30",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.8450175523757935,
+                        "Height": 0.6993016600608826,
+                        "Left": 0.12682850658893585,
+                        "Top": 0.23247921466827393
+                    },
+                    "Id": "c74b5ce0-8fde-4542-9bbe-944b114ef522"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:26,697",
+            "end_time": "00:00:31,080",
+            "transcript": "we can improve the result by our proposed iterative strategy.",
+            "MatchedRegion": [
+                {
+                    "Text": "Acc. Cost Method @ cost=40 @ acc.=76.6 Conventional NAS Regularized Evolution 76.10 BRP-NAS 76.40 400 DARTS-PT 74.52- Blockwise NAS assuming good teacher (M1) FT200 76.90 25 Standard blockwise with good teacher FT10 73.47 FT10 + FT200 77.66 30 Reduced fine-tuning followed by full Blockwise NAS assuming bad teacher (M5) fine-tuning with good teacher FT10 70.67 FT10 + FT200 74.90 FT10 + FT200 iter. 76.67 30 Iterative fine-tuning approach FT10 + FT200 M1 76.88 30",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.8450175523757935,
+                        "Height": 0.6993016600608826,
+                        "Left": 0.12682850658893585,
+                        "Top": 0.23247921466827393
+                    },
+                    "Id": "c74b5ce0-8fde-4542-9bbe-944b114ef522"
+                }
+            ]
+        }
+    ]
+}

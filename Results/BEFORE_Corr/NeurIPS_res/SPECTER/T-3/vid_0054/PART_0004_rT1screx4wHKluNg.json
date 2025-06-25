@@ -1,0 +1,150 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,589",
+            "end_time": "00:00:06,894",
+            "transcript": "And we also calculated the distribution of the key point motion, IOU and the aspect ratio.",
+            "MatchedRegion": [
+                {
+                    "Text": "THE UNIVERSITY OF SYDNEY",
+                    "BoundingBox": {
+                        "Width": 0.056488700211048126,
+                        "Height": 0.0325007401406765,
+                        "Left": 0.7638938426971436,
+                        "Top": 0.025303153321146965
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "2f4dabe3-0251-402b-8ac1-5caeffe3645b",
+                    "Score": 0.6551392078399658
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.07381496578454971,
+                        "Height": 0.022432301193475723,
+                        "Left": 0.9202768802642822,
+                        "Top": 0.0328998938202858
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "8984472a-a88e-4f7f-8173-fb5910fc2780",
+                    "Score": 0.6589810848236084
+                },
+                {
+                    "Text": "Introduction",
+                    "BoundingBox": {
+                        "Width": 0.1582382619380951,
+                        "Height": 0.03720512241125107,
+                        "Left": 0.020253974944353104,
+                        "Top": 0.05825898423790932
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "ba77c49c-e583-4d32-80cb-657388ed0432",
+                    "Score": 0.7124577760696411
+                },
+                {
+                    "Text": "0-10 px 10-20 px - 20-30 px - 30-40 px - 40-50 px 50-100 px - 100-200 px ->>200 px - Average Distance 0.30 60 55 0.25 50 45 0.20 40 0.15 35 30 0.10 25 20 0.05 15 0.00 10 Keypoint (a)",
+                    "BoundingBox": {
+                        "Width": 0.5006024241447449,
+                        "Height": 0.5543595552444458,
+                        "Left": 0.1150602400302887,
+                        "Top": 0.18299245834350586
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8d95e1c1-60d4-42de-a316-215b6d03e224",
+                    "Score": 0.7971540093421936
+                },
+                {
+                    "Text": "0.6 0.5 0.4 0.3 0.2 0.1 0 IOU Between Adjacent Frames (b) 0.08 0.07 0.06 0.05 0.04 0.03 0.02 0.01 0.00 Bounding Box Aspect Ratio (c)",
+                    "BoundingBox": {
+                        "Width": 0.2683734893798828,
+                        "Height": 0.5643230676651001,
+                        "Left": 0.6117470264434814,
+                        "Top": 0.17356713116168976
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "960f01a8-b8d6-421f-8734-0dd56345b83a",
+                    "Score": 0.8497191071510315
+                },
+                {
+                    "Text": "We also calculate the distributions of the keypoint motion, IOU between tracked bounding boxes in adjacent frames, and the aspect ratio of the annotated bounding boxes in our APT-36K dataset. It can be observed that APT-36K has a rich diversity of distributions in motion and the aspect ratio of bounding boxes.",
+                    "BoundingBox": {
+                        "Width": 0.8314335346221924,
+                        "Height": 0.10014502704143524,
+                        "Left": 0.04402713105082512,
+                        "Top": 0.818084180355072
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "217e9bdf-b1ad-45a7-b002-baa33fcd1f96",
+                    "Score": 0.9304245710372925
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,394",
+            "end_time": "00:00:19,823",
+            "transcript": "In our dataset, it can be observed that APT36000 has a rich diversity of distribution in motion and the aspect ratio of bounding boxes.",
+            "MatchedRegion": [
+                {
+                    "Text": "THE UNIVERSITY OF SYDNEY",
+                    "BoundingBox": {
+                        "Width": 0.056488700211048126,
+                        "Height": 0.0325007401406765,
+                        "Left": 0.7638938426971436,
+                        "Top": 0.025303153321146965
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "2f4dabe3-0251-402b-8ac1-5caeffe3645b",
+                    "Score": 0.6551392078399658
+                },
+                {
+                    "Text": "Introduction",
+                    "BoundingBox": {
+                        "Width": 0.1582382619380951,
+                        "Height": 0.03720512241125107,
+                        "Left": 0.020253974944353104,
+                        "Top": 0.05825898423790932
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "ba77c49c-e583-4d32-80cb-657388ed0432",
+                    "Score": 0.7124577760696411
+                },
+                {
+                    "Text": "0-10 px 10-20 px - 20-30 px - 30-40 px - 40-50 px 50-100 px - 100-200 px ->>200 px - Average Distance 0.30 60 55 0.25 50 45 0.20 40 0.15 35 30 0.10 25 20 0.05 15 0.00 10 Keypoint (a)",
+                    "BoundingBox": {
+                        "Width": 0.5006024241447449,
+                        "Height": 0.5543595552444458,
+                        "Left": 0.1150602400302887,
+                        "Top": 0.18299245834350586
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "8d95e1c1-60d4-42de-a316-215b6d03e224",
+                    "Score": 0.7971540093421936
+                },
+                {
+                    "Text": "0.6 0.5 0.4 0.3 0.2 0.1 0 IOU Between Adjacent Frames (b) 0.08 0.07 0.06 0.05 0.04 0.03 0.02 0.01 0.00 Bounding Box Aspect Ratio (c)",
+                    "BoundingBox": {
+                        "Width": 0.2683734893798828,
+                        "Height": 0.5643230676651001,
+                        "Left": 0.6117470264434814,
+                        "Top": 0.17356713116168976
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "960f01a8-b8d6-421f-8734-0dd56345b83a",
+                    "Score": 0.8497191071510315
+                },
+                {
+                    "Text": "We also calculate the distributions of the keypoint motion, IOU between tracked bounding boxes in adjacent frames, and the aspect ratio of the annotated bounding boxes in our APT-36K dataset. It can be observed that APT-36K has a rich diversity of distributions in motion and the aspect ratio of bounding boxes.",
+                    "BoundingBox": {
+                        "Width": 0.8314335346221924,
+                        "Height": 0.10014502704143524,
+                        "Left": 0.04402713105082512,
+                        "Top": 0.818084180355072
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "217e9bdf-b1ad-45a7-b002-baa33fcd1f96",
+                    "Score": 0.9304245710372925
+                }
+            ]
+        }
+    ]
+}

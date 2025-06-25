@@ -1,0 +1,46 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,069",
+            "end_time": "00:00:00,549",
+            "transcript": "protein.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,871",
+            "end_time": "00:00:08,894",
+            "transcript": "For modern drug discovery, a commonly used approach is structure-based drug design (SBDD).",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:09,694",
+            "end_time": "00:00:21,401",
+            "transcript": "And a key problem in structure-based drug design is to predict whether a candidate drug molecule will bind to the target protein and how it will interact with it.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:22,560",
+            "end_time": "00:00:33,647",
+            "transcript": "This is an extremely challenging problem because the structure of proteins and drug molecules are measured in unit of Angstrom, 0.1 nanometer.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:34,787",
+            "end_time": "00:00:38,549",
+            "transcript": "They are so small that they are invisible to the naked eyes.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:39,570",
+            "end_time": "00:00:47,995",
+            "transcript": "Sophisticated experiments have to be built to determine their structures and to study their dynamics is even harder.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_JTz6kDtffaFhmgXo",
+            "Score": 0.619648814201355
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,350",
+            "end_time": "00:00:05,254",
+            "transcript": "For the target domain of TuSimple, we create a clean version of the TuSimple dataset.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,834",
+            "end_time": "00:00:09,918",
+            "transcript": "Our goal is to ensure that up to four lanes closest to the car are correctly labeled.",
+            "MatchedRegion": [
+                {
+                    "Text": "ensure that up to four lanes closest to the car are correctly labeled",
+                    "BoundingBox": {
+                        "Width": 0.5234382748603821,
+                        "Height": 0.036119457334280014,
+                        "Left": 0.0736241340637207,
+                        "Top": 0.21882902085781097
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bbcd277b-43b3-483f-851e-88331e94ba3f",
+                    "Score": 0.9123700261116028
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,639",
+            "end_time": "00:00:13,982",
+            "transcript": "To clean the data, we utilize our publicly available labeling tool.",
+            "MatchedRegion": [
+                {
+                    "Text": "To clean the data, we utilize our publicly available labeling tool",
+                    "BoundingBox": {
+                        "Width": 0.5442882776260376,
+                        "Height": 0.03812306746840477,
+                        "Left": 0.0360487662255764,
+                        "Top": 0.2774321734905243
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d97e1871-af84-43f3-b474-c7595fd014d1",
+                    "Score": 0.9845471978187561
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0002_VPQBRKPuZ5gIgtxw",
+            "Score": 0.7100541591644287
+        },
+        {
+            "slide": "PART_0003_AVYdxgQ3ohclNiow",
+            "Score": 0.7024074792861938
+        },
+        {
+            "slide": "PART_0005_IOJ6WKiXc4deh9t4",
+            "Score": 0.6083759665489197
+        }
+    ]
+}

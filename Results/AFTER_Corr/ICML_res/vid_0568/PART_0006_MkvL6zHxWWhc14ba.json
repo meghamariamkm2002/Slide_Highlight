@@ -1,0 +1,22 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:01,447",
+            "end_time": "00:00:01,964",
+            "transcript": "the energies.",
+            "MatchedRegion": [
+                {
+                    "Text": "General Sequential Episodic Memory Model (GSEMM) has a dynamic energy landscape capable of storing and retrieving of temporal memories in its dynamical evolution.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.43665242195129395,
+                        "Height": 0.14181356132030487,
+                        "Left": 0.05457504466176033,
+                        "Top": 0.3917451798915863
+                    },
+                    "Id": "942fba2b-e699-466e-89b3-d713a9c210e2"
+                }
+            ]
+        }
+    ]
+}

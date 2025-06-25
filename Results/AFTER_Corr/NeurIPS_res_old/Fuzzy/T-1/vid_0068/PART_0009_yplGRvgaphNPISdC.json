@@ -1,0 +1,23 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,610",
+            "end_time": "00:00:09,154",
+            "transcript": "Although we know that model selection is robust to the choice of teacher, it is not usually the case that we have prior knowledge of a good teacher.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:09,674",
+            "end_time": "00:00:21,681",
+            "transcript": "In such case, we propose to find better teacher iteratively, and as we can see from the blue curve, the iterative approach has significantly improved the model accuracy.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:22,681",
+            "end_time": "00:00:24,002",
+            "transcript": "Without knowing a good teacher in",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

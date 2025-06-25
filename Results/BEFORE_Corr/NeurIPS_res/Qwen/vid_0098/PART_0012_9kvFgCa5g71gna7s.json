@@ -1,0 +1,21 @@
+{
+    "MatchedSlides": [
+        "PART_0001_Cx54Xgy86xzmhZ9m",
+        "PART_0002_VPQBRKPuZ5gIgtxw",
+        "PART_0003_AVYdxgQ3ohclNiow"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,910",
+            "end_time": "00:00:04,596",
+            "transcript": "In this slide, we show qualitative results of target domain predictions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,277",
+            "end_time": "00:00:08,822",
+            "transcript": "Ground truth lane annotations are marked in blue, predictions in red.",
+            "MatchedRegion": []
+        }
+    ]
+}

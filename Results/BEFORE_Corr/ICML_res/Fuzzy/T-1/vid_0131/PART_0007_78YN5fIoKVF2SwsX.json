@@ -1,0 +1,49 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,236",
+            "end_time": "00:00:16,605",
+            "transcript": "There is a difference between the training objectives of poisoning and standard learning, and we may utilize the model dynamics during training to find useful information of identifying imperceptible poisoning samples from clean ones.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:17,486",
+            "end_time": "00:00:22,689",
+            "transcript": "More experimental details and the related discussion can refer to our paper.",
+            "MatchedRegion": [
+                {
+                    "Text": "More experimental results and related discussion can refer to our paper",
+                    "BoundingBox": {
+                        "Width": 0.7243826985359192,
+                        "Height": 0.08330436050891876,
+                        "Left": 0.10822544246912003,
+                        "Top": 0.5088246464729309
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ffc6358c-5df1-4a01-ac74-d9637e58bcc5",
+                    "Score": 0.9115646258503403
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:23,070",
+            "end_time": "00:00:23,410",
+            "transcript": "Thank you.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_rr0nhllbgyhEHg7P",
+            "Score": 0.6173636317253113
+        },
+        {
+            "slide": "PART_0001_R7Vln9RC6tI0pbWc",
+            "Score": 0.6450787782669067
+        },
+        {
+            "slide": "PART_0003_j1ClhMhgU1PD5wYA",
+            "Score": 0.7042686939239502
+        }
+    ]
+}

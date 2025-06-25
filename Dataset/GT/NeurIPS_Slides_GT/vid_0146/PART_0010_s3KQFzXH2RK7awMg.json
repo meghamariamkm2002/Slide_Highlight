@@ -1,0 +1,65 @@
+{
+    "MatchedSlides": [
+        "PART_0006_Mzh5vbT43G1OOMZB",
+        "PART_0002_nY6pwgFoBjJsFRrI"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,479",
+            "end_time": "00:00:03,109",
+            "transcript": "Thank you very much for your attenion.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:03,512",
+            "end_time": "00:00:05,082",
+            "transcript": "Please check out our code and paper.",
+            "MatchedRegion": [
+                {
+                        "Text": "Optimizing Relevance Maps of Vision Transformers",
+                        "BlockType": "LAYOUT_TITLE",
+                        "BoundingBox": {
+                            "Width": 0.6813557147979736,
+                            "Height": 0.05542116239666939,
+                            "Left": 0.14561302959918976,
+                            "Top": 0.2500682771205902
+                        },
+                        "Id": "b233bf08-701d-4825-8590-be21dae65215"
+                    },
+                    {
+                        "Text": "Improves Robustness",
+                        "BlockType": "LAYOUT_TEXT",
+                        "BoundingBox": {
+                            "Width": 0.2847760319709778,
+                            "Height": 0.05123444274067879,
+                            "Left": 0.3487313985824585,
+                            "Top": 0.32373371720314026
+                        },
+                        "Id": "490fb99c-72a8-4118-9dbb-7445e4807115"
+                    },
+                    {
+                        "Text": "CODE",
+                        "BlockType": "LAYOUT_FIGURE",
+                        "BoundingBox": {
+                            "Width": 0.10257451981306076,
+                            "Height": 0.2580249607563019,
+                            "Left": 0.104679174721241,
+                            "Top": 0.6848087310791016
+                        },
+                        "Id": "44da0dfc-3817-4d6f-ba04-b58b8232f978"
+                    },
+                    {
+                        "Text": "CODE",
+                        "BlockType": "LAYOUT_FIGURE",
+                        "BoundingBox": {
+                            "Width": 0.10276293754577637,
+                            "Height": 0.25759974122047424,
+                            "Left": 0.7929330468177795,
+                            "Top": 0.6857414841651917
+                        },
+                        "Id": "6eeff139-2e0c-43cd-acbd-37e4bf595d77"
+                    }
+            ]
+        }
+    ]
+}

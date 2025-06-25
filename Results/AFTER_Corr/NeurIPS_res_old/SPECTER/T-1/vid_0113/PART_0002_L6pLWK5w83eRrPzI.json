@@ -1,0 +1,310 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,750",
+            "end_time": "00:00:04,632",
+            "transcript": "To bridge the gap, we released METS-CoV data set.",
+            "MatchedRegion": [
+                {
+                    "Text": "1.2 Contribution",
+                    "BoundingBox": {
+                        "Width": 0.16768276691436768,
+                        "Height": 0.03158944472670555,
+                        "Left": 0.02813580445945263,
+                        "Top": 0.14245396852493286
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "00a01e44-6552-44ea-a552-469ececf9e5b",
+                    "Score": 0.8383266925811768
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,372",
+            "end_time": "00:00:22,643",
+            "transcript": "This data set contains 10,000 tweets with seven types of entities, including four medical entity types, such as disease, drug, symptom, and vaccine, and three general entity types, like person, location, and organization.",
+            "MatchedRegion": [
+                {
+                    "Text": "1.2 Contribution",
+                    "BoundingBox": {
+                        "Width": 0.16768276691436768,
+                        "Height": 0.03158944472670555,
+                        "Left": 0.02813580445945263,
+                        "Top": 0.14245396852493286
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "00a01e44-6552-44ea-a552-469ececf9e5b",
+                    "Score": 0.8383266925811768
+                },
+                {
+                    "Text": "METS-CoV (Medical Entities and Targeted Sentiments on CoVid-19-related tweets), a dataset annotated with:",
+                    "BoundingBox": {
+                        "Width": 0.628606915473938,
+                        "Height": 0.06655193865299225,
+                        "Left": 0.2565585970878601,
+                        "Top": 0.24082884192466736
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "110ed011-ffb6-42a8-a8a1-aacf295fbf68",
+                    "Score": 0.9118421673774719
+                },
+                {
+                    "Text": "10,000 tweets",
+                    "BoundingBox": {
+                        "Width": 0.1321832835674286,
+                        "Height": 0.027395449578762054,
+                        "Left": 0.2686801850795746,
+                        "Top": 0.32233476638793945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7259dfd2-ef7c-4153-ab41-6ad8e15a498f",
+                    "Score": 0.806745707988739
+                },
+                {
+                    "Text": "7 types of entities: Disease, Drug, Symptom, Vaccine, Person, Location, and Organization.",
+                    "BoundingBox": {
+                        "Width": 0.703701376914978,
+                        "Height": 0.031327925622463226,
+                        "Left": 0.2687217891216278,
+                        "Top": 0.361409991979599
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "90eaaeb7-596d-4b67-ae24-22f8283252b8",
+                    "Score": 0.8910207748413086
+                },
+                {
+                    "Text": "sentiments of 4 types of entities: Person, Organization, Drug, and Vaccine.",
+                    "BoundingBox": {
+                        "Width": 0.588422417640686,
+                        "Height": 0.031165361404418945,
+                        "Left": 0.2687642276287079,
+                        "Top": 0.401303231716156
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4c702c28-fa4f-4a7e-9c67-b35626dc206e",
+                    "Score": 0.8046480417251587
+                },
+                {
+                    "Text": "Detailed guidelines for annotating medical entities (Disease, Drug, Symptom, Vaccine) on tweets.",
+                    "BoundingBox": {
+                        "Width": 0.6499955058097839,
+                        "Height": 0.06682852655649185,
+                        "Left": 0.25697681307792664,
+                        "Top": 0.5720789432525635
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "42fcdf63-1d9b-41d9-9ea0-fb4ba151c9d1",
+                    "Score": 0.9610293507575989
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:23,464",
+            "end_time": "00:00:28,307",
+            "transcript": "To further investigate Twitter users' attitudes towards specific entities,",
+            "MatchedRegion": [
+                {
+                    "Text": "METS-CoV (Medical Entities and Targeted Sentiments on CoVid-19-related tweets), a dataset annotated with:",
+                    "BoundingBox": {
+                        "Width": 0.628606915473938,
+                        "Height": 0.06655193865299225,
+                        "Left": 0.2565585970878601,
+                        "Top": 0.24082884192466736
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "110ed011-ffb6-42a8-a8a1-aacf295fbf68",
+                    "Score": 0.9118421673774719
+                },
+                {
+                    "Text": "10,000 tweets",
+                    "BoundingBox": {
+                        "Width": 0.1321832835674286,
+                        "Height": 0.027395449578762054,
+                        "Left": 0.2686801850795746,
+                        "Top": 0.32233476638793945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7259dfd2-ef7c-4153-ab41-6ad8e15a498f",
+                    "Score": 0.806745707988739
+                },
+                {
+                    "Text": "sentiments of 4 types of entities: Person, Organization, Drug, and Vaccine.",
+                    "BoundingBox": {
+                        "Width": 0.588422417640686,
+                        "Height": 0.031165361404418945,
+                        "Left": 0.2687642276287079,
+                        "Top": 0.401303231716156
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4c702c28-fa4f-4a7e-9c67-b35626dc206e",
+                    "Score": 0.8046480417251587
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,042",
+            "end_time": "00:00:37,349",
+            "transcript": "Four types of entities, such as person, organization, drug, and vaccine, are selected and annotated with user sentiments.",
+            "MatchedRegion": [
+                {
+                    "Text": "METS-CoV (Medical Entities and Targeted Sentiments on CoVid-19-related tweets), a dataset annotated with:",
+                    "BoundingBox": {
+                        "Width": 0.628606915473938,
+                        "Height": 0.06655193865299225,
+                        "Left": 0.2565585970878601,
+                        "Top": 0.24082884192466736
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "110ed011-ffb6-42a8-a8a1-aacf295fbf68",
+                    "Score": 0.9118421673774719
+                },
+                {
+                    "Text": "10,000 tweets",
+                    "BoundingBox": {
+                        "Width": 0.1321832835674286,
+                        "Height": 0.027395449578762054,
+                        "Left": 0.2686801850795746,
+                        "Top": 0.32233476638793945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7259dfd2-ef7c-4153-ab41-6ad8e15a498f",
+                    "Score": 0.806745707988739
+                },
+                {
+                    "Text": "7 types of entities: Disease, Drug, Symptom, Vaccine, Person, Location, and Organization.",
+                    "BoundingBox": {
+                        "Width": 0.703701376914978,
+                        "Height": 0.031327925622463226,
+                        "Left": 0.2687217891216278,
+                        "Top": 0.361409991979599
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "90eaaeb7-596d-4b67-ae24-22f8283252b8",
+                    "Score": 0.8910207748413086
+                },
+                {
+                    "Text": "sentiments of 4 types of entities: Person, Organization, Drug, and Vaccine.",
+                    "BoundingBox": {
+                        "Width": 0.588422417640686,
+                        "Height": 0.031165361404418945,
+                        "Left": 0.2687642276287079,
+                        "Top": 0.401303231716156
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4c702c28-fa4f-4a7e-9c67-b35626dc206e",
+                    "Score": 0.8046480417251587
+                },
+                {
+                    "Text": "Detailed guidelines for annotating medical entities (Disease, Drug, Symptom, Vaccine) on tweets.",
+                    "BoundingBox": {
+                        "Width": 0.6499955058097839,
+                        "Height": 0.06682852655649185,
+                        "Left": 0.25697681307792664,
+                        "Top": 0.5720789432525635
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "42fcdf63-1d9b-41d9-9ea0-fb4ba151c9d1",
+                    "Score": 0.9610293507575989
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:38,470",
+            "end_time": "00:00:44,154",
+            "transcript": "Also, we designed detailed guidelines for annotating medical entities on tweets.",
+            "MatchedRegion": [
+                {
+                    "Text": "METS-CoV (Medical Entities and Targeted Sentiments on CoVid-19-related tweets), a dataset annotated with:",
+                    "BoundingBox": {
+                        "Width": 0.628606915473938,
+                        "Height": 0.06655193865299225,
+                        "Left": 0.2565585970878601,
+                        "Top": 0.24082884192466736
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "110ed011-ffb6-42a8-a8a1-aacf295fbf68",
+                    "Score": 0.9118421673774719
+                },
+                {
+                    "Text": "10,000 tweets",
+                    "BoundingBox": {
+                        "Width": 0.1321832835674286,
+                        "Height": 0.027395449578762054,
+                        "Left": 0.2686801850795746,
+                        "Top": 0.32233476638793945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7259dfd2-ef7c-4153-ab41-6ad8e15a498f",
+                    "Score": 0.806745707988739
+                },
+                {
+                    "Text": "sentiments of 4 types of entities: Person, Organization, Drug, and Vaccine.",
+                    "BoundingBox": {
+                        "Width": 0.588422417640686,
+                        "Height": 0.031165361404418945,
+                        "Left": 0.2687642276287079,
+                        "Top": 0.401303231716156
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4c702c28-fa4f-4a7e-9c67-b35626dc206e",
+                    "Score": 0.8046480417251587
+                },
+                {
+                    "Text": "Detailed guidelines for annotating medical entities (Disease, Drug, Symptom, Vaccine) on tweets.",
+                    "BoundingBox": {
+                        "Width": 0.6499955058097839,
+                        "Height": 0.06682852655649185,
+                        "Left": 0.25697681307792664,
+                        "Top": 0.5720789432525635
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "42fcdf63-1d9b-41d9-9ea0-fb4ba151c9d1",
+                    "Score": 0.9610293507575989
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:45,496",
+            "end_time": "00:00:57,005",
+            "transcript": "We benchmarked the performance of classical machine learning models and state-of-the-art deep learning models, including pre-training language models on NER and TSA tasks of machine learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "1.2 Contribution",
+                    "BoundingBox": {
+                        "Width": 0.16768276691436768,
+                        "Height": 0.03158944472670555,
+                        "Left": 0.02813580445945263,
+                        "Top": 0.14245396852493286
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "00a01e44-6552-44ea-a552-469ececf9e5b",
+                    "Score": 0.8383266925811768
+                },
+                {
+                    "Text": "10,000 tweets",
+                    "BoundingBox": {
+                        "Width": 0.1321832835674286,
+                        "Height": 0.027395449578762054,
+                        "Left": 0.2686801850795746,
+                        "Top": 0.32233476638793945
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7259dfd2-ef7c-4153-ab41-6ad8e15a498f",
+                    "Score": 0.806745707988739
+                },
+                {
+                    "Text": "Benchmarking the performance of classical machine learning models and state- of-the-art deep learning models including pre-training language models on NER and TSA tasks of METS-CoV.",
+                    "BoundingBox": {
+                        "Width": 0.608792781829834,
+                        "Height": 0.10663367807865143,
+                        "Left": 0.25661149621009827,
+                        "Top": 0.785422682762146
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bcf3e11-86fd-4c94-add1-bb9a5e6d633f",
+                    "Score": 0.9648898839950562
+                }
+            ]
+        }
+    ]
+}

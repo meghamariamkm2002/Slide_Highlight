@@ -1,0 +1,16 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,814",
+            "end_time": "00:00:14,960",
+            "transcript": "In these tables, the results demonstrate that our method increases the accuracy significantly on shifted data sets across all the tested data sets that are not from the ImageNet distribution, i.e., not ImageNetVal and not ImageNet-V2.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,587",
+            "end_time": "00:00:28,816",
+            "transcript": "For example, the accuracy on the ImageNet A dataset is increased by 5.8% on average across all the architectures with human annotations and by 6.1% on average with dino annotations.",
+            "MatchedRegion": []
+        }
+    ]
+}

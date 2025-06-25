@@ -1,0 +1,11 @@
+WEBVTT
+
+00:00.738 --> 00:09.369
+And after that, we benchmark representative CNN-based and vision-transformer-based post-estimation method on three tracks.
+
+00:10.070 --> 00:13.213
+There are SF-track, IS-track, and APT-track.
+
+00:13.914 --> 00:21.183
+In all the experiments, we use average precision as a primary metric to evaluate the performance of different models.
+

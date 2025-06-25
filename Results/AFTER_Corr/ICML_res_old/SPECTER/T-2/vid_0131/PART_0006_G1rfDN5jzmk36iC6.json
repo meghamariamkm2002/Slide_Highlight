@@ -1,0 +1,138 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:08,878",
+            "transcript": "We conduct various experiments from different perspectives of the proposed information measure to show its properties.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experimental Results",
+                    "BoundingBox": {
+                        "Width": 0.49847665429115295,
+                        "Height": 0.07737229019403458,
+                        "Left": 0.009723573923110962,
+                        "Top": 0.12070629745721817
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4a89a2b2-66ff-46f4-ab79-2faed0054d7b",
+                    "Score": 0.8427284359931946
+                },
+                {
+                    "Text": "8 7 87 Clean 4 KL Clean 0.30 JS Clean 7 Poison E 0.1 KL Poison JS Poison 86 6 Poison E 0.2 3 0.25 85 Poison E 0.3 0.20 5 84 0.15 4 83 High P 0.10 3 1 Clean 82 Medium P 1 0.05 2 Poison Low P 81 o 0 0.00 40 36 32 28 24 20 16 12 8 4 0 2 4 5 6 7 8 0 5 10 15 20 25 30 35 0 5 10 15 20 25 30 35 0 5 10 15 20 25 30 35 Epoch Batch k k k",
+                    "BoundingBox": {
+                        "Width": 0.6910356879234314,
+                        "Height": 0.18722863495349884,
+                        "Left": 0.14938974380493164,
+                        "Top": 0.258806973695755
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e9a93193-aaa7-4eae-a4f6-4832f6ad9f31",
+                    "Score": 0.8327977657318115
+                },
+                {
+                    "Text": "CIFAR-10 Defense Accuracy: Start Batch Accuracy: +Poison Accuracy: + Trigger A ST - 84.4 84.4 - Clean Oracle GC - 86.2 86.2 - AT - 77.2 77.2 - DSC - 84.7 84.7 - 86.3 ST 1 75.7+3.33 50.4:5.03 -25.3.4.4.13 Accu. Poison GC 3 79.7.0.25 75.1.0.05 -4.6+0.26 AT 3 80.110.10 75.3.0.26 -4.7+0.20 DSC 3 81.2+0.35 77.3.0.58 -3.8+0.31 SVHN Defense Accuracy: Start Batch Accuracy: +Poison Accuracy: + Trigger A ST - 93.4 93.4 - Clean Oracle GC - 94.5 94.5 - AT - 89.9 89.9 - DSC - 94.7 94.7 - 94.6 ST 3 85.4.3.5.54 70.4:9.16 -15.4:6.2 Accu. Poison GC 7 89.7.0.06 88.3:0.26 -1.4.0.30 AT 7 89.6+0.21 88.7.0.20 -0.9.0.06 DSC 9 89.9.0.01 88.8.0.26 -1.1.0.26 CIFAR-100 Defense Accuracy: Start Batch Accuracy: +Poison Accuracy: + Trigger A ST - 55.8 55.8 - Clean Oracle GC - 60.2 60.2 - AT - 49.5 49.5 - DSC - 55.0 55.0 - 59.0 ST 3 42.912.74 32.6+2.84 -10.3.0.29 Accu. Poison GC 4 49.8.0.12 43.8.0.29 -6.1.0.25 AT 5 47.7+0.25 44.4:0.21 -3.2+0.42 DSC 5 48.6.0.91 45.4:1.39 -3.2.0.65",
+                    "BoundingBox": {
+                        "Width": 0.5187525153160095,
+                        "Height": 0.5142171382904053,
+                        "Left": 0.13857662677764893,
+                        "Top": 0.4540078639984131
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "90084b6c-bcf5-43cf-9c5f-e5efa51e20fc",
+                    "Score": 0.7832423448562622
+                },
+                {
+                    "Text": "We conduct various experiments from different perspectives of the proposed information measure to show its properties. (e.g., backtracking intervals, threshold adjustment, poisoning capacity, and discrepancy measures)",
+                    "BoundingBox": {
+                        "Width": 0.16999401152133942,
+                        "Height": 0.2630336284637451,
+                        "Left": 0.7021515965461731,
+                        "Top": 0.4752826988697052
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "abaa533d-4720-4c94-bc50-f0f824202c1f",
+                    "Score": 0.7950420379638672
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,619",
+            "end_time": "00:00:15,386",
+            "transcript": "And we also compare the performance of our DSC with the representative methods.",
+            "MatchedRegion": [
+                {
+                    "Text": "Exploring Model Dynamics for Accumulative Poisoning DISCOVERY",
+                    "BoundingBox": {
+                        "Width": 0.633151113986969,
+                        "Height": 0.025827139616012573,
+                        "Left": 0.007528815884143114,
+                        "Top": 0.032464973628520966
+                    },
+                    "BlockType": "LAYOUT_HEADER",
+                    "Id": "cc993e9d-6506-4fd6-962a-cf27fb4793ea",
+                    "Score": 0.7439642548561096
+                },
+                {
+                    "Text": "Experimental Results",
+                    "BoundingBox": {
+                        "Width": 0.49847665429115295,
+                        "Height": 0.07737229019403458,
+                        "Left": 0.009723573923110962,
+                        "Top": 0.12070629745721817
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "4a89a2b2-66ff-46f4-ab79-2faed0054d7b",
+                    "Score": 0.8427284359931946
+                },
+                {
+                    "Text": "8 7 87 Clean 4 KL Clean 0.30 JS Clean 7 Poison E 0.1 KL Poison JS Poison 86 6 Poison E 0.2 3 0.25 85 Poison E 0.3 0.20 5 84 0.15 4 83 High P 0.10 3 1 Clean 82 Medium P 1 0.05 2 Poison Low P 81 o 0 0.00 40 36 32 28 24 20 16 12 8 4 0 2 4 5 6 7 8 0 5 10 15 20 25 30 35 0 5 10 15 20 25 30 35 0 5 10 15 20 25 30 35 Epoch Batch k k k",
+                    "BoundingBox": {
+                        "Width": 0.6910356879234314,
+                        "Height": 0.18722863495349884,
+                        "Left": 0.14938974380493164,
+                        "Top": 0.258806973695755
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e9a93193-aaa7-4eae-a4f6-4832f6ad9f31",
+                    "Score": 0.8327977657318115
+                },
+                {
+                    "Text": "CIFAR-10 Defense Accuracy: Start Batch Accuracy: +Poison Accuracy: + Trigger A ST - 84.4 84.4 - Clean Oracle GC - 86.2 86.2 - AT - 77.2 77.2 - DSC - 84.7 84.7 - 86.3 ST 1 75.7+3.33 50.4:5.03 -25.3.4.4.13 Accu. Poison GC 3 79.7.0.25 75.1.0.05 -4.6+0.26 AT 3 80.110.10 75.3.0.26 -4.7+0.20 DSC 3 81.2+0.35 77.3.0.58 -3.8+0.31 SVHN Defense Accuracy: Start Batch Accuracy: +Poison Accuracy: + Trigger A ST - 93.4 93.4 - Clean Oracle GC - 94.5 94.5 - AT - 89.9 89.9 - DSC - 94.7 94.7 - 94.6 ST 3 85.4.3.5.54 70.4:9.16 -15.4:6.2 Accu. Poison GC 7 89.7.0.06 88.3:0.26 -1.4.0.30 AT 7 89.6+0.21 88.7.0.20 -0.9.0.06 DSC 9 89.9.0.01 88.8.0.26 -1.1.0.26 CIFAR-100 Defense Accuracy: Start Batch Accuracy: +Poison Accuracy: + Trigger A ST - 55.8 55.8 - Clean Oracle GC - 60.2 60.2 - AT - 49.5 49.5 - DSC - 55.0 55.0 - 59.0 ST 3 42.912.74 32.6+2.84 -10.3.0.29 Accu. Poison GC 4 49.8.0.12 43.8.0.29 -6.1.0.25 AT 5 47.7+0.25 44.4:0.21 -3.2+0.42 DSC 5 48.6.0.91 45.4:1.39 -3.2.0.65",
+                    "BoundingBox": {
+                        "Width": 0.5187525153160095,
+                        "Height": 0.5142171382904053,
+                        "Left": 0.13857662677764893,
+                        "Top": 0.4540078639984131
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "90084b6c-bcf5-43cf-9c5f-e5efa51e20fc",
+                    "Score": 0.7832423448562622
+                },
+                {
+                    "Text": "We conduct various experiments from different perspectives of the proposed information measure to show its properties. (e.g., backtracking intervals, threshold adjustment, poisoning capacity, and discrepancy measures)",
+                    "BoundingBox": {
+                        "Width": 0.16999401152133942,
+                        "Height": 0.2630336284637451,
+                        "Left": 0.7021515965461731,
+                        "Top": 0.4752826988697052
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "abaa533d-4720-4c94-bc50-f0f824202c1f",
+                    "Score": 0.7950420379638672
+                },
+                {
+                    "Text": "We compare the performance of DSC with the representative methods (AT, gradient clipping) to defend against accumulative poisoning attacks.",
+                    "BoundingBox": {
+                        "Width": 0.1544690728187561,
+                        "Height": 0.18254518508911133,
+                        "Left": 0.7023700475692749,
+                        "Top": 0.7684921622276306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "07b78e20-26d9-4030-8dad-162b50fc4414",
+                    "Score": 0.7931260466575623
+                }
+            ]
+        }
+    ]
+}

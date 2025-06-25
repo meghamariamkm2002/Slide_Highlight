@@ -1,0 +1,8 @@
+WEBVTT
+
+00:00.322 --> 00:10.710
+Moving on to an ablation, we put into question the need for our squasher, our coupling, and our inductive bias, with results showing all the alternatives to CFL fail, demonstrating the necessity of its components.
+
+00:11.511 --> 00:20.938
+On the right, we vary CFL smoothing and regularization coefficients to test its sensitivity, with results showing both the utility of the smoothing and regularization, as well as CFL's robustness
+

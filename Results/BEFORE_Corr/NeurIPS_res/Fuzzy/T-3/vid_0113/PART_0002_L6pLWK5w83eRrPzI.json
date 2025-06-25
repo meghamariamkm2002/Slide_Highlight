@@ -1,0 +1,76 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,750",
+            "end_time": "00:00:04,632",
+            "transcript": "To bridge the gap, we released MassCov data set.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,372",
+            "end_time": "00:00:22,643",
+            "transcript": "This data set contains 10,000 tweets with seven types of entities, including four medical entity types, such as disease, drug, symptom, and vaccine, and three general entity types, like person, location, and organization.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:23,464",
+            "end_time": "00:00:28,307",
+            "transcript": "To further investigate Twitter users' editors toward specific entities,",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,042",
+            "end_time": "00:00:37,349",
+            "transcript": "Four types of entities, like person, organization, drug, and vaccine, are selected and annotated with user sentiments.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:38,470",
+            "end_time": "00:00:44,154",
+            "transcript": "Also, we designed detailed guidelines for annotating medical entities on tweets.",
+            "MatchedRegion": [
+                {
+                    "Text": "Detailed guidelines for annotating medical entities (Disease, Drug, Symptom, Vaccine) on tweets.",
+                    "BoundingBox": {
+                        "Width": 0.6499955058097839,
+                        "Height": 0.06682852655649185,
+                        "Left": 0.25697681307792664,
+                        "Top": 0.5720789432525635
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "42fcdf63-1d9b-41d9-9ea0-fb4ba151c9d1",
+                    "Score": 0.6931818181818181
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:45,496",
+            "end_time": "00:00:57,005",
+            "transcript": "We benchmarked the performance of classical machine learning models and state-of-the-art deep learning models, including pre-training language models on NER and TSA tasks of machine learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmarking the performance of classical machine learning models and state- of-the-art deep learning models including pre-training language models on NER and TSA tasks of METS-CoV.",
+                    "BoundingBox": {
+                        "Width": 0.608792781829834,
+                        "Height": 0.10663367807865143,
+                        "Left": 0.25661149621009827,
+                        "Top": 0.785422682762146
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4bcf3e11-86fd-4c94-add1-bb9a5e6d633f",
+                    "Score": 0.9032258064516128
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_zPV1gK57dXUXzsBJ",
+            "Score": 0.7610883712768555
+        },
+        {
+            "slide": "PART_0001_0TKQIPPtwm9E6HiO",
+            "Score": 0.6368950605392456
+        }
+    ]
+}

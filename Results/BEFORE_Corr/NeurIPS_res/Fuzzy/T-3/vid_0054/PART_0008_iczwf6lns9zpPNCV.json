@@ -1,0 +1,62 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,683",
+            "end_time": "00:00:07,806",
+            "transcript": "And to further evaporate the model's generalization ability, we carried out the experiment under the field-short setting.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. To further evaluate the model's generalization ability, we carried out the experiment under the few-shot setting.",
+                    "BoundingBox": {
+                        "Width": 0.7206131219863892,
+                        "Height": 0.06565970182418823,
+                        "Left": 0.1065688207745552,
+                        "Top": 0.423588365316391
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e158c075-73be-4748-bb7e-4156fd72f359",
+                    "Score": 0.9282700421940927
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,487",
+            "end_time": "00:00:22,213",
+            "transcript": "And we can find that with more data for training, the performance is greatly improved, especially on species with unique texture appearance and posture characteristics.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. With more data for training, the performance is greatly improved, especially on species with unique textures, appearance, and posture characteristics. It is because these unique characteristics are not shared in the training images of other species.",
+                    "BoundingBox": {
+                        "Width": 0.7416086792945862,
+                        "Height": 0.10053015500307083,
+                        "Left": 0.10738249868154526,
+                        "Top": 0.6027380228042603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d2a1c891-cb4a-45d4-84f7-00d554046da7",
+                    "Score": 0.7
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,773",
+            "end_time": "00:00:28,476",
+            "transcript": "And we think it's because these unique characteristics are not shared in other species.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_kIvSfeSA5dfzhobv",
+            "Score": 0.6158248782157898
+        },
+        {
+            "slide": "PART_0003_cKichVdin6XycgAq",
+            "Score": 0.6696486473083496
+        },
+        {
+            "slide": "PART_0007_NPzG4OpK44fg8iFF",
+            "Score": 0.780220091342926
+        }
+    ]
+}

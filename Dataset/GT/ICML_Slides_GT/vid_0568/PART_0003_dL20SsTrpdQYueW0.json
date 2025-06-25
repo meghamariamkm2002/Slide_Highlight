@@ -1,0 +1,73 @@
+{
+  "MatchedRegions": [
+      {
+          "start_time": "00:00:00,296",
+          "end_time": "00:00:10,126",
+          "transcript": "On the other hand, sequence memory models still have a capacity much less than the number of neurons with the capacity of a recent model proposed in 2019 comparable to the models proposed in 1986.",
+          "MatchedRegion": [
+            {
+              "Id": "de7986ec-2c8c-493d-b700-de480afd0edd",
+              "Text": "Sequence Memory developments",
+              "BoundingBox": {
+                  "Width": 0.6195020079612732,
+                  "Height": 0.071942038834095,
+                  "Left": 0.137025386095047,
+                  "Top": 0.10224409401416779
+              },
+              "BlockType": "LAYOUT_TITLE"
+          },
+          {
+              "Id": "346512a9-ee0e-4ff6-9b3f-c12d21a813b6",
+              "Text": "Kleinfeld (1986)",
+              "BoundingBox": {
+                  "Width": 0.17297394573688507,
+                  "Height": 0.04394058138132095,
+                  "Left": 0.17122983932495117,
+                  "Top": 0.24765124917030334
+              },
+              "BlockType": "LAYOUT_TEXT"
+          },
+          {
+            "Id": "e1579bcd-09cf-4ecd-8c31-fbf981fc4c9c",
+            "Text": "Low capacity (0.14 N)",
+            "BoundingBox": {
+                "Width": 0.14544731378555298,
+                "Height": 0.07588116079568863,
+                "Left": 0.16205596923828125,
+                "Top": 0.727685272693634
+            },
+            "BlockType": "LAYOUT_TEXT"
+          },
+          {
+                "Id": "201a2dd1-dd8c-4655-a32d-7ede53d41a2c",
+                "Text": "Multi-timescale networks (2019)",
+                "BoundingBox": {
+                    "Width": 0.3583921194076538,
+                    "Height": 0.04484536498785019,
+                    "Left": 0.5024678707122803,
+                    "Top": 0.39205992221832275
+                },
+                "BlockType": "LAYOUT_TEXT"
+            },
+            {
+              "Id": "c5348bf7-2d6a-4423-9430-a05a826dad3b",
+              "Text": "Low capacity (0.14 N)",
+              "BoundingBox": {
+                  "Width": 0.14552102982997894,
+                  "Height": 0.07540615648031235,
+                  "Left": 0.5860936045646667,
+                  "Top": 0.7087802886962891
+              },
+              "BlockType": "LAYOUT_TEXT"
+            }          
+          ]
+      },
+      {
+        "start_time": "00:00:10,847",
+        "end_time": "00:00:14,991",
+        "transcript": "Further, there is no theoretical paradigm governing the design of these models.",
+        "MatchedRegion": []
+      }
+  ],
+  "MatchedSlides": []
+}

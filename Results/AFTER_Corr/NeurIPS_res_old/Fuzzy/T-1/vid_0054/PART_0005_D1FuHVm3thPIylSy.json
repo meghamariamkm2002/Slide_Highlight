@@ -1,0 +1,62 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,738",
+            "end_time": "00:00:09,369",
+            "transcript": "And after that, we benchmark representative CNN-based and vision-transformer-based pose estimation methods on three tracks.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. We benchmark representative CNN-based and vision transformer-based pose estimation methods on three tracks.",
+                    "BoundingBox": {
+                        "Width": 0.7828651070594788,
+                        "Height": 0.02932637743651867,
+                        "Left": 0.043123748153448105,
+                        "Top": 0.17958670854568481
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6245a9b5-4588-4cdc-9c25-cf7148d2132a",
+                    "Score": 0.9098712446351931
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,070",
+            "end_time": "00:00:13,213",
+            "transcript": "There are SF track, IS track, and APT track.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:13,914",
+            "end_time": "00:00:21,183",
+            "transcript": "In all the experiments, we use average precision as a primary metric to evaluate the performance of different models.",
+            "MatchedRegion": [
+                {
+                    "Text": "2. We use the average precision (AP) as the primary metric to evaluate the performance of different models.",
+                    "BoundingBox": {
+                        "Width": 0.7328026294708252,
+                        "Height": 0.02954811230301857,
+                        "Left": 0.040854956954717636,
+                        "Top": 0.35841360688209534
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2c127ef6-d435-4724-943c-5095f6dd8ee6",
+                    "Score": 0.8303571428571428
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_kIvSfeSA5dfzhobv",
+            "Score": 0.7970030307769775
+        },
+        {
+            "slide": "PART_0001_C7IfFsQ2BsVmjgqb",
+            "Score": 0.7958499193191528
+        },
+        {
+            "slide": "PART_0002_M8xJHwtfvrTIpy16",
+            "Score": 0.7869688868522644
+        }
+    ]
+}

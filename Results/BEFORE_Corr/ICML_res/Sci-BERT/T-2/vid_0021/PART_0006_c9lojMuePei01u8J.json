@@ -1,0 +1,23 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:04,388",
+            "transcript": "Now turn to the state only and sub-sample regime, settings in which a value dice finds no dice.",
+            "MatchedRegion": [
+                {
+                    "Text": "Standard (state-action) setting",
+                    "BoundingBox": {
+                        "Width": 0.23649393022060394,
+                        "Height": 0.034780945628881454,
+                        "Left": 0.3799848258495331,
+                        "Top": 0.340577095746994
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "ffab311c-37b4-448b-88e7-2c93cea425d4",
+                    "Score": 0.7153385281562805
+                }
+            ]
+        }
+    ]
+}

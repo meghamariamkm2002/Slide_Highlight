@@ -1,0 +1,100 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:01,790",
+            "end_time": "00:00:05,592",
+            "transcript": "These are very different from traditional bidders who are value maximizers.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,992",
+            "end_time": "00:00:10,714",
+            "transcript": "They want to maximize their expected utility, which is the difference between the value and the payment.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,415",
+            "end_time": "00:00:15,677",
+            "transcript": "And they don't care about the value, the ratio between value and payment.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,698",
+            "end_time": "00:00:19,019",
+            "transcript": "So we understand these bidders quite well.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:19,199",
+            "end_time": "00:00:26,803",
+            "transcript": "We have many maxims for them, like Myerson's, VCG, posted pricing, and others.",
+            "MatchedRegion": [
+                {
+                    "Text": "mechanisms: Myerson's, VCG, posted pricing, etc.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3693433701992035,
+                        "Height": 0.09619355201721191,
+                        "Left": 0.0761318951845169,
+                        "Top": 0.7102848887443542
+                    },
+                    "Id": "84036b9e-2f26-495a-a284-6593fe533421"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:27,603",
+            "end_time": "00:00:28,664",
+            "transcript": "They are well studied.",
+            "MatchedRegion": [
+                {
+                    "Text": "autobidders:",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.1404428780078888,
+                        "Height": 0.034835334867239,
+                        "Left": 0.5183690786361694,
+                        "Top": 0.34476423263549805
+                    },
+                    "Id": "1ef76444-3a7d-4c0a-9a8c-274db49d4cb6"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,344",
+            "end_time": "00:00:32,225",
+            "transcript": "On the other hand, for autobidders, we don't know so much.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:33,826",
+            "end_time": "00:00:43,711",
+            "transcript": "Alibiders want to maximize their expected value, subject to the ROI constraint, which means the ratio between the expected value and the expected payment should be large enough.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:44,731",
+            "end_time": "00:00:46,272",
+            "transcript": "We do have some maxims for them.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:47,232",
+            "end_time": "00:00:52,815",
+            "transcript": "These maxims involve payment scalers, and sometimes we do prior-free approximations.",
+            "MatchedRegion": [
+                {
+                    "Text": "mechanisms: payment scalers, prior-free approximations",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.37008872628211975,
+                        "Height": 0.09569762647151947,
+                        "Left": 0.5204179883003235,
+                        "Top": 0.6904134154319763
+                    },
+                    "Id": "2cd1fb4b-5a47-4526-8880-d24cef6ee58a"
+                }
+            ]
+        }
+    ]
+}

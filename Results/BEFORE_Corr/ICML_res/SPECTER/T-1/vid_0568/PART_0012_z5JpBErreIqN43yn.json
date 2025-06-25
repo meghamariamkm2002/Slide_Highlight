@@ -1,0 +1,185 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,129",
+            "end_time": "00:00:06,610",
+            "transcript": "improvements in capacity observed in singleton memory models, dense GSM improves the capacity of existing sequence models.",
+            "MatchedRegion": [
+                {
+                    "Text": "Comparison of Linear GSEMM and Dense GSEMM based on their ability to store and retrieve cyclical memories with varying sequence lengths in a 100-neuron system.",
+                    "BoundingBox": {
+                        "Width": 0.82259601354599,
+                        "Height": 0.06976888328790665,
+                        "Left": 0.08165843039751053,
+                        "Top": 0.17606627941131592
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a56fa472-a0fe-4f5d-935a-8ba14b1a7304",
+                    "Score": 0.8188658356666565
+                },
+                {
+                    "Text": "100 80 60 40 Capacity of current 20 sequence memory models 0 2 4 6 8 10 12 14 Polynomial Degree",
+                    "BoundingBox": {
+                        "Width": 0.7555623650550842,
+                        "Height": 0.6245997548103333,
+                        "Left": 0.2227901667356491,
+                        "Top": 0.34658485651016235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9cd61ae6-eaf5-4823-a1fc-b7395d6c17eb",
+                    "Score": 0.7850233316421509
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,170",
+            "end_time": "00:00:13,232",
+            "transcript": "It can be seen that current memory models fall in the low end of the capacity spectrum suggested by the dense GSM.",
+            "MatchedRegion": [
+                {
+                    "Text": "Comparison of Linear GSEMM and Dense GSEMM based on their ability to store and retrieve cyclical memories with varying sequence lengths in a 100-neuron system.",
+                    "BoundingBox": {
+                        "Width": 0.82259601354599,
+                        "Height": 0.06976888328790665,
+                        "Left": 0.08165843039751053,
+                        "Top": 0.17606627941131592
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a56fa472-a0fe-4f5d-935a-8ba14b1a7304",
+                    "Score": 0.8188658356666565
+                },
+                {
+                    "Text": "100 80 60 40 Capacity of current 20 sequence memory models 0 2 4 6 8 10 12 14 Polynomial Degree",
+                    "BoundingBox": {
+                        "Width": 0.7555623650550842,
+                        "Height": 0.6245997548103333,
+                        "Left": 0.2227901667356491,
+                        "Top": 0.34658485651016235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9cd61ae6-eaf5-4823-a1fc-b7395d6c17eb",
+                    "Score": 0.7850233316421509
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,932",
+            "end_time": "00:00:18,273",
+            "transcript": "Models that have dense capacity can be found in degree 15 end of the spectrum.",
+            "MatchedRegion": [
+                {
+                    "Text": "Exponential Capacity Improvement in Dense GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.5766553282737732,
+                        "Height": 0.04567442461848259,
+                        "Left": 0.04030651971697807,
+                        "Top": 0.048298098146915436
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "326f4367-0446-4862-8596-3ae5a9e787ae",
+                    "Score": 0.8415137529373169
+                },
+                {
+                    "Text": "100 80 60 40 Capacity of current 20 sequence memory models 0 2 4 6 8 10 12 14 Polynomial Degree",
+                    "BoundingBox": {
+                        "Width": 0.7555623650550842,
+                        "Height": 0.6245997548103333,
+                        "Left": 0.2227901667356491,
+                        "Top": 0.34658485651016235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9cd61ae6-eaf5-4823-a1fc-b7395d6c17eb",
+                    "Score": 0.7850233316421509
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,893",
+            "end_time": "00:00:24,194",
+            "transcript": "In summary, we introduced a new theoretical paradigm of adiabatic energy for the design of temporal memory models.",
+            "MatchedRegion": [
+                {
+                    "Text": "100 80 60 40 Capacity of current 20 sequence memory models 0 2 4 6 8 10 12 14 Polynomial Degree",
+                    "BoundingBox": {
+                        "Width": 0.7555623650550842,
+                        "Height": 0.6245997548103333,
+                        "Left": 0.2227901667356491,
+                        "Top": 0.34658485651016235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9cd61ae6-eaf5-4823-a1fc-b7395d6c17eb",
+                    "Score": 0.7850233316421509
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,733",
+            "end_time": "00:00:30,055",
+            "transcript": "This unified the static and dynamic properties of memory under a single theoretical paradigm of energy.",
+            "MatchedRegion": [
+                {
+                    "Text": "100 80 60 40 Capacity of current 20 sequence memory models 0 2 4 6 8 10 12 14 Polynomial Degree",
+                    "BoundingBox": {
+                        "Width": 0.7555623650550842,
+                        "Height": 0.6245997548103333,
+                        "Left": 0.2227901667356491,
+                        "Top": 0.34658485651016235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9cd61ae6-eaf5-4823-a1fc-b7395d6c17eb",
+                    "Score": 0.7850233316421509
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:30,515",
+            "end_time": "00:00:35,997",
+            "transcript": "We hope that future works can utilize the theory to improve existing memory models.",
+            "MatchedRegion": [
+                {
+                    "Text": "100 80 60 40 Capacity of current 20 sequence memory models 0 2 4 6 8 10 12 14 Polynomial Degree",
+                    "BoundingBox": {
+                        "Width": 0.7555623650550842,
+                        "Height": 0.6245997548103333,
+                        "Left": 0.2227901667356491,
+                        "Top": 0.34658485651016235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9cd61ae6-eaf5-4823-a1fc-b7395d6c17eb",
+                    "Score": 0.7850233316421509
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,477",
+            "end_time": "00:00:43,100",
+            "transcript": "Further, dense GSM may be directly used in applications requiring low overhead, high capacity sequence memory storage.",
+            "MatchedRegion": [
+                {
+                    "Text": "Comparison of Linear GSEMM and Dense GSEMM based on their ability to store and retrieve cyclical memories with varying sequence lengths in a 100-neuron system.",
+                    "BoundingBox": {
+                        "Width": 0.82259601354599,
+                        "Height": 0.06976888328790665,
+                        "Left": 0.08165843039751053,
+                        "Top": 0.17606627941131592
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a56fa472-a0fe-4f5d-935a-8ba14b1a7304",
+                    "Score": 0.8188658356666565
+                },
+                {
+                    "Text": "100 80 60 40 Capacity of current 20 sequence memory models 0 2 4 6 8 10 12 14 Polynomial Degree",
+                    "BoundingBox": {
+                        "Width": 0.7555623650550842,
+                        "Height": 0.6245997548103333,
+                        "Left": 0.2227901667356491,
+                        "Top": 0.34658485651016235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "9cd61ae6-eaf5-4823-a1fc-b7395d6c17eb",
+                    "Score": 0.7850233316421509
+                }
+            ]
+        }
+    ]
+}

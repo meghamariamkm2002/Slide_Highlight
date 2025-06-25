@@ -1,0 +1,7 @@
+start	end	text
+1505	7727	Meanwhile, most hospital staff interact with the EHR database with predefined rule conversion systems.
+8508	16931	This means extending or modifying the systems requires special training, and this is a huge bottleneck for them to freely utilize the database.
+17995	24621	One alternative way is to build a system that can directly translate a natural language question into a SQL query.
+25501	33648	With this system, the users can simply type or verbally ask their questions, and the system will return the answers from the database.
+34689	38312	Imagine an AI speaker that answers questions on EHR data.
+38972	45718	This will unleash the potential of EHR data, and anyone in the hospital can easily access the information they want.

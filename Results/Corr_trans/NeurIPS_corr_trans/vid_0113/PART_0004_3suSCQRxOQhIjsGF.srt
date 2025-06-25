@@ -1,0 +1,8 @@
+1
+00:00:00,290 --> 00:00:00,811
+and neutral.
+
+2
+00:00:02,475 --> 00:00:07,005
+This slide shows the data statistics of our proposed MASC code.
+

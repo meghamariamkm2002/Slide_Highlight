@@ -1,0 +1,42 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,930",
+            "end_time": "00:00:06,071",
+            "transcript": "Based on cooperative game theory, we have a mathematical tool to formalize this idea.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,731",
+            "end_time": "00:00:10,172",
+            "transcript": "So let me first introduce some preliminaries of this framework.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,072",
+            "end_time": "00:00:16,393",
+            "transcript": "First of all, the DNN encodes interactions between different input variables for inference.",
+            "MatchedRegion": [
+                {
+                    "Text": "The DNN lets different input variables interact with each other to construct concepts for inference.",
+                    "BoundingBox": {
+                        "Width": 0.6380575299263,
+                        "Height": 0.07822342216968536,
+                        "Left": 0.18404681980609894,
+                        "Top": 0.20637209713459015
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4148cbb4-507a-491c-a79f-392c845340ad",
+                    "Score": 0.9406678676605225
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,173",
+            "end_time": "00:00:27,955",
+            "transcript": "For example, in the sentence, he is a green hand, a DNN may memorize the interaction between words in green and hand that pushes the DNN's inference towards the meaning of a begin",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

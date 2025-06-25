@@ -1,0 +1,279 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,570",
+            "end_time": "00:00:11,719",
+            "transcript": "We noted in order to apply loss terms on the relevance of the foreground in the background, our method requires segmentation maps to distinguish between the background and the foreground of the input image.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our method requires segmentation maps to distinguish between the background (Lbg) and the foreground (Lfg) of the image.",
+                    "BoundingBox": {
+                        "Width": 0.8229653835296631,
+                        "Height": 0.08493687957525253,
+                        "Left": 0.07626617699861526,
+                        "Top": 0.2223481833934784
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7891753315925598
+                },
+                {
+                    "Text": "We use either human annotated maps or maps produced by DINO (without human supervision)",
+                    "BoundingBox": {
+                        "Width": 0.6961609721183777,
+                        "Height": 0.030535826459527016,
+                        "Left": 0.11408528685569763,
+                        "Top": 0.3177497386932373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7912076115608215
+                },
+                {
+                    "Text": "Our method only uses 3 examples from half the ImageNet classes (500 classes) during the finetuning process (overall only 1500 training samples).",
+                    "BoundingBox": {
+                        "Width": 0.8131532073020935,
+                        "Height": 0.07661750912666321,
+                        "Left": 0.07569033652544022,
+                        "Top": 0.36154407262802124
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8569666147232056
+                },
+                {
+                    "Text": "Same prediction Corrected prediction Incorrect prediction Input Original Ours Input Original Ours Input Original Ours Snowplow Snowplow Can- Teddy- Tripod Strawberry opener bear Jacamar Jacamar Indri Lemur- Coral- Leather- catta reef back turtle Sundial Sundial Humming- Chickadee Screwdr- Screw bird iver",
+                    "BoundingBox": {
+                        "Width": 0.43451476097106934,
+                        "Height": 0.41815170645713806,
+                        "Left": 0.2640368640422821,
+                        "Top": 0.491292268037796
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6644663214683533
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,659",
+            "end_time": "00:00:17,704",
+            "transcript": "We use either human annotated maps or maps produced by DINO (without human supervision).",
+            "MatchedRegion": [
+                {
+                    "Text": "Our method requires segmentation maps to distinguish between the background (Lbg) and the foreground (Lfg) of the image.",
+                    "BoundingBox": {
+                        "Width": 0.8229653835296631,
+                        "Height": 0.08493687957525253,
+                        "Left": 0.07626617699861526,
+                        "Top": 0.2223481833934784
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7891753315925598
+                },
+                {
+                    "Text": "We use either human annotated maps or maps produced by DINO (without human supervision)",
+                    "BoundingBox": {
+                        "Width": 0.6961609721183777,
+                        "Height": 0.030535826459527016,
+                        "Left": 0.11408528685569763,
+                        "Top": 0.3177497386932373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7912076115608215
+                },
+                {
+                    "Text": "Our method only uses 3 examples from half the ImageNet classes (500 classes) during the finetuning process (overall only 1500 training samples).",
+                    "BoundingBox": {
+                        "Width": 0.8131532073020935,
+                        "Height": 0.07661750912666321,
+                        "Left": 0.07569033652544022,
+                        "Top": 0.36154407262802124
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8569666147232056
+                },
+                {
+                    "Text": "Same prediction Corrected prediction Incorrect prediction Input Original Ours Input Original Ours Input Original Ours Snowplow Snowplow Can- Teddy- Tripod Strawberry opener bear Jacamar Jacamar Indri Lemur- Coral- Leather- catta reef back turtle Sundial Sundial Humming- Chickadee Screwdr- Screw bird iver",
+                    "BoundingBox": {
+                        "Width": 0.43451476097106934,
+                        "Height": 0.41815170645713806,
+                        "Left": 0.2640368640422821,
+                        "Top": 0.491292268037796
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6644663214683533
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,344",
+            "end_time": "00:00:21,307",
+            "transcript": "Both cases lead to a similar improvement in robustness.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our method requires segmentation maps to distinguish between the background (Lbg) and the foreground (Lfg) of the image.",
+                    "BoundingBox": {
+                        "Width": 0.8229653835296631,
+                        "Height": 0.08493687957525253,
+                        "Left": 0.07626617699861526,
+                        "Top": 0.2223481833934784
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7891753315925598
+                },
+                {
+                    "Text": "We use either human annotated maps or maps produced by DINO (without human supervision)",
+                    "BoundingBox": {
+                        "Width": 0.6961609721183777,
+                        "Height": 0.030535826459527016,
+                        "Left": 0.11408528685569763,
+                        "Top": 0.3177497386932373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7912076115608215
+                },
+                {
+                    "Text": "Our method only uses 3 examples from half the ImageNet classes (500 classes) during the finetuning process (overall only 1500 training samples).",
+                    "BoundingBox": {
+                        "Width": 0.8131532073020935,
+                        "Height": 0.07661750912666321,
+                        "Left": 0.07569033652544022,
+                        "Top": 0.36154407262802124
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8569666147232056
+                },
+                {
+                    "Text": "Same prediction Corrected prediction Incorrect prediction Input Original Ours Input Original Ours Input Original Ours Snowplow Snowplow Can- Teddy- Tripod Strawberry opener bear Jacamar Jacamar Indri Lemur- Coral- Leather- catta reef back turtle Sundial Sundial Humming- Chickadee Screwdr- Screw bird iver",
+                    "BoundingBox": {
+                        "Width": 0.43451476097106934,
+                        "Height": 0.41815170645713806,
+                        "Left": 0.2640368640422821,
+                        "Top": 0.491292268037796
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6644663214683533
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,487",
+            "end_time": "00:00:27,812",
+            "transcript": "Our method only uses three examples from half the images in classes during the fine-tuning process.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our method requires segmentation maps to distinguish between the background (Lbg) and the foreground (Lfg) of the image.",
+                    "BoundingBox": {
+                        "Width": 0.8229653835296631,
+                        "Height": 0.08493687957525253,
+                        "Left": 0.07626617699861526,
+                        "Top": 0.2223481833934784
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7891753315925598
+                },
+                {
+                    "Text": "We use either human annotated maps or maps produced by DINO (without human supervision)",
+                    "BoundingBox": {
+                        "Width": 0.6961609721183777,
+                        "Height": 0.030535826459527016,
+                        "Left": 0.11408528685569763,
+                        "Top": 0.3177497386932373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7912076115608215
+                },
+                {
+                    "Text": "Our method only uses 3 examples from half the ImageNet classes (500 classes) during the finetuning process (overall only 1500 training samples).",
+                    "BoundingBox": {
+                        "Width": 0.8131532073020935,
+                        "Height": 0.07661750912666321,
+                        "Left": 0.07569033652544022,
+                        "Top": 0.36154407262802124
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8569666147232056
+                },
+                {
+                    "Text": "Same prediction Corrected prediction Incorrect prediction Input Original Ours Input Original Ours Input Original Ours Snowplow Snowplow Can- Teddy- Tripod Strawberry opener bear Jacamar Jacamar Indri Lemur- Coral- Leather- catta reef back turtle Sundial Sundial Humming- Chickadee Screwdr- Screw bird iver",
+                    "BoundingBox": {
+                        "Width": 0.43451476097106934,
+                        "Height": 0.41815170645713806,
+                        "Left": 0.2640368640422821,
+                        "Top": 0.491292268037796
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6644663214683533
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:28,260",
+            "end_time": "00:00:31,599",
+            "transcript": "meaning an overall of only 1500 training samples.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our method requires segmentation maps to distinguish between the background (Lbg) and the foreground (Lfg) of the image.",
+                    "BoundingBox": {
+                        "Width": 0.8229653835296631,
+                        "Height": 0.08493687957525253,
+                        "Left": 0.07626617699861526,
+                        "Top": 0.2223481833934784
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7891753315925598
+                },
+                {
+                    "Text": "We use either human annotated maps or maps produced by DINO (without human supervision)",
+                    "BoundingBox": {
+                        "Width": 0.6961609721183777,
+                        "Height": 0.030535826459527016,
+                        "Left": 0.11408528685569763,
+                        "Top": 0.3177497386932373
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7912076115608215
+                },
+                {
+                    "Text": "Our method only uses 3 examples from half the ImageNet classes (500 classes) during the finetuning process (overall only 1500 training samples).",
+                    "BoundingBox": {
+                        "Width": 0.8131532073020935,
+                        "Height": 0.07661750912666321,
+                        "Left": 0.07569033652544022,
+                        "Top": 0.36154407262802124
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8569666147232056
+                },
+                {
+                    "Text": "Same prediction Corrected prediction Incorrect prediction Input Original Ours Input Original Ours Input Original Ours Snowplow Snowplow Can- Teddy- Tripod Strawberry opener bear Jacamar Jacamar Indri Lemur- Coral- Leather- catta reef back turtle Sundial Sundial Humming- Chickadee Screwdr- Screw bird iver",
+                    "BoundingBox": {
+                        "Width": 0.43451476097106934,
+                        "Height": 0.41815170645713806,
+                        "Left": 0.2640368640422821,
+                        "Top": 0.491292268037796
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6644663214683533
+                }
+            ]
+        }
+    ]
+}

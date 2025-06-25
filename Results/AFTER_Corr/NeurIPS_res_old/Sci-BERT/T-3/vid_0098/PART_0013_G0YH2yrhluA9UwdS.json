@@ -1,0 +1,47 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,850",
+            "end_time": "00:00:08,802",
+            "transcript": "When we zoom in, two specific failure cases can be seen in the highlighted images, where we observe a mis-prediction and a false negative.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3628489077091217,
+                        "Height": 0.06052923575043678,
+                        "Left": 0.03696471080183983,
+                        "Top": 0.03385484963655472
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.6518087983131409
+                },
+                {
+                    "Text": "MoLane TuLane MuLane UFLD-SO DANN ADDA SGADA SGPCS UFLD-TO",
+                    "BoundingBox": {
+                        "Width": 0.4873448312282562,
+                        "Height": 0.5984307527542114,
+                        "Left": 0.2758445143699646,
+                        "Top": 0.16709309816360474
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6452375650405884
+                },
+                {
+                    "Text": "Qualitative results of target domain predictions. Ground truth lane annotations are marked in blue, predictions in red.",
+                    "BoundingBox": {
+                        "Width": 0.3609820604324341,
+                        "Height": 0.054779890924692154,
+                        "Left": 0.3187371790409088,
+                        "Top": 0.7894008755683899
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7772547602653503
+                }
+            ]
+        }
+    ]
+}

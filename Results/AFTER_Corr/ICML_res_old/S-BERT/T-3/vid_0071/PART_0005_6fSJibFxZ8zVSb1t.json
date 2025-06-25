@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,393",
+            "end_time": "00:00:05,382",
+            "transcript": "In this case, each interaction pattern represents an AND relationship between variables.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,184",
+            "end_time": "00:00:09,630",
+            "transcript": "Thus can be taken as a symbolic concept encoded by the DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "[Ren et al., 2021] Towards axiomatic, hierarchical, and symbolic explanation for deep models. CVPR 2023. [Ren et al., 2023] Can We Faithfully Represent Absence States to Compute Shapley Values on a DNN? ICLR 2023.",
+                    "BoundingBox": {
+                        "Width": 0.5648826360702515,
+                        "Height": 0.048159196972846985,
+                        "Left": 0.00755305215716362,
+                        "Top": 0.9426687955856323
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "8ae9069e-d1c2-4a76-9da3-7074b2493296",
+                    "Score": 0.6082954406738281
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0003_IJo3k2vKnh6kX0I6",
+            "Score": 0.8141152858734131
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+1
+00:00:00,009 --> 00:00:00,749
+state in the cycle.
+
+2
+00:00:02,110 --> 00:00:06,992
+The figure shows how the state of the system is influenced by the instantaneous minima of the energy surface.
+
+3
+00:00:07,472 --> 00:00:13,514
+The black line VD is slow-changing and modulates the minima near the memory states depicted by colored circles.
+
+4
+00:00:14,094 --> 00:00:20,977
+VF which are green crosses always follow the instantaneous minima red circle which in turn is modulated by VD.
+
+5
+00:00:21,886 --> 00:00:35,243
+The resulting system is a two-scale time-scale dynamic system where in short time scale the system behaves as a static associative memory model attracting to its fixed point while in longer time scales the attractor states can change over time.
+

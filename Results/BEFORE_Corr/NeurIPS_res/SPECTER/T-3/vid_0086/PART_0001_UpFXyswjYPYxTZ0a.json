@@ -1,0 +1,1274 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,172",
+            "end_time": "00:00:09,280",
+            "transcript": "The EHR SQL dataset consists of 24,000 questions to SQL pairs, frequently asked on structured EHR data.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset",
+                    "BoundingBox": {
+                        "Width": 0.30261415243148804,
+                        "Height": 0.05596626177430153,
+                        "Left": 0.04590417072176933,
+                        "Top": 0.06643576920032501
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "a8976e33-b7a3-4f07-be5a-1b7ae065b48a",
+                    "Score": 0.7638919949531555
+                },
+                {
+                    "Text": "EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.15156850218772888,
+                        "Height": 0.0391809418797493,
+                        "Left": 0.0679643526673317,
+                        "Top": 0.19755791127681732
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e77582f6-1728-483e-ba11-be70b285332e",
+                    "Score": 0.7230753302574158
+                },
+                {
+                    "Text": "FAQ on structured EHR data collected from a poll at a university hospital",
+                    "BoundingBox": {
+                        "Width": 0.74703049659729,
+                        "Height": 0.03864007443189621,
+                        "Left": 0.12147722393274307,
+                        "Top": 0.2699485123157501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "864c5fb3-5609-49f5-8106-96e8dc95dc7b",
+                    "Score": 0.7267224788665771
+                },
+                {
+                    "Text": "Dataset size:",
+                    "BoundingBox": {
+                        "Width": 0.16112679243087769,
+                        "Height": 0.031098516657948494,
+                        "Left": 0.121501624584198,
+                        "Top": 0.3317316472530365
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "61f18f52-eb73-4171-8923-90cb3d7dd783",
+                    "Score": 0.6710033416748047
+                },
+                {
+                    "Text": "Question-to-SQL: 24,411 pairs",
+                    "BoundingBox": {
+                        "Width": 0.3356098234653473,
+                        "Height": 0.03827246278524399,
+                        "Left": 0.1706239879131317,
+                        "Top": 0.39090871810913086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "289f0b98-5270-40e6-821b-763bc46b019f",
+                    "Score": 0.8192180395126343
+                },
+                {
+                    "Text": "SQL queries linked to MIMIC-III and elCU",
+                    "BoundingBox": {
+                        "Width": 0.44398149847984314,
+                        "Height": 0.03850173205137253,
+                        "Left": 0.1709098070859909,
+                        "Top": 0.4524689316749573
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b9b9311-284d-4b77-92c5-bb05c75baef5",
+                    "Score": 0.7634034752845764
+                },
+                {
+                    "Text": "Unique Challenges",
+                    "BoundingBox": {
+                        "Width": 0.2716206908226013,
+                        "Height": 0.048810407519340515,
+                        "Left": 0.06801559031009674,
+                        "Top": 0.5601233839988708
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e59d0699-a4a7-4e22-96a9-82d04f66dff1",
+                    "Score": 0.6569844484329224
+                },
+                {
+                    "Text": "Wide range of real-world questions",
+                    "BoundingBox": {
+                        "Width": 0.19646437466144562,
+                        "Height": 0.08558948338031769,
+                        "Left": 0.22913528978824615,
+                        "Top": 0.6586998701095581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5b712b51-4479-4db0-b1b9-03f11aee6826",
+                    "Score": 0.7788587808609009
+                },
+                {
+                    "Text": "Time-sensitive questions",
+                    "BoundingBox": {
+                        "Width": 0.14214535057544708,
+                        "Height": 0.08533260226249695,
+                        "Left": 0.6145000457763672,
+                        "Top": 0.6591053605079651
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d0c5c9d-7b00-4313-ab21-8173b808691e",
+                    "Score": 0.7293156385421753
+                },
+                {
+                    "Text": "Unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.24190181493759155,
+                        "Height": 0.03810994699597359,
+                        "Left": 0.38827693462371826,
+                        "Top": 0.8678103089332581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e08658df-6642-4ee3-854a-29330f12ed6b",
+                    "Score": 0.7455236911773682
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,410",
+            "end_time": "00:00:23,835",
+            "transcript": "The questions were collected from a poll conducted at a university hospital and more than 200 hospital staff, including doctors, nurses, insurance review staff, infection control staff, and more participated in the poll.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset",
+                    "BoundingBox": {
+                        "Width": 0.30261415243148804,
+                        "Height": 0.05596626177430153,
+                        "Left": 0.04590417072176933,
+                        "Top": 0.06643576920032501
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "a8976e33-b7a3-4f07-be5a-1b7ae065b48a",
+                    "Score": 0.7638919949531555
+                },
+                {
+                    "Text": "EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.15156850218772888,
+                        "Height": 0.0391809418797493,
+                        "Left": 0.0679643526673317,
+                        "Top": 0.19755791127681732
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e77582f6-1728-483e-ba11-be70b285332e",
+                    "Score": 0.7230753302574158
+                },
+                {
+                    "Text": "FAQ on structured EHR data collected from a poll at a university hospital",
+                    "BoundingBox": {
+                        "Width": 0.74703049659729,
+                        "Height": 0.03864007443189621,
+                        "Left": 0.12147722393274307,
+                        "Top": 0.2699485123157501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "864c5fb3-5609-49f5-8106-96e8dc95dc7b",
+                    "Score": 0.7267224788665771
+                },
+                {
+                    "Text": "Dataset size:",
+                    "BoundingBox": {
+                        "Width": 0.16112679243087769,
+                        "Height": 0.031098516657948494,
+                        "Left": 0.121501624584198,
+                        "Top": 0.3317316472530365
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "61f18f52-eb73-4171-8923-90cb3d7dd783",
+                    "Score": 0.6710033416748047
+                },
+                {
+                    "Text": "Question-to-SQL: 24,411 pairs",
+                    "BoundingBox": {
+                        "Width": 0.3356098234653473,
+                        "Height": 0.03827246278524399,
+                        "Left": 0.1706239879131317,
+                        "Top": 0.39090871810913086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "289f0b98-5270-40e6-821b-763bc46b019f",
+                    "Score": 0.8192180395126343
+                },
+                {
+                    "Text": "SQL queries linked to MIMIC-III and elCU",
+                    "BoundingBox": {
+                        "Width": 0.44398149847984314,
+                        "Height": 0.03850173205137253,
+                        "Left": 0.1709098070859909,
+                        "Top": 0.4524689316749573
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b9b9311-284d-4b77-92c5-bb05c75baef5",
+                    "Score": 0.7634034752845764
+                },
+                {
+                    "Text": "Unique Challenges",
+                    "BoundingBox": {
+                        "Width": 0.2716206908226013,
+                        "Height": 0.048810407519340515,
+                        "Left": 0.06801559031009674,
+                        "Top": 0.5601233839988708
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e59d0699-a4a7-4e22-96a9-82d04f66dff1",
+                    "Score": 0.6569844484329224
+                },
+                {
+                    "Text": "Wide range of real-world questions",
+                    "BoundingBox": {
+                        "Width": 0.19646437466144562,
+                        "Height": 0.08558948338031769,
+                        "Left": 0.22913528978824615,
+                        "Top": 0.6586998701095581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5b712b51-4479-4db0-b1b9-03f11aee6826",
+                    "Score": 0.7788587808609009
+                },
+                {
+                    "Text": "Time-sensitive questions",
+                    "BoundingBox": {
+                        "Width": 0.14214535057544708,
+                        "Height": 0.08533260226249695,
+                        "Left": 0.6145000457763672,
+                        "Top": 0.6591053605079651
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d0c5c9d-7b00-4313-ab21-8173b808691e",
+                    "Score": 0.7293156385421753
+                },
+                {
+                    "Text": "Unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.24190181493759155,
+                        "Height": 0.03810994699597359,
+                        "Left": 0.38827693462371826,
+                        "Top": 0.8678103089332581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e08658df-6642-4ee3-854a-29330f12ed6b",
+                    "Score": 0.7455236911773682
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,716",
+            "end_time": "00:00:30,658",
+            "transcript": "The label SQL queries are linked to two open source EHR databases, Mimic 3 and EICU.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset",
+                    "BoundingBox": {
+                        "Width": 0.30261415243148804,
+                        "Height": 0.05596626177430153,
+                        "Left": 0.04590417072176933,
+                        "Top": 0.06643576920032501
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "a8976e33-b7a3-4f07-be5a-1b7ae065b48a",
+                    "Score": 0.7638919949531555
+                },
+                {
+                    "Text": "EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.15156850218772888,
+                        "Height": 0.0391809418797493,
+                        "Left": 0.0679643526673317,
+                        "Top": 0.19755791127681732
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e77582f6-1728-483e-ba11-be70b285332e",
+                    "Score": 0.7230753302574158
+                },
+                {
+                    "Text": "FAQ on structured EHR data collected from a poll at a university hospital",
+                    "BoundingBox": {
+                        "Width": 0.74703049659729,
+                        "Height": 0.03864007443189621,
+                        "Left": 0.12147722393274307,
+                        "Top": 0.2699485123157501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "864c5fb3-5609-49f5-8106-96e8dc95dc7b",
+                    "Score": 0.7267224788665771
+                },
+                {
+                    "Text": "Dataset size:",
+                    "BoundingBox": {
+                        "Width": 0.16112679243087769,
+                        "Height": 0.031098516657948494,
+                        "Left": 0.121501624584198,
+                        "Top": 0.3317316472530365
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "61f18f52-eb73-4171-8923-90cb3d7dd783",
+                    "Score": 0.6710033416748047
+                },
+                {
+                    "Text": "Question-to-SQL: 24,411 pairs",
+                    "BoundingBox": {
+                        "Width": 0.3356098234653473,
+                        "Height": 0.03827246278524399,
+                        "Left": 0.1706239879131317,
+                        "Top": 0.39090871810913086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "289f0b98-5270-40e6-821b-763bc46b019f",
+                    "Score": 0.8192180395126343
+                },
+                {
+                    "Text": "SQL queries linked to MIMIC-III and elCU",
+                    "BoundingBox": {
+                        "Width": 0.44398149847984314,
+                        "Height": 0.03850173205137253,
+                        "Left": 0.1709098070859909,
+                        "Top": 0.4524689316749573
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b9b9311-284d-4b77-92c5-bb05c75baef5",
+                    "Score": 0.7634034752845764
+                },
+                {
+                    "Text": "Unique Challenges",
+                    "BoundingBox": {
+                        "Width": 0.2716206908226013,
+                        "Height": 0.048810407519340515,
+                        "Left": 0.06801559031009674,
+                        "Top": 0.5601233839988708
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e59d0699-a4a7-4e22-96a9-82d04f66dff1",
+                    "Score": 0.6569844484329224
+                },
+                {
+                    "Text": "Wide range of real-world questions",
+                    "BoundingBox": {
+                        "Width": 0.19646437466144562,
+                        "Height": 0.08558948338031769,
+                        "Left": 0.22913528978824615,
+                        "Top": 0.6586998701095581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5b712b51-4479-4db0-b1b9-03f11aee6826",
+                    "Score": 0.7788587808609009
+                },
+                {
+                    "Text": "Time-sensitive questions",
+                    "BoundingBox": {
+                        "Width": 0.14214535057544708,
+                        "Height": 0.08533260226249695,
+                        "Left": 0.6145000457763672,
+                        "Top": 0.6591053605079651
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d0c5c9d-7b00-4313-ab21-8173b808691e",
+                    "Score": 0.7293156385421753
+                },
+                {
+                    "Text": "Unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.24190181493759155,
+                        "Height": 0.03810994699597359,
+                        "Left": 0.38827693462371826,
+                        "Top": 0.8678103089332581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e08658df-6642-4ee3-854a-29330f12ed6b",
+                    "Score": 0.7455236911773682
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:31,621",
+            "end_time": "00:00:39,206",
+            "transcript": "The unique challenges of the dataset are, first, we have a wide range of real-world questions frequently asked on structured EHR data.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset",
+                    "BoundingBox": {
+                        "Width": 0.30261415243148804,
+                        "Height": 0.05596626177430153,
+                        "Left": 0.04590417072176933,
+                        "Top": 0.06643576920032501
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "a8976e33-b7a3-4f07-be5a-1b7ae065b48a",
+                    "Score": 0.7638919949531555
+                },
+                {
+                    "Text": "EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.15156850218772888,
+                        "Height": 0.0391809418797493,
+                        "Left": 0.0679643526673317,
+                        "Top": 0.19755791127681732
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e77582f6-1728-483e-ba11-be70b285332e",
+                    "Score": 0.7230753302574158
+                },
+                {
+                    "Text": "FAQ on structured EHR data collected from a poll at a university hospital",
+                    "BoundingBox": {
+                        "Width": 0.74703049659729,
+                        "Height": 0.03864007443189621,
+                        "Left": 0.12147722393274307,
+                        "Top": 0.2699485123157501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "864c5fb3-5609-49f5-8106-96e8dc95dc7b",
+                    "Score": 0.7267224788665771
+                },
+                {
+                    "Text": "Dataset size:",
+                    "BoundingBox": {
+                        "Width": 0.16112679243087769,
+                        "Height": 0.031098516657948494,
+                        "Left": 0.121501624584198,
+                        "Top": 0.3317316472530365
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "61f18f52-eb73-4171-8923-90cb3d7dd783",
+                    "Score": 0.6710033416748047
+                },
+                {
+                    "Text": "Question-to-SQL: 24,411 pairs",
+                    "BoundingBox": {
+                        "Width": 0.3356098234653473,
+                        "Height": 0.03827246278524399,
+                        "Left": 0.1706239879131317,
+                        "Top": 0.39090871810913086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "289f0b98-5270-40e6-821b-763bc46b019f",
+                    "Score": 0.8192180395126343
+                },
+                {
+                    "Text": "SQL queries linked to MIMIC-III and elCU",
+                    "BoundingBox": {
+                        "Width": 0.44398149847984314,
+                        "Height": 0.03850173205137253,
+                        "Left": 0.1709098070859909,
+                        "Top": 0.4524689316749573
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b9b9311-284d-4b77-92c5-bb05c75baef5",
+                    "Score": 0.7634034752845764
+                },
+                {
+                    "Text": "Unique Challenges",
+                    "BoundingBox": {
+                        "Width": 0.2716206908226013,
+                        "Height": 0.048810407519340515,
+                        "Left": 0.06801559031009674,
+                        "Top": 0.5601233839988708
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e59d0699-a4a7-4e22-96a9-82d04f66dff1",
+                    "Score": 0.6569844484329224
+                },
+                {
+                    "Text": "Wide range of real-world questions",
+                    "BoundingBox": {
+                        "Width": 0.19646437466144562,
+                        "Height": 0.08558948338031769,
+                        "Left": 0.22913528978824615,
+                        "Top": 0.6586998701095581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5b712b51-4479-4db0-b1b9-03f11aee6826",
+                    "Score": 0.7788587808609009
+                },
+                {
+                    "Text": "Time-sensitive questions",
+                    "BoundingBox": {
+                        "Width": 0.14214535057544708,
+                        "Height": 0.08533260226249695,
+                        "Left": 0.6145000457763672,
+                        "Top": 0.6591053605079651
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d0c5c9d-7b00-4313-ab21-8173b808691e",
+                    "Score": 0.7293156385421753
+                },
+                {
+                    "Text": "Unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.24190181493759155,
+                        "Height": 0.03810994699597359,
+                        "Left": 0.38827693462371826,
+                        "Top": 0.8678103089332581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e08658df-6642-4ee3-854a-29330f12ed6b",
+                    "Score": 0.7455236911773682
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:39,987",
+            "end_time": "00:00:53,276",
+            "transcript": "From retrieving a patient's test results, to summing of a patient's total hospital cost, and calculating the survival rate of a certain group of patients, the questions in the dataset reflect the diverse needs of staff in the hospital.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset",
+                    "BoundingBox": {
+                        "Width": 0.30261415243148804,
+                        "Height": 0.05596626177430153,
+                        "Left": 0.04590417072176933,
+                        "Top": 0.06643576920032501
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "a8976e33-b7a3-4f07-be5a-1b7ae065b48a",
+                    "Score": 0.7638919949531555
+                },
+                {
+                    "Text": "EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.15156850218772888,
+                        "Height": 0.0391809418797493,
+                        "Left": 0.0679643526673317,
+                        "Top": 0.19755791127681732
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e77582f6-1728-483e-ba11-be70b285332e",
+                    "Score": 0.7230753302574158
+                },
+                {
+                    "Text": "FAQ on structured EHR data collected from a poll at a university hospital",
+                    "BoundingBox": {
+                        "Width": 0.74703049659729,
+                        "Height": 0.03864007443189621,
+                        "Left": 0.12147722393274307,
+                        "Top": 0.2699485123157501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "864c5fb3-5609-49f5-8106-96e8dc95dc7b",
+                    "Score": 0.7267224788665771
+                },
+                {
+                    "Text": "Dataset size:",
+                    "BoundingBox": {
+                        "Width": 0.16112679243087769,
+                        "Height": 0.031098516657948494,
+                        "Left": 0.121501624584198,
+                        "Top": 0.3317316472530365
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "61f18f52-eb73-4171-8923-90cb3d7dd783",
+                    "Score": 0.6710033416748047
+                },
+                {
+                    "Text": "Question-to-SQL: 24,411 pairs",
+                    "BoundingBox": {
+                        "Width": 0.3356098234653473,
+                        "Height": 0.03827246278524399,
+                        "Left": 0.1706239879131317,
+                        "Top": 0.39090871810913086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "289f0b98-5270-40e6-821b-763bc46b019f",
+                    "Score": 0.8192180395126343
+                },
+                {
+                    "Text": "SQL queries linked to MIMIC-III and elCU",
+                    "BoundingBox": {
+                        "Width": 0.44398149847984314,
+                        "Height": 0.03850173205137253,
+                        "Left": 0.1709098070859909,
+                        "Top": 0.4524689316749573
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b9b9311-284d-4b77-92c5-bb05c75baef5",
+                    "Score": 0.7634034752845764
+                },
+                {
+                    "Text": "Unique Challenges",
+                    "BoundingBox": {
+                        "Width": 0.2716206908226013,
+                        "Height": 0.048810407519340515,
+                        "Left": 0.06801559031009674,
+                        "Top": 0.5601233839988708
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e59d0699-a4a7-4e22-96a9-82d04f66dff1",
+                    "Score": 0.6569844484329224
+                },
+                {
+                    "Text": "Wide range of real-world questions",
+                    "BoundingBox": {
+                        "Width": 0.19646437466144562,
+                        "Height": 0.08558948338031769,
+                        "Left": 0.22913528978824615,
+                        "Top": 0.6586998701095581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5b712b51-4479-4db0-b1b9-03f11aee6826",
+                    "Score": 0.7788587808609009
+                },
+                {
+                    "Text": "Time-sensitive questions",
+                    "BoundingBox": {
+                        "Width": 0.14214535057544708,
+                        "Height": 0.08533260226249695,
+                        "Left": 0.6145000457763672,
+                        "Top": 0.6591053605079651
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d0c5c9d-7b00-4313-ab21-8173b808691e",
+                    "Score": 0.7293156385421753
+                },
+                {
+                    "Text": "Unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.24190181493759155,
+                        "Height": 0.03810994699597359,
+                        "Left": 0.38827693462371826,
+                        "Top": 0.8678103089332581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e08658df-6642-4ee3-854a-29330f12ed6b",
+                    "Score": 0.7455236911773682
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:55,074",
+            "end_time": "00:00:57,635",
+            "transcript": "Second, time is very important in healthcare.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset",
+                    "BoundingBox": {
+                        "Width": 0.30261415243148804,
+                        "Height": 0.05596626177430153,
+                        "Left": 0.04590417072176933,
+                        "Top": 0.06643576920032501
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "a8976e33-b7a3-4f07-be5a-1b7ae065b48a",
+                    "Score": 0.7638919949531555
+                },
+                {
+                    "Text": "EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.15156850218772888,
+                        "Height": 0.0391809418797493,
+                        "Left": 0.0679643526673317,
+                        "Top": 0.19755791127681732
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e77582f6-1728-483e-ba11-be70b285332e",
+                    "Score": 0.7230753302574158
+                },
+                {
+                    "Text": "FAQ on structured EHR data collected from a poll at a university hospital",
+                    "BoundingBox": {
+                        "Width": 0.74703049659729,
+                        "Height": 0.03864007443189621,
+                        "Left": 0.12147722393274307,
+                        "Top": 0.2699485123157501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "864c5fb3-5609-49f5-8106-96e8dc95dc7b",
+                    "Score": 0.7267224788665771
+                },
+                {
+                    "Text": "Dataset size:",
+                    "BoundingBox": {
+                        "Width": 0.16112679243087769,
+                        "Height": 0.031098516657948494,
+                        "Left": 0.121501624584198,
+                        "Top": 0.3317316472530365
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "61f18f52-eb73-4171-8923-90cb3d7dd783",
+                    "Score": 0.6710033416748047
+                },
+                {
+                    "Text": "Question-to-SQL: 24,411 pairs",
+                    "BoundingBox": {
+                        "Width": 0.3356098234653473,
+                        "Height": 0.03827246278524399,
+                        "Left": 0.1706239879131317,
+                        "Top": 0.39090871810913086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "289f0b98-5270-40e6-821b-763bc46b019f",
+                    "Score": 0.8192180395126343
+                },
+                {
+                    "Text": "SQL queries linked to MIMIC-III and elCU",
+                    "BoundingBox": {
+                        "Width": 0.44398149847984314,
+                        "Height": 0.03850173205137253,
+                        "Left": 0.1709098070859909,
+                        "Top": 0.4524689316749573
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b9b9311-284d-4b77-92c5-bb05c75baef5",
+                    "Score": 0.7634034752845764
+                },
+                {
+                    "Text": "Unique Challenges",
+                    "BoundingBox": {
+                        "Width": 0.2716206908226013,
+                        "Height": 0.048810407519340515,
+                        "Left": 0.06801559031009674,
+                        "Top": 0.5601233839988708
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e59d0699-a4a7-4e22-96a9-82d04f66dff1",
+                    "Score": 0.6569844484329224
+                },
+                {
+                    "Text": "Wide range of real-world questions",
+                    "BoundingBox": {
+                        "Width": 0.19646437466144562,
+                        "Height": 0.08558948338031769,
+                        "Left": 0.22913528978824615,
+                        "Top": 0.6586998701095581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5b712b51-4479-4db0-b1b9-03f11aee6826",
+                    "Score": 0.7788587808609009
+                },
+                {
+                    "Text": "Time-sensitive questions",
+                    "BoundingBox": {
+                        "Width": 0.14214535057544708,
+                        "Height": 0.08533260226249695,
+                        "Left": 0.6145000457763672,
+                        "Top": 0.6591053605079651
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d0c5c9d-7b00-4313-ab21-8173b808691e",
+                    "Score": 0.7293156385421753
+                },
+                {
+                    "Text": "Unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.24190181493759155,
+                        "Height": 0.03810994699597359,
+                        "Left": 0.38827693462371826,
+                        "Top": 0.8678103089332581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e08658df-6642-4ee3-854a-29330f12ed6b",
+                    "Score": 0.7455236911773682
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:58,115",
+            "end_time": "00:01:04,498",
+            "transcript": "To reflect that, we templatize time and combine them with the questions to make the data set more realistic.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset",
+                    "BoundingBox": {
+                        "Width": 0.30261415243148804,
+                        "Height": 0.05596626177430153,
+                        "Left": 0.04590417072176933,
+                        "Top": 0.06643576920032501
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "a8976e33-b7a3-4f07-be5a-1b7ae065b48a",
+                    "Score": 0.7638919949531555
+                },
+                {
+                    "Text": "EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.15156850218772888,
+                        "Height": 0.0391809418797493,
+                        "Left": 0.0679643526673317,
+                        "Top": 0.19755791127681732
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e77582f6-1728-483e-ba11-be70b285332e",
+                    "Score": 0.7230753302574158
+                },
+                {
+                    "Text": "FAQ on structured EHR data collected from a poll at a university hospital",
+                    "BoundingBox": {
+                        "Width": 0.74703049659729,
+                        "Height": 0.03864007443189621,
+                        "Left": 0.12147722393274307,
+                        "Top": 0.2699485123157501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "864c5fb3-5609-49f5-8106-96e8dc95dc7b",
+                    "Score": 0.7267224788665771
+                },
+                {
+                    "Text": "Dataset size:",
+                    "BoundingBox": {
+                        "Width": 0.16112679243087769,
+                        "Height": 0.031098516657948494,
+                        "Left": 0.121501624584198,
+                        "Top": 0.3317316472530365
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "61f18f52-eb73-4171-8923-90cb3d7dd783",
+                    "Score": 0.6710033416748047
+                },
+                {
+                    "Text": "Question-to-SQL: 24,411 pairs",
+                    "BoundingBox": {
+                        "Width": 0.3356098234653473,
+                        "Height": 0.03827246278524399,
+                        "Left": 0.1706239879131317,
+                        "Top": 0.39090871810913086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "289f0b98-5270-40e6-821b-763bc46b019f",
+                    "Score": 0.8192180395126343
+                },
+                {
+                    "Text": "SQL queries linked to MIMIC-III and elCU",
+                    "BoundingBox": {
+                        "Width": 0.44398149847984314,
+                        "Height": 0.03850173205137253,
+                        "Left": 0.1709098070859909,
+                        "Top": 0.4524689316749573
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b9b9311-284d-4b77-92c5-bb05c75baef5",
+                    "Score": 0.7634034752845764
+                },
+                {
+                    "Text": "Unique Challenges",
+                    "BoundingBox": {
+                        "Width": 0.2716206908226013,
+                        "Height": 0.048810407519340515,
+                        "Left": 0.06801559031009674,
+                        "Top": 0.5601233839988708
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e59d0699-a4a7-4e22-96a9-82d04f66dff1",
+                    "Score": 0.6569844484329224
+                },
+                {
+                    "Text": "Wide range of real-world questions",
+                    "BoundingBox": {
+                        "Width": 0.19646437466144562,
+                        "Height": 0.08558948338031769,
+                        "Left": 0.22913528978824615,
+                        "Top": 0.6586998701095581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5b712b51-4479-4db0-b1b9-03f11aee6826",
+                    "Score": 0.7788587808609009
+                },
+                {
+                    "Text": "Time-sensitive questions",
+                    "BoundingBox": {
+                        "Width": 0.14214535057544708,
+                        "Height": 0.08533260226249695,
+                        "Left": 0.6145000457763672,
+                        "Top": 0.6591053605079651
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d0c5c9d-7b00-4313-ab21-8173b808691e",
+                    "Score": 0.7293156385421753
+                },
+                {
+                    "Text": "Unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.24190181493759155,
+                        "Height": 0.03810994699597359,
+                        "Left": 0.38827693462371826,
+                        "Top": 0.8678103089332581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e08658df-6642-4ee3-854a-29330f12ed6b",
+                    "Score": 0.7455236911773682
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:05,418",
+            "end_time": "00:01:09,800",
+            "transcript": "Lastly, we have unanswerable questions that were collected together from the poll.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset",
+                    "BoundingBox": {
+                        "Width": 0.30261415243148804,
+                        "Height": 0.05596626177430153,
+                        "Left": 0.04590417072176933,
+                        "Top": 0.06643576920032501
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "a8976e33-b7a3-4f07-be5a-1b7ae065b48a",
+                    "Score": 0.7638919949531555
+                },
+                {
+                    "Text": "EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.15156850218772888,
+                        "Height": 0.0391809418797493,
+                        "Left": 0.0679643526673317,
+                        "Top": 0.19755791127681732
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e77582f6-1728-483e-ba11-be70b285332e",
+                    "Score": 0.7230753302574158
+                },
+                {
+                    "Text": "FAQ on structured EHR data collected from a poll at a university hospital",
+                    "BoundingBox": {
+                        "Width": 0.74703049659729,
+                        "Height": 0.03864007443189621,
+                        "Left": 0.12147722393274307,
+                        "Top": 0.2699485123157501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "864c5fb3-5609-49f5-8106-96e8dc95dc7b",
+                    "Score": 0.7267224788665771
+                },
+                {
+                    "Text": "Dataset size:",
+                    "BoundingBox": {
+                        "Width": 0.16112679243087769,
+                        "Height": 0.031098516657948494,
+                        "Left": 0.121501624584198,
+                        "Top": 0.3317316472530365
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "61f18f52-eb73-4171-8923-90cb3d7dd783",
+                    "Score": 0.6710033416748047
+                },
+                {
+                    "Text": "Question-to-SQL: 24,411 pairs",
+                    "BoundingBox": {
+                        "Width": 0.3356098234653473,
+                        "Height": 0.03827246278524399,
+                        "Left": 0.1706239879131317,
+                        "Top": 0.39090871810913086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "289f0b98-5270-40e6-821b-763bc46b019f",
+                    "Score": 0.8192180395126343
+                },
+                {
+                    "Text": "SQL queries linked to MIMIC-III and elCU",
+                    "BoundingBox": {
+                        "Width": 0.44398149847984314,
+                        "Height": 0.03850173205137253,
+                        "Left": 0.1709098070859909,
+                        "Top": 0.4524689316749573
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b9b9311-284d-4b77-92c5-bb05c75baef5",
+                    "Score": 0.7634034752845764
+                },
+                {
+                    "Text": "Unique Challenges",
+                    "BoundingBox": {
+                        "Width": 0.2716206908226013,
+                        "Height": 0.048810407519340515,
+                        "Left": 0.06801559031009674,
+                        "Top": 0.5601233839988708
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e59d0699-a4a7-4e22-96a9-82d04f66dff1",
+                    "Score": 0.6569844484329224
+                },
+                {
+                    "Text": "Wide range of real-world questions",
+                    "BoundingBox": {
+                        "Width": 0.19646437466144562,
+                        "Height": 0.08558948338031769,
+                        "Left": 0.22913528978824615,
+                        "Top": 0.6586998701095581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5b712b51-4479-4db0-b1b9-03f11aee6826",
+                    "Score": 0.7788587808609009
+                },
+                {
+                    "Text": "Time-sensitive questions",
+                    "BoundingBox": {
+                        "Width": 0.14214535057544708,
+                        "Height": 0.08533260226249695,
+                        "Left": 0.6145000457763672,
+                        "Top": 0.6591053605079651
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d0c5c9d-7b00-4313-ab21-8173b808691e",
+                    "Score": 0.7293156385421753
+                },
+                {
+                    "Text": "Unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.24190181493759155,
+                        "Height": 0.03810994699597359,
+                        "Left": 0.38827693462371826,
+                        "Top": 0.8678103089332581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e08658df-6642-4ee3-854a-29330f12ed6b",
+                    "Score": 0.7455236911773682
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:10,480",
+            "end_time": "00:01:16,023",
+            "transcript": "The questions were unanswerable because they were either ambiguous or went beyond the database schemas.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset",
+                    "BoundingBox": {
+                        "Width": 0.30261415243148804,
+                        "Height": 0.05596626177430153,
+                        "Left": 0.04590417072176933,
+                        "Top": 0.06643576920032501
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "a8976e33-b7a3-4f07-be5a-1b7ae065b48a",
+                    "Score": 0.7638919949531555
+                },
+                {
+                    "Text": "EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.15156850218772888,
+                        "Height": 0.0391809418797493,
+                        "Left": 0.0679643526673317,
+                        "Top": 0.19755791127681732
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e77582f6-1728-483e-ba11-be70b285332e",
+                    "Score": 0.7230753302574158
+                },
+                {
+                    "Text": "FAQ on structured EHR data collected from a poll at a university hospital",
+                    "BoundingBox": {
+                        "Width": 0.74703049659729,
+                        "Height": 0.03864007443189621,
+                        "Left": 0.12147722393274307,
+                        "Top": 0.2699485123157501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "864c5fb3-5609-49f5-8106-96e8dc95dc7b",
+                    "Score": 0.7267224788665771
+                },
+                {
+                    "Text": "Dataset size:",
+                    "BoundingBox": {
+                        "Width": 0.16112679243087769,
+                        "Height": 0.031098516657948494,
+                        "Left": 0.121501624584198,
+                        "Top": 0.3317316472530365
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "61f18f52-eb73-4171-8923-90cb3d7dd783",
+                    "Score": 0.6710033416748047
+                },
+                {
+                    "Text": "Question-to-SQL: 24,411 pairs",
+                    "BoundingBox": {
+                        "Width": 0.3356098234653473,
+                        "Height": 0.03827246278524399,
+                        "Left": 0.1706239879131317,
+                        "Top": 0.39090871810913086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "289f0b98-5270-40e6-821b-763bc46b019f",
+                    "Score": 0.8192180395126343
+                },
+                {
+                    "Text": "SQL queries linked to MIMIC-III and elCU",
+                    "BoundingBox": {
+                        "Width": 0.44398149847984314,
+                        "Height": 0.03850173205137253,
+                        "Left": 0.1709098070859909,
+                        "Top": 0.4524689316749573
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b9b9311-284d-4b77-92c5-bb05c75baef5",
+                    "Score": 0.7634034752845764
+                },
+                {
+                    "Text": "Unique Challenges",
+                    "BoundingBox": {
+                        "Width": 0.2716206908226013,
+                        "Height": 0.048810407519340515,
+                        "Left": 0.06801559031009674,
+                        "Top": 0.5601233839988708
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e59d0699-a4a7-4e22-96a9-82d04f66dff1",
+                    "Score": 0.6569844484329224
+                },
+                {
+                    "Text": "Wide range of real-world questions",
+                    "BoundingBox": {
+                        "Width": 0.19646437466144562,
+                        "Height": 0.08558948338031769,
+                        "Left": 0.22913528978824615,
+                        "Top": 0.6586998701095581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5b712b51-4479-4db0-b1b9-03f11aee6826",
+                    "Score": 0.7788587808609009
+                },
+                {
+                    "Text": "Time-sensitive questions",
+                    "BoundingBox": {
+                        "Width": 0.14214535057544708,
+                        "Height": 0.08533260226249695,
+                        "Left": 0.6145000457763672,
+                        "Top": 0.6591053605079651
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d0c5c9d-7b00-4313-ab21-8173b808691e",
+                    "Score": 0.7293156385421753
+                },
+                {
+                    "Text": "Unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.24190181493759155,
+                        "Height": 0.03810994699597359,
+                        "Left": 0.38827693462371826,
+                        "Top": 0.8678103089332581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e08658df-6642-4ee3-854a-29330f12ed6b",
+                    "Score": 0.7455236911773682
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:16,843",
+            "end_time": "00:01:21,745",
+            "transcript": "These questions are later used to test the trustworthiness of text to SQL models.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHRSQL Dataset",
+                    "BoundingBox": {
+                        "Width": 0.30261415243148804,
+                        "Height": 0.05596626177430153,
+                        "Left": 0.04590417072176933,
+                        "Top": 0.06643576920032501
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "a8976e33-b7a3-4f07-be5a-1b7ae065b48a",
+                    "Score": 0.7638919949531555
+                },
+                {
+                    "Text": "EHRSQL",
+                    "BoundingBox": {
+                        "Width": 0.15156850218772888,
+                        "Height": 0.0391809418797493,
+                        "Left": 0.0679643526673317,
+                        "Top": 0.19755791127681732
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e77582f6-1728-483e-ba11-be70b285332e",
+                    "Score": 0.7230753302574158
+                },
+                {
+                    "Text": "FAQ on structured EHR data collected from a poll at a university hospital",
+                    "BoundingBox": {
+                        "Width": 0.74703049659729,
+                        "Height": 0.03864007443189621,
+                        "Left": 0.12147722393274307,
+                        "Top": 0.2699485123157501
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "864c5fb3-5609-49f5-8106-96e8dc95dc7b",
+                    "Score": 0.7267224788665771
+                },
+                {
+                    "Text": "Dataset size:",
+                    "BoundingBox": {
+                        "Width": 0.16112679243087769,
+                        "Height": 0.031098516657948494,
+                        "Left": 0.121501624584198,
+                        "Top": 0.3317316472530365
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "61f18f52-eb73-4171-8923-90cb3d7dd783",
+                    "Score": 0.6710033416748047
+                },
+                {
+                    "Text": "Question-to-SQL: 24,411 pairs",
+                    "BoundingBox": {
+                        "Width": 0.3356098234653473,
+                        "Height": 0.03827246278524399,
+                        "Left": 0.1706239879131317,
+                        "Top": 0.39090871810913086
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "289f0b98-5270-40e6-821b-763bc46b019f",
+                    "Score": 0.8192180395126343
+                },
+                {
+                    "Text": "SQL queries linked to MIMIC-III and elCU",
+                    "BoundingBox": {
+                        "Width": 0.44398149847984314,
+                        "Height": 0.03850173205137253,
+                        "Left": 0.1709098070859909,
+                        "Top": 0.4524689316749573
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b9b9311-284d-4b77-92c5-bb05c75baef5",
+                    "Score": 0.7634034752845764
+                },
+                {
+                    "Text": "Unique Challenges",
+                    "BoundingBox": {
+                        "Width": 0.2716206908226013,
+                        "Height": 0.048810407519340515,
+                        "Left": 0.06801559031009674,
+                        "Top": 0.5601233839988708
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e59d0699-a4a7-4e22-96a9-82d04f66dff1",
+                    "Score": 0.6569844484329224
+                },
+                {
+                    "Text": "Wide range of real-world questions",
+                    "BoundingBox": {
+                        "Width": 0.19646437466144562,
+                        "Height": 0.08558948338031769,
+                        "Left": 0.22913528978824615,
+                        "Top": 0.6586998701095581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5b712b51-4479-4db0-b1b9-03f11aee6826",
+                    "Score": 0.7788587808609009
+                },
+                {
+                    "Text": "Time-sensitive questions",
+                    "BoundingBox": {
+                        "Width": 0.14214535057544708,
+                        "Height": 0.08533260226249695,
+                        "Left": 0.6145000457763672,
+                        "Top": 0.6591053605079651
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d0c5c9d-7b00-4313-ab21-8173b808691e",
+                    "Score": 0.7293156385421753
+                },
+                {
+                    "Text": "Unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.24190181493759155,
+                        "Height": 0.03810994699597359,
+                        "Left": 0.38827693462371826,
+                        "Top": 0.8678103089332581
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e08658df-6642-4ee3-854a-29330f12ed6b",
+                    "Score": 0.7455236911773682
+                }
+            ]
+        }
+    ]
+}

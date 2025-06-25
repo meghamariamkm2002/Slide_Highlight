@@ -1,0 +1,5 @@
+First of all, I would like to introduce the motivation of our work.
+As we all know, animal pose estimation is crucial in animal behavior understanding and wildlife conservation.
+But animal pose estimation data sets are largely ignored.
+And existing data sets
+You really don't have continuous time information or lake detailed keypoint annotations.

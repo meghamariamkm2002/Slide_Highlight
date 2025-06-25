@@ -1,0 +1,16 @@
+1
+00:00:01,854 --> 00:00:13,061
+To construct a dataset for such systems, we collaborated with the Ganyang University Hospital and asked people what questions they would ask an AI speaker for information stored in the EHR tables.
+
+2
+00:00:13,841 --> 00:00:21,446
+After the poll, we templatized the questions and filtered out the ones that are not compatible with Mimic 3 and EICU schemas.
+
+3
+00:00:22,366 --> 00:00:26,289
+The compatible questions were labeled with the corresponding SQL queries.
+
+4
+00:00:26,849 --> 00:00:29,931
+The incompatible ones were considered unanswerable questions.
+

@@ -1,0 +1,12 @@
+1
+00:00:04,568 --> 00:00:06,249
+Hello, my name is Yijiu Zhang.
+
+2
+00:00:06,789 --> 00:00:11,091
+Today, I will present our work with Du Fucao and Professor Yan Liu.
+
+3
+00:00:11,672 --> 00:00:17,835
+The title is Counterfactual Neural Temporal Point Process for Estimating Cultural Influence of Misinformation on Social Media.
+

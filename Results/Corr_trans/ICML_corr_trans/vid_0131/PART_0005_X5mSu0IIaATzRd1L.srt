@@ -1,0 +1,12 @@
+1
+00:00:01,923 --> 00:00:11,629
+And we also propose the discrepancy-aware sample correction based on the memorization discrepancy to defend against the accumulative poisoning attacks.
+
+2
+00:00:13,070 --> 00:00:24,438
+Different from the AT variant of gradient clipping, which is essential to handle the poisoning sample or cleaning samples,
+
+3
+00:00:25,373 --> 00:00:35,598
+our discrepancy awareness over a sample correction can selectively correct some potential points in the examples and achieve the better performance.
+

@@ -1,0 +1,20 @@
+WEBVTT
+
+00:03.035 --> 00:06.117
+So let's first talk about our code structure model.
+
+00:06.577 --> 00:20.607
+So in this model, the covariate will be history activities and treatment will be engagement with misinformation or information and outcome will be characters of the post in the future.
+
+00:21.047 --> 00:25.050
+They can be fully described by the conditional intensity function.
+
+00:25.772 --> 00:31.758
+But because, you know, function is continuous, so it is hard to quantify the effect on them.
+
+00:32.339 --> 00:36.984
+So we apply a functional F to project the function to a vector.
+
+00:37.704 --> 00:47.755
+And in this way, we can compare the functional with treatment and without treatment to acquire the individual treatment effect with finite dimensions.
+

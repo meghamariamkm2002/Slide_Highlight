@@ -1,0 +1,57 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,121",
+            "end_time": "00:00:02,722",
+            "transcript": "Now, let's describe the method.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:03,302",
+            "end_time": "00:00:12,405",
+            "transcript": "We propose to manipulate the explainability maps of the model directly, to ensure that the model avoids using spurious correlations in the background and in the foreground of the image.",
+            "MatchedRegion": [
+                {
+                    "Text": "We propose to manipulate the explainability maps of the model directly to ensure that the modelavoids using spurious correlations in the background and in the foreground.",
+                    "BoundingBox": {
+                        "Width": 0.8169664144515991,
+                        "Height": 0.07336387038230896,
+                        "Left": 0.07651010900735855,
+                        "Top": 0.2890012264251709
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8e639bc-502e-44c8-8f9d-7de375b2f323",
+                    "Score": 0.8991047739982605
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,305",
+            "end_time": "00:00:18,187",
+            "transcript": "Our main loss is comprised of two loss functions, L background and L foreground.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:19,107",
+            "end_time": "00:00:25,329",
+            "transcript": "L background prevents the model from over-interpreting the background by demanding that the relevance on the background is close to zero.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:26,260",
+            "end_time": "00:00:33,872",
+            "transcript": "The foreground encourages the model to use as much as the foreground as possible by encouraging the relevance on the foreground to be close to one.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_LZGyyKU5zYJCxbZS",
+            "Score": 0.6338927149772644
+        },
+        {
+            "slide": "PART_0002_nY6pwgFoBjJsFRrI",
+            "Score": 0.6026648283004761
+        }
+    ]
+}

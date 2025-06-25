@@ -1,0 +1,30 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,584",
+            "end_time": "00:00:05,848",
+            "transcript": "Lastly, we examine the discrimination power of different concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 4: Discrimination power of concepts",
+                    "BoundingBox": {
+                        "Width": 0.6831929683685303,
+                        "Height": 0.058975230902433395,
+                        "Left": 0.09747317433357239,
+                        "Top": 0.06518746167421341
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "9f0c9fca-a4f8-4c00-b0f2-1318b278f0bb",
+                    "Score": 0.8732417225837708
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,589",
+            "end_time": "00:00:13,456",
+            "transcript": "We found that the same concept usually push the classification of different samples towards the same category.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

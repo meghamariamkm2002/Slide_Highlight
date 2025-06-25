@@ -1,0 +1,69 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,370",
+            "end_time": "00:00:06,053",
+            "transcript": "The general sequential episodic memory model, or GSEMM, deals with these two limitations.",
+            "MatchedRegion": [
+                {
+                    "Text": "General Sequential Episodic Memory Model (GSEMM) has a dynamic energy landscape capable of storing and retrieving of temporal memories in its dynamical evolution.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4362073540687561,
+                        "Height": 0.14139100909233093,
+                        "Left": 0.054878998547792435,
+                        "Top": 0.391903817653656
+                    },
+                    "Id": "60e93f30-2261-4edd-a667-7403bc364a86"
+                },
+                {
+                    "Text": "In contrast to GAMM, GSEMM exhibits a dynamic energy surface controlled by the delay signal resulting in a system with instantaneous fixed-point dynamics",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4822145700454712,
+                        "Height": 0.14131785929203033,
+                        "Left": 0.054626014083623886,
+                        "Top": 0.7150548100471497
+                    },
+                    "Id": "17f0b8ce-1da5-4868-9d68-8199f20ff81b"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,533",
+            "end_time": "00:00:11,597",
+            "transcript": "We derive GSEMM by introducing asymmetric synapses with signal propagation delays in the GAMM.",
+            "MatchedRegion": [
+                {
+                    "Text": "The system consists of two layers of neurons organized analogous to General Associative Memory Model (GAMM) with additional delay- based intra-hidden layer connectivity.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4523355960845947,
+                        "Height": 0.14070415496826172,
+                        "Left": 0.05469614639878273,
+                        "Top": 0.5533865094184875
+                    },
+                    "Id": "ad4147f0-e3a4-466e-bde1-0ef7d32be13b"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,257",
+            "end_time": "00:00:19,002",
+            "transcript": "The asymmetric synapses result in the temporal behavior of the model and the delay stabilizes individual memories over time.",
+            "MatchedRegion": [
+                {
+                    "Text": "The system consists of two layers of neurons organized analogous to General Associative Memory Model (GAMM) with additional delay- based intra-hidden layer connectivity.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4523355960845947,
+                        "Height": 0.14070415496826172,
+                        "Left": 0.05469614639878273,
+                        "Top": 0.5533865094184875
+                    },
+                    "Id": "ad4147f0-e3a4-466e-bde1-0ef7d32be13b"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,029",
+            "end_time": "00:00:00,510",
+            "transcript": "this point.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,792",
+            "end_time": "00:00:05,577",
+            "transcript": "For the target domain of MOLAN, we capture data with our 1/8th model vehicle.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,078",
+            "end_time": "00:00:09,223",
+            "transcript": "Tracks roughly contain the same proportion of straight and curved segments.",
+            "MatchedRegion": [
+                {
+                    "Text": "Tracks roughly contain the same proportion of straight and curved segments",
+                    "BoundingBox": {
+                        "Width": 0.6612081527709961,
+                        "Height": 0.034215621650218964,
+                        "Left": 0.03567563369870186,
+                        "Top": 0.2226465791463852
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "961679f5-c9cc-4bf4-9389-6ef63b5edc05",
+                    "Score": 0.9892998933792114
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,743",
+            "end_time": "00:00:14,911",
+            "transcript": "Randomizations include alternating backgrounds, lighting conditions, surface materials, and lane topologies.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0003_AVYdxgQ3ohclNiow",
+            "Score": 0.6859908103942871
+        }
+    ]
+}

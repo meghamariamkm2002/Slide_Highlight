@@ -1,0 +1,16 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:00,290",
+            "end_time": "00:00:00,811",
+            "transcript": "and neutral.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,475",
+            "end_time": "00:00:07,005",
+            "transcript": "This slide shows the data statistics of our proposed MASC code.",
+            "MatchedRegion": []
+        }
+    ]
+}

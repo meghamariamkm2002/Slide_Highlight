@@ -1,0 +1,217 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,249",
+            "end_time": "00:00:00,629",
+            "transcript": "functions.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1082473024725914,
+                        "Height": 0.08069175481796265,
+                        "Left": 0.888856828212738,
+                        "Top": 0.01234100479632616
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b7247b72-d6c5-4f4a-a6c8-07abade80b31",
+                    "Score": 0.6827526688575745
+                },
+                {
+                    "Text": "UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.07417614758014679,
+                        "Height": 0.02370857633650303,
+                        "Left": 0.14780546724796295,
+                        "Top": 0.34264808893203735
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "835dcd9a-8a40-44ba-906a-8baacddb96c3",
+                    "Score": 0.8226267099380493
+                },
+                {
+                    "Text": "DANN",
+                    "BoundingBox": {
+                        "Width": 0.0503806509077549,
+                        "Height": 0.02392035722732544,
+                        "Left": 0.31624525785446167,
+                        "Top": 0.34239158034324646
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0814824a-9018-447e-9b36-9172792aca5c",
+                    "Score": 0.8218284845352173
+                },
+                {
+                    "Text": "ADDA",
+                    "BoundingBox": {
+                        "Width": 0.05063377320766449,
+                        "Height": 0.023590510711073875,
+                        "Left": 0.47313737869262695,
+                        "Top": 0.34267091751098633
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "317084c0-f412-4be3-b529-49247170c435",
+                    "Score": 0.8098207712173462
+                },
+                {
+                    "Text": "SGADA",
+                    "BoundingBox": {
+                        "Width": 0.060439229011535645,
+                        "Height": 0.023496026173233986,
+                        "Left": 0.6249956488609314,
+                        "Top": 0.34269434213638306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "808b4760-6c24-4407-902b-ec177c0e4732",
+                    "Score": 0.8232147693634033
+                },
+                {
+                    "Text": "SGPCS",
+                    "BoundingBox": {
+                        "Width": 0.053800318390131,
+                        "Height": 0.024762198328971863,
+                        "Left": 0.7853443026542664,
+                        "Top": 0.3421142101287842
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7185631b-cb85-4548-882f-32d441b1a80a",
+                    "Score": 0.8442530632019043
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04423494264483452,
+                        "Height": 0.043091531842947006,
+                        "Left": 0.1463083028793335,
+                        "Top": 0.9288427829742432
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e3135731-56e6-4852-b3e5-01e3660b47ea",
+                    "Score": 0.8318345546722412
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06651531904935837,
+                        "Height": 0.06872102618217468,
+                        "Left": 0.44560137391090393,
+                        "Top": 0.9201478958129883
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7d8114f3-df98-4411-a84c-c7d252b1938c",
+                    "Score": 0.6925920248031616
+                },
+                {
+                    "Text": "12",
+                    "BoundingBox": {
+                        "Width": 0.012359588406980038,
+                        "Height": 0.016759878024458885,
+                        "Left": 0.956969678401947,
+                        "Top": 0.9461775422096252
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "9d511621-0e34-49a7-bfd8-ba07022e75fb",
+                    "Score": 0.8382012844085693
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,510",
+            "end_time": "00:00:08,254",
+            "transcript": "As shown in the t-SNE visualizations, there's a noticeable separation between the source and target domains of Moulin.",
+            "MatchedRegion": [
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06651531904935837,
+                        "Height": 0.06872102618217468,
+                        "Left": 0.44560137391090393,
+                        "Top": 0.9201478958129883
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7d8114f3-df98-4411-a84c-c7d252b1938c",
+                    "Score": 0.6925920248031616
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,894",
+            "end_time": "00:00:15,918",
+            "transcript": "Therefore, we only observe a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1082473024725914,
+                        "Height": 0.08069175481796265,
+                        "Left": 0.888856828212738,
+                        "Top": 0.01234100479632616
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b7247b72-d6c5-4f4a-a6c8-07abade80b31",
+                    "Score": 0.6827526688575745
+                },
+                {
+                    "Text": "In accordance with the quantitative results, we observe only a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS compared to the supervised baseline UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.8974785804748535,
+                        "Height": 0.07349909096956253,
+                        "Left": 0.03530073165893555,
+                        "Top": 0.16038255393505096
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7a34dd71-a1b8-4fcb-997e-b06b3ce1b81c",
+                    "Score": 0.9688676595687866
+                },
+                {
+                    "Text": "ADDA",
+                    "BoundingBox": {
+                        "Width": 0.05063377320766449,
+                        "Height": 0.023590510711073875,
+                        "Left": 0.47313737869262695,
+                        "Top": 0.34267091751098633
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "317084c0-f412-4be3-b529-49247170c435",
+                    "Score": 0.8098207712173462
+                },
+                {
+                    "Text": "SGADA",
+                    "BoundingBox": {
+                        "Width": 0.060439229011535645,
+                        "Height": 0.023496026173233986,
+                        "Left": 0.6249956488609314,
+                        "Top": 0.34269434213638306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "808b4760-6c24-4407-902b-ec177c0e4732",
+                    "Score": 0.8232147693634033
+                },
+                {
+                    "Text": "SGPCS",
+                    "BoundingBox": {
+                        "Width": 0.053800318390131,
+                        "Height": 0.024762198328971863,
+                        "Left": 0.7853443026542664,
+                        "Top": 0.3421142101287842
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7185631b-cb85-4548-882f-32d441b1a80a",
+                    "Score": 0.8442530632019043
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06651531904935837,
+                        "Height": 0.06872102618217468,
+                        "Left": 0.44560137391090393,
+                        "Top": 0.9201478958129883
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7d8114f3-df98-4411-a84c-c7d252b1938c",
+                    "Score": 0.6925920248031616
+                }
+            ]
+        }
+    ]
+}

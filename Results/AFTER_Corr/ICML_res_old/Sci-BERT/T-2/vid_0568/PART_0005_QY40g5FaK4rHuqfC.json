@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,011",
+            "end_time": "00:00:04,337",
+            "transcript": "The schematic representation of the network operation is shown here.",
+            "MatchedRegion": [
+                {
+                    "Text": "Schematic Representation of GSEMM operation",
+                    "BoundingBox": {
+                        "Width": 0.5155589580535889,
+                        "Height": 0.045001640915870667,
+                        "Left": 0.0393863171339035,
+                        "Top": 0.04808302968740463
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "dbe7e015-c918-4956-bbbe-b858904bc517",
+                    "Score": 0.8157801628112793
+                },
+                {
+                    "Text": "General Sequential delayed feature Episodic Memory layer Vd A Td General Associative o f Memory feature hidden layer layer V f oh Vh Input/ Output",
+                    "BoundingBox": {
+                        "Width": 0.6201406717300415,
+                        "Height": 0.7447613477706909,
+                        "Left": 0.2195761799812317,
+                        "Top": 0.18210797011852264
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "f59b2d4c-0842-4ee2-890e-4e607d645ed5",
+                    "Score": 0.6981962323188782
+                }
+            ]
+        }
+    ]
+}

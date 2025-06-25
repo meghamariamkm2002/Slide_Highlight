@@ -1,0 +1,8 @@
+1
+00:00:01,584 --> 00:00:05,848
+Lastly, we examine the discrimination power of different concepts.
+
+2
+00:00:06,589 --> 00:00:13,456
+We found that the same concept usually push the classification of different samples towards the same category.
+

@@ -1,0 +1,265 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,625",
+            "end_time": "00:00:05,266",
+            "transcript": "Hello, everyone.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.20059311389923096,
+                        "Height": 0.15097332000732422,
+                        "Left": 0.7594585418701172,
+                        "Top": 0.04977139085531235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6017792820930481
+                },
+                {
+                    "Text": "CARLANE: A Lane Detection Benchmark for Unsupervised Domain Adaptation from Simulation to multiple Real-World Domains",
+                    "BoundingBox": {
+                        "Width": 0.740811288356781,
+                        "Height": 0.20649506151676178,
+                        "Left": 0.03581993654370308,
+                        "Top": 0.34182584285736084
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.655507504940033
+                },
+                {
+                    "Text": "Hochschule Kempten",
+                    "BoundingBox": {
+                        "Width": 0.04383319988846779,
+                        "Height": 0.028372911736369133,
+                        "Left": 0.3510805666446686,
+                        "Top": 0.9445315599441528
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6020888090133667
+                },
+                {
+                    "Text": "UAB Universitat Autonoma",
+                    "BoundingBox": {
+                        "Width": 0.0744861364364624,
+                        "Height": 0.05154676362872124,
+                        "Left": 0.5279159545898438,
+                        "Top": 0.9209474325180054
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.643670380115509
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.05976639688014984,
+                        "Height": 0.018287943676114082,
+                        "Left": 0.8593417406082153,
+                        "Top": 0.9450529217720032
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6042647957801819
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,607",
+            "end_time": "00:00:13,760",
+            "transcript": "My name is Bonifat Stur, and today we present our work, Carlane, a lane detection benchmark for unsupervised domain adaptation from simulation to multiple real-world domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.20059311389923096,
+                        "Height": 0.15097332000732422,
+                        "Left": 0.7594585418701172,
+                        "Top": 0.04977139085531235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6017792820930481
+                },
+                {
+                    "Text": "CARLANE: A Lane Detection Benchmark for Unsupervised Domain Adaptation from Simulation to multiple Real-World Domains",
+                    "BoundingBox": {
+                        "Width": 0.740811288356781,
+                        "Height": 0.20649506151676178,
+                        "Left": 0.03581993654370308,
+                        "Top": 0.34182584285736084
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.655507504940033
+                },
+                {
+                    "Text": "1 University of Applied Science Kempten",
+                    "BoundingBox": {
+                        "Width": 0.23319323360919952,
+                        "Height": 0.0243001077324152,
+                        "Left": 0.035215940326452255,
+                        "Top": 0.6502295732498169
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6441932916641235
+                },
+                {
+                    "Text": "2 Autonomous University of Barcelona",
+                    "BoundingBox": {
+                        "Width": 0.22175706923007965,
+                        "Height": 0.023855386301875114,
+                        "Left": 0.035414330661296844,
+                        "Top": 0.681419312953949
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6315390467643738
+                },
+                {
+                    "Text": "3 Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.17609424889087677,
+                        "Height": 0.01981409639120102,
+                        "Left": 0.03564463555812836,
+                        "Top": 0.7122589945793152
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6301831603050232
+                },
+                {
+                    "Text": "UAB Universitat Autonoma",
+                    "BoundingBox": {
+                        "Width": 0.0744861364364624,
+                        "Height": 0.05154676362872124,
+                        "Left": 0.5279159545898438,
+                        "Top": 0.9209474325180054
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.643670380115509
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,661",
+            "end_time": "00:00:16,985",
+            "transcript": "This is joint work with Johann Haselberger and Julian Gebele.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.20059311389923096,
+                        "Height": 0.15097332000732422,
+                        "Left": 0.7594585418701172,
+                        "Top": 0.04977139085531235
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6017792820930481
+                },
+                {
+                    "Text": "CARLANE: A Lane Detection Benchmark for Unsupervised Domain Adaptation from Simulation to multiple Real-World Domains",
+                    "BoundingBox": {
+                        "Width": 0.740811288356781,
+                        "Height": 0.20649506151676178,
+                        "Left": 0.03581993654370308,
+                        "Top": 0.34182584285736084
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.655507504940033
+                },
+                {
+                    "Text": "1 University of Applied Science Kempten",
+                    "BoundingBox": {
+                        "Width": 0.23319323360919952,
+                        "Height": 0.0243001077324152,
+                        "Left": 0.035215940326452255,
+                        "Top": 0.6502295732498169
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6441932916641235
+                },
+                {
+                    "Text": "2 Autonomous University of Barcelona",
+                    "BoundingBox": {
+                        "Width": 0.22175706923007965,
+                        "Height": 0.023855386301875114,
+                        "Left": 0.035414330661296844,
+                        "Top": 0.681419312953949
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6315390467643738
+                },
+                {
+                    "Text": "3 Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.17609424889087677,
+                        "Height": 0.01981409639120102,
+                        "Left": 0.03564463555812836,
+                        "Top": 0.7122589945793152
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6301831603050232
+                },
+                {
+                    "Text": "IFM Institut f\u00fcr Fahrerassistenz und vernetzte Mobilit\u00e4t",
+                    "BoundingBox": {
+                        "Width": 0.18145905435085297,
+                        "Height": 0.042172834277153015,
+                        "Left": 0.14664337038993835,
+                        "Top": 0.9295854568481445
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6033574342727661
+                },
+                {
+                    "Text": "Technische n Universit\u00e4t",
+                    "BoundingBox": {
+                        "Width": 0.06749160587787628,
+                        "Height": 0.052867792546749115,
+                        "Left": 0.44519782066345215,
+                        "Top": 0.9210484027862549
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6130461692810059
+                },
+                {
+                    "Text": "UAB Universitat Autonoma",
+                    "BoundingBox": {
+                        "Width": 0.0744861364364624,
+                        "Height": 0.05154676362872124,
+                        "Left": 0.5279159545898438,
+                        "Top": 0.9209474325180054
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.643670380115509
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.05976639688014984,
+                        "Height": 0.018287943676114082,
+                        "Left": 0.8593417406082153,
+                        "Top": 0.9450529217720032
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6042647957801819
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,315 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,561",
+            "end_time": "00:00:15,684",
+            "transcript": "And after defining the causal model, we can use the neural network to estimate the treatment effects by learning conditional intensity function with maximizing likelihood.",
+            "MatchedRegion": [
+                {
+                    "Text": "Model - Neural Estimation of Treatment Effects",
+                    "BoundingBox": {
+                        "Width": 0.7834063172340393,
+                        "Height": 0.10929936170578003,
+                        "Left": 0.059843968600034714,
+                        "Top": 0.06944236904382706
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "44dfeae7-a3df-43dd-9208-493529249054",
+                    "Score": 0.7137007713317871
+                },
+                {
+                    "Text": "Learning Conditional Intensity Function via Maximum Likelihood Estimation [5]",
+                    "BoundingBox": {
+                        "Width": 0.3694457411766052,
+                        "Height": 0.11454383283853531,
+                        "Left": 0.0510411262512207,
+                        "Top": 0.3140183985233307
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab0c1055-1eee-4285-be7b-3904903d33c2",
+                    "Score": 0.7195636630058289
+                },
+                {
+                    "Text": "Adversarial Balanced Neural Temporal Point Process that removes the correlation between treatment and covariates (information cocoons) with theoretic guarantee",
+                    "BoundingBox": {
+                        "Width": 0.40176331996917725,
+                        "Height": 0.23295056819915771,
+                        "Left": 0.05090716481208801,
+                        "Top": 0.515267550945282
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "df30013f-04b0-4b84-9818-78dd589dd0a9",
+                    "Score": 0.7415675520896912
+                },
+                {
+                    "Text": "A(t|H(TrUX)), p(f|H(TrUX),t), ((t|H(X)) p(f|H(X),t) p(Tr|H(X)) Intensity Feature Treatment Function Distribution Predictor GRL: adversarial H(Trux) H(X) training H (X) Share Encoder (H) (Y,TrUX) (Y, 0 UX) (Tr,X) Engage Post Post Engage Post",
+                    "BoundingBox": {
+                        "Width": 0.46624401211738586,
+                        "Height": 0.49506357312202454,
+                        "Left": 0.47943738102912903,
+                        "Top": 0.21960686147212982
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "902e1226-af80-4dcd-9c58-02ddf5357254",
+                    "Score": 0.656242847442627
+                },
+                {
+                    "Text": "Figure 2: The proposed neural model to estimate the impact of misinformation.",
+                    "BoundingBox": {
+                        "Width": 0.48546862602233887,
+                        "Height": 0.04869019240140915,
+                        "Left": 0.4701289236545563,
+                        "Top": 0.7392110824584961
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4b5570ad-c5b0-4fc5-a192-5df5d2bde05e",
+                    "Score": 0.695128321647644
+                },
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19356174767017365,
+                        "Height": 0.06961854547262192,
+                        "Left": 0.029189862310886383,
+                        "Top": 0.890448808670044
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "88fd7682-a6c2-4932-b50d-a8843a1578ad",
+                    "Score": 0.6054944396018982
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,605",
+            "end_time": "00:00:29,188",
+            "transcript": "But here we may face a challenge, which is that the covariance could be correlated with the treatment because the platforms like Twitter, like Reddit,",
+            "MatchedRegion": [
+                {
+                    "Text": "Model - Neural Estimation of Treatment Effects",
+                    "BoundingBox": {
+                        "Width": 0.7834063172340393,
+                        "Height": 0.10929936170578003,
+                        "Left": 0.059843968600034714,
+                        "Top": 0.06944236904382706
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "44dfeae7-a3df-43dd-9208-493529249054",
+                    "Score": 0.7137007713317871
+                },
+                {
+                    "Text": "Learning Conditional Intensity Function via Maximum Likelihood Estimation [5]",
+                    "BoundingBox": {
+                        "Width": 0.3694457411766052,
+                        "Height": 0.11454383283853531,
+                        "Left": 0.0510411262512207,
+                        "Top": 0.3140183985233307
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab0c1055-1eee-4285-be7b-3904903d33c2",
+                    "Score": 0.7195636630058289
+                },
+                {
+                    "Text": "Adversarial Balanced Neural Temporal Point Process that removes the correlation between treatment and covariates (information cocoons) with theoretic guarantee",
+                    "BoundingBox": {
+                        "Width": 0.40176331996917725,
+                        "Height": 0.23295056819915771,
+                        "Left": 0.05090716481208801,
+                        "Top": 0.515267550945282
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "df30013f-04b0-4b84-9818-78dd589dd0a9",
+                    "Score": 0.7415675520896912
+                },
+                {
+                    "Text": "A(t|H(TrUX)), p(f|H(TrUX),t), ((t|H(X)) p(f|H(X),t) p(Tr|H(X)) Intensity Feature Treatment Function Distribution Predictor GRL: adversarial H(Trux) H(X) training H (X) Share Encoder (H) (Y,TrUX) (Y, 0 UX) (Tr,X) Engage Post Post Engage Post",
+                    "BoundingBox": {
+                        "Width": 0.46624401211738586,
+                        "Height": 0.49506357312202454,
+                        "Left": 0.47943738102912903,
+                        "Top": 0.21960686147212982
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "902e1226-af80-4dcd-9c58-02ddf5357254",
+                    "Score": 0.656242847442627
+                },
+                {
+                    "Text": "Figure 2: The proposed neural model to estimate the impact of misinformation.",
+                    "BoundingBox": {
+                        "Width": 0.48546862602233887,
+                        "Height": 0.04869019240140915,
+                        "Left": 0.4701289236545563,
+                        "Top": 0.7392110824584961
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4b5570ad-c5b0-4fc5-a192-5df5d2bde05e",
+                    "Score": 0.695128321647644
+                },
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19356174767017365,
+                        "Height": 0.06961854547262192,
+                        "Left": 0.029189862310886383,
+                        "Top": 0.890448808670044
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "88fd7682-a6c2-4932-b50d-a8843a1578ad",
+                    "Score": 0.6054944396018982
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,838",
+            "end_time": "00:00:35,085",
+            "transcript": "they will recommend you with the content that they believe you are very likely to click on.",
+            "MatchedRegion": [
+                {
+                    "Text": "Figure 2: The proposed neural model to estimate the impact of misinformation.",
+                    "BoundingBox": {
+                        "Width": 0.48546862602233887,
+                        "Height": 0.04869019240140915,
+                        "Left": 0.4701289236545563,
+                        "Top": 0.7392110824584961
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4b5570ad-c5b0-4fc5-a192-5df5d2bde05e",
+                    "Score": 0.695128321647644
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:35,766",
+            "end_time": "00:00:38,929",
+            "transcript": "So the covariate will be correlated with treatment.",
+            "MatchedRegion": [
+                {
+                    "Text": "Model - Neural Estimation of Treatment Effects",
+                    "BoundingBox": {
+                        "Width": 0.7834063172340393,
+                        "Height": 0.10929936170578003,
+                        "Left": 0.059843968600034714,
+                        "Top": 0.06944236904382706
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "44dfeae7-a3df-43dd-9208-493529249054",
+                    "Score": 0.7137007713317871
+                },
+                {
+                    "Text": "Learning Conditional Intensity Function via Maximum Likelihood Estimation [5]",
+                    "BoundingBox": {
+                        "Width": 0.3694457411766052,
+                        "Height": 0.11454383283853531,
+                        "Left": 0.0510411262512207,
+                        "Top": 0.3140183985233307
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab0c1055-1eee-4285-be7b-3904903d33c2",
+                    "Score": 0.7195636630058289
+                },
+                {
+                    "Text": "Adversarial Balanced Neural Temporal Point Process that removes the correlation between treatment and covariates (information cocoons) with theoretic guarantee",
+                    "BoundingBox": {
+                        "Width": 0.40176331996917725,
+                        "Height": 0.23295056819915771,
+                        "Left": 0.05090716481208801,
+                        "Top": 0.515267550945282
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "df30013f-04b0-4b84-9818-78dd589dd0a9",
+                    "Score": 0.7415675520896912
+                },
+                {
+                    "Text": "A(t|H(TrUX)), p(f|H(TrUX),t), ((t|H(X)) p(f|H(X),t) p(Tr|H(X)) Intensity Feature Treatment Function Distribution Predictor GRL: adversarial H(Trux) H(X) training H (X) Share Encoder (H) (Y,TrUX) (Y, 0 UX) (Tr,X) Engage Post Post Engage Post",
+                    "BoundingBox": {
+                        "Width": 0.46624401211738586,
+                        "Height": 0.49506357312202454,
+                        "Left": 0.47943738102912903,
+                        "Top": 0.21960686147212982
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "902e1226-af80-4dcd-9c58-02ddf5357254",
+                    "Score": 0.656242847442627
+                },
+                {
+                    "Text": "Figure 2: The proposed neural model to estimate the impact of misinformation.",
+                    "BoundingBox": {
+                        "Width": 0.48546862602233887,
+                        "Height": 0.04869019240140915,
+                        "Left": 0.4701289236545563,
+                        "Top": 0.7392110824584961
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4b5570ad-c5b0-4fc5-a192-5df5d2bde05e",
+                    "Score": 0.695128321647644
+                },
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19356174767017365,
+                        "Height": 0.06961854547262192,
+                        "Left": 0.029189862310886383,
+                        "Top": 0.890448808670044
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "88fd7682-a6c2-4932-b50d-a8843a1578ad",
+                    "Score": 0.6054944396018982
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:39,871",
+            "end_time": "00:00:48,982",
+            "transcript": "So to solve this issue, we propose an adversarial balanced neural temporal point process that can remove such kind of correlation with theoretical guarantees.",
+            "MatchedRegion": [
+                {
+                    "Text": "Learning Conditional Intensity Function via Maximum Likelihood Estimation [5]",
+                    "BoundingBox": {
+                        "Width": 0.3694457411766052,
+                        "Height": 0.11454383283853531,
+                        "Left": 0.0510411262512207,
+                        "Top": 0.3140183985233307
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab0c1055-1eee-4285-be7b-3904903d33c2",
+                    "Score": 0.7195636630058289
+                },
+                {
+                    "Text": "Adversarial Balanced Neural Temporal Point Process that removes the correlation between treatment and covariates (information cocoons) with theoretic guarantee",
+                    "BoundingBox": {
+                        "Width": 0.40176331996917725,
+                        "Height": 0.23295056819915771,
+                        "Left": 0.05090716481208801,
+                        "Top": 0.515267550945282
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "df30013f-04b0-4b84-9818-78dd589dd0a9",
+                    "Score": 0.7415675520896912
+                },
+                {
+                    "Text": "Figure 2: The proposed neural model to estimate the impact of misinformation.",
+                    "BoundingBox": {
+                        "Width": 0.48546862602233887,
+                        "Height": 0.04869019240140915,
+                        "Left": 0.4701289236545563,
+                        "Top": 0.7392110824584961
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4b5570ad-c5b0-4fc5-a192-5df5d2bde05e",
+                    "Score": 0.695128321647644
+                },
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19356174767017365,
+                        "Height": 0.06961854547262192,
+                        "Left": 0.029189862310886383,
+                        "Top": 0.890448808670044
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "88fd7682-a6c2-4932-b50d-a8843a1578ad",
+                    "Score": 0.6054944396018982
+                }
+            ]
+        }
+    ]
+}

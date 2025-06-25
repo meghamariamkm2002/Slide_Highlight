@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,029",
+            "end_time": "00:00:00,249",
+            "transcript": "used.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,990",
+            "end_time": "00:00:06,231",
+            "transcript": "Motor exhibits vastly different performance when distributed compared to normal training.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,311",
+            "end_time": "00:00:14,613",
+            "transcript": "We scale up our analysis to a thousand random student network which are distributed with good and bad teacher respectively.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:15,233",
+            "end_time": "00:00:19,214",
+            "transcript": "Then we coordinate their training from scratch accuracy to the fine-tuning accuracy.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:19,874",
+            "end_time": "00:00:22,995",
+            "transcript": "We see that fine-tuning is only beneficial if a good teacher",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

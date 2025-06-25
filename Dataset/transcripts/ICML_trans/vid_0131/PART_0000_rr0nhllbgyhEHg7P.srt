@@ -1,0 +1,8 @@
+1
+00:00:08,649 --> 00:00:10,610
+Hello everyone, this is Jianning Zhu.
+
+2
+00:00:11,231 --> 00:00:17,895
+I will present our research work, namely exploring modal dynamics for accumulative point learning discovery.
+

@@ -1,0 +1,9 @@
+start	end	text
+29	630	which is used.
+2251	9919	We study if the predictor are good at estimating the end-to-end model accuracy after distillation and fine tuning.
+11441	12422	There are three findings.
+12982	22953	One, distillation loss and linear regression used in donor is better than change of validation accuracy and simple summation used in NANDER.
+24276	28985	2.
+24717	28985	Symmetry of blocks that were distributed for more epoch tend to produce better predictors.
+29987	28985	3.
+30568	35918	The juice and predictor, which does not require any distillation signatures, can outperform

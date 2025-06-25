@@ -1,0 +1,38 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,854",
+            "end_time": "00:00:13,061",
+            "transcript": "To construct a dataset for such systems, we collaborated with the Ganyang University Hospital and asked people what questions they would ask an AI speaker for information stored in the EHR tables.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:13,841",
+            "end_time": "00:00:21,446",
+            "transcript": "After the poll, we templatized the questions and filtered out the ones that are not compatible with Mimic 3 and EICU schemas.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:22,366",
+            "end_time": "00:00:26,289",
+            "transcript": "The compatible questions were labeled with the corresponding SQL queries.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:26,849",
+            "end_time": "00:00:29,931",
+            "transcript": "The incompatible ones were considered unanswered questions.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_UpFXyswjYPYxTZ0a",
+            "Score": 0.7420255541801453
+        },
+        {
+            "slide": "PART_0003_a2ZFD4lVYxlS7fdU",
+            "Score": 0.6930350065231323
+        }
+    ]
+}

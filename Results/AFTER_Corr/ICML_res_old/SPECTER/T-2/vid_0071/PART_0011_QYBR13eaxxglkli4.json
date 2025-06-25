@@ -1,0 +1,126 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:06,213",
+            "transcript": "Certainely, we verity the model-wise transferabillty of extraced concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 3: Transferability across different DNNs",
+                    "BoundingBox": {
+                        "Width": 0.7426936626434326,
+                        "Height": 0.05903526395559311,
+                        "Left": 0.09787337481975555,
+                        "Top": 0.06477825343608856
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "27e6c051-a57a-4126-a75a-5c66529e6ba7",
+                    "Score": 0.712874174118042
+                },
+                {
+                    "Text": "Whether concepts extracted from a DNN can be transferred to another DNN trained for the same task",
+                    "BoundingBox": {
+                        "Width": 0.8660773634910583,
+                        "Height": 0.03526721149682999,
+                        "Left": 0.08008435368537903,
+                        "Top": 0.20942865312099457
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a99806b4-295a-47cc-9606-6ff6f408ada8",
+                    "Score": 0.984612762928009
+                },
+                {
+                    "Text": "MNIST-3 CelebA-eyeglasses 0.9 0.9 extract by I(S) 0.8 0,8 random concepts extract by1(s) random concepts V1 V2 0.7 ResNet20 ResNet20 0.7 V1 V2 ResNet44 ResNet44 AlexNet AlexNet 0.6 VGG13 VGG13 0.6 ResNet18 ResNet18 VGG16 VGG16 ResNet34 ResNet34 ResNet20 ResNet32 ResNet18 AlexNet 0.05 ResNet32 VGG16 0,05 ResNet34 ResNet18 0.00 0,00 0.05 0.1 0.15 0.2 0.25 0.3 0.05 0.1 0.15 0.2 0.25 0.3 threshold T X max |I(S|x)| threshold T X max |I(S|x)|",
+                    "BoundingBox": {
+                        "Width": 0.4826284945011139,
+                        "Height": 0.35633283853530884,
+                        "Left": 0.26059433817863464,
+                        "Top": 0.2867414355278015
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7d7622c3-c7f9-4d92-b66b-4df7e5c7bc31",
+                    "Score": 0.81862473487854
+                },
+                {
+                    "Text": "More salient concepts were more likely to be stably learned by different DNNs, which was aligned with intuition.",
+                    "BoundingBox": {
+                        "Width": 0.8395945429801941,
+                        "Height": 0.07451944798231125,
+                        "Left": 0.0772356390953064,
+                        "Top": 0.7477747797966003
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a618d88b-3aec-4e21-a7fa-a61c9cfac0c5",
+                    "Score": 0.8778327107429504
+                },
+                {
+                    "Text": "12",
+                    "BoundingBox": {
+                        "Width": 0.026439866051077843,
+                        "Height": 0.041875988245010376,
+                        "Left": 0.9531175494194031,
+                        "Top": 0.926863431930542
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "25cf8b49-f0b9-4df0-84c8-b77851fcc078",
+                    "Score": 0.7184419631958008
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,834",
+            "end_time": "00:00:12,758",
+            "transcript": "That is to say, concepts extracted from a DNN can be transferred to another DNN trained for the same task.",
+            "MatchedRegion": [
+                {
+                    "Text": "Perspective 3: Transferability across different DNNs",
+                    "BoundingBox": {
+                        "Width": 0.7426936626434326,
+                        "Height": 0.05903526395559311,
+                        "Left": 0.09787337481975555,
+                        "Top": 0.06477825343608856
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "27e6c051-a57a-4126-a75a-5c66529e6ba7",
+                    "Score": 0.712874174118042
+                },
+                {
+                    "Text": "Whether concepts extracted from a DNN can be transferred to another DNN trained for the same task",
+                    "BoundingBox": {
+                        "Width": 0.8660773634910583,
+                        "Height": 0.03526721149682999,
+                        "Left": 0.08008435368537903,
+                        "Top": 0.20942865312099457
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a99806b4-295a-47cc-9606-6ff6f408ada8",
+                    "Score": 0.984612762928009
+                },
+                {
+                    "Text": "MNIST-3 CelebA-eyeglasses 0.9 0.9 extract by I(S) 0.8 0,8 random concepts extract by1(s) random concepts V1 V2 0.7 ResNet20 ResNet20 0.7 V1 V2 ResNet44 ResNet44 AlexNet AlexNet 0.6 VGG13 VGG13 0.6 ResNet18 ResNet18 VGG16 VGG16 ResNet34 ResNet34 ResNet20 ResNet32 ResNet18 AlexNet 0.05 ResNet32 VGG16 0,05 ResNet34 ResNet18 0.00 0,00 0.05 0.1 0.15 0.2 0.25 0.3 0.05 0.1 0.15 0.2 0.25 0.3 threshold T X max |I(S|x)| threshold T X max |I(S|x)|",
+                    "BoundingBox": {
+                        "Width": 0.4826284945011139,
+                        "Height": 0.35633283853530884,
+                        "Left": 0.26059433817863464,
+                        "Top": 0.2867414355278015
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7d7622c3-c7f9-4d92-b66b-4df7e5c7bc31",
+                    "Score": 0.81862473487854
+                },
+                {
+                    "Text": "More salient concepts were more likely to be stably learned by different DNNs, which was aligned with intuition.",
+                    "BoundingBox": {
+                        "Width": 0.8395945429801941,
+                        "Height": 0.07451944798231125,
+                        "Left": 0.0772356390953064,
+                        "Top": 0.7477747797966003
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a618d88b-3aec-4e21-a7fa-a61c9cfac0c5",
+                    "Score": 0.8778327107429504
+                }
+            ]
+        }
+    ]
+}

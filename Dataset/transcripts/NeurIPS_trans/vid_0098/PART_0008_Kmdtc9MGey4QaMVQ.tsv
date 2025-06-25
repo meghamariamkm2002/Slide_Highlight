@@ -1,0 +1,8 @@
+start	end	text
+209	3892	We use the ultra-fast lane detection method as a backbone for lane detection.
+4593	6715	The following UDA methods are evaluated.
+7155	10558	Done, ADA, SKADA and our SGPCS.
+11319	17865	To work with UFLD, the UDA methods had to be adapted for grid-based lane detection, which is not always a trivial task.
+18760	25707	As can be seen on the right-side figure, grid-based lane detection divides the image into grid cells and classifies different lane types.
+26548	29111	Results are given as an average over five runs.
+29712	32995	Baselines, implementations and weights are publicly available.

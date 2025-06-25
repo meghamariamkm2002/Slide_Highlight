@@ -1,0 +1,464 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,890",
+            "end_time": "00:00:06,031",
+            "transcript": "First, I will describe the generalized associative memory model which we extend in our work.",
+            "MatchedRegion": [
+                {
+                    "Text": "Generalized Associative Memory Model (GAMM)",
+                    "BoundingBox": {
+                        "Width": 0.5227490663528442,
+                        "Height": 0.04576373100280762,
+                        "Left": 0.03881083056330681,
+                        "Top": 0.04832099750638008
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "13b82b60-f8ea-4792-bbb5-256e7067cf98",
+                    "Score": 0.679533064365387
+                },
+                {
+                    "Text": "General Associative Memory o f feature hidden layer layer V Oh Vh Input/ Output Schematic diagram of network operations.",
+                    "BoundingBox": {
+                        "Width": 0.502299964427948,
+                        "Height": 0.8771395683288574,
+                        "Left": 0.031191721558570862,
+                        "Top": 0.12286041676998138
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e7d8398f-70b0-41eb-ae69-23d69025452e",
+                    "Score": 0.6669273376464844
+                },
+                {
+                    "Text": "GAMM is a two-layer architecture of neurons with symmetric interactions.",
+                    "BoundingBox": {
+                        "Width": 0.35851016640663147,
+                        "Height": 0.06901958584785461,
+                        "Left": 0.5647041201591492,
+                        "Top": 0.1424138993024826
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "25253fe9-49e4-49ad-a3ae-b1212e07a208",
+                    "Score": 0.7217509746551514
+                },
+                {
+                    "Text": "The symmetric interactions result in a dissipative dynamical system whose dynamical behavior can be explained using an energy function.",
+                    "BoundingBox": {
+                        "Width": 0.3783704340457916,
+                        "Height": 0.14020109176635742,
+                        "Left": 0.5650098919868469,
+                        "Top": 0.2331220656633377
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "afd74315-721e-4cab-9c71-7576f2ec1ee0",
+                    "Score": 0.9331527352333069
+                },
+                {
+                    "Text": "Memories are the local minima states of the energy function.",
+                    "BoundingBox": {
+                        "Width": 0.3903518319129944,
+                        "Height": 0.06927502900362015,
+                        "Left": 0.5650189518928528,
+                        "Top": 0.39409998059272766
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1953e85f-d9fb-4fa1-b1d9-06d7f4e28937",
+                    "Score": 0.7848498225212097
+                },
+                {
+                    "Text": "The contribution of each memory to the energy function depends on the interaction between the memories",
+                    "BoundingBox": {
+                        "Width": 0.3890177309513092,
+                        "Height": 0.09904463589191437,
+                        "Left": 0.5656252503395081,
+                        "Top": 0.48362961411476135
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "98dd4943-4de1-453a-bb7b-97dd2adeed7f",
+                    "Score": 0.7972285747528076
+                },
+                {
+                    "Text": "The hidden layer activation function defines how the stored memories (E) interact resulting in models with different memory capacities.",
+                    "BoundingBox": {
+                        "Width": 0.39213505387306213,
+                        "Height": 0.140154168009758,
+                        "Left": 0.5659329891204834,
+                        "Top": 0.6102174520492554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ecc8f36f-a0a5-4d18-bfd8-c222de783c35",
+                    "Score": 0.702267050743103
+                },
+                {
+                    "Text": "GAMM can store and retrieve singleton memories.",
+                    "BoundingBox": {
+                        "Width": 0.3833250403404236,
+                        "Height": 0.06405137479305267,
+                        "Left": 0.565641462802887,
+                        "Top": 0.7713081240653992
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c13ee1a9-2270-45f6-b7d3-f182dd47c1fb",
+                    "Score": 0.6306871175765991
+                },
+                {
+                    "Text": "Memory capacity relates the number of neurons in the feature layer to the number of memories that can be stored",
+                    "BoundingBox": {
+                        "Width": 0.39153116941452026,
+                        "Height": 0.09959442168474197,
+                        "Left": 0.5650453567504883,
+                        "Top": 0.8617262840270996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1e8feaa8-6215-4af1-b720-ecb2fa17900a",
+                    "Score": 0.7179688215255737
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,631",
+            "end_time": "00:00:11,372",
+            "transcript": "Until recently, energy models were constrained to retrieve single memories from a set of stored memories.",
+            "MatchedRegion": [
+                {
+                    "Text": "Generalized Associative Memory Model (GAMM)",
+                    "BoundingBox": {
+                        "Width": 0.5227490663528442,
+                        "Height": 0.04576373100280762,
+                        "Left": 0.03881083056330681,
+                        "Top": 0.04832099750638008
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "13b82b60-f8ea-4792-bbb5-256e7067cf98",
+                    "Score": 0.679533064365387
+                },
+                {
+                    "Text": "General Associative Memory o f feature hidden layer layer V Oh Vh Input/ Output Schematic diagram of network operations.",
+                    "BoundingBox": {
+                        "Width": 0.502299964427948,
+                        "Height": 0.8771395683288574,
+                        "Left": 0.031191721558570862,
+                        "Top": 0.12286041676998138
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e7d8398f-70b0-41eb-ae69-23d69025452e",
+                    "Score": 0.6669273376464844
+                },
+                {
+                    "Text": "GAMM is a two-layer architecture of neurons with symmetric interactions.",
+                    "BoundingBox": {
+                        "Width": 0.35851016640663147,
+                        "Height": 0.06901958584785461,
+                        "Left": 0.5647041201591492,
+                        "Top": 0.1424138993024826
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "25253fe9-49e4-49ad-a3ae-b1212e07a208",
+                    "Score": 0.7217509746551514
+                },
+                {
+                    "Text": "The symmetric interactions result in a dissipative dynamical system whose dynamical behavior can be explained using an energy function.",
+                    "BoundingBox": {
+                        "Width": 0.3783704340457916,
+                        "Height": 0.14020109176635742,
+                        "Left": 0.5650098919868469,
+                        "Top": 0.2331220656633377
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "afd74315-721e-4cab-9c71-7576f2ec1ee0",
+                    "Score": 0.9331527352333069
+                },
+                {
+                    "Text": "Memories are the local minima states of the energy function.",
+                    "BoundingBox": {
+                        "Width": 0.3903518319129944,
+                        "Height": 0.06927502900362015,
+                        "Left": 0.5650189518928528,
+                        "Top": 0.39409998059272766
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1953e85f-d9fb-4fa1-b1d9-06d7f4e28937",
+                    "Score": 0.7848498225212097
+                },
+                {
+                    "Text": "The contribution of each memory to the energy function depends on the interaction between the memories",
+                    "BoundingBox": {
+                        "Width": 0.3890177309513092,
+                        "Height": 0.09904463589191437,
+                        "Left": 0.5656252503395081,
+                        "Top": 0.48362961411476135
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "98dd4943-4de1-453a-bb7b-97dd2adeed7f",
+                    "Score": 0.7972285747528076
+                },
+                {
+                    "Text": "The hidden layer activation function defines how the stored memories (E) interact resulting in models with different memory capacities.",
+                    "BoundingBox": {
+                        "Width": 0.39213505387306213,
+                        "Height": 0.140154168009758,
+                        "Left": 0.5659329891204834,
+                        "Top": 0.6102174520492554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ecc8f36f-a0a5-4d18-bfd8-c222de783c35",
+                    "Score": 0.702267050743103
+                },
+                {
+                    "Text": "GAMM can store and retrieve singleton memories.",
+                    "BoundingBox": {
+                        "Width": 0.3833250403404236,
+                        "Height": 0.06405137479305267,
+                        "Left": 0.565641462802887,
+                        "Top": 0.7713081240653992
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c13ee1a9-2270-45f6-b7d3-f182dd47c1fb",
+                    "Score": 0.6306871175765991
+                },
+                {
+                    "Text": "Memory capacity relates the number of neurons in the feature layer to the number of memories that can be stored",
+                    "BoundingBox": {
+                        "Width": 0.39153116941452026,
+                        "Height": 0.09959442168474197,
+                        "Left": 0.5650453567504883,
+                        "Top": 0.8617262840270996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1e8feaa8-6215-4af1-b720-ecb2fa17900a",
+                    "Score": 0.7179688215255737
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,912",
+            "end_time": "00:00:18,294",
+            "transcript": "These models have a generalized associative memory model (GAMM), composed of two layers of neurons with symmetric interactions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Generalized Associative Memory Model (GAMM)",
+                    "BoundingBox": {
+                        "Width": 0.5227490663528442,
+                        "Height": 0.04576373100280762,
+                        "Left": 0.03881083056330681,
+                        "Top": 0.04832099750638008
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "13b82b60-f8ea-4792-bbb5-256e7067cf98",
+                    "Score": 0.679533064365387
+                },
+                {
+                    "Text": "General Associative Memory o f feature hidden layer layer V Oh Vh Input/ Output Schematic diagram of network operations.",
+                    "BoundingBox": {
+                        "Width": 0.502299964427948,
+                        "Height": 0.8771395683288574,
+                        "Left": 0.031191721558570862,
+                        "Top": 0.12286041676998138
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e7d8398f-70b0-41eb-ae69-23d69025452e",
+                    "Score": 0.6669273376464844
+                },
+                {
+                    "Text": "GAMM is a two-layer architecture of neurons with symmetric interactions.",
+                    "BoundingBox": {
+                        "Width": 0.35851016640663147,
+                        "Height": 0.06901958584785461,
+                        "Left": 0.5647041201591492,
+                        "Top": 0.1424138993024826
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "25253fe9-49e4-49ad-a3ae-b1212e07a208",
+                    "Score": 0.7217509746551514
+                },
+                {
+                    "Text": "The symmetric interactions result in a dissipative dynamical system whose dynamical behavior can be explained using an energy function.",
+                    "BoundingBox": {
+                        "Width": 0.3783704340457916,
+                        "Height": 0.14020109176635742,
+                        "Left": 0.5650098919868469,
+                        "Top": 0.2331220656633377
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "afd74315-721e-4cab-9c71-7576f2ec1ee0",
+                    "Score": 0.9331527352333069
+                },
+                {
+                    "Text": "Memories are the local minima states of the energy function.",
+                    "BoundingBox": {
+                        "Width": 0.3903518319129944,
+                        "Height": 0.06927502900362015,
+                        "Left": 0.5650189518928528,
+                        "Top": 0.39409998059272766
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1953e85f-d9fb-4fa1-b1d9-06d7f4e28937",
+                    "Score": 0.7848498225212097
+                },
+                {
+                    "Text": "The contribution of each memory to the energy function depends on the interaction between the memories",
+                    "BoundingBox": {
+                        "Width": 0.3890177309513092,
+                        "Height": 0.09904463589191437,
+                        "Left": 0.5656252503395081,
+                        "Top": 0.48362961411476135
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "98dd4943-4de1-453a-bb7b-97dd2adeed7f",
+                    "Score": 0.7972285747528076
+                },
+                {
+                    "Text": "The hidden layer activation function defines how the stored memories (E) interact resulting in models with different memory capacities.",
+                    "BoundingBox": {
+                        "Width": 0.39213505387306213,
+                        "Height": 0.140154168009758,
+                        "Left": 0.5659329891204834,
+                        "Top": 0.6102174520492554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ecc8f36f-a0a5-4d18-bfd8-c222de783c35",
+                    "Score": 0.702267050743103
+                },
+                {
+                    "Text": "GAMM can store and retrieve singleton memories.",
+                    "BoundingBox": {
+                        "Width": 0.3833250403404236,
+                        "Height": 0.06405137479305267,
+                        "Left": 0.565641462802887,
+                        "Top": 0.7713081240653992
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c13ee1a9-2270-45f6-b7d3-f182dd47c1fb",
+                    "Score": 0.6306871175765991
+                },
+                {
+                    "Text": "Memory capacity relates the number of neurons in the feature layer to the number of memories that can be stored",
+                    "BoundingBox": {
+                        "Width": 0.39153116941452026,
+                        "Height": 0.09959442168474197,
+                        "Left": 0.5650453567504883,
+                        "Top": 0.8617262840270996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1e8feaa8-6215-4af1-b720-ecb2fa17900a",
+                    "Score": 0.7179688215255737
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,935",
+            "end_time": "00:00:23,876",
+            "transcript": "The symmetry leads to a dissipative dynamical system that converges to a single state under mild conditions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Generalized Associative Memory Model (GAMM)",
+                    "BoundingBox": {
+                        "Width": 0.5227490663528442,
+                        "Height": 0.04576373100280762,
+                        "Left": 0.03881083056330681,
+                        "Top": 0.04832099750638008
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "13b82b60-f8ea-4792-bbb5-256e7067cf98",
+                    "Score": 0.679533064365387
+                },
+                {
+                    "Text": "General Associative Memory o f feature hidden layer layer V Oh Vh Input/ Output Schematic diagram of network operations.",
+                    "BoundingBox": {
+                        "Width": 0.502299964427948,
+                        "Height": 0.8771395683288574,
+                        "Left": 0.031191721558570862,
+                        "Top": 0.12286041676998138
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "e7d8398f-70b0-41eb-ae69-23d69025452e",
+                    "Score": 0.6669273376464844
+                },
+                {
+                    "Text": "GAMM is a two-layer architecture of neurons with symmetric interactions.",
+                    "BoundingBox": {
+                        "Width": 0.35851016640663147,
+                        "Height": 0.06901958584785461,
+                        "Left": 0.5647041201591492,
+                        "Top": 0.1424138993024826
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "25253fe9-49e4-49ad-a3ae-b1212e07a208",
+                    "Score": 0.7217509746551514
+                },
+                {
+                    "Text": "The symmetric interactions result in a dissipative dynamical system whose dynamical behavior can be explained using an energy function.",
+                    "BoundingBox": {
+                        "Width": 0.3783704340457916,
+                        "Height": 0.14020109176635742,
+                        "Left": 0.5650098919868469,
+                        "Top": 0.2331220656633377
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "afd74315-721e-4cab-9c71-7576f2ec1ee0",
+                    "Score": 0.9331527352333069
+                },
+                {
+                    "Text": "Memories are the local minima states of the energy function.",
+                    "BoundingBox": {
+                        "Width": 0.3903518319129944,
+                        "Height": 0.06927502900362015,
+                        "Left": 0.5650189518928528,
+                        "Top": 0.39409998059272766
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1953e85f-d9fb-4fa1-b1d9-06d7f4e28937",
+                    "Score": 0.7848498225212097
+                },
+                {
+                    "Text": "The contribution of each memory to the energy function depends on the interaction between the memories",
+                    "BoundingBox": {
+                        "Width": 0.3890177309513092,
+                        "Height": 0.09904463589191437,
+                        "Left": 0.5656252503395081,
+                        "Top": 0.48362961411476135
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "98dd4943-4de1-453a-bb7b-97dd2adeed7f",
+                    "Score": 0.7972285747528076
+                },
+                {
+                    "Text": "The hidden layer activation function defines how the stored memories (E) interact resulting in models with different memory capacities.",
+                    "BoundingBox": {
+                        "Width": 0.39213505387306213,
+                        "Height": 0.140154168009758,
+                        "Left": 0.5659329891204834,
+                        "Top": 0.6102174520492554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ecc8f36f-a0a5-4d18-bfd8-c222de783c35",
+                    "Score": 0.702267050743103
+                },
+                {
+                    "Text": "GAMM can store and retrieve singleton memories.",
+                    "BoundingBox": {
+                        "Width": 0.3833250403404236,
+                        "Height": 0.06405137479305267,
+                        "Left": 0.565641462802887,
+                        "Top": 0.7713081240653992
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c13ee1a9-2270-45f6-b7d3-f182dd47c1fb",
+                    "Score": 0.6306871175765991
+                },
+                {
+                    "Text": "Memory capacity relates the number of neurons in the feature layer to the number of memories that can be stored",
+                    "BoundingBox": {
+                        "Width": 0.39153116941452026,
+                        "Height": 0.09959442168474197,
+                        "Left": 0.5650453567504883,
+                        "Top": 0.8617262840270996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1e8feaa8-6215-4af1-b720-ecb2fa17900a",
+                    "Score": 0.7179688215255737
+                }
+            ]
+        }
+    ]
+}

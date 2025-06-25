@@ -1,0 +1,20 @@
+1
+00:00:00,896 --> 00:00:02,998
+Next, we present some qualitative results.
+
+2
+00:00:03,758 --> 00:00:09,202
+As you can see, the different models are able to correct the wrong predictions after applying their method.
+
+3
+00:00:09,942 --> 00:00:15,546
+For example, the model here predicts that this cool bus is a snowplow due to the presence of the snow in the backgroud.
+
+4
+00:00:16,347 --> 00:00:23,972
+An additional example is this model that classifies the teddy bear as a ping-pong ball due to a sports consideration of only its path.
+
+5
+00:00:24,907 --> 00:00:31,876
+In both cases, our method is able to correct the wrong predictions by allowing the model to focus on the correct parts of the image.
+

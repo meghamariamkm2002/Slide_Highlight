@@ -1,0 +1,97 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,966",
+            "end_time": "00:00:05,489",
+            "transcript": "little more about our intermolecular trigonometry module.",
+            "MatchedRegion": [
+                {
+                    "Text": "Inter-molecular trigonometry neural network module",
+                    "BoundingBox": {
+                        "Width": 0.6431227326393127,
+                        "Height": 0.04632628336548805,
+                        "Left": 0.06365164369344711,
+                        "Top": 0.0657234713435173
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "32b7706b-005b-4222-b394-f3a6c8b7a5f4",
+                    "Score": 0.6563736200332642
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,710",
+            "end_time": "00:00:22,985",
+            "transcript": "For interaction between i and j, they are updated by every edge coming from i and every edge coming from node j. And they are updated together in a very efficient way.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:24,335",
+            "end_time": "00:00:35,538",
+            "transcript": "And the interaction energy landscape is smoother than traditional scoring functions because they move beyond the pairwise interaction.",
+            "MatchedRegion": [
+                {
+                    "Text": "2. The interaction energy landscape is smoother than traditional scoring functions by completely allowing the model to learn the potential form.",
+                    "BoundingBox": {
+                        "Width": 0.6081438660621643,
+                        "Height": 0.07143086940050125,
+                        "Left": 0.044522639364004135,
+                        "Top": 0.3893001973628998
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fe8e7ab5-04b0-4308-a5cc-e69b36bf43c5",
+                    "Score": 0.8433147668838501
+                },
+                {
+                    "Text": "3. The interaction energy landscape is more accurate than traditional machine learning potentials by implicitly restricting to physically allowed conformations,.",
+                    "BoundingBox": {
+                        "Width": 0.6028600335121155,
+                        "Height": 0.07255871593952179,
+                        "Left": 0.04482055455446243,
+                        "Top": 0.48316994309425354
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2141b5ba-e209-4f9e-b729-34fdbe619898",
+                    "Score": 0.6493266224861145
+                },
+                {
+                    "Text": "Schematic figure of the interaction energy landscape",
+                    "BoundingBox": {
+                        "Width": 0.43487608432769775,
+                        "Height": 0.03384678438305855,
+                        "Left": 0.06276516616344452,
+                        "Top": 0.9382303953170776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d16e2212-a20d-41e3-849b-1f52092ac30f",
+                    "Score": 0.6011549234390259
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,779",
+            "end_time": "00:00:48,962",
+            "transcript": "And the energy landscape is more accurate than traditional machine learning methods because we explicitly model the triangle inequality series.",
+            "MatchedRegion": [
+                {
+                    "Text": "3. The interaction energy landscape is more accurate than traditional machine learning potentials by implicitly restricting to physically allowed conformations,.",
+                    "BoundingBox": {
+                        "Width": 0.6028600335121155,
+                        "Height": 0.07255871593952179,
+                        "Left": 0.04482055455446243,
+                        "Top": 0.48316994309425354
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2141b5ba-e209-4f9e-b729-34fdbe619898",
+                    "Score": 0.6493266224861145
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0002_J7vlELIHBi3iCNTj",
+            "Score": 0.6783863306045532
+        }
+    ]
+}

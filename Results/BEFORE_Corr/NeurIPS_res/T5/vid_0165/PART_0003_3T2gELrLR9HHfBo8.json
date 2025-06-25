@@ -1,0 +1,111 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:03,035",
+            "end_time": "00:00:06,117",
+            "transcript": "So let's first talk about our code structure model.",
+            "MatchedRegion": [
+                {
+                    "Text": "Causal Structure Model (<X, Tr, Y>)",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.6940732002258301,
+                        "Height": 0.053655464202165604,
+                        "Left": 0.05455200374126434,
+                        "Top": 0.0897449478507042
+                    },
+                    "Id": "4cc59151-e30d-42f3-953d-737ee03e1609"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,577",
+            "end_time": "00:00:20,607",
+            "transcript": "So in this model, the covariate will be history activities and treatment will be engagement with misinformation or information and outcome will be characters of the post in the future.",
+            "MatchedRegion": [
+                {
+                    "Text": "Covariate (X): History activities;",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.38819101452827454,
+                        "Height": 0.03232692927122116,
+                        "Left": 0.028468100354075432,
+                        "Top": 0.20982860028743744
+                    },
+                    "Id": "ad47f4a1-80e6-45d8-8b74-db7adf79bfdd"
+                },
+                {
+                    "Text": "Treatments (Tr): Engagement with misinformation or information;",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4190729558467865,
+                        "Height": 0.07144611328840256,
+                        "Left": 0.028264746069908142,
+                        "Top": 0.2494116574525833
+                    },
+                    "Id": "69caba7c-8377-4640-aafb-32be053946c3"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:21,047",
+            "end_time": "00:00:25,050",
+            "transcript": "They can be fully described by the conditional intensity function.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,772",
+            "end_time": "00:00:31,758",
+            "transcript": "But because, you know, function is continuous, so it is hard to quantify the effect on them.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:32,339",
+            "end_time": "00:00:36,984",
+            "transcript": "So we apply a functional F to project the function to a vector.",
+            "MatchedRegion": [
+                {
+                    "Text": "Apply a functional F to project the 1 function to a vector and then acquire Individual Treatment Effect with finite dimensions:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.41144952178001404,
+                        "Height": 0.14668689668178558,
+                        "Left": 0.028330961242318153,
+                        "Top": 0.5300829410552979
+                    },
+                    "Id": "2faf8703-f65b-4400-b6f1-d650da0ff81a"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:37,704",
+            "end_time": "00:00:47,755",
+            "transcript": "And in this way, we can compare the functional with treatment and without treatment to acquire the individual treatment effect with finite dimensions.",
+            "MatchedRegion": [
+                {
+                    "Text": "",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.050873108208179474,
+                        "Height": 0.08563333004713058,
+                        "Left": 0.9168109893798828,
+                        "Top": 0.04774872958660126
+                    },
+                    "Id": "f2cb7de3-26a1-4b6e-a830-ff284da2668d"
+                },
+                {
+                    "Text": "Apply a functional F to project the 1 function to a vector and then acquire Individual Treatment Effect with finite dimensions:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.41144952178001404,
+                        "Height": 0.14668689668178558,
+                        "Left": 0.028330961242318153,
+                        "Top": 0.5300829410552979
+                    },
+                    "Id": "2faf8703-f65b-4400-b6f1-d650da0ff81a"
+                }
+            ]
+        }
+    ]
+}

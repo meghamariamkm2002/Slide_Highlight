@@ -1,0 +1,50 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,296",
+            "end_time": "00:00:10,126",
+            "transcript": "On the other hand, sequence memory models still have a capacity much less than the number of neurons with the capacity of a recent model proposed in 2019 comparable to the models proposed in 1986.",
+            "MatchedRegion": [
+                {
+                    "Text": "Sequence Memory developments",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.6195020079612732,
+                        "Height": 0.071942038834095,
+                        "Left": 0.137025386095047,
+                        "Top": 0.10224409401416779
+                    },
+                    "Id": "de7986ec-2c8c-493d-b700-de480afd0edd"
+                },
+                {
+                    "Text": "Low capacity (0.14 N)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.14544731378555298,
+                        "Height": 0.07588116079568863,
+                        "Left": 0.16205596923828125,
+                        "Top": 0.727685272693634
+                    },
+                    "Id": "e1579bcd-09cf-4ecd-8c31-fbf981fc4c9c"
+                },
+                {
+                    "Text": "Low capacity (0.14 N)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.14552102982997894,
+                        "Height": 0.07540615648031235,
+                        "Left": 0.5860936045646667,
+                        "Top": 0.7087802886962891
+                    },
+                    "Id": "c5348bf7-2d6a-4423-9430-a05a826dad3b"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,847",
+            "end_time": "00:00:14,991",
+            "transcript": "Further, there is no theoretical paradigm governing the design of these models.",
+            "MatchedRegion": []
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,683",
+            "end_time": "00:00:07,806",
+            "transcript": "And to further evaporate the model's generalization ability, we carried out the experiment under the field-short setting.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. Settings:",
+                    "BoundingBox": {
+                        "Width": 0.08851698786020279,
+                        "Height": 0.028451573103666306,
+                        "Left": 0.06872273236513138,
+                        "Top": 0.3885669708251953
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "6c0fa538-1a28-47b7-961a-f7d76ed479cf",
+                    "Score": 0.8356491327285767
+                },
+                {
+                    "Text": "1. To further evaluate the model's generalization ability, we carried out the experiment under the few-shot setting.",
+                    "BoundingBox": {
+                        "Width": 0.7206131219863892,
+                        "Height": 0.06565970182418823,
+                        "Left": 0.1065688207745552,
+                        "Top": 0.423588365316391
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e158c075-73be-4748-bb7e-4156fd72f359",
+                    "Score": 0.844955563545227
+                },
+                {
+                    "Text": "2. Findings:",
+                    "BoundingBox": {
+                        "Width": 0.09472493082284927,
+                        "Height": 0.02826744131743908,
+                        "Left": 0.06804095208644867,
+                        "Top": 0.5671722888946533
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "835f86ce-5413-494f-b145-a7b7ecec6f59",
+                    "Score": 0.8015615940093994
+                },
+                {
+                    "Text": "1. With more data for training, the performance is greatly improved, especially on species with unique textures, appearance, and posture characteristics. It is because these unique characteristics are not shared in the training images of other species.",
+                    "BoundingBox": {
+                        "Width": 0.7416086792945862,
+                        "Height": 0.10053015500307083,
+                        "Left": 0.10738249868154526,
+                        "Top": 0.6027380228042603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d2a1c891-cb4a-45d4-84f7-00d554046da7",
+                    "Score": 0.8019496202468872
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,487",
+            "end_time": "00:00:22,213",
+            "transcript": "And we can find that with more data for training, the performance is greatly improved, especially on species with unique texture appearance and posture characteristics.",
+            "MatchedRegion": [
+                {
+                    "Text": "Inter-species animal pose generalization(IS)",
+                    "BoundingBox": {
+                        "Width": 0.5441738963127136,
+                        "Height": 0.04913514479994774,
+                        "Left": 0.017609385773539543,
+                        "Top": 0.06111112982034683
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "aedf0304-a62f-45b3-ae6b-a3a66150f670",
+                    "Score": 0.8344643115997314
+                },
+                {
+                    "Text": "2. Several images from the test species are selected to finetune the models.",
+                    "BoundingBox": {
+                        "Width": 0.5096715092658997,
+                        "Height": 0.029224921017885208,
+                        "Left": 0.10526551306247711,
+                        "Top": 0.49514222145080566
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fc0b2694-6d05-48e0-93b3-0b352277f530",
+                    "Score": 0.8532074689865112
+                },
+                {
+                    "Text": "1. With more data for training, the performance is greatly improved, especially on species with unique textures, appearance, and posture characteristics. It is because these unique characteristics are not shared in the training images of other species.",
+                    "BoundingBox": {
+                        "Width": 0.7416086792945862,
+                        "Height": 0.10053015500307083,
+                        "Left": 0.10738249868154526,
+                        "Top": 0.6027380228042603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d2a1c891-cb4a-45d4-84f7-00d554046da7",
+                    "Score": 0.8019496202468872
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,773",
+            "end_time": "00:00:28,476",
+            "transcript": "And we think it's because these unique characteristics are not shared in other species.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. With more data for training, the performance is greatly improved, especially on species with unique textures, appearance, and posture characteristics. It is because these unique characteristics are not shared in the training images of other species.",
+                    "BoundingBox": {
+                        "Width": 0.7416086792945862,
+                        "Height": 0.10053015500307083,
+                        "Left": 0.10738249868154526,
+                        "Top": 0.6027380228042603
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d2a1c891-cb4a-45d4-84f7-00d554046da7",
+                    "Score": 0.8019496202468872
+                }
+            ]
+        }
+    ]
+}

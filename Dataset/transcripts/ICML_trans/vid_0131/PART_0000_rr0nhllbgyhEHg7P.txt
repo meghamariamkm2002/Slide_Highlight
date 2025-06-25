@@ -1,0 +1,2 @@
+Hello everyone, this is Jianning Zhu.
+I will present our research work, namely exploring modal dynamics for accumulative point learning discovery.

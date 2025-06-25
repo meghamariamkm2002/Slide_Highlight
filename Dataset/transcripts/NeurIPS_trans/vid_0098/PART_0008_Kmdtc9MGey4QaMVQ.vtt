@@ -1,0 +1,23 @@
+WEBVTT
+
+00:00.209 --> 00:03.892
+We use the ultra-fast lane detection method as a backbone for lane detection.
+
+00:04.593 --> 00:06.715
+The following UDA methods are evaluated.
+
+00:07.155 --> 00:10.558
+Done, ADA, SKADA and our SGPCS.
+
+00:11.319 --> 00:17.865
+To work with UFLD, the UDA methods had to be adapted for grid-based lane detection, which is not always a trivial task.
+
+00:18.760 --> 00:25.707
+As can be seen on the right-side figure, grid-based lane detection divides the image into grid cells and classifies different lane types.
+
+00:26.548 --> 00:29.111
+Results are given as an average over five runs.
+
+00:29.712 --> 00:32.995
+Baselines, implementations and weights are publicly available.
+

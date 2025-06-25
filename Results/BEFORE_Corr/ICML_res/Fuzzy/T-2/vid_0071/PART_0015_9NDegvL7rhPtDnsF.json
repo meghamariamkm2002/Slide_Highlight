@@ -1,0 +1,24 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,271",
+            "end_time": "00:00:13,549",
+            "transcript": "In both cases, we found the decrease of transferability and determination power, because the noise corrupted the original discriminated patterns in each category.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0011_QYBR13eaxxglkli4",
+            "Score": 0.6162095069885254
+        },
+        {
+            "slide": "PART_0013_NO0WUP4NfsuD5QTx",
+            "Score": 0.785181999206543
+        },
+        {
+            "slide": "PART_0014_dLNthlMLWdxmUHYn",
+            "Score": 0.769736647605896
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,689",
+            "end_time": "00:00:10,472",
+            "transcript": "First, in single-frame animal pose estimations, we benchmark SimpleBaseline HRNet, HRFormer, and ViTPose method.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,132",
+            "end_time": "00:00:21,915",
+            "transcript": "We set up three settings to benchmark their performance, including using network weights pretrained on ImageNet, MS COCO Human Pose Estimat",
+            "MatchedRegion": [
+                {
+                    "Text": "2. We set up three settings to benchmark their performance, including using network weights pre-trained on the ImageNet-IK dataset, the MS COCO human pose estimation dataset, and the AP-10K dataset, respectively.",
+                    "BoundingBox": {
+                        "Width": 0.7309826612472534,
+                        "Height": 0.10129302740097046,
+                        "Left": 0.13311152160167694,
+                        "Top": 0.56454998254776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c18e4d5e-a9cb-44b8-9a88-f521fe295149",
+                    "Score": 0.774928774928775
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,455",
+            "end_time": "00:00:26,716",
+            "transcript": "With human pose pre-training, both CNN-based and vision transformer-b",
+            "MatchedRegion": [
+                {
+                    "Text": "1. With human pose pre-training. both CNN-based and vision transformer-based methods show performance gains.",
+                    "BoundingBox": {
+                        "Width": 0.7342926263809204,
+                        "Height": 0.06499436497688293,
+                        "Left": 0.13615207374095917,
+                        "Top": 0.7437034845352173
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1d2517c9-1612-4f3d-8c36-bb8e1aebe5e3",
+                    "Score": 0.768361581920904
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:27,296",
+            "end_time": "00:00:29,499",
+            "transcript": "These methods show performance improvements.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,999",
+            "end_time": "00:00:38,789",
+            "transcript": "Besides, the benefit of using AP1000 for pre-training is less than that of using the human pose dataset for pre-training.",
+            "MatchedRegion": [
+                {
+                    "Text": "2. Besides, the benefit of using AP-10K for pretraining is less than that of using the human pose dataset for pre-training, no matter for CNN-based models or vision transformer-based models.",
+                    "BoundingBox": {
+                        "Width": 0.7279670834541321,
+                        "Height": 0.06640434265136719,
+                        "Left": 0.1327075958251953,
+                        "Top": 0.8148069977760315
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0c7d67fa-954e-4b80-b973-0a44c8b3a182",
+                    "Score": 0.7588424437299035
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:39,390",
+            "end_time": "00:00:48,801",
+            "transcript": "We suspect that it is caused by differences of distribution and data source and also the scale differences.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. We suspect such performance drop is caused by the difference of distribution and data source between the AP-10K and APT-36K dataset, as well as the scale different of MS COCO and AP-10K.",
+                    "BoundingBox": {
+                        "Width": 0.7000420689582825,
+                        "Height": 0.06311198323965073,
+                        "Left": 0.17267058789730072,
+                        "Top": 0.8863859176635742
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5efca252-2f89-4232-861a-660fffdc7dd5",
+                    "Score": 0.6621621621621621
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_kIvSfeSA5dfzhobv",
+            "Score": 0.7145793437957764
+        },
+        {
+            "slide": "PART_0001_C7IfFsQ2BsVmjgqb",
+            "Score": 0.6343880891799927
+        },
+        {
+            "slide": "PART_0002_M8xJHwtfvrTIpy16",
+            "Score": 0.6785663366317749
+        },
+        {
+            "slide": "PART_0003_cKichVdin6XycgAq",
+            "Score": 0.6554818749427795
+        },
+        {
+            "slide": "PART_0005_D1FuHVm3thPIylSy",
+            "Score": 0.6919965744018555
+        }
+    ]
+}

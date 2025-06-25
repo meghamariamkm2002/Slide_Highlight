@@ -1,0 +1,3 @@
+Our work is motivated by accumulative point-in-the-ring attack, which utilizes the sequential order property of real-time data streaming for sneaky point-in-the-ring generation.
+We raised the following question.
+Can we also explore the information of modal dynamics to gain some useful clues to identify the imperceptible accumulative point-in-the-ring attacks?

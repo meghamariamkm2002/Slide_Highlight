@@ -1,0 +1,6 @@
+To bridge the gap, we released MassCov data set.
+This data set contains 10,000 tweets with seven types of entities, including four medical entity types, such as disease, drug, symptom, and vaccine, and three general entity types, like person, location, and organization.
+To further investigate Twitter users' editors toward specific entities,
+Four types of entities, like person, organization, drug, and vaccine, are selected and annotated with user sentiments.
+Also, we designed detailed guidelines for annotating medical entities on tweets.
+We benchmarked the performance of classical machine learning models and state-of-the-art deep learning models, including pre-training language models on NER and TSA tasks of machine learning.

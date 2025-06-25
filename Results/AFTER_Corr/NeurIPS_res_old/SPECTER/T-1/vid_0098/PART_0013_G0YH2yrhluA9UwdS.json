@@ -1,0 +1,59 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,850",
+            "end_time": "00:00:08,802",
+            "transcript": "When we zoom in, two specific failure cases can be seen in the highlighted images, where we observe a mis-prediction and a false negative.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10558918118476868,
+                        "Height": 0.08029574900865555,
+                        "Left": 0.889891505241394,
+                        "Top": 0.01368435937911272
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ee1263dc-161d-4702-a2a2-17d9f80dba34",
+                    "Score": 0.6369541883468628
+                },
+                {
+                    "Text": "MoLane TuLane MuLane UFLD-SO DANN ADDA SGADA SGPCS UFLD-TO",
+                    "BoundingBox": {
+                        "Width": 0.4873448312282562,
+                        "Height": 0.5984307527542114,
+                        "Left": 0.2758445143699646,
+                        "Top": 0.16709309816360474
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6921a06f-6d66-4ee7-b3d0-3d7e67b34895",
+                    "Score": 0.688312292098999
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07854333519935608,
+                        "Height": 0.06491009145975113,
+                        "Left": 0.35020044445991516,
+                        "Top": 0.9233292937278748
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d6da525c-2d94-4730-9079-89825e2a2454",
+                    "Score": 0.6338480710983276
+                },
+                {
+                    "Text": "n",
+                    "BoundingBox": {
+                        "Width": 0.05802001804113388,
+                        "Height": 0.06766854226589203,
+                        "Left": 0.4547702670097351,
+                        "Top": 0.9211471676826477
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "08c9674c-8f46-4227-b328-c4c7bbb1202a",
+                    "Score": 0.7295717597007751
+                }
+            ]
+        }
+    ]
+}

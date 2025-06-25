@@ -1,0 +1,77 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,691",
+            "end_time": "00:00:08,496",
+            "transcript": "Traditional approach to study the interaction between protein and organs is through darking.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:09,477",
+            "end_time": "00:00:15,301",
+            "transcript": "Darking method typically consists of two components, scoring and sampling.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,242",
+            "end_time": "00:00:27,511",
+            "transcript": "For each confirmation, a score will be assigned, and based on this score, they will propose new confirmation, and they do it iteratively.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:28,697",
+            "end_time": "00:00:34,801",
+            "transcript": "Tankpan, however, combines both scoring and sampling into a single neural network.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:35,862",
+            "end_time": "00:00:42,086",
+            "transcript": "Therefore, we are able to predict the final confirmation in a single shot.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:44,619",
+            "end_time": "00:00:48,041",
+            "transcript": "We want to highlight two key innovations inside TankBank.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:48,901",
+            "end_time": "00:00:53,604",
+            "transcript": "First, we create an intermolecular trigonometry module.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. Creating an inter-molecular trigonometry neural network module.",
+                    "BoundingBox": {
+                        "Width": 0.5016675591468811,
+                        "Height": 0.03513927757740021,
+                        "Left": 0.0753241628408432,
+                        "Top": 0.21646670997142792
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "dc335543-1d7e-4e69-8c19-b65b10350522",
+                    "Score": 0.7272727272727273
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:54,705",
+            "end_time": "00:01:10,714",
+            "transcript": "That is, for node i and j, the interaction between them is modulated by the interaction between node i and k and the interaction between j and k simultaneously to account for the many-body effect.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:01:12,216",
+            "end_time": "00:01:32,915",
+            "transcript": "second, we extract information from the whole protein instead of the binding pocket, because proteins typically have many bulkhead pockets, and the crystal structure tells us that the rodent bind to the native pocket is stronger than to other",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_JTz6kDtffaFhmgXo",
+            "Score": 0.6948267817497253
+        }
+    ]
+}

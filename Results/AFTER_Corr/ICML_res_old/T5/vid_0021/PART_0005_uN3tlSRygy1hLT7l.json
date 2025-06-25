@@ -1,0 +1,34 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,269",
+            "end_time": "00:00:04,991",
+            "transcript": "We compare with ValueDice and DAT, two state-of-the-art approaches, along with a custom ADC baseline.",
+            "MatchedRegion": [
+                {
+                    "Text": "Standard (state-action) setting",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.2364644855260849,
+                        "Height": 0.03496042266488075,
+                        "Left": 0.38008344173431396,
+                        "Top": 0.34016305208206177
+                    },
+                    "Id": "5f2e48a7-2df5-4f23-9c92-8fa8336e55bb"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,651",
+            "end_time": "00:00:13,373",
+            "transcript": "CFL is the only approach to achieve expert level performance on all tasks, while ValueDice, being semi-offline, has the advantage of interactions needed to reach expert level.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:13,874",
+            "end_time": "00:00:16,154",
+            "transcript": "That is, of course, only for the tasks it succeeds on.",
+            "MatchedRegion": []
+        }
+    ]
+}

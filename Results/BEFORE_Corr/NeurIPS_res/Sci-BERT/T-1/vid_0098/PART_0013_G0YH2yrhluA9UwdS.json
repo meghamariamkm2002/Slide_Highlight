@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,850",
+            "end_time": "00:00:08,802",
+            "transcript": "When we zoom in, two specific failure cases can be seen in the highlighted images, where we observe a misprediction and a false negative.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10558918118476868,
+                        "Height": 0.08029574900865555,
+                        "Left": 0.889891505241394,
+                        "Top": 0.01368435937911272
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ee1263dc-161d-4702-a2a2-17d9f80dba34",
+                    "Score": 0.6020447015762329
+                },
+                {
+                    "Text": "MoLane TuLane MuLane UFLD-SO DANN ADDA SGADA SGPCS UFLD-TO",
+                    "BoundingBox": {
+                        "Width": 0.4873448312282562,
+                        "Height": 0.5984307527542114,
+                        "Left": 0.2758445143699646,
+                        "Top": 0.16709309816360474
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6921a06f-6d66-4ee7-b3d0-3d7e67b34895",
+                    "Score": 0.6489430665969849
+                }
+            ]
+        }
+    ]
+}

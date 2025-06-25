@@ -1,0 +1,37 @@
+{
+    "MatchedSlides": [
+        "PART_0006_E2dTEyTGwuVrT8Cb"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,350",
+            "end_time": "00:00:05,254",
+            "transcript": "For the target domain of TuSimple, we create a clean version of the TuSimple dataset.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,834",
+            "end_time": "00:00:09,918",
+            "transcript": "Our goal is to ensure that up to four lanes closest to the car are correctly labeled.",
+            "MatchedRegion": [
+                {
+                    "Text": "ensure that up to four lanes closest to the car are correctly labeled",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5234382748603821,
+                        "Height": 0.036119457334280014,
+                        "Left": 0.0736241340637207,
+                        "Top": 0.21882902085781097
+                    },
+                    "Id": "bbcd277b-43b3-483f-851e-88331e94ba3f"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,639",
+            "end_time": "00:00:13,982",
+            "transcript": "To clean the data, we utilize our publicly available labeling tool.",
+            "MatchedRegion": []
+        }
+    ]
+}

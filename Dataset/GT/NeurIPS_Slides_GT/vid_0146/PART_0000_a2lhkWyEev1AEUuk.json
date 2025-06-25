@@ -1,0 +1,59 @@
+{
+    "MatchedSlides": [
+        "PART_0002_nY6pwgFoBjJsFRrI",
+        "PART_0005_rDchVlACFjpOwovE"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,662",
+            "end_time": "00:00:16,638",
+            "transcript": "Hello, my name is Hila and I'll be presenting the work Optimizing Relevance Maps of Vision Transformers improves robustness, which is a collaboration with Edan Schwartz and Leo Wolfe from Tel Aviv University.",
+            "MatchedRegion": [
+                {
+                    "Text": "Optimizing Relevance Maps of Vision Transformers",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.6810992956161499,
+                        "Height": 0.053946129977703094,
+                        "Left": 0.14617128670215607,
+                        "Top": 0.25092050433158875
+                    },
+                    "Id": "996a1929-8bef-4779-9938-c056ef1072a3"
+                },
+                {
+                    "Text": "Improves Robustness",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.2840721309185028,
+                        "Height": 0.05039965361356735,
+                        "Left": 0.34855151176452637,
+                        "Top": 0.32445088028907776
+                    },
+                    "Id": "30b12215-08fa-40f5-9d6a-5878264cb865"
+                },
+                {
+                    "Text": "Hila Chefer, Idan Schwartz, Lior Wolf",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.2897002100944519,
+                        "Height": 0.02778726816177368,
+                        "Left": 0.3463900089263916,
+                        "Top": 0.4101695418357849
+                    },
+                    "Id": "1ca48991-d370-4d63-9af9-9f3cd31ea96f"
+                },
+                {
+                    "Text": "The School of Computer Science, Tel Aviv University",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.28987109661102295,
+                        "Height": 0.022799955680966377,
+                        "Left": 0.34569787979125977,
+                        "Top": 0.4701268970966339
+                    },
+                    "Id": "f6610243-a034-42a8-a184-9159dccce9a6"
+                }
+            ]
+        }
+    ]
+}

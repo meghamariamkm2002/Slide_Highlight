@@ -1,0 +1,5 @@
+To conclude, public health researchers can use mass code to mine valuable medical information from tweets.
+For example, the dataset can be used as a training dataset for examining public attitudes toward COVID-19 vaccines and drugs or tracking the public's mental status change during different COVID-19 phases and etc.
+Our experiments also show that current models have not fully exploited the data's potential.
+Therefore, we call for more efforts on developing models for social media-based public health studies.
+For coast data and guidelines, please refer to our paper and GitHub

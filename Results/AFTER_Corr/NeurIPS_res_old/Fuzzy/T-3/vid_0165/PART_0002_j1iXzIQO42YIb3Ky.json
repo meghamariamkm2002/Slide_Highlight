@@ -1,0 +1,29 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,151",
+            "end_time": "00:00:16,745",
+            "transcript": "So, to address the drawbacks of these works, we propose to design a data-driven framework that can help us identify the causal effect of misinformation by doing counterfactual analysis on social media data.",
+            "MatchedRegion": [
+                {
+                    "Text": "Solution: A data-driven framework that identify the causal effect of misinformation via counterfactual analysis on social media data",
+                    "BoundingBox": {
+                        "Width": 0.8706061244010925,
+                        "Height": 0.07108025997877121,
+                        "Left": 0.06638240069150925,
+                        "Top": 0.7324524521827698
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cf825117-7884-4cde-8858-0278726490b5",
+                    "Score": 0.7396449704142012
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_Wuoe9k0fme36a5wp",
+            "Score": 0.7172043919563293
+        }
+    ]
+}

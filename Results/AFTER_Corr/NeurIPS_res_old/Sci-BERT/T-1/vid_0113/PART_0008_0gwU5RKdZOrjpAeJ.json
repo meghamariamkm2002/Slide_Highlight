@@ -1,0 +1,29 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,169",
+            "end_time": "00:00:00,809",
+            "transcript": "benchmarking.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,870",
+            "end_time": "00:00:12,995",
+            "transcript": "We can observe that models incorporating COVID trigger birds as feature extractor significantly outperform other types of models on these TSA subsets.",
+            "MatchedRegion": [
+                {
+                    "Text": "The pre-trained models on COVID-19 tweets, such as COVID-TWITTER-BERT, can be utilized to further improve the performance of previous TSA models on the METS-CoV-TSA.",
+                    "BoundingBox": {
+                        "Width": 0.8601208329200745,
+                        "Height": 0.06591028720140457,
+                        "Left": 0.0812235176563263,
+                        "Top": 0.27065807580947876
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fa1b285f-f3d0-485a-8615-f9c7484998ea",
+                    "Score": 0.8307925462722778
+                }
+            ]
+        }
+    ]
+}

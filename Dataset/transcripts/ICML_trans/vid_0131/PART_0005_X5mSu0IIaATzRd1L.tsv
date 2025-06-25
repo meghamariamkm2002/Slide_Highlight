@@ -1,0 +1,4 @@
+start	end	text
+1923	11629	And we also propose the discrepancy of weird sample correction based on the memorization discrepancy to defend against the accumulative poisoning attacks.
+13070	24438	Different from the AT variant of gradient clipping, which is indispensable to handle the poisoning sample or cleaning samples,
+25373	35598	our discrepancy over a sample correction can selectively correct some potential point in the examples and achieve the better performance.

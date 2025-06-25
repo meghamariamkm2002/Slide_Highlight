@@ -1,0 +1,34 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,890",
+            "end_time": "00:00:06,031",
+            "transcript": "First, I will describe the general associative memory model which we extend in our work.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,631",
+            "end_time": "00:00:11,372",
+            "transcript": "Until recently, energy models were constrained to retrieve single memories from a set of stored memories.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,912",
+            "end_time": "00:00:18,294",
+            "transcript": "These models have a general architecture called the GAMM, composed of two layers of neurons with symmetric interactions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:18,935",
+            "end_time": "00:00:23,876",
+            "transcript": "The symmetry leads to a dissipative dynamical system that converges to a single state under mild conditions.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_MEOJKJ3n58NsNxBI",
+            "Score": 0.6315485239028931
+        }
+    ]
+}

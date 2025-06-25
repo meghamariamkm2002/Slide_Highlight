@@ -1,0 +1,42 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,982",
+            "end_time": "00:00:09,309",
+            "transcript": "Our tests employ three different types of vision transformers, vanilla ViT, DeiT, and ViT with improved augmentations and regularization.",
+            "MatchedRegion": [
+                {
+                    "Text": "We test on 3 different types of Vision Transformers- - Vanilla ViT, DeiT, and ViT with improved augmentations and regularization (ViT-AR).",
+                    "BoundingBox": {
+                        "Width": 0.7916622757911682,
+                        "Height": 0.0736851766705513,
+                        "Left": 0.07639680802822113,
+                        "Top": 0.22241495549678802
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0fdfed2d-a340-4c55-8f91-38dcd772668e",
+                    "Score": 0.8654545454545455
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,270",
+            "end_time": "00:00:14,354",
+            "transcript": "We measure the increase in robustness to distribution shifts, i.e.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:14,494",
+            "end_time": "00:00:17,656",
+            "transcript": "the increase in accuracy for datasets with shifted distributions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:18,417",
+            "end_time": "00:00:21,920",
+            "transcript": "We use adversarial, real-world, and synthetic datasets.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

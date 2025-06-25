@@ -1,0 +1,4 @@
+start	end	text
+2236	16605	There is a difference between the training objectives of poisoning and standard learning, and we may utilize the model dynamics during training to find useful information of identifying imperceptible poisoning samples from clean ones.
+17486	22689	More experimental details and the related discussion can refer to our paper.
+23070	23410	Thank you.

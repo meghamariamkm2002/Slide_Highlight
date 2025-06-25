@@ -1,0 +1,49 @@
+{
+    "MatchedSlides": [
+        "PART_0001_M1aYZFpuMY0gfOKj"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,690",
+            "transcript": "Google research.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,333",
+            "end_time": "00:00:06,139",
+            "transcript": "So, what are elevators or value math binders?",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,960",
+            "end_time": "00:00:11,307",
+            "transcript": "Today, more than 80% of online advertising traffic involves elevating.",
+            "MatchedRegion": [
+                {
+                    "Text": "more than 80% of online advertising traffic involves autobidding",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7389932870864868,
+                        "Height": 0.045326728373765945,
+                        "Left": 0.07028427720069885,
+                        "Top": 0.3299420177936554
+                    },
+                    "Id": "e3fc892e-d26e-4716-9023-eab8d30417a7"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,245",
+            "end_time": "00:00:28,929",
+            "transcript": "And most common alibators are target-driven, which means they want to get as many acquisitions or as much value as possible, subject to the constraint that the cost per acquisition or the return on investment ratio does not exceed a certain threshold.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,970",
+            "end_time": "00:00:34,951",
+            "transcript": "In other words, alibators want to maximize their value, subject to ROI constraints.",
+            "MatchedRegion": []
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,170",
+            "end_time": "00:00:08,297",
+            "transcript": "So onto our approach, our divergence of choice is the reverse KL whose minimization may be viewed as an RL problem with rewards being the log distribution ratios.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,778",
+            "end_time": "00:00:14,063",
+            "transcript": "Thus, given any estimate of the ratio, any RL algorithm can be used for solving the IL objective.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:14,443",
+            "end_time": "00:00:18,467",
+            "transcript": "So a naive approach would be to train two density estimators, say flows independently.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:18,988",
+            "end_time": "00:00:23,031",
+            "transcript": "Practically, this means alternating between learning them and using their log ratio as reward.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:23,692",
+            "end_time": "00:00:24,672",
+            "transcript": "This fails when tried.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:24,813",
+            "end_time": "00:00:26,013",
+            "transcript": "We'll see this again in the ablation.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:26,373",
+            "end_time": "00:00:32,036",
+            "transcript": "And the failure can be further understood through what we term the BC graphs corresponding to an estimator for the log-distribution ratio.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:32,696",
+            "end_time": "00:00:40,680",
+            "transcript": "The full description is in the paper, but intuitively, a lack of an upward trend implies failure in RL, which is precisely what occurs in the figure for the independent flows.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:41,160",
+            "end_time": "00:00:43,081",
+            "transcript": "This connection is also formalized in the paper.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:43,681",
+            "end_time": "00:00:45,902",
+            "transcript": "What we have here is a problem of out-of-distribution data.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:45,982",
+            "end_time": "00:00:48,483",
+            "transcript": "The flow's values are meaningless when evaluated on each other's data.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:48,844",
+            "end_time": "00:00:50,184",
+            "transcript": "We need to couple them somehow.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:50,564",
+            "end_time": "00:00:51,725",
+            "transcript": "They must be coupled.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

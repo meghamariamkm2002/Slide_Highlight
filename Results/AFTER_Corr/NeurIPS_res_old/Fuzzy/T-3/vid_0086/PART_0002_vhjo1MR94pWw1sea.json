@@ -1,0 +1,66 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,554",
+            "end_time": "00:00:03,975",
+            "transcript": "Why is this data important?",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:04,615",
+            "end_time": "00:00:07,836",
+            "transcript": "First, we need to get familiarized with what EHRs are.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,436",
+            "end_time": "00:00:10,657",
+            "transcript": "EHR stands for electronic health records.",
+            "MatchedRegion": [
+                {
+                    "Text": "Electronic Health Records (EHRs)",
+                    "BoundingBox": {
+                        "Width": 0.45564550161361694,
+                        "Height": 0.04941798001527786,
+                        "Left": 0.06966426223516464,
+                        "Top": 0.2110387235879898
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2c31a0d0-91c9-4699-82d1-bfb6781364ee",
+                    "Score": 0.6301369863013699
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,177",
+            "end_time": "00:00:14,358",
+            "transcript": "They are also called electronic medical records or EMRs.",
+            "MatchedRegion": [
+                {
+                    "Text": "Also called Electronic Medical Records (EMRs)",
+                    "BoundingBox": {
+                        "Width": 0.49818989634513855,
+                        "Height": 0.039558038115501404,
+                        "Left": 0.12058144807815552,
+                        "Top": 0.2842004895210266
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6908ee52-5b5e-401a-859b-0ca4d9571f83",
+                    "Score": 0.7722772277227723
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,219",
+            "end_time": "00:00:23,902",
+            "transcript": "From hospital automation to diagnosis, procedure, and hospital discharge, all medical events that happen in the hospital are stored in this database.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_BHBLBUvmaFfzLpHD",
+            "Score": 0.6187076568603516
+        }
+    ]
+}

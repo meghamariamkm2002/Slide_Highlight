@@ -1,0 +1,205 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,610",
+            "end_time": "00:00:09,154",
+            "transcript": "Although we know that model selection is robust to the choice of teacher, it is not usually the case that we have prior knowledge of a good teacher.",
+            "MatchedRegion": [
+                {
+                    "Text": "Can we search for good models without prior knowledge of a good teacher?",
+                    "BoundingBox": {
+                        "Width": 0.8385560512542725,
+                        "Height": 0.0728774443268776,
+                        "Left": 0.08092252165079117,
+                        "Top": 0.09816949814558029
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "0373e2b5-ccaa-4185-8855-7e3f40ce8ee5",
+                    "Score": 0.860509991645813
+                },
+                {
+                    "Text": "The iterative approach has significantly improved the model accuracy without knowing a good teacher in advance.",
+                    "BoundingBox": {
+                        "Width": 0.8052659630775452,
+                        "Height": 0.08672907948493958,
+                        "Left": 0.10748770087957382,
+                        "Top": 0.18392373621463776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67795cca-fcfc-4c73-8140-2362974188f0",
+                    "Score": 0.8441910743713379
+                },
+                {
+                    "Text": "75 74 73 72 71 Spearman-p: 0.50 74 75 76 77",
+                    "BoundingBox": {
+                        "Width": 0.4268704354763031,
+                        "Height": 0.6156617403030396,
+                        "Left": 0.06218193471431732,
+                        "Top": 0.3122600317001343
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "bd6e5843-964a-4773-94ee-df66f6054e70",
+                    "Score": 0.7484085559844971
+                },
+                {
+                    "Text": "78 DONNA D10_FT10 77 DONNA_D10_FT10 retrained by bad teacher 76 DONNA_D10_FT10 retrained by good teacher 75 DONNA_D10_FT10 74 retrained iteratively 73 72 71 70 69 0 5 10 15 20 25 30 35 40 Training cost",
+                    "BoundingBox": {
+                        "Width": 0.4075596332550049,
+                        "Height": 0.5436763763427734,
+                        "Left": 0.5092759728431702,
+                        "Top": 0.3274993598461151
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "063983e8-d406-452a-aca4-10dde3b8dd20",
+                    "Score": 0.7455312013626099
+                },
+                {
+                    "Text": "Acc. after fine tuning w/ good teacher",
+                    "BoundingBox": {
+                        "Width": 0.3088688552379608,
+                        "Height": 0.03876990079879761,
+                        "Left": 0.14915725588798523,
+                        "Top": 0.8988378643989563
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "09a9269b-8cac-4bb7-8beb-73cf79cdd9eb",
+                    "Score": 0.8462505340576172
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,674",
+            "end_time": "00:00:21,681",
+            "transcript": "In such case, we propose to find better teacher iteratively, and as we can see from the blue curve, the iterative approach has significantly improved the model accuracy.",
+            "MatchedRegion": [
+                {
+                    "Text": "Can we search for good models without prior knowledge of a good teacher?",
+                    "BoundingBox": {
+                        "Width": 0.8385560512542725,
+                        "Height": 0.0728774443268776,
+                        "Left": 0.08092252165079117,
+                        "Top": 0.09816949814558029
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "0373e2b5-ccaa-4185-8855-7e3f40ce8ee5",
+                    "Score": 0.860509991645813
+                },
+                {
+                    "Text": "The iterative approach has significantly improved the model accuracy without knowing a good teacher in advance.",
+                    "BoundingBox": {
+                        "Width": 0.8052659630775452,
+                        "Height": 0.08672907948493958,
+                        "Left": 0.10748770087957382,
+                        "Top": 0.18392373621463776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67795cca-fcfc-4c73-8140-2362974188f0",
+                    "Score": 0.8441910743713379
+                },
+                {
+                    "Text": "75 74 73 72 71 Spearman-p: 0.50 74 75 76 77",
+                    "BoundingBox": {
+                        "Width": 0.4268704354763031,
+                        "Height": 0.6156617403030396,
+                        "Left": 0.06218193471431732,
+                        "Top": 0.3122600317001343
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "bd6e5843-964a-4773-94ee-df66f6054e70",
+                    "Score": 0.7484085559844971
+                },
+                {
+                    "Text": "78 DONNA D10_FT10 77 DONNA_D10_FT10 retrained by bad teacher 76 DONNA_D10_FT10 retrained by good teacher 75 DONNA_D10_FT10 74 retrained iteratively 73 72 71 70 69 0 5 10 15 20 25 30 35 40 Training cost",
+                    "BoundingBox": {
+                        "Width": 0.4075596332550049,
+                        "Height": 0.5436763763427734,
+                        "Left": 0.5092759728431702,
+                        "Top": 0.3274993598461151
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "063983e8-d406-452a-aca4-10dde3b8dd20",
+                    "Score": 0.7455312013626099
+                },
+                {
+                    "Text": "Acc. after fine tuning w/ good teacher",
+                    "BoundingBox": {
+                        "Width": 0.3088688552379608,
+                        "Height": 0.03876990079879761,
+                        "Left": 0.14915725588798523,
+                        "Top": 0.8988378643989563
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "09a9269b-8cac-4bb7-8beb-73cf79cdd9eb",
+                    "Score": 0.8462505340576172
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,681",
+            "end_time": "00:00:24,002",
+            "transcript": "Without knowing a good teacher in",
+            "MatchedRegion": [
+                {
+                    "Text": "Can we search for good models without prior knowledge of a good teacher?",
+                    "BoundingBox": {
+                        "Width": 0.8385560512542725,
+                        "Height": 0.0728774443268776,
+                        "Left": 0.08092252165079117,
+                        "Top": 0.09816949814558029
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "0373e2b5-ccaa-4185-8855-7e3f40ce8ee5",
+                    "Score": 0.860509991645813
+                },
+                {
+                    "Text": "The iterative approach has significantly improved the model accuracy without knowing a good teacher in advance.",
+                    "BoundingBox": {
+                        "Width": 0.8052659630775452,
+                        "Height": 0.08672907948493958,
+                        "Left": 0.10748770087957382,
+                        "Top": 0.18392373621463776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "67795cca-fcfc-4c73-8140-2362974188f0",
+                    "Score": 0.8441910743713379
+                },
+                {
+                    "Text": "75 74 73 72 71 Spearman-p: 0.50 74 75 76 77",
+                    "BoundingBox": {
+                        "Width": 0.4268704354763031,
+                        "Height": 0.6156617403030396,
+                        "Left": 0.06218193471431732,
+                        "Top": 0.3122600317001343
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "bd6e5843-964a-4773-94ee-df66f6054e70",
+                    "Score": 0.7484085559844971
+                },
+                {
+                    "Text": "78 DONNA D10_FT10 77 DONNA_D10_FT10 retrained by bad teacher 76 DONNA_D10_FT10 retrained by good teacher 75 DONNA_D10_FT10 74 retrained iteratively 73 72 71 70 69 0 5 10 15 20 25 30 35 40 Training cost",
+                    "BoundingBox": {
+                        "Width": 0.4075596332550049,
+                        "Height": 0.5436763763427734,
+                        "Left": 0.5092759728431702,
+                        "Top": 0.3274993598461151
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "063983e8-d406-452a-aca4-10dde3b8dd20",
+                    "Score": 0.7455312013626099
+                },
+                {
+                    "Text": "Acc. after fine tuning w/ good teacher",
+                    "BoundingBox": {
+                        "Width": 0.3088688552379608,
+                        "Height": 0.03876990079879761,
+                        "Left": 0.14915725588798523,
+                        "Top": 0.8988378643989563
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "09a9269b-8cac-4bb7-8beb-73cf79cdd9eb",
+                    "Score": 0.8462505340576172
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,930",
+            "end_time": "00:00:06,071",
+            "transcript": "Based on cooperative game theory, we have a mathematical tool to formalize this idea.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,731",
+            "end_time": "00:00:10,172",
+            "transcript": "So let me first introduce some preliminary of this framework.",
+            "MatchedRegion": [
+                {
+                    "Text": "The DNN lets different input variables interact with each other to construct concepts for inference.",
+                    "BoundingBox": {
+                        "Width": 0.6380575299263,
+                        "Height": 0.07822342216968536,
+                        "Left": 0.18404681980609894,
+                        "Top": 0.20637209713459015
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4148cbb4-507a-491c-a79f-392c845340ad",
+                    "Score": 0.9596819877624512
+                },
+                {
+                    "Text": "The non-linearity enables a DNN to encode interactions between different input variables for inference, instead of treating them independently, like a linear model. [Ren et al., 2021, 2023]",
+                    "BoundingBox": {
+                        "Width": 0.7923091053962708,
+                        "Height": 0.07876493036746979,
+                        "Left": 0.09875020384788513,
+                        "Top": 0.3468187153339386
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "076fb1e7-23cd-4509-94c5-c1ebfa86109d",
+                    "Score": 0.958791196346283
+                },
+                {
+                    "Text": "For example, given an input sentence",
+                    "BoundingBox": {
+                        "Width": 0.30607137084007263,
+                        "Height": 0.0304859708994627,
+                        "Left": 0.10664783418178558,
+                        "Top": 0.5029149055480957
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fd3d4124-f1af-421c-83d5-d31b1d394929",
+                    "Score": 0.8728370666503906
+                },
+                {
+                    "Text": "He is a green hand.",
+                    "BoundingBox": {
+                        "Width": 0.16342739760875702,
+                        "Height": 0.030560163781046867,
+                        "Left": 0.4325880706310272,
+                        "Top": 0.5001357197761536
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "43945e73-14ee-4e26-96f5-768926051d5e",
+                    "Score": 0.8191980719566345
+                },
+                {
+                    "Text": "word(s) the meaning of \"beginner\" { green } treating each word independently { hand } interaction between different words { green, hand }",
+                    "BoundingBox": {
+                        "Width": 0.7003164887428284,
+                        "Height": 0.27245935797691345,
+                        "Left": 0.14840489625930786,
+                        "Top": 0.6127757430076599
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "7593492f-f7cc-46f8-9d51-3b6352001562",
+                    "Score": 0.85074383020401
+                },
+                {
+                    "Text": "4",
+                    "BoundingBox": {
+                        "Width": 0.014720735140144825,
+                        "Height": 0.041724178940057755,
+                        "Left": 0.9640183448791504,
+                        "Top": 0.927513062953949
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "2cdbc20f-1f69-45fc-b9ea-eda7f15b859b",
+                    "Score": 0.8137874603271484
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,072",
+            "end_time": "00:00:16,393",
+            "transcript": "First of all, the DNN encodes interactions between different input variables for inference.",
+            "MatchedRegion": [
+                {
+                    "Text": "Preliminary: Disentangling DNN inference into interactions",
+                    "BoundingBox": {
+                        "Width": 0.7676267623901367,
+                        "Height": 0.05243968591094017,
+                        "Left": 0.09668763726949692,
+                        "Top": 0.0681004524230957
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "c2ad934f-0335-4363-bc7e-e5f7efc21356",
+                    "Score": 0.8851684331893921
+                },
+                {
+                    "Text": "The DNN lets different input variables interact with each other to construct concepts for inference.",
+                    "BoundingBox": {
+                        "Width": 0.6380575299263,
+                        "Height": 0.07822342216968536,
+                        "Left": 0.18404681980609894,
+                        "Top": 0.20637209713459015
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4148cbb4-507a-491c-a79f-392c845340ad",
+                    "Score": 0.9596819877624512
+                },
+                {
+                    "Text": "The non-linearity enables a DNN to encode interactions between different input variables for inference, instead of treating them independently, like a linear model. [Ren et al., 2021, 2023]",
+                    "BoundingBox": {
+                        "Width": 0.7923091053962708,
+                        "Height": 0.07876493036746979,
+                        "Left": 0.09875020384788513,
+                        "Top": 0.3468187153339386
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "076fb1e7-23cd-4509-94c5-c1ebfa86109d",
+                    "Score": 0.958791196346283
+                },
+                {
+                    "Text": "For example, given an input sentence",
+                    "BoundingBox": {
+                        "Width": 0.30607137084007263,
+                        "Height": 0.0304859708994627,
+                        "Left": 0.10664783418178558,
+                        "Top": 0.5029149055480957
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fd3d4124-f1af-421c-83d5-d31b1d394929",
+                    "Score": 0.8728370666503906
+                },
+                {
+                    "Text": "He is a green hand.",
+                    "BoundingBox": {
+                        "Width": 0.16342739760875702,
+                        "Height": 0.030560163781046867,
+                        "Left": 0.4325880706310272,
+                        "Top": 0.5001357197761536
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "43945e73-14ee-4e26-96f5-768926051d5e",
+                    "Score": 0.8191980719566345
+                },
+                {
+                    "Text": "word(s) the meaning of \"beginner\" { green } treating each word independently { hand } interaction between different words { green, hand }",
+                    "BoundingBox": {
+                        "Width": 0.7003164887428284,
+                        "Height": 0.27245935797691345,
+                        "Left": 0.14840489625930786,
+                        "Top": 0.6127757430076599
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "7593492f-f7cc-46f8-9d51-3b6352001562",
+                    "Score": 0.85074383020401
+                },
+                {
+                    "Text": "[Ren et al., 2021] Towards axiomatic, hierarchical, and symbolic explanation for deep models. CVPR 2023. [Ren et al., 2023] Can We Faithfully Represent Absence States to Compute Shapley Values on a DNN? ICLR 2023.",
+                    "BoundingBox": {
+                        "Width": 0.5648807883262634,
+                        "Height": 0.04812492057681084,
+                        "Left": 0.007559662219136953,
+                        "Top": 0.9423291087150574
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "790eb353-a7f4-4c31-8fd9-26accdc7bd34",
+                    "Score": 0.8380012512207031
+                },
+                {
+                    "Text": "4",
+                    "BoundingBox": {
+                        "Width": 0.014720735140144825,
+                        "Height": 0.041724178940057755,
+                        "Left": 0.9640183448791504,
+                        "Top": 0.927513062953949
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "2cdbc20f-1f69-45fc-b9ea-eda7f15b859b",
+                    "Score": 0.8137874603271484
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,173",
+            "end_time": "00:00:27,955",
+            "transcript": "For example, in the sentence, he is a green hand, a DNN may memorize the interaction between words in green and hand that pushes the DNN's inference towards the meaning of a beginner.",
+            "MatchedRegion": [
+                {
+                    "Text": "He is a green hand.",
+                    "BoundingBox": {
+                        "Width": 0.16342739760875702,
+                        "Height": 0.030560163781046867,
+                        "Left": 0.4325880706310272,
+                        "Top": 0.5001357197761536
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "43945e73-14ee-4e26-96f5-768926051d5e",
+                    "Score": 0.8191980719566345
+                },
+                {
+                    "Text": "\"green\" and \"hand\" interact with each other",
+                    "BoundingBox": {
+                        "Width": 0.2623352110385895,
+                        "Height": 0.024463215842843056,
+                        "Left": 0.38444414734840393,
+                        "Top": 0.5571098327636719
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6e1c9ed4-f062-4457-b713-1556a229b51c",
+                    "Score": 0.8101656436920166
+                },
+                {
+                    "Text": "word(s) the meaning of \"beginner\" { green } treating each word independently { hand } interaction between different words { green, hand }",
+                    "BoundingBox": {
+                        "Width": 0.7003164887428284,
+                        "Height": 0.27245935797691345,
+                        "Left": 0.14840489625930786,
+                        "Top": 0.6127757430076599
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "7593492f-f7cc-46f8-9d51-3b6352001562",
+                    "Score": 0.85074383020401
+                }
+            ]
+        }
+    ]
+}

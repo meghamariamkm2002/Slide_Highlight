@@ -1,0 +1,11 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,169",
+            "end_time": "00:00:09,871",
+            "transcript": "We compare CFIL with the state of the art in three different settings on the standard Mujoco benchmarks using only a single expert trajectory, first in the standard state-action setting.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

@@ -1,0 +1,406 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,505",
+            "end_time": "00:00:07,727",
+            "transcript": "Meanwhile, most hospital staff interact with the EHR database with predefined rule conversion systems.",
+            "MatchedRegion": [
+                {
+                    "Text": "Text-to-SQL System (semantic parsing model)",
+                    "BoundingBox": {
+                        "Width": 0.5697681903839111,
+                        "Height": 0.05222276225686073,
+                        "Left": 0.105457603931427,
+                        "Top": 0.21876545250415802
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f94ef583-9173-4e77-803b-855f73df3f56",
+                    "Score": 0.7505494356155396
+                },
+                {
+                    "Text": "Hospital DBs",
+                    "BoundingBox": {
+                        "Width": 0.11133062839508057,
+                        "Height": 0.03421870246529579,
+                        "Left": 0.17939531803131104,
+                        "Top": 0.3553203344345093
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8f8028d-63ae-4c96-951d-745b78cc9c91",
+                    "Score": 0.6500482559204102
+                },
+                {
+                    "Text": "+ SQL query",
+                    "BoundingBox": {
+                        "Width": 0.21131233870983124,
+                        "Height": 0.32111841440200806,
+                        "Left": 0.14847809076309204,
+                        "Top": 0.4764942526817322
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "01b25fce-62ed-418b-b326-cbb9f425589b",
+                    "Score": 0.6834368109703064
+                },
+                {
+                    "Text": "Natural language question",
+                    "BoundingBox": {
+                        "Width": 0.1256178468465805,
+                        "Height": 0.07015419751405716,
+                        "Left": 0.4138242304325104,
+                        "Top": 0.5051224231719971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4f2e0d9d-4d99-444f-8693-29b14a623db4",
+                    "Score": 0.627592146396637
+                },
+                {
+                    "Text": "Healthcare stakeholders",
+                    "BoundingBox": {
+                        "Width": 0.20831480622291565,
+                        "Height": 0.027655309066176414,
+                        "Left": 0.6652801632881165,
+                        "Top": 0.3547603487968445
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "77afa133-bed2-4026-93f3-8f180dfeef64",
+                    "Score": 0.6367278695106506
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,508",
+            "end_time": "00:00:16,931",
+            "transcript": "This means extending or modifying the systems requires special training, and this is a huge bottleneck for them to freely utilize the database.",
+            "MatchedRegion": [
+                {
+                    "Text": "Text-to-SQL System (semantic parsing model)",
+                    "BoundingBox": {
+                        "Width": 0.5697681903839111,
+                        "Height": 0.05222276225686073,
+                        "Left": 0.105457603931427,
+                        "Top": 0.21876545250415802
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f94ef583-9173-4e77-803b-855f73df3f56",
+                    "Score": 0.7505494356155396
+                },
+                {
+                    "Text": "Hospital DBs",
+                    "BoundingBox": {
+                        "Width": 0.11133062839508057,
+                        "Height": 0.03421870246529579,
+                        "Left": 0.17939531803131104,
+                        "Top": 0.3553203344345093
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8f8028d-63ae-4c96-951d-745b78cc9c91",
+                    "Score": 0.6500482559204102
+                },
+                {
+                    "Text": "+ SQL query",
+                    "BoundingBox": {
+                        "Width": 0.21131233870983124,
+                        "Height": 0.32111841440200806,
+                        "Left": 0.14847809076309204,
+                        "Top": 0.4764942526817322
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "01b25fce-62ed-418b-b326-cbb9f425589b",
+                    "Score": 0.6834368109703064
+                },
+                {
+                    "Text": "Natural language question",
+                    "BoundingBox": {
+                        "Width": 0.1256178468465805,
+                        "Height": 0.07015419751405716,
+                        "Left": 0.4138242304325104,
+                        "Top": 0.5051224231719971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4f2e0d9d-4d99-444f-8693-29b14a623db4",
+                    "Score": 0.627592146396637
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,995",
+            "end_time": "00:00:24,621",
+            "transcript": "One alternative way is to build a system that can directly translate a natural language question into a SQL query.",
+            "MatchedRegion": [
+                {
+                    "Text": "Text-to-SQL System (semantic parsing model)",
+                    "BoundingBox": {
+                        "Width": 0.5697681903839111,
+                        "Height": 0.05222276225686073,
+                        "Left": 0.105457603931427,
+                        "Top": 0.21876545250415802
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f94ef583-9173-4e77-803b-855f73df3f56",
+                    "Score": 0.7505494356155396
+                },
+                {
+                    "Text": "Hospital DBs",
+                    "BoundingBox": {
+                        "Width": 0.11133062839508057,
+                        "Height": 0.03421870246529579,
+                        "Left": 0.17939531803131104,
+                        "Top": 0.3553203344345093
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8f8028d-63ae-4c96-951d-745b78cc9c91",
+                    "Score": 0.6500482559204102
+                },
+                {
+                    "Text": "+ SQL query",
+                    "BoundingBox": {
+                        "Width": 0.21131233870983124,
+                        "Height": 0.32111841440200806,
+                        "Left": 0.14847809076309204,
+                        "Top": 0.4764942526817322
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "01b25fce-62ed-418b-b326-cbb9f425589b",
+                    "Score": 0.6834368109703064
+                },
+                {
+                    "Text": "Natural language question",
+                    "BoundingBox": {
+                        "Width": 0.1256178468465805,
+                        "Height": 0.07015419751405716,
+                        "Left": 0.4138242304325104,
+                        "Top": 0.5051224231719971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4f2e0d9d-4d99-444f-8693-29b14a623db4",
+                    "Score": 0.627592146396637
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,501",
+            "end_time": "00:00:33,648",
+            "transcript": "With this system, the users can simply type or verbally ask their questions, and the system will return the answers from the database.",
+            "MatchedRegion": [
+                {
+                    "Text": "Text-to-SQL System (semantic parsing model)",
+                    "BoundingBox": {
+                        "Width": 0.5697681903839111,
+                        "Height": 0.05222276225686073,
+                        "Left": 0.105457603931427,
+                        "Top": 0.21876545250415802
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f94ef583-9173-4e77-803b-855f73df3f56",
+                    "Score": 0.7505494356155396
+                },
+                {
+                    "Text": "Hospital DBs",
+                    "BoundingBox": {
+                        "Width": 0.11133062839508057,
+                        "Height": 0.03421870246529579,
+                        "Left": 0.17939531803131104,
+                        "Top": 0.3553203344345093
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8f8028d-63ae-4c96-951d-745b78cc9c91",
+                    "Score": 0.6500482559204102
+                },
+                {
+                    "Text": "+ SQL query",
+                    "BoundingBox": {
+                        "Width": 0.21131233870983124,
+                        "Height": 0.32111841440200806,
+                        "Left": 0.14847809076309204,
+                        "Top": 0.4764942526817322
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "01b25fce-62ed-418b-b326-cbb9f425589b",
+                    "Score": 0.6834368109703064
+                },
+                {
+                    "Text": "Natural language question",
+                    "BoundingBox": {
+                        "Width": 0.1256178468465805,
+                        "Height": 0.07015419751405716,
+                        "Left": 0.4138242304325104,
+                        "Top": 0.5051224231719971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4f2e0d9d-4d99-444f-8693-29b14a623db4",
+                    "Score": 0.627592146396637
+                },
+                {
+                    "Text": "+",
+                    "BoundingBox": {
+                        "Width": 0.32742029428482056,
+                        "Height": 0.31340375542640686,
+                        "Left": 0.6020076274871826,
+                        "Top": 0.47153130173683167
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7408b397-742c-4c53-80cb-de0066c70ddb",
+                    "Score": 0.6002620458602905
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:34,689",
+            "end_time": "00:00:38,312",
+            "transcript": "Imagine an AI speaker that answers questions on EHR data.",
+            "MatchedRegion": [
+                {
+                    "Text": "Text-to-SQL System (semantic parsing model)",
+                    "BoundingBox": {
+                        "Width": 0.5697681903839111,
+                        "Height": 0.05222276225686073,
+                        "Left": 0.105457603931427,
+                        "Top": 0.21876545250415802
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f94ef583-9173-4e77-803b-855f73df3f56",
+                    "Score": 0.7505494356155396
+                },
+                {
+                    "Text": "Hospital DBs",
+                    "BoundingBox": {
+                        "Width": 0.11133062839508057,
+                        "Height": 0.03421870246529579,
+                        "Left": 0.17939531803131104,
+                        "Top": 0.3553203344345093
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8f8028d-63ae-4c96-951d-745b78cc9c91",
+                    "Score": 0.6500482559204102
+                },
+                {
+                    "Text": "+ SQL query",
+                    "BoundingBox": {
+                        "Width": 0.21131233870983124,
+                        "Height": 0.32111841440200806,
+                        "Left": 0.14847809076309204,
+                        "Top": 0.4764942526817322
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "01b25fce-62ed-418b-b326-cbb9f425589b",
+                    "Score": 0.6834368109703064
+                },
+                {
+                    "Text": "Natural language question",
+                    "BoundingBox": {
+                        "Width": 0.1256178468465805,
+                        "Height": 0.07015419751405716,
+                        "Left": 0.4138242304325104,
+                        "Top": 0.5051224231719971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4f2e0d9d-4d99-444f-8693-29b14a623db4",
+                    "Score": 0.627592146396637
+                },
+                {
+                    "Text": "Healthcare stakeholders",
+                    "BoundingBox": {
+                        "Width": 0.20831480622291565,
+                        "Height": 0.027655309066176414,
+                        "Left": 0.6652801632881165,
+                        "Top": 0.3547603487968445
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "77afa133-bed2-4026-93f3-8f180dfeef64",
+                    "Score": 0.6367278695106506
+                },
+                {
+                    "Text": "Answer",
+                    "BoundingBox": {
+                        "Width": 0.056533053517341614,
+                        "Height": 0.023268677294254303,
+                        "Left": 0.44715777039527893,
+                        "Top": 0.6849334836006165
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6fbbf693-cfc7-42c8-828e-b697d03ecaac",
+                    "Score": 0.6167193055152893
+                },
+                {
+                    "Text": "+",
+                    "BoundingBox": {
+                        "Width": 0.32742029428482056,
+                        "Height": 0.31340375542640686,
+                        "Left": 0.6020076274871826,
+                        "Top": 0.47153130173683167
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7408b397-742c-4c53-80cb-de0066c70ddb",
+                    "Score": 0.6002620458602905
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:38,972",
+            "end_time": "00:00:45,718",
+            "transcript": "This will unleash the potential of EHR data, and anyone in the hospital can easily access the information they want.",
+            "MatchedRegion": [
+                {
+                    "Text": "Text-to-SQL System (semantic parsing model)",
+                    "BoundingBox": {
+                        "Width": 0.5697681903839111,
+                        "Height": 0.05222276225686073,
+                        "Left": 0.105457603931427,
+                        "Top": 0.21876545250415802
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f94ef583-9173-4e77-803b-855f73df3f56",
+                    "Score": 0.7505494356155396
+                },
+                {
+                    "Text": "Hospital DBs",
+                    "BoundingBox": {
+                        "Width": 0.11133062839508057,
+                        "Height": 0.03421870246529579,
+                        "Left": 0.17939531803131104,
+                        "Top": 0.3553203344345093
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8f8028d-63ae-4c96-951d-745b78cc9c91",
+                    "Score": 0.6500482559204102
+                },
+                {
+                    "Text": "+ SQL query",
+                    "BoundingBox": {
+                        "Width": 0.21131233870983124,
+                        "Height": 0.32111841440200806,
+                        "Left": 0.14847809076309204,
+                        "Top": 0.4764942526817322
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "01b25fce-62ed-418b-b326-cbb9f425589b",
+                    "Score": 0.6834368109703064
+                },
+                {
+                    "Text": "Natural language question",
+                    "BoundingBox": {
+                        "Width": 0.1256178468465805,
+                        "Height": 0.07015419751405716,
+                        "Left": 0.4138242304325104,
+                        "Top": 0.5051224231719971
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4f2e0d9d-4d99-444f-8693-29b14a623db4",
+                    "Score": 0.627592146396637
+                },
+                {
+                    "Text": "Healthcare stakeholders",
+                    "BoundingBox": {
+                        "Width": 0.20831480622291565,
+                        "Height": 0.027655309066176414,
+                        "Left": 0.6652801632881165,
+                        "Top": 0.3547603487968445
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "77afa133-bed2-4026-93f3-8f180dfeef64",
+                    "Score": 0.6367278695106506
+                }
+            ]
+        }
+    ]
+}

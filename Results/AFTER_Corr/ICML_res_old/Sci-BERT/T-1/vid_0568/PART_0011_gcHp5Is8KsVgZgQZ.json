@@ -1,0 +1,212 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,089",
+            "end_time": "00:00:08,836",
+            "transcript": "In the G-SOM theory, we introduce dense G-SOM that is capable of improving the capacity of sequence memory models beyond the current capacity of 0.14 times the number of neurons.",
+            "MatchedRegion": [
+                {
+                    "Text": "In this setting, the stored memories interact linearly.",
+                    "BoundingBox": {
+                        "Width": 0.23228977620601654,
+                        "Height": 0.050029922276735306,
+                        "Left": 0.20660193264484406,
+                        "Top": 0.41611340641975403
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0888b235-9ecd-4294-b63d-a3b9d428aa0e",
+                    "Score": 0.8406686186790466
+                },
+                {
+                    "Text": "Introduce polynomial non-linearity in the hidden layer activation.",
+                    "BoundingBox": {
+                        "Width": 0.2453603297472,
+                        "Height": 0.051164500415325165,
+                        "Left": 0.20736271142959595,
+                        "Top": 0.6594059467315674
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03c96b4f-27cd-486a-bb26-4adfef2d9612",
+                    "Score": 0.8265215158462524
+                },
+                {
+                    "Text": "Stored memories interact non-linearly resulting in capacity improvements over LISEM.",
+                    "BoundingBox": {
+                        "Width": 0.2509634792804718,
+                        "Height": 0.07259111851453781,
+                        "Left": 0.20785149931907654,
+                        "Top": 0.7171064019203186
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "baada25c-7794-49b1-8989-8c9440c1446f",
+                    "Score": 0.8373793959617615
+                },
+                {
+                    "Text": "General Sequential delayed feature Episodic Memory layer Vd Td General Associative Of Memory feature hidden layer layer V f oh Vh Input/ Output",
+                    "BoundingBox": {
+                        "Width": 0.46008360385894775,
+                        "Height": 0.5961979627609253,
+                        "Left": 0.5188665986061096,
+                        "Top": 0.2806144654750824
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dc85fc12-5ad5-4d43-83ab-d5e3a6c2a0dc",
+                    "Score": 0.6446998715400696
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,477",
+            "end_time": "00:00:18,584",
+            "transcript": "Dense G-SOM introduces polynomial intermemory interactions, that is, sigma h is equal to x power p, similar to the dense versions of singleton memories.",
+            "MatchedRegion": [
+                {
+                    "Text": "Analogous to current multi timescale sequence memory models.",
+                    "BoundingBox": {
+                        "Width": 0.2470320612192154,
+                        "Height": 0.05059807375073433,
+                        "Left": 0.20709329843521118,
+                        "Top": 0.24864086508750916
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f965a88-5c31-4b54-ab78-6a3fb9c5e3ac",
+                    "Score": 0.8052857518196106
+                },
+                {
+                    "Text": "In this setting, the stored memories interact linearly.",
+                    "BoundingBox": {
+                        "Width": 0.23228977620601654,
+                        "Height": 0.050029922276735306,
+                        "Left": 0.20660193264484406,
+                        "Top": 0.41611340641975403
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0888b235-9ecd-4294-b63d-a3b9d428aa0e",
+                    "Score": 0.8406686186790466
+                },
+                {
+                    "Text": "Introduce polynomial non-linearity in the hidden layer activation.",
+                    "BoundingBox": {
+                        "Width": 0.2453603297472,
+                        "Height": 0.051164500415325165,
+                        "Left": 0.20736271142959595,
+                        "Top": 0.6594059467315674
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "03c96b4f-27cd-486a-bb26-4adfef2d9612",
+                    "Score": 0.8265215158462524
+                },
+                {
+                    "Text": "Stored memories interact non-linearly resulting in capacity improvements over LISEM.",
+                    "BoundingBox": {
+                        "Width": 0.2509634792804718,
+                        "Height": 0.07259111851453781,
+                        "Left": 0.20785149931907654,
+                        "Top": 0.7171064019203186
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "baada25c-7794-49b1-8989-8c9440c1446f",
+                    "Score": 0.8373793959617615
+                },
+                {
+                    "Text": "General Sequential delayed feature Episodic Memory layer Vd Td General Associative Of Memory feature hidden layer layer V f oh Vh Input/ Output",
+                    "BoundingBox": {
+                        "Width": 0.46008360385894775,
+                        "Height": 0.5961979627609253,
+                        "Left": 0.5188665986061096,
+                        "Top": 0.2806144654750824
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dc85fc12-5ad5-4d43-83ab-d5e3a6c2a0dc",
+                    "Score": 0.6446998715400696
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,024",
+            "end_time": "00:00:23,688",
+            "transcript": "Current memory models fall into the degree 1 limit of dense G-SOM, which we call the linear G-SOM.",
+            "MatchedRegion": [
+                {
+                    "Text": "Analogous to current multi timescale sequence memory models.",
+                    "BoundingBox": {
+                        "Width": 0.2470320612192154,
+                        "Height": 0.05059807375073433,
+                        "Left": 0.20709329843521118,
+                        "Top": 0.24864086508750916
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f965a88-5c31-4b54-ab78-6a3fb9c5e3ac",
+                    "Score": 0.8052857518196106
+                },
+                {
+                    "Text": "In this setting, the stored memories interact linearly.",
+                    "BoundingBox": {
+                        "Width": 0.23228977620601654,
+                        "Height": 0.050029922276735306,
+                        "Left": 0.20660193264484406,
+                        "Top": 0.41611340641975403
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0888b235-9ecd-4294-b63d-a3b9d428aa0e",
+                    "Score": 0.8406686186790466
+                },
+                {
+                    "Text": "Stored memories interact non-linearly resulting in capacity improvements over LISEM.",
+                    "BoundingBox": {
+                        "Width": 0.2509634792804718,
+                        "Height": 0.07259111851453781,
+                        "Left": 0.20785149931907654,
+                        "Top": 0.7171064019203186
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "baada25c-7794-49b1-8989-8c9440c1446f",
+                    "Score": 0.8373793959617615
+                },
+                {
+                    "Text": "General Sequential delayed feature Episodic Memory layer Vd Td General Associative Of Memory feature hidden layer layer V f oh Vh Input/ Output",
+                    "BoundingBox": {
+                        "Width": 0.46008360385894775,
+                        "Height": 0.5961979627609253,
+                        "Left": 0.5188665986061096,
+                        "Top": 0.2806144654750824
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dc85fc12-5ad5-4d43-83ab-d5e3a6c2a0dc",
+                    "Score": 0.6446998715400696
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,509",
+            "end_time": "00:00:25,009",
+            "transcript": "Similar to the",
+            "MatchedRegion": [
+                {
+                    "Text": "Analogous to current multi timescale sequence memory models.",
+                    "BoundingBox": {
+                        "Width": 0.2470320612192154,
+                        "Height": 0.05059807375073433,
+                        "Left": 0.20709329843521118,
+                        "Top": 0.24864086508750916
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0f965a88-5c31-4b54-ab78-6a3fb9c5e3ac",
+                    "Score": 0.8052857518196106
+                },
+                {
+                    "Text": "General Sequential delayed feature Episodic Memory layer Vd Td General Associative Of Memory feature hidden layer layer V f oh Vh Input/ Output",
+                    "BoundingBox": {
+                        "Width": 0.46008360385894775,
+                        "Height": 0.5961979627609253,
+                        "Left": 0.5188665986061096,
+                        "Top": 0.2806144654750824
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "dc85fc12-5ad5-4d43-83ab-d5e3a6c2a0dc",
+                    "Score": 0.6446998715400696
+                }
+            ]
+        }
+    ]
+}

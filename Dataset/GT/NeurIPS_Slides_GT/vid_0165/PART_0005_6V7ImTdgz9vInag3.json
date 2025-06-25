@@ -1,0 +1,74 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,335",
+            "end_time": "00:00:13,069",
+            "transcript": "So we evaluate our model and compare it with other baselines and ablation variants on a synthetic data set with ground truth.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments - Synthetic data",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.5744856595993042,
+                        "Height": 0.05328793823719025,
+                        "Left": 0.060257792472839355,
+                        "Top": 0.0688934475183487
+                    },
+                    "Id": "62a845fe-bcfe-4e99-ad61-0e38364473ae"
+                },
+                {
+                    "Text": "Method Accuracy RAE RRSE Decoder Inference Time FullyNN 73.0% 0.865 0.901 7.13ms CNTPP-VAE (Approximation) 85.9% 0.279 0.503 4.05ms CNTPP-VAE (Sampling) 87.8% 0.237 0.454 29.34ms CNTPP(Ours) 88.0% 0.234 0.448 7.12ms",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.9515043497085571,
+                        "Height": 0.18531890213489532,
+                        "Left": 0.041226133704185486,
+                        "Top": 0.30266329646110535
+                    },
+                    "Id": "edfc7b91-778b-42e7-a725-e5e4c974f34a"
+                },
+                {
+                    "Text": "Method MatDis. LinCor Neural-CIP 0.90 0.04 FullyNN 0.93 0.236 CNTPP-VAE (Approximation) 0.84 0.303 CNTPP-VAE (Sampling) 0.76 0.287 CNTPP (Ours) 0.77 0.310",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.5928166508674622,
+                        "Height": 0.2302018254995346,
+                        "Left": 0.21847569942474365,
+                        "Top": 0.5939823985099792
+                    },
+                    "Id": "ff586864-ba4b-41ca-a81f-6c176ee51a94"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,509",
+            "end_time": "00:00:17,835",
+            "transcript": "And as we can see almost all the metrics, our model performs better than our",
+            "MatchedRegion": [
+                {
+                    "Text": "Method Accuracy RAE RRSE Decoder Inference Time FullyNN 73.0% 0.865 0.901 7.13ms CNTPP-VAE (Approximation) 85.9% 0.279 0.503 4.05ms CNTPP-VAE (Sampling) 87.8% 0.237 0.454 29.34ms CNTPP(Ours) 88.0% 0.234 0.448 7.12ms",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.9515043497085571,
+                        "Height": 0.18531890213489532,
+                        "Left": 0.041226133704185486,
+                        "Top": 0.30266329646110535
+                    },
+                    "Id": "edfc7b91-778b-42e7-a725-e5e4c974f34a"
+                },
+                {
+                    "Text": "Method MatDis. LinCor Neural-CIP 0.90 0.04 FullyNN 0.93 0.236 CNTPP-VAE (Approximation) 0.84 0.303 CNTPP-VAE (Sampling) 0.76 0.287 CNTPP (Ours) 0.77 0.310",
+                    "BlockType": "LAYOUT_TABLE",
+                    "BoundingBox": {
+                        "Width": 0.5928166508674622,
+                        "Height": 0.2302018254995346,
+                        "Left": 0.21847569942474365,
+                        "Top": 0.5939823985099792
+                    },
+                    "Id": "ff586864-ba4b-41ca-a81f-6c176ee51a94"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,335",
+            "end_time": "00:00:13,069",
+            "transcript": "So we evaluate our model and compare it with other baselines and ablation variants on a synthetic data set with ground truth.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments - Synthetic data",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.5744856595993042,
+                        "Height": 0.05328793823719025,
+                        "Left": 0.060257792472839355,
+                        "Top": 0.0688934475183487
+                    },
+                    "Id": "62a845fe-bcfe-4e99-ad61-0e38364473ae"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,509",
+            "end_time": "00:00:17,835",
+            "transcript": "And as we can see, almost all the metrics, our model performs better than our",
+            "MatchedRegion": []
+        }
+    ]
+}

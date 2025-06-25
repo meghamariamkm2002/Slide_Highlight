@@ -1,0 +1,40 @@
+1
+00:00:01,790 --> 00:00:05,592
+These are very different from traditional bidders who are value maximizers.
+
+2
+00:00:05,992 --> 00:00:10,714
+They want to maximize their expected utility, which is the difference between the value and the payment.
+
+3
+00:00:11,415 --> 00:00:15,677
+And they don't care about the value, the ratio between value and payment.
+
+4
+00:00:16,698 --> 00:00:19,019
+So we understand these bidders quite well.
+
+5
+00:00:19,199 --> 00:00:26,803
+We have many maxims for them, like Myerson's, VCG, posted pricing, and others.
+
+6
+00:00:27,603 --> 00:00:28,664
+They are well studied.
+
+7
+00:00:29,344 --> 00:00:32,225
+On the other hand, for autobidders, we don't know so much.
+
+8
+00:00:33,826 --> 00:00:43,711
+Alibiders want to maximize their expected value, subject to the ROI constraint, which means the ratio between the expected value and the expected payment should be large enough.
+
+9
+00:00:44,731 --> 00:00:46,272
+We do have some maxims for them.
+
+10
+00:00:47,232 --> 00:00:52,815
+These maxims involve payment scalers, and sometimes we do prior-free approximations.
+

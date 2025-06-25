@@ -1,0 +1,48 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,570",
+            "end_time": "00:00:08,613",
+            "transcript": "possible extensions to this work are one can develop a new class of semantic parsing models that can handle unanswerable questions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:09,174",
+            "end_time": "00:00:13,856",
+            "transcript": "The dataset itself can be extended to interactive and conversational settings.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:14,556",
+            "end_time": "00:00:19,198",
+            "transcript": "And this is a great starting point for creating multimodal EHR-QA data sets.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:20,119",
+            "end_time": "00:00:24,921",
+            "transcript": "Our dataset is currently available on GitHub, and their leaderboard can be found at this link.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,421",
+            "end_time": "00:00:26,322",
+            "transcript": "Thank you for listening.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_UpFXyswjYPYxTZ0a",
+            "Score": 0.6272751092910767
+        },
+        {
+            "slide": "PART_0003_a2ZFD4lVYxlS7fdU",
+            "Score": 0.6603838205337524
+        },
+        {
+            "slide": "PART_0004_4LaUGhQly6GfiWZy",
+            "Score": 0.7442793846130371
+        }
+    ]
+}

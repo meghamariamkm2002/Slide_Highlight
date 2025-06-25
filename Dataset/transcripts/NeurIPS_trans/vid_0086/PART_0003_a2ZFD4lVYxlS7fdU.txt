@@ -1,0 +1,6 @@
+Meanwhile, most hospital staff interact with the EHR database with predefined rule conversion systems.
+This means extending or modifying the systems requires special training, and this is a huge bottleneck for them to freely utilize the database.
+One alternative way is to build a system that can directly translate a natural language question into a SQL query.
+With this system, the users can simply type or verbally ask their questions, and the system will return the answers from the database.
+Imagine an AI speaker that answers questions on EHR data.
+This will unleash the potential of EHR data, and anyone in the hospital can easily access the information they want.

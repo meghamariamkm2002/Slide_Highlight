@@ -1,0 +1,4 @@
+Then regarding the diverse animal species in the real world, we think it is essential to evaluate the interspecies generalization ability of animal pose estimation models.
+In each experiment, all the instants from a specific family follow the test set, while those instants belong to other families are used for training.
+And we can find that the model generalizes well on animal species, where there are similarities between training and test species.
+And for others, the model doesn't generalize well.

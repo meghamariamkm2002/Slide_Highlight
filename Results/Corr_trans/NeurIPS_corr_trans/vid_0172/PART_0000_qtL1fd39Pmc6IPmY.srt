@@ -1,0 +1,8 @@
+1
+00:00:04,557 --> 00:00:14,867
+Hi, my name is Ryan from the Singapore University of Technology and Design, and today I'll be presenting a paper, Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games, Conservation Laws and Recurrence.
+
+2
+00:00:15,448 --> 00:00:22,775
+This paper is joint work with Rahul Jain from the National University of Singapore, as well as Georges Pillares from the Singapore University of Technology and Design.
+

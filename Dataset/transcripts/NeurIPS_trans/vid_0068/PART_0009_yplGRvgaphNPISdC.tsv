@@ -1,0 +1,4 @@
+start	end	text
+1610	9154	Although we know that model selection is robust to the choice of teacher, it is not usually the case that we have prior knowledge of a good teacher.
+9674	21681	In such case, we propose to find better teacher iteratively, and as we can see from the blue curve, the iterative approach has significantly improved the model accuracy.
+22681	24002	Without knowing a good teacher in

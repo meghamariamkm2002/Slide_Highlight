@@ -1,0 +1,28 @@
+1
+00:00:00,129 --> 00:00:06,610
+improvements in capacity observed in singleton memory models, dense GSM improves the capacity of existing sequence models.
+
+2
+00:00:07,170 --> 00:00:13,232
+It can be seen that current memory models fall in the low end of the capacity spectrum suggested by the dense GSM.
+
+3
+00:00:13,932 --> 00:00:18,273
+Models that have dense capacity can be found in degree 15 end of the spectrum.
+
+4
+00:00:18,893 --> 00:00:24,194
+In summary, we introduced a new theoretical paradigm of adiabatic energy for the design of temporal memory models.
+
+5
+00:00:24,733 --> 00:00:30,055
+This unified the static and dynamic properties of memory under a single theoretical paradigm of energy.
+
+6
+00:00:30,515 --> 00:00:35,997
+We hope that future works can utilize the theory to improve existing memory models.
+
+7
+00:00:36,477 --> 00:00:43,100
+Further, dense GSM may be directly used in applications requiring low overhead, high capacity sequence memory storage.
+

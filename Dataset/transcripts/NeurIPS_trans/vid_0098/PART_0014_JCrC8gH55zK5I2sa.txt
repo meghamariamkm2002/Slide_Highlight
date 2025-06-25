@@ -1,0 +1,5 @@
+To summarize, we proposed car lane, the first three ways seem to real domain adaptation benchmark for 2D lane detection.
+The current difficulties of examined UDAR methods to align the source and target domains confirm the need for the proposed car lane benchmark.
+UDAR methods should be tested with care and under the right conditions on a full-scale car.
+However, we were testing in the model vehicle domain can be carried out in a safe and controlled environment.
+We believe that car lane eases the development and comparison of UDAR methods for lane detection.

@@ -1,0 +1,6 @@
+start	end	text
+2561	15684	And after defining the causal model, we can use the neural network to estimate the treatment effects by learning conditional intensity function with maximizing likelihood.
+16605	29188	But here we may face a challenge, which is that the covariance could be correlated with the treatment because the platforms like Twitter, like Reddit,
+29838	35085	they will recommend you with the content that they believe you are very likely to click on.
+35766	38929	So the covariate will be correlated with treatment.
+39871	48982	So to solve this issue, we propose an adversarial balanced neural temporal point process that can remove such kind of correlation with theoretical guarantees.

@@ -1,0 +1,174 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,628",
+            "end_time": "00:00:05,831",
+            "transcript": "My name is Thomas Chow.",
+            "MatchedRegion": [
+                {
+                    "Text": "Thomas Chau\u00b9, Lukasz Dudziak \u00b9*, Hongkai Wen \u00b9, Nicholas D. Lane \u00b9, Mohamed S. Abdelfattah4,",
+                    "BoundingBox": {
+                        "Width": 0.5469539165496826,
+                        "Height": 0.0777839943766594,
+                        "Left": 0.23364944756031036,
+                        "Top": 0.48059743642807007
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a25816de-2929-4b12-bced-6371a432e491",
+                    "Score": 0.8516364693641663
+                },
+                {
+                    "Text": "SAMSUNG",
+                    "BoundingBox": {
+                        "Width": 0.2306521236896515,
+                        "Height": 0.1403694599866867,
+                        "Left": 0.036762505769729614,
+                        "Top": 0.8126482367515564
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "62052674-aba1-43bd-a0d4-2f8422df47d9",
+                    "Score": 0.780494749546051
+                },
+                {
+                    "Text": "UNIVERSITY OF CAMBRIDGE",
+                    "BoundingBox": {
+                        "Width": 0.20465445518493652,
+                        "Height": 0.09090402722358704,
+                        "Left": 0.3574182987213135,
+                        "Top": 0.8201253414154053
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "63221224-d1b2-4859-bf7b-c825b875074c",
+                    "Score": 0.8086305856704712
+                },
+                {
+                    "Text": "WARWICK THE UNIVERSITY OF WARWICK",
+                    "BoundingBox": {
+                        "Width": 0.12802205979824066,
+                        "Height": 0.05699549615383148,
+                        "Left": 0.6311793923377991,
+                        "Top": 0.8797995448112488
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "23a591cf-38ff-4bf7-afae-404aadbdeab8",
+                    "Score": 0.812332034111023
+                },
+                {
+                    "Text": "COMPANY HOMELAND A.D.",
+                    "BoundingBox": {
+                        "Width": 0.13510404527187347,
+                        "Height": 0.243669793009758,
+                        "Left": 0.8161036968231201,
+                        "Top": 0.7466298937797546
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "24fb47fc-b059-416f-b2b2-bb75840c7db5",
+                    "Score": 0.7133899927139282
+                },
+                {
+                    "Text": "I",
+                    "BoundingBox": {
+                        "Width": 0.016887180507183075,
+                        "Height": 0.022494690492749214,
+                        "Left": 0.07193802297115326,
+                        "Top": 0.9695186018943787
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b7777ee9-48b2-4e6e-881a-ae9767bab5fe",
+                    "Score": 0.7964118719100952
+                },
+                {
+                    "Text": "...",
+                    "BoundingBox": {
+                        "Width": 0.012301160953938961,
+                        "Height": 0.02516946941614151,
+                        "Left": 0.09702693670988083,
+                        "Top": 0.968460202217102
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "5b7f9f9f-0869-4f8c-ba18-c3dc1a3a02a6",
+                    "Score": 0.8832439184188843
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,271",
+            "end_time": "00:00:07,975",
+            "transcript": "This is a video summary of our paper.",
+            "MatchedRegion": [
+                {
+                    "Text": "SAMSUNG",
+                    "BoundingBox": {
+                        "Width": 0.2306521236896515,
+                        "Height": 0.1403694599866867,
+                        "Left": 0.036762505769729614,
+                        "Top": 0.8126482367515564
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "62052674-aba1-43bd-a0d4-2f8422df47d9",
+                    "Score": 0.780494749546051
+                },
+                {
+                    "Text": "UNIVERSITY OF CAMBRIDGE",
+                    "BoundingBox": {
+                        "Width": 0.20465445518493652,
+                        "Height": 0.09090402722358704,
+                        "Left": 0.3574182987213135,
+                        "Top": 0.8201253414154053
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "63221224-d1b2-4859-bf7b-c825b875074c",
+                    "Score": 0.8086305856704712
+                },
+                {
+                    "Text": "WARWICK THE UNIVERSITY OF WARWICK",
+                    "BoundingBox": {
+                        "Width": 0.12802205979824066,
+                        "Height": 0.05699549615383148,
+                        "Left": 0.6311793923377991,
+                        "Top": 0.8797995448112488
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "23a591cf-38ff-4bf7-afae-404aadbdeab8",
+                    "Score": 0.812332034111023
+                },
+                {
+                    "Text": "COMPANY HOMELAND A.D.",
+                    "BoundingBox": {
+                        "Width": 0.13510404527187347,
+                        "Height": 0.243669793009758,
+                        "Left": 0.8161036968231201,
+                        "Top": 0.7466298937797546
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "24fb47fc-b059-416f-b2b2-bb75840c7db5",
+                    "Score": 0.7133899927139282
+                },
+                {
+                    "Text": "I",
+                    "BoundingBox": {
+                        "Width": 0.016887180507183075,
+                        "Height": 0.022494690492749214,
+                        "Left": 0.07193802297115326,
+                        "Top": 0.9695186018943787
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b7777ee9-48b2-4e6e-881a-ae9767bab5fe",
+                    "Score": 0.7964118719100952
+                },
+                {
+                    "Text": "...",
+                    "BoundingBox": {
+                        "Width": 0.012301160953938961,
+                        "Height": 0.02516946941614151,
+                        "Left": 0.09702693670988083,
+                        "Top": 0.968460202217102
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "5b7f9f9f-0869-4f8c-ba18-c3dc1a3a02a6",
+                    "Score": 0.8832439184188843
+                }
+            ]
+        }
+    ]
+}

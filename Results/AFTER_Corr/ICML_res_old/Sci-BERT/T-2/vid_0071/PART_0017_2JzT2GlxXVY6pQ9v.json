@@ -1,0 +1,16 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,028",
+            "end_time": "00:00:02,451",
+            "transcript": "That's all.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,853",
+            "end_time": "00:00:03,979",
+            "transcript": "Thanks for your attenion.",
+            "MatchedRegion": []
+        }
+    ]
+}

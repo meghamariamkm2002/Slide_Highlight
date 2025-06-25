@@ -1,0 +1,17 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,753",
+            "end_time": "00:00:07,720",
+            "transcript": "We decided to block architecture to allow for interesting and diverse connectivity to trade operations.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,461",
+            "end_time": "00:00:14,170",
+            "transcript": "In total, there are 45 release blocks leading to a search base size of more than 91,000 models.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

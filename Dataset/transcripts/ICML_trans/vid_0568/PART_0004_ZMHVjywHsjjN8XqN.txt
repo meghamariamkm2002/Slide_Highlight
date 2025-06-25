@@ -1,0 +1,3 @@
+The general sequential episodic memory model or G's and D's deals with these two limitations.
+We derive G's M by introducing asymmetric synapses with signal propagation delays in the GAMM.
+The asymmetric synapses result in the temporal behavior of the model and the delay stabilizes individual memories over time.

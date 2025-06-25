@@ -1,0 +1,23 @@
+{
+  "MatchedRegions": [
+      {
+          "start_time": "00:00:02,594",
+          "end_time": "00:00:09,931",
+          "transcript": "The first two cases are when there exists noises in the training set, neither noise in label or noise in sample.",
+          "MatchedRegion": [
+            {
+              "Id": "9a927d90-b397-4f39-9d9f-bf50a6cefddd",
+              "Text": "Failure case 1: When there exists label noise",
+              "BoundingBox": {
+                  "Width": 0.6254555583000183,
+                  "Height": 0.04691232740879059,
+                  "Left": 0.09720639884471893,
+                  "Top": 0.065825454890728
+              },
+              "BlockType": "LAYOUT_TITLE"
+            }
+          ]
+      }
+  ],
+  "MatchedSlides": []
+}

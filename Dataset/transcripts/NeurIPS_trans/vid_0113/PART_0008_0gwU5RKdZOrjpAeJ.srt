@@ -1,0 +1,8 @@
+1
+00:00:00,169 --> 00:00:00,809
+benchmarking.
+
+2
+00:00:01,870 --> 00:00:12,995
+We can observe that models incorporating COVID trigger birds as feature extractor significantly outperform other types of models on these TSA subsets.
+

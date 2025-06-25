@@ -1,0 +1,40 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:01,505",
+            "end_time": "00:00:07,727",
+            "transcript": "Meanwhile, most hospital staff interact with the EHR database using predefined rule conversion systems.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:08,508",
+            "end_time": "00:00:16,931",
+            "transcript": "This means extending or modifying the systems requires special training, and this is a major bottleneck for them to freely use the database.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:17,995",
+            "end_time": "00:00:24,621",
+            "transcript": "One alternative way is to build a system that can directly translate a natural language question into an SQL query.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,501",
+            "end_time": "00:00:33,648",
+            "transcript": "With this system, the users can simply type or verbally ask their questions, and the system will return the answers from the database.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:34,689",
+            "end_time": "00:00:38,312",
+            "transcript": "Imagine an AI speaker that answers questions on hospital data.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:38,972",
+            "end_time": "00:00:45,718",
+            "transcript": "This will unleash the potential of EHR data, and anyone in the healthcare industry can easily access the information they want.",
+            "MatchedRegion": []
+        }
+    ]
+}

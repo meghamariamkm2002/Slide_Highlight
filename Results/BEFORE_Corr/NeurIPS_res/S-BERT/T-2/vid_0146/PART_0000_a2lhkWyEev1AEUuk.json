@@ -1,0 +1,24 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,662",
+            "end_time": "00:00:16,638",
+            "transcript": "Hello, my name is Hila and I'll be presenting the work Optimizing Relevance Maps of Vision Transformers improves robustness, which is a collaboration with Edan Schwartz and Leo Wolfe from Tel Aviv University.",
+            "MatchedRegion": [
+                {
+                    "Text": "Optimizing Relevance Maps of Vision Transformers",
+                    "BoundingBox": {
+                        "Width": 0.6810992956161499,
+                        "Height": 0.053946129977703094,
+                        "Left": 0.14617128670215607,
+                        "Top": 0.25092050433158875
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "996a1929-8bef-4779-9938-c056ef1072a3",
+                    "Score": 0.7793353199958801
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

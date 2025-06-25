@@ -1,0 +1,59 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,169",
+            "end_time": "00:00:09,871",
+            "transcript": "We compare CFIL with the state of the art in three different settings on the standard Mujoko benchmarks using only a single expert trajectory, first in the standard state action setting.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiments",
+                    "BoundingBox": {
+                        "Width": 0.2213529646396637,
+                        "Height": 0.0719267874956131,
+                        "Left": 0.08218700438737869,
+                        "Top": 0.13203181326389313
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "61619dc5-c276-427f-b162-07f2b1bd6b7e",
+                    "Score": 0.7113730311393738
+                },
+                {
+                    "Text": "1. Standard Mujoco benchmarks, comparing with SOTA on a single expert trajectory.",
+                    "BoundingBox": {
+                        "Width": 0.6722906827926636,
+                        "Height": 0.033818282186985016,
+                        "Left": 0.08439203351736069,
+                        "Top": 0.2442011684179306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "30021232-b692-4216-9fb1-596ef6ad3e17",
+                    "Score": 0.8986192345619202
+                },
+                {
+                    "Text": "2. Plot means and standard deviations across 5 random seeds.",
+                    "BoundingBox": {
+                        "Width": 0.48520487546920776,
+                        "Height": 0.02671848237514496,
+                        "Left": 0.08343091607093811,
+                        "Top": 0.3041202127933502
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8d3d3c7e-62d1-4ffc-9bcb-d972791c3fc9",
+                    "Score": 0.7564990520477295
+                },
+                {
+                    "Text": "3. CFIL: RL=SAC; FLOW=MAF; o = 6 tanh F ;a =1,B=0.5; density update rate of 10 batches of 100, every 1000 timesteps",
+                    "BoundingBox": {
+                        "Width": 0.8233174085617065,
+                        "Height": 0.09629492461681366,
+                        "Left": 0.0841016173362732,
+                        "Top": 0.36346086859703064
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "56d803c0-792c-4b53-8f77-49fa72758c01",
+                    "Score": 0.7551742792129517
+                }
+            ]
+        }
+    ]
+}

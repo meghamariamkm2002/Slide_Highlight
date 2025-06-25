@@ -1,0 +1,127 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,509",
+            "transcript": "the dynamics.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,050",
+            "end_time": "00:00:08,993",
+            "transcript": "Some of the key takeaways from our work, we show an initial step towards analyzing learning behavior in games with quantum information.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our work constitutes initial step towards analyzing learning behavior in games with quantum information.",
+                    "BoundingBox": {
+                        "Width": 0.843733549118042,
+                        "Height": 0.0761585608124733,
+                        "Left": 0.07573172450065613,
+                        "Top": 0.33437198400497437
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "360e6a1e-15ef-4fb2-89ae-1ccdaff23a44",
+                    "Score": 0.8397654891014099
+                },
+                {
+                    "Text": "Recurrence result encourages novel discretization methods which preserve connection to volume preservation.",
+                    "BoundingBox": {
+                        "Width": 0.7741054892539978,
+                        "Height": 0.07660333812236786,
+                        "Left": 0.07577573508024216,
+                        "Top": 0.4333556294441223
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d023c96d-9a7f-42a4-85f5-87ff2486cc81",
+                    "Score": 0.9437753558158875
+                },
+                {
+                    "Text": "Extend recurrence and convergence results to multi-agent quantum games.",
+                    "BoundingBox": {
+                        "Width": 0.7879436016082764,
+                        "Height": 0.03603468835353851,
+                        "Left": 0.07684855163097382,
+                        "Top": 0.6485875844955444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d834ce88-43ea-44af-bae0-638595ced4fd",
+                    "Score": 0.8067694902420044
+                },
+                {
+                    "Text": "Formalize and analyze quantum setting for different classes of games, e.g. potential games.",
+                    "BoundingBox": {
+                        "Width": 0.7636988162994385,
+                        "Height": 0.0758678987622261,
+                        "Left": 0.0768747329711914,
+                        "Top": 0.7074137330055237
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "456dbf17-5302-4655-a687-7d860b02bab1",
+                    "Score": 0.8061373233795166
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,833",
+            "end_time": "00:00:16,256",
+            "transcript": "And the recurrence result also encourages novel discretization methods, which preserve the connection to volume conservation.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our work constitutes initial step towards analyzing learning behavior in games with quantum information.",
+                    "BoundingBox": {
+                        "Width": 0.843733549118042,
+                        "Height": 0.0761585608124733,
+                        "Left": 0.07573172450065613,
+                        "Top": 0.33437198400497437
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "360e6a1e-15ef-4fb2-89ae-1ccdaff23a44",
+                    "Score": 0.8397654891014099
+                },
+                {
+                    "Text": "Recurrence result encourages novel discretization methods which preserve connection to volume preservation.",
+                    "BoundingBox": {
+                        "Width": 0.7741054892539978,
+                        "Height": 0.07660333812236786,
+                        "Left": 0.07577573508024216,
+                        "Top": 0.4333556294441223
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d023c96d-9a7f-42a4-85f5-87ff2486cc81",
+                    "Score": 0.9437753558158875
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,717",
+            "end_time": "00:00:29,282",
+            "transcript": "In terms of future work, we intend to extend the recurrence and conversion results to multi-agent quantum games, as well as formalize the quantum setting for different classes of classical games, for example, potential games.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our work constitutes initial step towards analyzing learning behavior in games with quantum information.",
+                    "BoundingBox": {
+                        "Width": 0.843733549118042,
+                        "Height": 0.0761585608124733,
+                        "Left": 0.07573172450065613,
+                        "Top": 0.33437198400497437
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "360e6a1e-15ef-4fb2-89ae-1ccdaff23a44",
+                    "Score": 0.8397654891014099
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:30,072",
+            "end_time": "00:00:30,922",
+            "transcript": "That concludes my talk.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:31,003",
+            "end_time": "00:00:31,307",
+            "transcript": "Thank you.",
+            "MatchedRegion": []
+        }
+    ]
+}

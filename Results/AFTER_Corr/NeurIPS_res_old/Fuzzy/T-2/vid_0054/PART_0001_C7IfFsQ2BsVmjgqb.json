@@ -1,0 +1,40 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,600",
+            "end_time": "00:00:05,863",
+            "transcript": "First of all, I would like to introduce the motivation of our work.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,543",
+            "end_time": "00:00:17,208",
+            "transcript": "As we all know, animal pose estimation is crucial in animal behavior understanding and wildlife conservation.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:17,708",
+            "end_time": "00:00:21,650",
+            "transcript": "But animal pose estimation datasets are largely ignored.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:22,131",
+            "end_time": "00:00:24,212",
+            "transcript": "And existing datasets",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,117",
+            "end_time": "00:00:31,347",
+            "transcript": "You really don't have continuous time information or lack detailed keypoint annotations.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_kIvSfeSA5dfzhobv",
+            "Score": 0.7958210706710815
+        }
+    ]
+}

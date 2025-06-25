@@ -1,0 +1,4 @@
+1
+00:00:01,169 --> 00:00:09,871
+We compare CFIL with the state of the art in three different settings on the standard Mujoko benchmarks using only a single expert trajectory, first in the standard state action setting.
+

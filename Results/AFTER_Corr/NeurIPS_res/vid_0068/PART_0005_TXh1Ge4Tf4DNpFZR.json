@@ -1,0 +1,34 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,469",
+            "transcript": "algorithms.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:03,090",
+            "end_time": "00:00:05,711",
+            "transcript": "This will give an overview of the block-wise last methods.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,591",
+            "end_time": "00:00:18,996",
+            "transcript": "First, block-wise distillation divides a pre-trained reference model, known as teacher, into sequential blocks that are later distributed into a library of pre-trained replacement blocks together with their signatures.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:20,536",
+            "end_time": "00:00:28,659",
+            "transcript": "Two, search uses this signature to guide an algorithm to find a well-performing model built by stacking a number of blocks from the block library.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,983",
+            "end_time": "00:00:38,982",
+            "transcript": "Third, fine tuning is a process when blocks of student models are initialized with weights obtained from the distillation, which the model is trained using the knowledge distributed.",
+            "MatchedRegion": []
+        }
+    ]
+}

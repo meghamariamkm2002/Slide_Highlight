@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,732",
+            "end_time": "00:00:01,697",
+            "transcript": "And that's our sex.",
+            "MatchedRegion": [
+                {
+                    "Text": "TRIT",
+                    "BoundingBox": {
+                        "Width": 0.03890912979841232,
+                        "Height": 0.022511539980769157,
+                        "Left": 0.855898916721344,
+                        "Top": 0.03587116673588753
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3238d1dc-90c9-4ee4-b595-5eaa2ccf63a6",
+                    "Score": 0.6169177293777466
+                },
+                {
+                    "Text": "Thanks!",
+                    "BoundingBox": {
+                        "Width": 0.13266073167324066,
+                        "Height": 0.049726709723472595,
+                        "Left": 0.4276311695575714,
+                        "Top": 0.45846816897392273
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "59ed9a51-7ded-4f38-a934-24e67f23764d",
+                    "Score": 0.6392556428909302
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,411",
+            "end_time": "00:00:08,662",
+            "transcript": "And also, we can see that misinformation is hurting people's subjective emotions towards COVID-19 vaccines.",
+            "MatchedRegion": [
+                {
+                    "Text": "0.050 Information Misinformation 0.025 0.000 -0.025 -0.050 -0.01 0.00 0.01 Sentiment Score (a) Impact on sentiments and subjectivity.",
+                    "BoundingBox": {
+                        "Width": 0.37152621150016785,
+                        "Height": 0.34855034947395325,
+                        "Left": 0.11354956030845642,
+                        "Top": 0.4074207544326782
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "64f5ac11-385e-41eb-997c-fd6ef8062614",
+                    "Score": 0.7982409000396729
+                },
+                {
+                    "Text": "0.2 Information Misinformation 0.0 -0.2 -0.02 -0.01 0.00 0.01 PCA Vector1 (b) Impact on text representation.",
+                    "BoundingBox": {
+                        "Width": 0.3581428825855255,
+                        "Height": 0.3484239876270294,
+                        "Left": 0.5278351902961731,
+                        "Top": 0.405813992023468
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7ab54e60-71b4-4ac8-aeff-475e58bf41b2",
+                    "Score": 0.7731560468673706
+                }
+            ]
+        }
+    ]
+}

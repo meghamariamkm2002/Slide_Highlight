@@ -1,0 +1,61 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,570",
+            "end_time": "00:00:08,613",
+            "transcript": "possible extensions to this work are one can develop a new class of semantic parsing models that can handle unanswerable questions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Semantic parsing models that can handle unanswerable questions",
+                    "BoundingBox": {
+                        "Width": 0.6870858669281006,
+                        "Height": 0.038722142577171326,
+                        "Left": 0.12105722725391388,
+                        "Top": 0.31822869181632996
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3e9152c4-0252-40ae-a810-7f9834676c39",
+                    "Score": 0.9375931024551392
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,174",
+            "end_time": "00:00:13,856",
+            "transcript": "The data set itself can be extended to interactive and conversational settings.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:14,556",
+            "end_time": "00:00:19,198",
+            "transcript": "And this is a great starting point for creating multi-modal EHRQA data sets.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:20,119",
+            "end_time": "00:00:24,921",
+            "transcript": "Our data set is currently available on GitHub, and their leaderboard can be found in this link.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,421",
+            "end_time": "00:00:26,322",
+            "transcript": "Thank you for listening.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_UpFXyswjYPYxTZ0a",
+            "Score": 0.6272751092910767
+        },
+        {
+            "slide": "PART_0003_a2ZFD4lVYxlS7fdU",
+            "Score": 0.6050370335578918
+        },
+        {
+            "slide": "PART_0004_4LaUGhQly6GfiWZy",
+            "Score": 0.7128709554672241
+        }
+    ]
+}

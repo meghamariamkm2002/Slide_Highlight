@@ -1,0 +1,40 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,590",
+            "end_time": "00:00:09,756",
+            "transcript": "There has been a lot of works aiming to explain concepts encoded by DNNs, including network dissection, TCIV, and so on.",
+            "MatchedRegion": [
+                {
+                    "Text": "Background: Explaining \"concepts\" encoded by DNNs",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.7757488489151001,
+                        "Height": 0.058135051280260086,
+                        "Left": 0.09762056171894073,
+                        "Top": 0.06547774374485016
+                    },
+                    "Id": "cee703ac-11a7-407c-90b0-f25b73645da0"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,677",
+            "end_time": "00:00:17,442",
+            "transcript": "However, these methods usually lack a mathematical framework to objectively formulate concepts encoded by a DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Key Problem: lacking a mathematical framework to objectively formulate \"concepts\" encoded by a DNN.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7245287895202637,
+                        "Height": 0.07750511914491653,
+                        "Left": 0.16344180703163147,
+                        "Top": 0.7861931920051575
+                    },
+                    "Id": "ab0f311a-c68f-43f7-9ac0-1228afc6d6f7"
+                }
+            ]
+        }
+    ]
+}

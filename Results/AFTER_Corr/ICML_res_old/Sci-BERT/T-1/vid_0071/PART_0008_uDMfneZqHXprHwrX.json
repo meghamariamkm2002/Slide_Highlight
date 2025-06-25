@@ -1,0 +1,109 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,155",
+            "end_time": "00:00:09,561",
+            "transcript": "First, we verify that most concepts had little effects on the output, which verifies the sparsity of encoded concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "tic-tac-toe wifi MNIST-3 CeLebA-eyeglasses ShapeNet 1.0 1.0 1.0 1.0 1.0 MLP-5 MLP-5 LeNet AlexNet PointNet 0.8 ResMLP-5 0.8 ResMLP-5 0.8 ResNet-20 0.8 ResNet-18 0.8 PointNet- + ResNet-32 ResNet-34 0.6 salient 0.6 salient 0.6 salient 0.6 salient ResNet-44 0.6 salient VGG-13 0.4 0.4 0.4 0.4 0.4 VGG-16 0.2 noisy 0.2 noisy 0.2 noisy 0.2 noisy 0.2 noisy 0.05 0.05 0.05 0.05 0.05 0.0 0.0 0.0 0.0 0.0 0 250 500 750 1000 0 100 200 0 200 400 0 250 500 750 1000 0 250 500 750 1000 index of interaction concepts S index of interaction concepts S index of interaction concepts S index of interaction concepts S index of interaction concepts S",
+                    "BoundingBox": {
+                        "Width": 0.8698337078094482,
+                        "Height": 0.2782512903213501,
+                        "Left": 0.06709294021129608,
+                        "Top": 0.3672058582305908
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3dd52373-77d5-4f53-b10b-f3e74dcc40c0",
+                    "Score": 0.6178582310676575
+                },
+                {
+                    "Text": "Most concepts had little effects on the output I (S|x) 22 0, which verified the sparsity of the encoded concepts.",
+                    "BoundingBox": {
+                        "Width": 0.875282347202301,
+                        "Height": 0.03441496193408966,
+                        "Left": 0.06112392991781235,
+                        "Top": 0.7437891364097595
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0d09f64c-3833-4bdd-a762-20b104fe486c",
+                    "Score": 0.8083420395851135
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,401",
+            "end_time": "00:00:19,807",
+            "transcript": "This is a distinctive property of symbolism, where it is sufficient to use a small number of salient symbolic concepts to represent the knowledge.",
+            "MatchedRegion": [
+                {
+                    "Text": "The DNN's inference on a specific sample is supposed to be concisely explained by a small number of salient concepts, rather than a large number of concepts.",
+                    "BoundingBox": {
+                        "Width": 0.8317951560020447,
+                        "Height": 0.0787949189543724,
+                        "Left": 0.07955576479434967,
+                        "Top": 0.2110220193862915
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "86958918-d928-464d-8c51-ce400f9a7f6a",
+                    "Score": 0.9006999731063843
+                },
+                {
+                    "Text": "tic-tac-toe wifi MNIST-3 CeLebA-eyeglasses ShapeNet 1.0 1.0 1.0 1.0 1.0 MLP-5 MLP-5 LeNet AlexNet PointNet 0.8 ResMLP-5 0.8 ResMLP-5 0.8 ResNet-20 0.8 ResNet-18 0.8 PointNet- + ResNet-32 ResNet-34 0.6 salient 0.6 salient 0.6 salient 0.6 salient ResNet-44 0.6 salient VGG-13 0.4 0.4 0.4 0.4 0.4 VGG-16 0.2 noisy 0.2 noisy 0.2 noisy 0.2 noisy 0.2 noisy 0.05 0.05 0.05 0.05 0.05 0.0 0.0 0.0 0.0 0.0 0 250 500 750 1000 0 100 200 0 200 400 0 250 500 750 1000 0 250 500 750 1000 index of interaction concepts S index of interaction concepts S index of interaction concepts S index of interaction concepts S index of interaction concepts S",
+                    "BoundingBox": {
+                        "Width": 0.8698337078094482,
+                        "Height": 0.2782512903213501,
+                        "Left": 0.06709294021129608,
+                        "Top": 0.3672058582305908
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "3dd52373-77d5-4f53-b10b-f3e74dcc40c0",
+                    "Score": 0.6178582310676575
+                },
+                {
+                    "Text": "Most concepts had little effects on the output I (S|x) 22 0, which verified the sparsity of the encoded concepts.",
+                    "BoundingBox": {
+                        "Width": 0.875282347202301,
+                        "Height": 0.03441496193408966,
+                        "Left": 0.06112392991781235,
+                        "Top": 0.7437891364097595
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0d09f64c-3833-4bdd-a762-20b104fe486c",
+                    "Score": 0.8083420395851135
+                },
+                {
+                    "Text": "Actually, in our recent work [Ren et al., 2023] , we have mathematically proved the above sparse concept emerging phenomenon.",
+                    "BoundingBox": {
+                        "Width": 0.828789472579956,
+                        "Height": 0.03143046051263809,
+                        "Left": 0.05538651719689369,
+                        "Top": 0.8540380597114563
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a4811df-b344-475d-b990-f7e94eb39be2",
+                    "Score": 0.9308589696884155
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,888",
+            "end_time": "00:00:26,392",
+            "transcript": "Such a concept emergent phenomenon has also been mathematically proved in our recent work.",
+            "MatchedRegion": [
+                {
+                    "Text": "Actually, in our recent work [Ren et al., 2023] , we have mathematically proved the above sparse concept emerging phenomenon.",
+                    "BoundingBox": {
+                        "Width": 0.828789472579956,
+                        "Height": 0.03143046051263809,
+                        "Left": 0.05538651719689369,
+                        "Top": 0.8540380597114563
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a4811df-b344-475d-b990-f7e94eb39be2",
+                    "Score": 0.9308589696884155
+                }
+            ]
+        }
+    ]
+}

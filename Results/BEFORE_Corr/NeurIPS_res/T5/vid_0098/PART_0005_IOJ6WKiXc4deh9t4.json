@@ -1,0 +1,87 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,029",
+            "end_time": "00:00:00,510",
+            "transcript": "this point.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:01,792",
+            "end_time": "00:00:05,577",
+            "transcript": "For the target domain of MOLAN, we capture data with our 1F model vehicle.",
+            "MatchedRegion": [
+                {
+                    "Text": "Dataset Collection - Model Vehicle",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.5113098621368408,
+                        "Height": 0.047069452702999115,
+                        "Left": 0.038096945732831955,
+                        "Top": 0.03593543544411659
+                    },
+                    "Id": "395b88a2-1646-4161-9bd1-7693e45728a1"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,078",
+            "end_time": "00:00:09,223",
+            "transcript": "Tracks roughly contain the same proportion of straight and curved segments.",
+            "MatchedRegion": [
+                {
+                    "Text": "Tracks roughly contain the same proportion of straight and curved segments",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6612081527709961,
+                        "Height": 0.034215621650218964,
+                        "Left": 0.03567563369870186,
+                        "Top": 0.2226465791463852
+                    },
+                    "Id": "961679f5-c9cc-4bf4-9389-6ef63b5edc05"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,743",
+            "end_time": "00:00:14,911",
+            "transcript": "Randomizations include alternating backgrounds, lightning conditions, surface materials, and lane",
+            "MatchedRegion": [
+                {
+                    "Text": "Randomizations:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1574099063873291,
+                        "Height": 0.02644198015332222,
+                        "Left": 0.03594381362199783,
+                        "Top": 0.28586459159851074
+                    },
+                    "Id": "8830aaaf-a82b-4711-a383-d5f4c09d05a3"
+                },
+                {
+                    "Text": "alternating backgrounds, lighting conditions, surface materials, and lane topology",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6370726823806763,
+                        "Height": 0.031214585527777672,
+                        "Left": 0.07355377078056335,
+                        "Top": 0.3463626503944397
+                    },
+                    "Id": "1a6ebea1-19be-4150-86ed-b9ee1b1a8187"
+                },
+                {
+                    "Text": "four different locations",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.19196975231170654,
+                        "Height": 0.02491123229265213,
+                        "Left": 0.07358773052692413,
+                        "Top": 0.40491390228271484
+                    },
+                    "Id": "f5acd19a-7532-445c-ae07-d8d2c302fc71"
+                }
+            ]
+        }
+    ]
+}

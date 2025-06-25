@@ -1,0 +1,2 @@
+benchmarking.
+We can observe that models incorporating COVID trigger birds as feature extractor significantly outperform other types of models on these TSA subsets.

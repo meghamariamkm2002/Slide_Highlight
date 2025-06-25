@@ -1,0 +1,289 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,738",
+            "end_time": "00:00:09,369",
+            "transcript": "And after that, we benchmark representative CNN-based and vision-transformer-based post-estimation method on three tracks.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. We benchmark representative CNN-based and vision transformer-based pose estimation methods on three tracks.",
+                    "BoundingBox": {
+                        "Width": 0.7828651070594788,
+                        "Height": 0.02932637743651867,
+                        "Left": 0.043123748153448105,
+                        "Top": 0.17958670854568481
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6245a9b5-4588-4cdc-9c25-cf7148d2132a",
+                    "Score": 0.7477372884750366
+                },
+                {
+                    "Text": "1. SF track: Single-frame animal pose estimation",
+                    "BoundingBox": {
+                        "Width": 0.3373919427394867,
+                        "Height": 0.029139555990695953,
+                        "Left": 0.07977994531393051,
+                        "Top": 0.21801793575286865
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "31b78b9d-7996-45c4-9c80-16b4c350fbba",
+                    "Score": 0.638458251953125
+                },
+                {
+                    "Text": "2. IS track: Inter-species animal pose generalization",
+                    "BoundingBox": {
+                        "Width": 0.3569333553314209,
+                        "Height": 0.028826620429754257,
+                        "Left": 0.07938671857118607,
+                        "Top": 0.25417882204055786
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4671b743-f7e5-469c-bf8e-7ae037a40fcd",
+                    "Score": 0.6612265706062317
+                },
+                {
+                    "Text": "3. APT track: Animal pose tracking",
+                    "BoundingBox": {
+                        "Width": 0.24911820888519287,
+                        "Height": 0.028409352526068687,
+                        "Left": 0.07959618419408798,
+                        "Top": 0.2899247407913208
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c45ed20f-498d-45a6-94f7-83b144a7a76f",
+                    "Score": 0.662528395652771
+                },
+                {
+                    "Text": "2. We use the average precision (AP) as the primary metric to evaluate the performance of different models.",
+                    "BoundingBox": {
+                        "Width": 0.7328026294708252,
+                        "Height": 0.02954811230301857,
+                        "Left": 0.040854956954717636,
+                        "Top": 0.35841360688209534
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2c127ef6-d435-4724-943c-5095f6dd8ee6",
+                    "Score": 0.8926587104797363
+                },
+                {
+                    "Text": "where di is the distance between the i-th predicted results and the i-th ground truth keypoint locations. S is the scale of the object and kj is a predefined constant that controls falloff. Vi indicates the visibility of the i-th keypoint.",
+                    "BoundingBox": {
+                        "Width": 0.7879990339279175,
+                        "Height": 0.0652971938252449,
+                        "Left": 0.07585611939430237,
+                        "Top": 0.6833575963973999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8852e25a-3812-4bd5-a97a-de1cd815ca24",
+                    "Score": 0.7210782766342163
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,070",
+            "end_time": "00:00:13,213",
+            "transcript": "There are SF-track, IS-track, and APT-track.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.07459990680217743,
+                        "Height": 0.022849449887871742,
+                        "Left": 0.919876217842102,
+                        "Top": 0.032745905220508575
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "732a19c8-c8f9-4a85-ab28-33ec8e9bd821",
+                    "Score": 0.6002538800239563
+                },
+                {
+                    "Text": "1. We benchmark representative CNN-based and vision transformer-based pose estimation methods on three tracks.",
+                    "BoundingBox": {
+                        "Width": 0.7828651070594788,
+                        "Height": 0.02932637743651867,
+                        "Left": 0.043123748153448105,
+                        "Top": 0.17958670854568481
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6245a9b5-4588-4cdc-9c25-cf7148d2132a",
+                    "Score": 0.7477372884750366
+                },
+                {
+                    "Text": "1. SF track: Single-frame animal pose estimation",
+                    "BoundingBox": {
+                        "Width": 0.3373919427394867,
+                        "Height": 0.029139555990695953,
+                        "Left": 0.07977994531393051,
+                        "Top": 0.21801793575286865
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "31b78b9d-7996-45c4-9c80-16b4c350fbba",
+                    "Score": 0.638458251953125
+                },
+                {
+                    "Text": "2. IS track: Inter-species animal pose generalization",
+                    "BoundingBox": {
+                        "Width": 0.3569333553314209,
+                        "Height": 0.028826620429754257,
+                        "Left": 0.07938671857118607,
+                        "Top": 0.25417882204055786
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4671b743-f7e5-469c-bf8e-7ae037a40fcd",
+                    "Score": 0.6612265706062317
+                },
+                {
+                    "Text": "3. APT track: Animal pose tracking",
+                    "BoundingBox": {
+                        "Width": 0.24911820888519287,
+                        "Height": 0.028409352526068687,
+                        "Left": 0.07959618419408798,
+                        "Top": 0.2899247407913208
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c45ed20f-498d-45a6-94f7-83b144a7a76f",
+                    "Score": 0.662528395652771
+                },
+                {
+                    "Text": "2. We use the average precision (AP) as the primary metric to evaluate the performance of different models.",
+                    "BoundingBox": {
+                        "Width": 0.7328026294708252,
+                        "Height": 0.02954811230301857,
+                        "Left": 0.040854956954717636,
+                        "Top": 0.35841360688209534
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2c127ef6-d435-4724-943c-5095f6dd8ee6",
+                    "Score": 0.8926587104797363
+                },
+                {
+                    "Text": "where p is the index of the person and oksp is the object keypoint similarity metric. The OKS metric is defined as",
+                    "BoundingBox": {
+                        "Width": 0.7555245161056519,
+                        "Height": 0.03195563331246376,
+                        "Left": 0.07108114659786224,
+                        "Top": 0.5393070578575134
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "545db4ed-e5b0-41b6-a6bb-14f88140c6d1",
+                    "Score": 0.639219343662262
+                },
+                {
+                    "Text": "where di is the distance between the i-th predicted results and the i-th ground truth keypoint locations. S is the scale of the object and kj is a predefined constant that controls falloff. Vi indicates the visibility of the i-th keypoint.",
+                    "BoundingBox": {
+                        "Width": 0.7879990339279175,
+                        "Height": 0.0652971938252449,
+                        "Left": 0.07585611939430237,
+                        "Top": 0.6833575963973999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8852e25a-3812-4bd5-a97a-de1cd815ca24",
+                    "Score": 0.7210782766342163
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,914",
+            "end_time": "00:00:21,183",
+            "transcript": "In all the experiments, we use average precision as a primary metric to evaluate the performance of different models.",
+            "MatchedRegion": [
+                {
+                    "Text": "Experiment settings",
+                    "BoundingBox": {
+                        "Width": 0.24808184802532196,
+                        "Height": 0.04878685623407364,
+                        "Left": 0.020629363134503365,
+                        "Top": 0.05735692381858826
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "a47a6ebe-8142-4561-87b2-a87428b97749",
+                    "Score": 0.6081058979034424
+                },
+                {
+                    "Text": "1. We benchmark representative CNN-based and vision transformer-based pose estimation methods on three tracks.",
+                    "BoundingBox": {
+                        "Width": 0.7828651070594788,
+                        "Height": 0.02932637743651867,
+                        "Left": 0.043123748153448105,
+                        "Top": 0.17958670854568481
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6245a9b5-4588-4cdc-9c25-cf7148d2132a",
+                    "Score": 0.7477372884750366
+                },
+                {
+                    "Text": "1. SF track: Single-frame animal pose estimation",
+                    "BoundingBox": {
+                        "Width": 0.3373919427394867,
+                        "Height": 0.029139555990695953,
+                        "Left": 0.07977994531393051,
+                        "Top": 0.21801793575286865
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "31b78b9d-7996-45c4-9c80-16b4c350fbba",
+                    "Score": 0.638458251953125
+                },
+                {
+                    "Text": "2. IS track: Inter-species animal pose generalization",
+                    "BoundingBox": {
+                        "Width": 0.3569333553314209,
+                        "Height": 0.028826620429754257,
+                        "Left": 0.07938671857118607,
+                        "Top": 0.25417882204055786
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "4671b743-f7e5-469c-bf8e-7ae037a40fcd",
+                    "Score": 0.6612265706062317
+                },
+                {
+                    "Text": "3. APT track: Animal pose tracking",
+                    "BoundingBox": {
+                        "Width": 0.24911820888519287,
+                        "Height": 0.028409352526068687,
+                        "Left": 0.07959618419408798,
+                        "Top": 0.2899247407913208
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c45ed20f-498d-45a6-94f7-83b144a7a76f",
+                    "Score": 0.662528395652771
+                },
+                {
+                    "Text": "2. We use the average precision (AP) as the primary metric to evaluate the performance of different models.",
+                    "BoundingBox": {
+                        "Width": 0.7328026294708252,
+                        "Height": 0.02954811230301857,
+                        "Left": 0.040854956954717636,
+                        "Top": 0.35841360688209534
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2c127ef6-d435-4724-943c-5095f6dd8ee6",
+                    "Score": 0.8926587104797363
+                },
+                {
+                    "Text": "where p is the index of the person and oksp is the object keypoint similarity metric. The OKS metric is defined as",
+                    "BoundingBox": {
+                        "Width": 0.7555245161056519,
+                        "Height": 0.03195563331246376,
+                        "Left": 0.07108114659786224,
+                        "Top": 0.5393070578575134
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "545db4ed-e5b0-41b6-a6bb-14f88140c6d1",
+                    "Score": 0.639219343662262
+                },
+                {
+                    "Text": "where di is the distance between the i-th predicted results and the i-th ground truth keypoint locations. S is the scale of the object and kj is a predefined constant that controls falloff. Vi indicates the visibility of the i-th keypoint.",
+                    "BoundingBox": {
+                        "Width": 0.7879990339279175,
+                        "Height": 0.0652971938252449,
+                        "Left": 0.07585611939430237,
+                        "Top": 0.6833575963973999
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "8852e25a-3812-4bd5-a97a-de1cd815ca24",
+                    "Score": 0.7210782766342163
+                }
+            ]
+        }
+    ]
+}

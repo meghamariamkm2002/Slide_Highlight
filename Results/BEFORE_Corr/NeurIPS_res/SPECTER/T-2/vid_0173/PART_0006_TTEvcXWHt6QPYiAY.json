@@ -1,0 +1,526 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,050",
+            "end_time": "00:00:02,870",
+            "transcript": "Here's our results.",
+            "MatchedRegion": [
+                {
+                    "Text": "Main results",
+                    "BoundingBox": {
+                        "Width": 0.3260446786880493,
+                        "Height": 0.08041802793741226,
+                        "Left": 0.3374747633934021,
+                        "Top": 0.06602923572063446
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "17ce5f62-a592-4fea-9678-a0de7aafee66",
+                    "Score": 0.7195111513137817
+                },
+                {
+                    "Text": "positive: a price p that achieves approximation factor of (1 - 1/e)/2 22 0.316 against first-best welfare",
+                    "BoundingBox": {
+                        "Width": 0.8540698289871216,
+                        "Height": 0.09861914068460464,
+                        "Left": 0.07007338106632233,
+                        "Top": 0.24481281638145447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f0edbbe1-5a0b-4d9f-8a3d-768d0ada47e6",
+                    "Score": 0.8777908086776733
+                },
+                {
+                    "Text": "negative: no price p achieves approximation ratio better than 0.479",
+                    "BoundingBox": {
+                        "Width": 0.7424963712692261,
+                        "Height": 0.047371793538331985,
+                        "Left": 0.07037194818258286,
+                        "Top": 0.4087483286857605
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22c0c4de-9d90-4ad7-8464-037f306ce9ed",
+                    "Score": 0.8470834493637085
+                },
+                {
+                    "Text": "for comparison: posted-price mechanisms for utility maximizers achieve 0.5",
+                    "BoundingBox": {
+                        "Width": 0.8322340846061707,
+                        "Height": 0.04588434472680092,
+                        "Left": 0.0958806648850441,
+                        "Top": 0.5215171575546265
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab9351b3-2211-4379-9924-c4a044331aa7",
+                    "Score": 0.8726760745048523
+                },
+                {
+                    "Text": "byproducts:",
+                    "BoundingBox": {
+                        "Width": 0.15032991766929626,
+                        "Height": 0.042047955095767975,
+                        "Left": 0.07012516260147095,
+                        "Top": 0.6296657919883728
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "46b76d83-299d-41a5-adf0-6cfc2dc9aef8",
+                    "Score": 0.7186411023139954
+                },
+                {
+                    "Text": "(1 - 1/e)/2-approximation in the long run in dynamic auctions",
+                    "BoundingBox": {
+                        "Width": 0.6940500140190125,
+                        "Height": 0.046084776520729065,
+                        "Left": 0.09727498888969421,
+                        "Top": 0.8496736288070679
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "af6b40e3-420c-4d84-94d8-383e96aaeea9",
+                    "Score": 0.9226233959197998
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,530",
+            "end_time": "00:00:18,355",
+            "transcript": "On the positive side, we show there is a price P and we show how to compute this price P that achieves a approximation factor of 1 minus 1 over e divided by 2, which is about 0.316 against the first best welfare.",
+            "MatchedRegion": [
+                {
+                    "Text": "Main results",
+                    "BoundingBox": {
+                        "Width": 0.3260446786880493,
+                        "Height": 0.08041802793741226,
+                        "Left": 0.3374747633934021,
+                        "Top": 0.06602923572063446
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "17ce5f62-a592-4fea-9678-a0de7aafee66",
+                    "Score": 0.7195111513137817
+                },
+                {
+                    "Text": "positive: a price p that achieves approximation factor of (1 - 1/e)/2 22 0.316 against first-best welfare",
+                    "BoundingBox": {
+                        "Width": 0.8540698289871216,
+                        "Height": 0.09861914068460464,
+                        "Left": 0.07007338106632233,
+                        "Top": 0.24481281638145447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f0edbbe1-5a0b-4d9f-8a3d-768d0ada47e6",
+                    "Score": 0.8777908086776733
+                },
+                {
+                    "Text": "negative: no price p achieves approximation ratio better than 0.479",
+                    "BoundingBox": {
+                        "Width": 0.7424963712692261,
+                        "Height": 0.047371793538331985,
+                        "Left": 0.07037194818258286,
+                        "Top": 0.4087483286857605
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22c0c4de-9d90-4ad7-8464-037f306ce9ed",
+                    "Score": 0.8470834493637085
+                },
+                {
+                    "Text": "for comparison: posted-price mechanisms for utility maximizers achieve 0.5",
+                    "BoundingBox": {
+                        "Width": 0.8322340846061707,
+                        "Height": 0.04588434472680092,
+                        "Left": 0.0958806648850441,
+                        "Top": 0.5215171575546265
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab9351b3-2211-4379-9924-c4a044331aa7",
+                    "Score": 0.8726760745048523
+                },
+                {
+                    "Text": "byproducts:",
+                    "BoundingBox": {
+                        "Width": 0.15032991766929626,
+                        "Height": 0.042047955095767975,
+                        "Left": 0.07012516260147095,
+                        "Top": 0.6296657919883728
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "46b76d83-299d-41a5-adf0-6cfc2dc9aef8",
+                    "Score": 0.7186411023139954
+                },
+                {
+                    "Text": "1/4-approximation in combinatorial auctions",
+                    "BoundingBox": {
+                        "Width": 0.4994426965713501,
+                        "Height": 0.04449917748570442,
+                        "Left": 0.09669119119644165,
+                        "Top": 0.7372907996177673
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0d4f0683-f0be-4f0c-ab8c-1b350aa8c465",
+                    "Score": 0.8620690107345581
+                },
+                {
+                    "Text": "(1 - 1/e)/2-approximation in the long run in dynamic auctions",
+                    "BoundingBox": {
+                        "Width": 0.6940500140190125,
+                        "Height": 0.046084776520729065,
+                        "Left": 0.09727498888969421,
+                        "Top": 0.8496736288070679
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "af6b40e3-420c-4d84-94d8-383e96aaeea9",
+                    "Score": 0.9226233959197998
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,676",
+            "end_time": "00:00:24,697",
+            "transcript": "On the negative side, we show there's no price P that achieves a approximation ratio better than 0.479.",
+            "MatchedRegion": [
+                {
+                    "Text": "Main results",
+                    "BoundingBox": {
+                        "Width": 0.3260446786880493,
+                        "Height": 0.08041802793741226,
+                        "Left": 0.3374747633934021,
+                        "Top": 0.06602923572063446
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "17ce5f62-a592-4fea-9678-a0de7aafee66",
+                    "Score": 0.7195111513137817
+                },
+                {
+                    "Text": "positive: a price p that achieves approximation factor of (1 - 1/e)/2 22 0.316 against first-best welfare",
+                    "BoundingBox": {
+                        "Width": 0.8540698289871216,
+                        "Height": 0.09861914068460464,
+                        "Left": 0.07007338106632233,
+                        "Top": 0.24481281638145447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f0edbbe1-5a0b-4d9f-8a3d-768d0ada47e6",
+                    "Score": 0.8777908086776733
+                },
+                {
+                    "Text": "negative: no price p achieves approximation ratio better than 0.479",
+                    "BoundingBox": {
+                        "Width": 0.7424963712692261,
+                        "Height": 0.047371793538331985,
+                        "Left": 0.07037194818258286,
+                        "Top": 0.4087483286857605
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22c0c4de-9d90-4ad7-8464-037f306ce9ed",
+                    "Score": 0.8470834493637085
+                },
+                {
+                    "Text": "for comparison: posted-price mechanisms for utility maximizers achieve 0.5",
+                    "BoundingBox": {
+                        "Width": 0.8322340846061707,
+                        "Height": 0.04588434472680092,
+                        "Left": 0.0958806648850441,
+                        "Top": 0.5215171575546265
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab9351b3-2211-4379-9924-c4a044331aa7",
+                    "Score": 0.8726760745048523
+                },
+                {
+                    "Text": "byproducts:",
+                    "BoundingBox": {
+                        "Width": 0.15032991766929626,
+                        "Height": 0.042047955095767975,
+                        "Left": 0.07012516260147095,
+                        "Top": 0.6296657919883728
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "46b76d83-299d-41a5-adf0-6cfc2dc9aef8",
+                    "Score": 0.7186411023139954
+                },
+                {
+                    "Text": "1/4-approximation in combinatorial auctions",
+                    "BoundingBox": {
+                        "Width": 0.4994426965713501,
+                        "Height": 0.04449917748570442,
+                        "Left": 0.09669119119644165,
+                        "Top": 0.7372907996177673
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0d4f0683-f0be-4f0c-ab8c-1b350aa8c465",
+                    "Score": 0.8620690107345581
+                },
+                {
+                    "Text": "(1 - 1/e)/2-approximation in the long run in dynamic auctions",
+                    "BoundingBox": {
+                        "Width": 0.6940500140190125,
+                        "Height": 0.046084776520729065,
+                        "Left": 0.09727498888969421,
+                        "Top": 0.8496736288070679
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "af6b40e3-420c-4d84-94d8-383e96aaeea9",
+                    "Score": 0.9226233959197998
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:26,892",
+            "end_time": "00:00:35,479",
+            "transcript": "For comparison, we know that with utility maximizers or traditional bidders, positive price maxim can achieve a approximation ratio of 0.5.",
+            "MatchedRegion": [
+                {
+                    "Text": "positive: a price p that achieves approximation factor of (1 - 1/e)/2 22 0.316 against first-best welfare",
+                    "BoundingBox": {
+                        "Width": 0.8540698289871216,
+                        "Height": 0.09861914068460464,
+                        "Left": 0.07007338106632233,
+                        "Top": 0.24481281638145447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f0edbbe1-5a0b-4d9f-8a3d-768d0ada47e6",
+                    "Score": 0.8777908086776733
+                },
+                {
+                    "Text": "negative: no price p achieves approximation ratio better than 0.479",
+                    "BoundingBox": {
+                        "Width": 0.7424963712692261,
+                        "Height": 0.047371793538331985,
+                        "Left": 0.07037194818258286,
+                        "Top": 0.4087483286857605
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22c0c4de-9d90-4ad7-8464-037f306ce9ed",
+                    "Score": 0.8470834493637085
+                },
+                {
+                    "Text": "for comparison: posted-price mechanisms for utility maximizers achieve 0.5",
+                    "BoundingBox": {
+                        "Width": 0.8322340846061707,
+                        "Height": 0.04588434472680092,
+                        "Left": 0.0958806648850441,
+                        "Top": 0.5215171575546265
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab9351b3-2211-4379-9924-c4a044331aa7",
+                    "Score": 0.8726760745048523
+                },
+                {
+                    "Text": "byproducts:",
+                    "BoundingBox": {
+                        "Width": 0.15032991766929626,
+                        "Height": 0.042047955095767975,
+                        "Left": 0.07012516260147095,
+                        "Top": 0.6296657919883728
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "46b76d83-299d-41a5-adf0-6cfc2dc9aef8",
+                    "Score": 0.7186411023139954
+                },
+                {
+                    "Text": "1/4-approximation in combinatorial auctions",
+                    "BoundingBox": {
+                        "Width": 0.4994426965713501,
+                        "Height": 0.04449917748570442,
+                        "Left": 0.09669119119644165,
+                        "Top": 0.7372907996177673
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0d4f0683-f0be-4f0c-ab8c-1b350aa8c465",
+                    "Score": 0.8620690107345581
+                },
+                {
+                    "Text": "(1 - 1/e)/2-approximation in the long run in dynamic auctions",
+                    "BoundingBox": {
+                        "Width": 0.6940500140190125,
+                        "Height": 0.046084776520729065,
+                        "Left": 0.09727498888969421,
+                        "Top": 0.8496736288070679
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "af6b40e3-420c-4d84-94d8-383e96aaeea9",
+                    "Score": 0.9226233959197998
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,300",
+            "end_time": "00:00:46,989",
+            "transcript": "So this means positive price maxims with alibiders are strictly harder than the positive price maxims with traditional bidders.",
+            "MatchedRegion": [
+                {
+                    "Text": "Main results",
+                    "BoundingBox": {
+                        "Width": 0.3260446786880493,
+                        "Height": 0.08041802793741226,
+                        "Left": 0.3374747633934021,
+                        "Top": 0.06602923572063446
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "17ce5f62-a592-4fea-9678-a0de7aafee66",
+                    "Score": 0.7195111513137817
+                },
+                {
+                    "Text": "positive: a price p that achieves approximation factor of (1 - 1/e)/2 22 0.316 against first-best welfare",
+                    "BoundingBox": {
+                        "Width": 0.8540698289871216,
+                        "Height": 0.09861914068460464,
+                        "Left": 0.07007338106632233,
+                        "Top": 0.24481281638145447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f0edbbe1-5a0b-4d9f-8a3d-768d0ada47e6",
+                    "Score": 0.8777908086776733
+                },
+                {
+                    "Text": "negative: no price p achieves approximation ratio better than 0.479",
+                    "BoundingBox": {
+                        "Width": 0.7424963712692261,
+                        "Height": 0.047371793538331985,
+                        "Left": 0.07037194818258286,
+                        "Top": 0.4087483286857605
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22c0c4de-9d90-4ad7-8464-037f306ce9ed",
+                    "Score": 0.8470834493637085
+                },
+                {
+                    "Text": "for comparison: posted-price mechanisms for utility maximizers achieve 0.5",
+                    "BoundingBox": {
+                        "Width": 0.8322340846061707,
+                        "Height": 0.04588434472680092,
+                        "Left": 0.0958806648850441,
+                        "Top": 0.5215171575546265
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab9351b3-2211-4379-9924-c4a044331aa7",
+                    "Score": 0.8726760745048523
+                },
+                {
+                    "Text": "byproducts:",
+                    "BoundingBox": {
+                        "Width": 0.15032991766929626,
+                        "Height": 0.042047955095767975,
+                        "Left": 0.07012516260147095,
+                        "Top": 0.6296657919883728
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "46b76d83-299d-41a5-adf0-6cfc2dc9aef8",
+                    "Score": 0.7186411023139954
+                },
+                {
+                    "Text": "1/4-approximation in combinatorial auctions",
+                    "BoundingBox": {
+                        "Width": 0.4994426965713501,
+                        "Height": 0.04449917748570442,
+                        "Left": 0.09669119119644165,
+                        "Top": 0.7372907996177673
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0d4f0683-f0be-4f0c-ab8c-1b350aa8c465",
+                    "Score": 0.8620690107345581
+                },
+                {
+                    "Text": "(1 - 1/e)/2-approximation in the long run in dynamic auctions",
+                    "BoundingBox": {
+                        "Width": 0.6940500140190125,
+                        "Height": 0.046084776520729065,
+                        "Left": 0.09727498888969421,
+                        "Top": 0.8496736288070679
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "af6b40e3-420c-4d84-94d8-383e96aaeea9",
+                    "Score": 0.9226233959197998
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:48,080",
+            "end_time": "00:01:00,998",
+            "transcript": "As by-products, we give a one-quarter approximation for combinatorial auctions with all the bitters, and a one-month one-hour E divided by two-year approximation in the long run for dynamic auctions with all the bitters.",
+            "MatchedRegion": [
+                {
+                    "Text": "Main results",
+                    "BoundingBox": {
+                        "Width": 0.3260446786880493,
+                        "Height": 0.08041802793741226,
+                        "Left": 0.3374747633934021,
+                        "Top": 0.06602923572063446
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "17ce5f62-a592-4fea-9678-a0de7aafee66",
+                    "Score": 0.7195111513137817
+                },
+                {
+                    "Text": "positive: a price p that achieves approximation factor of (1 - 1/e)/2 22 0.316 against first-best welfare",
+                    "BoundingBox": {
+                        "Width": 0.8540698289871216,
+                        "Height": 0.09861914068460464,
+                        "Left": 0.07007338106632233,
+                        "Top": 0.24481281638145447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f0edbbe1-5a0b-4d9f-8a3d-768d0ada47e6",
+                    "Score": 0.8777908086776733
+                },
+                {
+                    "Text": "negative: no price p achieves approximation ratio better than 0.479",
+                    "BoundingBox": {
+                        "Width": 0.7424963712692261,
+                        "Height": 0.047371793538331985,
+                        "Left": 0.07037194818258286,
+                        "Top": 0.4087483286857605
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22c0c4de-9d90-4ad7-8464-037f306ce9ed",
+                    "Score": 0.8470834493637085
+                },
+                {
+                    "Text": "for comparison: posted-price mechanisms for utility maximizers achieve 0.5",
+                    "BoundingBox": {
+                        "Width": 0.8322340846061707,
+                        "Height": 0.04588434472680092,
+                        "Left": 0.0958806648850441,
+                        "Top": 0.5215171575546265
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ab9351b3-2211-4379-9924-c4a044331aa7",
+                    "Score": 0.8726760745048523
+                },
+                {
+                    "Text": "byproducts:",
+                    "BoundingBox": {
+                        "Width": 0.15032991766929626,
+                        "Height": 0.042047955095767975,
+                        "Left": 0.07012516260147095,
+                        "Top": 0.6296657919883728
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "46b76d83-299d-41a5-adf0-6cfc2dc9aef8",
+                    "Score": 0.7186411023139954
+                },
+                {
+                    "Text": "1/4-approximation in combinatorial auctions",
+                    "BoundingBox": {
+                        "Width": 0.4994426965713501,
+                        "Height": 0.04449917748570442,
+                        "Left": 0.09669119119644165,
+                        "Top": 0.7372907996177673
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0d4f0683-f0be-4f0c-ab8c-1b350aa8c465",
+                    "Score": 0.8620690107345581
+                },
+                {
+                    "Text": "(1 - 1/e)/2-approximation in the long run in dynamic auctions",
+                    "BoundingBox": {
+                        "Width": 0.6940500140190125,
+                        "Height": 0.046084776520729065,
+                        "Left": 0.09727498888969421,
+                        "Top": 0.8496736288070679
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "af6b40e3-420c-4d84-94d8-383e96aaeea9",
+                    "Score": 0.9226233959197998
+                }
+            ]
+        }
+    ]
+}

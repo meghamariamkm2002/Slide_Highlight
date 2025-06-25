@@ -1,0 +1,63 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:01,390",
+            "end_time": "00:00:05,153",
+            "transcript": "We used the open-source CARLA simulator to collect data for our source domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "We use the open-source CARLA simulator",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.36963438987731934,
+                        "Height": 0.03722042590379715,
+                        "Left": 0.035336658358573914,
+                        "Top": 0.15807127952575684
+                    },
+                    "Id": "d9c8b62d-f3c7-4545-b988-d0d5c34f89cc"
+                },
+                {
+                    "Text": "ego vehicle position is varied by the data agent using a triangle wave function",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6073045134544373,
+                        "Height": 0.0396379716694355,
+                        "Left": 0.07234885543584824,
+                        "Top": 0.39583852887153625
+                    },
+                    "Id": "8df4c7bc-47fa-45f8-8f69-e1974207a3f2"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,713",
+            "end_time": "00:00:09,956",
+            "transcript": "During the dataset collection process, we randomized multiple aspects of the agent and environment.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,837",
+            "end_time": "00:00:18,042",
+            "transcript": "A comparison of agent and environmental variations to other private unit data sets for lane detection can be seen in the table on the slide.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:18,743",
+            "end_time": "00:00:21,965",
+            "transcript": "Please note that none of the other datasets is publicly available at",
+            "MatchedRegion": [
+                {
+                    "Text": "At this point, none of the other datasets is publicly available",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.19395320117473602,
+                        "Height": 0.10615502297878265,
+                        "Left": 0.507716953754425,
+                        "Top": 0.6326955556869507
+                    },
+                    "Id": "69afe0bb-d6f2-402f-a074-a5847c48198e"
+                }
+            ]
+        }
+    ]
+}

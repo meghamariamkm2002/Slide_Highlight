@@ -1,0 +1,4 @@
+this point.
+For the target domain of MOLAN, we capture data with our 1F model vehicle.
+Tracks roughly contain the same proportion of straight and curved segments.
+Randomizations include alternating backgrounds, lightning conditions, surface materials, and lane

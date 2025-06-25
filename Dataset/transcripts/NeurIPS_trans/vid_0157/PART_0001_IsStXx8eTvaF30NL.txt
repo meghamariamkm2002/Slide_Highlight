@@ -1,0 +1,6 @@
+protein.
+For modern drug discovery, a commonly used approach is structure-based drug design.
+And a key problem in structure-based drug design is to predict whether a candidate drug molecule will bind to the target protein and how it will bind.
+This is an extremely challenging problem because the structure of proteins and drug molecules are measured in unit of Armstrong, 0.1 nanometer.
+They are so small that are invisible to the naked eyes.
+Sophisticated experiments have to be built to determine their structures and to study their dynamics is even harder.

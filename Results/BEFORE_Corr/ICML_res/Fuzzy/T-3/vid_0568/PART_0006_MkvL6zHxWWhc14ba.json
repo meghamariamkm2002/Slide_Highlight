@@ -1,0 +1,24 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,447",
+            "end_time": "00:00:01,964",
+            "transcript": "the energies.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_MEOJKJ3n58NsNxBI",
+            "Score": 0.6054132580757141
+        },
+        {
+            "slide": "PART_0001_pXxJk9ctFPwTH6UL",
+            "Score": 0.721255898475647
+        },
+        {
+            "slide": "PART_0005_QY40g5FaK4rHuqfC",
+            "Score": 0.7281044125556946
+        }
+    ]
+}

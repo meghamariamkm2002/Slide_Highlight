@@ -1,0 +1,5 @@
+The focus of our paper is on the macro search space for neural architecture search.
+Now, traditional cell-based approach restricts the search to decide the operation and structure of a single block only, then the same block is tacked repeatedly to form an end-to-end model.
+macrosurface enables the individual search for each block in a DNN, leading to better performance.
+However, it is expensive because the subspace size grows exponentially with the number of blocks.
+To provide a systematic study of the performance of North's algorithm on a macrosurface, we release blocks to first large-scale benchmark and study of a macrosurface.

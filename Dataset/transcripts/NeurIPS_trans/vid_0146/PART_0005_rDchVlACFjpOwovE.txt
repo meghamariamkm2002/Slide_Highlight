@@ -1,0 +1,5 @@
+We noted in order to apply loss terms on the relevance of the foreground in the background, our method requires segmentation maps to distinguish between the background and the foreground of the input image.
+We use either human annotated maps or maps produced by dyno without human supervision.
+Both cases result in a similar improvement to robustness.
+Our method only uses three examples from half the image in classes during the fine-tuning process.
+meaning an overall of only 1500 training samples.

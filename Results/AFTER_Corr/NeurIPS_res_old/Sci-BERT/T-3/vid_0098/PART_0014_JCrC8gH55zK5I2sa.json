@@ -1,0 +1,351 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,370",
+            "end_time": "00:00:06,887",
+            "transcript": "To summarize, we proposed car lane, the first three ways seem to real domain adaptation benchmark for 2D lane detection.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10762323439121246,
+                        "Height": 0.08007747679948807,
+                        "Left": 0.88872230052948,
+                        "Top": 0.012323169969022274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6624884605407715
+                },
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7892009019851685
+                },
+                {
+                    "Text": "The current difficulties of the examined UDA methods to adequately align the source and target domains confirm the need for the proposed CARLANE benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.6553258299827576,
+                        "Height": 0.10743511468172073,
+                        "Left": 0.19662517309188843,
+                        "Top": 0.4423805773258209
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.864892840385437
+                },
+                {
+                    "Text": "UDA methods should be tested with care and under the right conditions on a full- scale car. However, real-world testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+                    "BoundingBox": {
+                        "Width": 0.687352180480957,
+                        "Height": 0.1078205406665802,
+                        "Left": 0.19689255952835083,
+                        "Top": 0.7090115547180176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8182300925254822
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,742",
+            "end_time": "00:00:15,526",
+            "transcript": "The current difficulties of examined UDA methods to align the source and target domains confirm the need for the proposed CARLANE benchmark.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10762323439121246,
+                        "Height": 0.08007747679948807,
+                        "Left": 0.88872230052948,
+                        "Top": 0.012323169969022274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6624884605407715
+                },
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7892009019851685
+                },
+                {
+                    "Text": "The current difficulties of the examined UDA methods to adequately align the source and target domains confirm the need for the proposed CARLANE benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.6553258299827576,
+                        "Height": 0.10743511468172073,
+                        "Left": 0.19662517309188843,
+                        "Top": 0.4423805773258209
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.864892840385437
+                },
+                {
+                    "Text": "UDA methods should be tested with care and under the right conditions on a full- scale car. However, real-world testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+                    "BoundingBox": {
+                        "Width": 0.687352180480957,
+                        "Height": 0.1078205406665802,
+                        "Left": 0.19689255952835083,
+                        "Top": 0.7090115547180176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8182300925254822
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04439406841993332,
+                        "Height": 0.04306706041097641,
+                        "Left": 0.1467668116092682,
+                        "Top": 0.9290515780448914
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6378251314163208
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.06028939038515091,
+                        "Height": 0.018317393958568573,
+                        "Left": 0.859329342842102,
+                        "Top": 0.9453175663948059
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6000791192054749
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,206",
+            "end_time": "00:00:20,449",
+            "transcript": "UDAR methods should be tested with care and under the right conditions on a full-scale car.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10762323439121246,
+                        "Height": 0.08007747679948807,
+                        "Left": 0.88872230052948,
+                        "Top": 0.012323169969022274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6624884605407715
+                },
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7892009019851685
+                },
+                {
+                    "Text": "The current difficulties of the examined UDA methods to adequately align the source and target domains confirm the need for the proposed CARLANE benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.6553258299827576,
+                        "Height": 0.10743511468172073,
+                        "Left": 0.19662517309188843,
+                        "Top": 0.4423805773258209
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.864892840385437
+                },
+                {
+                    "Text": "UDA methods should be tested with care and under the right conditions on a full- scale car. However, real-world testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+                    "BoundingBox": {
+                        "Width": 0.687352180480957,
+                        "Height": 0.1078205406665802,
+                        "Left": 0.19689255952835083,
+                        "Top": 0.7090115547180176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8182300925254822
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04439406841993332,
+                        "Height": 0.04306706041097641,
+                        "Left": 0.1467668116092682,
+                        "Top": 0.9290515780448914
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6378251314163208
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,989",
+            "end_time": "00:00:26,532",
+            "transcript": "However, we were testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10762323439121246,
+                        "Height": 0.08007747679948807,
+                        "Left": 0.88872230052948,
+                        "Top": 0.012323169969022274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6624884605407715
+                },
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7892009019851685
+                },
+                {
+                    "Text": "The current difficulties of the examined UDA methods to adequately align the source and target domains confirm the need for the proposed CARLANE benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.6553258299827576,
+                        "Height": 0.10743511468172073,
+                        "Left": 0.19662517309188843,
+                        "Top": 0.4423805773258209
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.864892840385437
+                },
+                {
+                    "Text": "UDA methods should be tested with care and under the right conditions on a full- scale car. However, real-world testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+                    "BoundingBox": {
+                        "Width": 0.687352180480957,
+                        "Height": 0.1078205406665802,
+                        "Left": 0.19689255952835083,
+                        "Top": 0.7090115547180176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8182300925254822
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04439406841993332,
+                        "Height": 0.04306706041097641,
+                        "Left": 0.1467668116092682,
+                        "Top": 0.9290515780448914
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6378251314163208
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:27,332",
+            "end_time": "00:00:32,335",
+            "transcript": "We believe that CARLANE facilitates the development and comparison of UDA methods for lane detection.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10762323439121246,
+                        "Height": 0.08007747679948807,
+                        "Left": 0.88872230052948,
+                        "Top": 0.012323169969022274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6624884605407715
+                },
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7892009019851685
+                },
+                {
+                    "Text": "The current difficulties of the examined UDA methods to adequately align the source and target domains confirm the need for the proposed CARLANE benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.6553258299827576,
+                        "Height": 0.10743511468172073,
+                        "Left": 0.19662517309188843,
+                        "Top": 0.4423805773258209
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.864892840385437
+                },
+                {
+                    "Text": "UDA methods should be tested with care and under the right conditions on a full- scale car. However, real-world testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+                    "BoundingBox": {
+                        "Width": 0.687352180480957,
+                        "Height": 0.1078205406665802,
+                        "Left": 0.19689255952835083,
+                        "Top": 0.7090115547180176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8182300925254822
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04439406841993332,
+                        "Height": 0.04306706041097641,
+                        "Left": 0.1467668116092682,
+                        "Top": 0.9290515780448914
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6378251314163208
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.06028939038515091,
+                        "Height": 0.018317393958568573,
+                        "Left": 0.859329342842102,
+                        "Top": 0.9453175663948059
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6000791192054749
+                }
+            ]
+        }
+    ]
+}

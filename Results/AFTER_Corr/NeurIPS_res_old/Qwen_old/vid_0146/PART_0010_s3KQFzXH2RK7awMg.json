@@ -1,0 +1,19 @@
+{
+    "MatchedSlides": [
+        "PART_0006_Mzh5vbT43G1OOMZB"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,479",
+            "end_time": "00:00:03,109",
+            "transcript": "Thank you very much for your attention.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:03,512",
+            "end_time": "00:00:05,082",
+            "transcript": "Please check out our code and paper.",
+            "MatchedRegion": []
+        }
+    ]
+}

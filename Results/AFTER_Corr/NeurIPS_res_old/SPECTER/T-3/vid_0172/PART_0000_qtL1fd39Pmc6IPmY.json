@@ -1,0 +1,138 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,557",
+            "end_time": "00:00:14,867",
+            "transcript": "Hi, my name is Ryan from the Singapore University of Technology and Design, and today I'll be presenting a paper, Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games, Conservation Laws and Recurrence.",
+            "MatchedRegion": [
+                {
+                    "Text": "Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games",
+                    "BoundingBox": {
+                        "Width": 0.7172852754592896,
+                        "Height": 0.1472482532262802,
+                        "Left": 0.1412840336561203,
+                        "Top": 0.28572630882263184
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "e4430883-2db3-4aff-a98f-bd7c49f6a797",
+                    "Score": 0.6318211555480957
+                },
+                {
+                    "Text": "Conservation Laws & Recurrence",
+                    "BoundingBox": {
+                        "Width": 0.4797254800796509,
+                        "Height": 0.0464429073035717,
+                        "Left": 0.2603342533111572,
+                        "Top": 0.4454856514930725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d9e5f03b-5937-4b0f-868a-c77079b12d34",
+                    "Score": 0.6360854506492615
+                },
+                {
+                    "Text": "Rahul Jain NUS",
+                    "BoundingBox": {
+                        "Width": 0.1019955575466156,
+                        "Height": 0.08818863332271576,
+                        "Left": 0.20676325261592865,
+                        "Top": 0.6584988832473755
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b91ca975-4598-48cb-95c1-2677244a48b8",
+                    "Score": 0.693838357925415
+                },
+                {
+                    "Text": "Georgios Piliouras SUTD",
+                    "BoundingBox": {
+                        "Width": 0.16124702990055084,
+                        "Height": 0.0866464152932167,
+                        "Left": 0.419063538312912,
+                        "Top": 0.6630883812904358
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8e0d369-9c76-416e-8a60-b02766ab11b7",
+                    "Score": 0.632194995880127
+                },
+                {
+                    "Text": "Ryann Sim SUTD",
+                    "BoundingBox": {
+                        "Width": 0.09258498251438141,
+                        "Height": 0.08676845580339432,
+                        "Left": 0.6893812417984009,
+                        "Top": 0.6629149317741394
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d598248b-a285-4b61-afcb-a13f767df3f9",
+                    "Score": 0.6522189974784851
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,448",
+            "end_time": "00:00:22,775",
+            "transcript": "This paper is joint work with Rahul Jain from the National University of Singapore, as well as Georges Pillares from the Singapore University of Technology and Design.",
+            "MatchedRegion": [
+                {
+                    "Text": "Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games",
+                    "BoundingBox": {
+                        "Width": 0.7172852754592896,
+                        "Height": 0.1472482532262802,
+                        "Left": 0.1412840336561203,
+                        "Top": 0.28572630882263184
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "e4430883-2db3-4aff-a98f-bd7c49f6a797",
+                    "Score": 0.6318211555480957
+                },
+                {
+                    "Text": "Conservation Laws & Recurrence",
+                    "BoundingBox": {
+                        "Width": 0.4797254800796509,
+                        "Height": 0.0464429073035717,
+                        "Left": 0.2603342533111572,
+                        "Top": 0.4454856514930725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d9e5f03b-5937-4b0f-868a-c77079b12d34",
+                    "Score": 0.6360854506492615
+                },
+                {
+                    "Text": "Rahul Jain NUS",
+                    "BoundingBox": {
+                        "Width": 0.1019955575466156,
+                        "Height": 0.08818863332271576,
+                        "Left": 0.20676325261592865,
+                        "Top": 0.6584988832473755
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b91ca975-4598-48cb-95c1-2677244a48b8",
+                    "Score": 0.693838357925415
+                },
+                {
+                    "Text": "Georgios Piliouras SUTD",
+                    "BoundingBox": {
+                        "Width": 0.16124702990055084,
+                        "Height": 0.0866464152932167,
+                        "Left": 0.419063538312912,
+                        "Top": 0.6630883812904358
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e8e0d369-9c76-416e-8a60-b02766ab11b7",
+                    "Score": 0.632194995880127
+                },
+                {
+                    "Text": "Ryann Sim SUTD",
+                    "BoundingBox": {
+                        "Width": 0.09258498251438141,
+                        "Height": 0.08676845580339432,
+                        "Left": 0.6893812417984009,
+                        "Top": 0.6629149317741394
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d598248b-a285-4b61-afcb-a13f767df3f9",
+                    "Score": 0.6522189974784851
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:08,649",
+            "end_time": "00:00:10,610",
+            "transcript": "Hello everyone, this is Jianing Zhu.",
+            "MatchedRegion": [
+                {
+                    "Text": "Jianing Zhu\u00b9 Xiawei Guo\u00b2 Jiangchao Yao 34 Chao Du2 Li He2 Shuo Yuan Tongliang Liu56 Liang Wang2 Bo Han\u00b9",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.782200038433075,
+                        "Height": 0.09865137934684753,
+                        "Left": 0.10490871220827103,
+                        "Top": 0.549735426902771
+                    },
+                    "Id": "4a130995-3998-4007-83e8-e712e081d475"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,231",
+            "end_time": "00:00:17,895",
+            "transcript": "I will present our research work, namely exploring model dynamics for accumulative poisoning discovery.",
+            "MatchedRegion": [
+                {
+                    "Text": "Exploring Model Dynamics for Accumulative Poisoning Discovery",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.8100317716598511,
+                        "Height": 0.12145886570215225,
+                        "Left": 0.09228627383708954,
+                        "Top": 0.2874700427055359
+                    },
+                    "Id": "5e3993b1-8305-4efe-9c0d-7ba211dc20c0"
+                }
+            ]
+        }
+    ]
+}

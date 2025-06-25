@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:04,388",
+            "transcript": "Now turn to the state only and sub-sample regime, settings in which a value dice finds no dice.",
+            "MatchedRegion": [
+                {
+                    "Text": "Standard (state-action) setting",
+                    "BoundingBox": {
+                        "Width": 0.23649393022060394,
+                        "Height": 0.034780945628881454,
+                        "Left": 0.3799848258495331,
+                        "Top": 0.340577095746994
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "ffab311c-37b4-448b-88e7-2c93cea425d4",
+                    "Score": 0.8336502909660339
+                },
+                {
+                    "Text": "HalfCheetah-v2 Walker2d-v2 Ant-v2 Hopper-v2 Humanoid-v2 5000 5000 7000 4000 5000 4000 4000 6000 3000 3000 4000 5000 3000 4000 2000 3000 2000 dac 2000 3000 value_dice 1000 2000 1000 CFIL (ours) 2000 0 1000 bc 1000 1000 0 expert -1000 0 -1000 0 0 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 Env int 1e5 Env int 1e5 Env int 1e5 Env int 1e5 Env int 1e5",
+                    "BoundingBox": {
+                        "Width": 0.7996159195899963,
+                        "Height": 0.3243548572063446,
+                        "Left": 0.11409935355186462,
+                        "Top": 0.45944270491600037
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "2a1b9197-2cbc-4130-9e7b-a1dcdb51c339",
+                    "Score": 0.6648087501525879
+                }
+            ]
+        }
+    ]
+}

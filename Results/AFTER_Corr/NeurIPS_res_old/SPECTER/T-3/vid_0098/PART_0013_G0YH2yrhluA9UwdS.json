@@ -1,0 +1,131 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,850",
+            "end_time": "00:00:08,802",
+            "transcript": "When we zoom in, two specific failure cases can be seen in the highlighted images, where we observe a mis-prediction and a false negative.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3628489077091217,
+                        "Height": 0.06052923575043678,
+                        "Left": 0.03696471080183983,
+                        "Top": 0.03385484963655472
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "e94ad02e-5de4-45a4-8809-3adde3e39fe7",
+                    "Score": 0.7109273076057434
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10558918118476868,
+                        "Height": 0.08029574900865555,
+                        "Left": 0.889891505241394,
+                        "Top": 0.01368435937911272
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "ee1263dc-161d-4702-a2a2-17d9f80dba34",
+                    "Score": 0.6369541883468628
+                },
+                {
+                    "Text": "MoLane TuLane MuLane UFLD-SO DANN ADDA SGADA SGPCS UFLD-TO",
+                    "BoundingBox": {
+                        "Width": 0.4873448312282562,
+                        "Height": 0.5984307527542114,
+                        "Left": 0.2758445143699646,
+                        "Top": 0.16709309816360474
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "6921a06f-6d66-4ee7-b3d0-3d7e67b34895",
+                    "Score": 0.688312292098999
+                },
+                {
+                    "Text": "Qualitative results of target domain predictions. Ground truth lane annotations are marked in blue, predictions in red.",
+                    "BoundingBox": {
+                        "Width": 0.3609820604324341,
+                        "Height": 0.054779890924692154,
+                        "Left": 0.3187371790409088,
+                        "Top": 0.7894008755683899
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "9b0cd642-c115-4753-99c8-6700cb047d6d",
+                    "Score": 0.7887581586837769
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.043606460094451904,
+                        "Height": 0.042490363121032715,
+                        "Left": 0.1468926966190338,
+                        "Top": 0.9292526245117188
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "704b879e-6e09-490c-8f74-7079a3319578",
+                    "Score": 0.7155283689498901
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07854333519935608,
+                        "Height": 0.06491009145975113,
+                        "Left": 0.35020044445991516,
+                        "Top": 0.9233292937278748
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d6da525c-2d94-4730-9079-89825e2a2454",
+                    "Score": 0.6338480710983276
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.02849659137427807,
+                        "Height": 0.034430500119924545,
+                        "Left": 0.4458964467048645,
+                        "Top": 0.9541919827461243
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "2b4dc4a6-679b-47e1-8174-e3a278f8a00e",
+                    "Score": 0.6690076589584351
+                },
+                {
+                    "Text": "n",
+                    "BoundingBox": {
+                        "Width": 0.05802001804113388,
+                        "Height": 0.06766854226589203,
+                        "Left": 0.4547702670097351,
+                        "Top": 0.9211471676826477
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "08c9674c-8f46-4227-b328-c4c7bbb1202a",
+                    "Score": 0.7295717597007751
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.060423944145441055,
+                        "Height": 0.019338959828019142,
+                        "Left": 0.8592074513435364,
+                        "Top": 0.9448112845420837
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "b0521dd1-ba39-4699-b6b6-e454304dec6c",
+                    "Score": 0.7336741089820862
+                },
+                {
+                    "Text": "14",
+                    "BoundingBox": {
+                        "Width": 0.01213733572512865,
+                        "Height": 0.016284961253404617,
+                        "Left": 0.9518300294876099,
+                        "Top": 0.9463415145874023
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "8a1423df-41a2-4bb8-8177-adc1af46b542",
+                    "Score": 0.6887927651405334
+                }
+            ]
+        }
+    ]
+}

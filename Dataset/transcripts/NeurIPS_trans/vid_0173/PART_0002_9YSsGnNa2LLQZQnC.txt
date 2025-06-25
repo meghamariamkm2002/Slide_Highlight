@@ -1,0 +1,10 @@
+These are very different from traditional bidders who are utility maximizers.
+They want to maximize their expected utility, which is the difference between the value and the payment.
+And they don't care about the value, the ratio between value and payment.
+So we understand these bidders quite well.
+We have many maxims for them, like Meyerson's, VCG, hosted pricing, and others.
+They are well studied.
+On the other hand, for alibiders, we don't know so much.
+Alibiders want to maximize their expected value, subject to the ROI constraint, which means the ratio between the expected value and the expected payment should be large enough.
+We do have some maxims for them.
+These maxims involve payment scalers, and sometimes we do prior-free approximations.

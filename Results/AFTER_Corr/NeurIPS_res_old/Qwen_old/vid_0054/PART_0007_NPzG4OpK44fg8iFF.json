@@ -1,0 +1,29 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,600",
+            "end_time": "00:00:12,903",
+            "transcript": "Then regarding the diverse animal species in the real world, it is essential to evaluate the interspecies generalization ability of animal pose estimation models.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:13,563",
+            "end_time": "00:00:23,266",
+            "transcript": "In each experiment, all the instances from a specific family form the test set, while those instances belong to other families are used for training.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:23,946",
+            "end_time": "00:00:33,177",
+            "transcript": "And we can find that the model generalizes well on animal species, where there are similarities between training and test species.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:33,738",
+            "end_time": "00:00:36,702",
+            "transcript": "And for others, the model doesn't generalize well.",
+            "MatchedRegion": []
+        }
+    ]
+}

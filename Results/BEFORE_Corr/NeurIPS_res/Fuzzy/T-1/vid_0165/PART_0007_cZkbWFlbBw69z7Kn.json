@@ -1,0 +1,20 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,411",
+            "end_time": "00:00:08,662",
+            "transcript": "And also, we can see that misinformation is hurting people's subjective emotions toward COVID-19 vaccines.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0001_Oebou1BZy8jTFyby",
+            "Score": 0.6584174633026123
+        },
+        {
+            "slide": "PART_0006_HexOGl6rPG7GZ1xB",
+            "Score": 0.7383264303207397
+        }
+    ]
+}

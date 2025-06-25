@@ -1,0 +1,47 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:02,979",
+            "transcript": "surface of GSM has different behavior compared to GSM.",
+            "MatchedRegion": [
+                {
+                    "Text": "Energy Dynamics of GAMM VS GSEMM",
+                    "BoundingBox": {
+                        "Width": 0.4177436828613281,
+                        "Height": 0.05043898895382881,
+                        "Left": 0.03992759808897972,
+                        "Top": 0.04487449303269386
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "6e37b9c8-0a17-4dfb-9536-79d7ebd5b223",
+                    "Score": 0.7390255331993103
+                },
+                {
+                    "Text": "GAMM has a single attractor state the system converges to.",
+                    "BoundingBox": {
+                        "Width": 0.37458711862564087,
+                        "Height": 0.07729823142290115,
+                        "Left": 0.11975117772817612,
+                        "Top": 0.8361222743988037
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1af26264-7faf-45f0-bb37-b1bc6326e76c",
+                    "Score": 0.7989383339881897
+                },
+                {
+                    "Text": "When the delay is sufficiently high in GSEMM, it has a sequence of meta-stable attractors that the system visits in the dynamical evolution.",
+                    "BoundingBox": {
+                        "Width": 0.4111469089984894,
+                        "Height": 0.1469734013080597,
+                        "Left": 0.5739815831184387,
+                        "Top": 0.8357248306274414
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "b2738c05-fd25-45ac-a40c-7d97002e2392",
+                    "Score": 0.8161793947219849
+                }
+            ]
+        }
+    ]
+}

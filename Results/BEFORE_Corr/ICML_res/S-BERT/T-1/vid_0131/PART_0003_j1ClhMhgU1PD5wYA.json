@@ -1,0 +1,30 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,210",
+            "end_time": "00:00:11,616",
+            "transcript": "We surprisingly find that utilizing the discrepancy information constructed by backtracking historical models can distinguish clean and poignant samples.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:12,336",
+            "end_time": "00:00:22,462",
+            "transcript": "For the underlying mechanism, we attribute it to model dynamics, which reflects different poignant effects of the same sample and different model values.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_rr0nhllbgyhEHg7P",
+            "Score": 0.7387443780899048
+        },
+        {
+            "slide": "PART_0001_R7Vln9RC6tI0pbWc",
+            "Score": 0.8486598134040833
+        },
+        {
+            "slide": "PART_0002_iffnO1aqYieLSNQl",
+            "Score": 0.7067752480506897
+        }
+    ]
+}

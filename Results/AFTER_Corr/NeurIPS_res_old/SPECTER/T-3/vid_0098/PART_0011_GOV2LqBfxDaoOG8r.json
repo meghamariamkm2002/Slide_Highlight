@@ -1,0 +1,517 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,249",
+            "end_time": "00:00:00,629",
+            "transcript": "functions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3628731966018677,
+                        "Height": 0.05841571092605591,
+                        "Left": 0.03737129271030426,
+                        "Top": 0.03467544913291931
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "37ed6564-7dfc-4424-84e0-a182c1681037",
+                    "Score": 0.7280601859092712
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1082473024725914,
+                        "Height": 0.08069175481796265,
+                        "Left": 0.888856828212738,
+                        "Top": 0.01234100479632616
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b7247b72-d6c5-4f4a-a6c8-07abade80b31",
+                    "Score": 0.6827526688575745
+                },
+                {
+                    "Text": "In accordance with the quantitative results, we observe only a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS compared to the supervised baseline UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.8974785804748535,
+                        "Height": 0.07349909096956253,
+                        "Left": 0.03530073165893555,
+                        "Top": 0.16038255393505096
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7a34dd71-a1b8-4fcb-997e-b06b3ce1b81c",
+                    "Score": 0.9688676595687866
+                },
+                {
+                    "Text": "UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.07417614758014679,
+                        "Height": 0.02370857633650303,
+                        "Left": 0.14780546724796295,
+                        "Top": 0.34264808893203735
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "835dcd9a-8a40-44ba-906a-8baacddb96c3",
+                    "Score": 0.7182971835136414
+                },
+                {
+                    "Text": "DANN",
+                    "BoundingBox": {
+                        "Width": 0.0503806509077549,
+                        "Height": 0.02392035722732544,
+                        "Left": 0.31624525785446167,
+                        "Top": 0.34239158034324646
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0814824a-9018-447e-9b36-9172792aca5c",
+                    "Score": 0.7077162861824036
+                },
+                {
+                    "Text": "ADDA",
+                    "BoundingBox": {
+                        "Width": 0.05063377320766449,
+                        "Height": 0.023590510711073875,
+                        "Left": 0.47313737869262695,
+                        "Top": 0.34267091751098633
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "317084c0-f412-4be3-b529-49247170c435",
+                    "Score": 0.8098207712173462
+                },
+                {
+                    "Text": "SGADA",
+                    "BoundingBox": {
+                        "Width": 0.060439229011535645,
+                        "Height": 0.023496026173233986,
+                        "Left": 0.6249956488609314,
+                        "Top": 0.34269434213638306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "808b4760-6c24-4407-902b-ec177c0e4732",
+                    "Score": 0.8232147693634033
+                },
+                {
+                    "Text": "SGPCS",
+                    "BoundingBox": {
+                        "Width": 0.053800318390131,
+                        "Height": 0.024762198328971863,
+                        "Left": 0.7853443026542664,
+                        "Top": 0.3421142101287842
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7185631b-cb85-4548-882f-32d441b1a80a",
+                    "Score": 0.8442530632019043
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04423494264483452,
+                        "Height": 0.043091531842947006,
+                        "Left": 0.1463083028793335,
+                        "Top": 0.9288427829742432
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e3135731-56e6-4852-b3e5-01e3660b47ea",
+                    "Score": 0.7466733455657959
+                },
+                {
+                    "Text": "Institut f\u00fcr Fahrerassistenz und vernetzte Mobilit\u00e4t",
+                    "BoundingBox": {
+                        "Width": 0.1304808259010315,
+                        "Height": 0.040976982563734055,
+                        "Left": 0.1980813890695572,
+                        "Top": 0.9300277829170227
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "588d06ca-b015-48b8-8f5b-535420532c06",
+                    "Score": 0.6576705574989319
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07308080047369003,
+                        "Height": 0.04146956279873848,
+                        "Left": 0.35069945454597473,
+                        "Top": 0.9449445009231567
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "755ba271-f4ad-4396-83b5-b4ec03f79dd4",
+                    "Score": 0.6564227938652039
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06651531904935837,
+                        "Height": 0.06872102618217468,
+                        "Left": 0.44560137391090393,
+                        "Top": 0.9201478958129883
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7d8114f3-df98-4411-a84c-c7d252b1938c",
+                    "Score": 0.6925920248031616
+                },
+                {
+                    "Text": "UAB Universitat Autonoma de Barcelona",
+                    "BoundingBox": {
+                        "Width": 0.07403784990310669,
+                        "Height": 0.06867644190788269,
+                        "Left": 0.5281908512115479,
+                        "Top": 0.9207433462142944
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "d3964d33-48cd-4505-9a15-f96c530eae36",
+                    "Score": 0.6153101921081543
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.061611611396074295,
+                        "Height": 0.01944556087255478,
+                        "Left": 0.8586215376853943,
+                        "Top": 0.944755494594574
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "290155c3-cfff-43e6-8203-0afc8e1dabd8",
+                    "Score": 0.7305573225021362
+                },
+                {
+                    "Text": "12",
+                    "BoundingBox": {
+                        "Width": 0.012359588406980038,
+                        "Height": 0.016759878024458885,
+                        "Left": 0.956969678401947,
+                        "Top": 0.9461775422096252
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "9d511621-0e34-49a7-bfd8-ba07022e75fb",
+                    "Score": 0.7609291076660156
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,510",
+            "end_time": "00:00:08,254",
+            "transcript": "As shown in the t-SNE visualizations, there's a noticeable separation between the source and target domains of Moulin.",
+            "MatchedRegion": [
+                {
+                    "Text": "In accordance with the quantitative results, we observe only a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS compared to the supervised baseline UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.8974785804748535,
+                        "Height": 0.07349909096956253,
+                        "Left": 0.03530073165893555,
+                        "Top": 0.16038255393505096
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7a34dd71-a1b8-4fcb-997e-b06b3ce1b81c",
+                    "Score": 0.9688676595687866
+                },
+                {
+                    "Text": "UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.07417614758014679,
+                        "Height": 0.02370857633650303,
+                        "Left": 0.14780546724796295,
+                        "Top": 0.34264808893203735
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "835dcd9a-8a40-44ba-906a-8baacddb96c3",
+                    "Score": 0.7182971835136414
+                },
+                {
+                    "Text": "DANN",
+                    "BoundingBox": {
+                        "Width": 0.0503806509077549,
+                        "Height": 0.02392035722732544,
+                        "Left": 0.31624525785446167,
+                        "Top": 0.34239158034324646
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0814824a-9018-447e-9b36-9172792aca5c",
+                    "Score": 0.7077162861824036
+                },
+                {
+                    "Text": "ADDA",
+                    "BoundingBox": {
+                        "Width": 0.05063377320766449,
+                        "Height": 0.023590510711073875,
+                        "Left": 0.47313737869262695,
+                        "Top": 0.34267091751098633
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "317084c0-f412-4be3-b529-49247170c435",
+                    "Score": 0.8098207712173462
+                },
+                {
+                    "Text": "SGADA",
+                    "BoundingBox": {
+                        "Width": 0.060439229011535645,
+                        "Height": 0.023496026173233986,
+                        "Left": 0.6249956488609314,
+                        "Top": 0.34269434213638306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "808b4760-6c24-4407-902b-ec177c0e4732",
+                    "Score": 0.8232147693634033
+                },
+                {
+                    "Text": "SGPCS",
+                    "BoundingBox": {
+                        "Width": 0.053800318390131,
+                        "Height": 0.024762198328971863,
+                        "Left": 0.7853443026542664,
+                        "Top": 0.3421142101287842
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7185631b-cb85-4548-882f-32d441b1a80a",
+                    "Score": 0.8442530632019043
+                },
+                {
+                    "Text": "t-SNE visualization of MuLane dataset. The source domain is marked in blue, the real-world model vehicle target domain in red, and the TuSimple domain in green.",
+                    "BoundingBox": {
+                        "Width": 0.7232441902160645,
+                        "Height": 0.05346320569515228,
+                        "Left": 0.13802263140678406,
+                        "Top": 0.6880298256874084
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d10e48b-404a-4d72-8de1-281e0656449e",
+                    "Score": 0.6365929245948792
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04423494264483452,
+                        "Height": 0.043091531842947006,
+                        "Left": 0.1463083028793335,
+                        "Top": 0.9288427829742432
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e3135731-56e6-4852-b3e5-01e3660b47ea",
+                    "Score": 0.7466733455657959
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07308080047369003,
+                        "Height": 0.04146956279873848,
+                        "Left": 0.35069945454597473,
+                        "Top": 0.9449445009231567
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "755ba271-f4ad-4396-83b5-b4ec03f79dd4",
+                    "Score": 0.6564227938652039
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06651531904935837,
+                        "Height": 0.06872102618217468,
+                        "Left": 0.44560137391090393,
+                        "Top": 0.9201478958129883
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7d8114f3-df98-4411-a84c-c7d252b1938c",
+                    "Score": 0.6925920248031616
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.061611611396074295,
+                        "Height": 0.01944556087255478,
+                        "Left": 0.8586215376853943,
+                        "Top": 0.944755494594574
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "290155c3-cfff-43e6-8203-0afc8e1dabd8",
+                    "Score": 0.7305573225021362
+                },
+                {
+                    "Text": "12",
+                    "BoundingBox": {
+                        "Width": 0.012359588406980038,
+                        "Height": 0.016759878024458885,
+                        "Left": 0.956969678401947,
+                        "Top": 0.9461775422096252
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "9d511621-0e34-49a7-bfd8-ba07022e75fb",
+                    "Score": 0.7609291076660156
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,894",
+            "end_time": "00:00:15,918",
+            "transcript": "Therefore, we only observe a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS.",
+            "MatchedRegion": [
+                {
+                    "Text": "Benchmark Experiments",
+                    "BoundingBox": {
+                        "Width": 0.3628731966018677,
+                        "Height": 0.05841571092605591,
+                        "Left": 0.03737129271030426,
+                        "Top": 0.03467544913291931
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "37ed6564-7dfc-4424-84e0-a182c1681037",
+                    "Score": 0.7280601859092712
+                },
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.1082473024725914,
+                        "Height": 0.08069175481796265,
+                        "Left": 0.888856828212738,
+                        "Top": 0.01234100479632616
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "b7247b72-d6c5-4f4a-a6c8-07abade80b31",
+                    "Score": 0.6827526688575745
+                },
+                {
+                    "Text": "In accordance with the quantitative results, we observe only a slight adaptation of the source and target domain features for ADDA, SGADA, and SGPCS compared to the supervised baseline UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.8974785804748535,
+                        "Height": 0.07349909096956253,
+                        "Left": 0.03530073165893555,
+                        "Top": 0.16038255393505096
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7a34dd71-a1b8-4fcb-997e-b06b3ce1b81c",
+                    "Score": 0.9688676595687866
+                },
+                {
+                    "Text": "UFLD-SO",
+                    "BoundingBox": {
+                        "Width": 0.07417614758014679,
+                        "Height": 0.02370857633650303,
+                        "Left": 0.14780546724796295,
+                        "Top": 0.34264808893203735
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "835dcd9a-8a40-44ba-906a-8baacddb96c3",
+                    "Score": 0.7182971835136414
+                },
+                {
+                    "Text": "DANN",
+                    "BoundingBox": {
+                        "Width": 0.0503806509077549,
+                        "Height": 0.02392035722732544,
+                        "Left": 0.31624525785446167,
+                        "Top": 0.34239158034324646
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0814824a-9018-447e-9b36-9172792aca5c",
+                    "Score": 0.7077162861824036
+                },
+                {
+                    "Text": "ADDA",
+                    "BoundingBox": {
+                        "Width": 0.05063377320766449,
+                        "Height": 0.023590510711073875,
+                        "Left": 0.47313737869262695,
+                        "Top": 0.34267091751098633
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "317084c0-f412-4be3-b529-49247170c435",
+                    "Score": 0.8098207712173462
+                },
+                {
+                    "Text": "SGADA",
+                    "BoundingBox": {
+                        "Width": 0.060439229011535645,
+                        "Height": 0.023496026173233986,
+                        "Left": 0.6249956488609314,
+                        "Top": 0.34269434213638306
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "808b4760-6c24-4407-902b-ec177c0e4732",
+                    "Score": 0.8232147693634033
+                },
+                {
+                    "Text": "SGPCS",
+                    "BoundingBox": {
+                        "Width": 0.053800318390131,
+                        "Height": 0.024762198328971863,
+                        "Left": 0.7853443026542664,
+                        "Top": 0.3421142101287842
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7185631b-cb85-4548-882f-32d441b1a80a",
+                    "Score": 0.8442530632019043
+                },
+                {
+                    "Text": "t-SNE visualization of MuLane dataset. The source domain is marked in blue, the real-world model vehicle target domain in red, and the TuSimple domain in green.",
+                    "BoundingBox": {
+                        "Width": 0.7232441902160645,
+                        "Height": 0.05346320569515228,
+                        "Left": 0.13802263140678406,
+                        "Top": 0.6880298256874084
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7d10e48b-404a-4d72-8de1-281e0656449e",
+                    "Score": 0.6365929245948792
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04423494264483452,
+                        "Height": 0.043091531842947006,
+                        "Left": 0.1463083028793335,
+                        "Top": 0.9288427829742432
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e3135731-56e6-4852-b3e5-01e3660b47ea",
+                    "Score": 0.7466733455657959
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07308080047369003,
+                        "Height": 0.04146956279873848,
+                        "Left": 0.35069945454597473,
+                        "Top": 0.9449445009231567
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "755ba271-f4ad-4396-83b5-b4ec03f79dd4",
+                    "Score": 0.6564227938652039
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06651531904935837,
+                        "Height": 0.06872102618217468,
+                        "Left": 0.44560137391090393,
+                        "Top": 0.9201478958129883
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7d8114f3-df98-4411-a84c-c7d252b1938c",
+                    "Score": 0.6925920248031616
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.061611611396074295,
+                        "Height": 0.01944556087255478,
+                        "Left": 0.8586215376853943,
+                        "Top": 0.944755494594574
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "290155c3-cfff-43e6-8203-0afc8e1dabd8",
+                    "Score": 0.7305573225021362
+                },
+                {
+                    "Text": "12",
+                    "BoundingBox": {
+                        "Width": 0.012359588406980038,
+                        "Height": 0.016759878024458885,
+                        "Left": 0.956969678401947,
+                        "Top": 0.9461775422096252
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "9d511621-0e34-49a7-bfd8-ba07022e75fb",
+                    "Score": 0.7609291076660156
+                }
+            ]
+        }
+    ]
+}

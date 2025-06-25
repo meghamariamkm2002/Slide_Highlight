@@ -1,0 +1,5 @@
+start	end	text
+1323	6766	Before diving into the main topic, let us understand concepts from the perspective of a DNN.
+7807	14650	Briefly speaking, each concept is activated when all pixels or words composing this concept exist.
+15591	22615	For example, when we feed a basket image or a basket sentence to the DNN, no concept will be activated.
+23885	31837	However, when less portion of the input sample is masked, as shown in these two examples, more concepts will emerge.

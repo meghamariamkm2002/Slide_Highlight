@@ -1,0 +1,102 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,322",
+            "end_time": "00:00:10,710",
+            "transcript": "Moving on to an ablation, we put into question the need for our squasher, our coupling, and our inductive bias, with results showing that all the alternatives to CFL fail, demonstrating the necessity of its components.",
+            "MatchedRegion": [
+                {
+                    "Text": "Left: We put into question the need for our squasher, our coupling and our inductive bias",
+                    "BoundingBox": {
+                        "Width": 0.8039940595626831,
+                        "Height": 0.04713907465338707,
+                        "Left": 0.08605454117059708,
+                        "Top": 0.23984865844249725
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "779156c9-a4b3-4419-8685-30fe03fac724",
+                    "Score": 0.956140398979187
+                },
+                {
+                    "Text": "All the alternatives fail, demonstrating the necessity of CFIL's components",
+                    "BoundingBox": {
+                        "Width": 0.4029572904109955,
+                        "Height": 0.07775375247001648,
+                        "Left": 0.0971381887793541,
+                        "Top": 0.9035398960113525
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "041de3fa-844a-4007-8600-6dfc31d9010a",
+                    "Score": 0.8527685403823853
+                },
+                {
+                    "Text": "Std 0.08 0.16 0.24 0.32 Avg 1.0 1.0 0.8 0.9 0.8 0.6 0.7 0.4 0.6 0.2 0.5 0.0 0.0 0.2 0.4 0.6 0.8 1.0 Smoothing coefficient B",
+                    "BoundingBox": {
+                        "Width": 0.3072361946105957,
+                        "Height": 0.434156596660614,
+                        "Left": 0.5802661180496216,
+                        "Top": 0.442188560962677
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d90d7dae-8c64-4727-aac7-a98b9acdde92",
+                    "Score": 0.9337913990020752
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,511",
+            "end_time": "00:00:20,938",
+            "transcript": "On the right, we vary CFIL's smoothing and regularization coefficients to test its sensitivity, with results showing both the utility of the smoothing and regularization, as well as CFL's robustness to them.",
+            "MatchedRegion": [
+                {
+                    "Text": "Ablation",
+                    "BoundingBox": {
+                        "Width": 0.15815696120262146,
+                        "Height": 0.05811234563589096,
+                        "Left": 0.08056112378835678,
+                        "Top": 0.13177244365215302
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "23e174e0-a122-4297-a6b9-34dd0b3a043c",
+                    "Score": 0.8387547135353088
+                },
+                {
+                    "Text": "Right: We vary CFIL's smoothing and regularization coefficients to test its sensitivity Each point and value summarizes 25 seeds (5 per environment).",
+                    "BoundingBox": {
+                        "Width": 0.7704725861549377,
+                        "Height": 0.11092165857553482,
+                        "Left": 0.0867759957909584,
+                        "Top": 0.3043769896030426
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "74e75afb-ecea-4978-893a-9f28ba3fee15",
+                    "Score": 0.9067766070365906
+                },
+                {
+                    "Text": "Std 0.08 0.16 0.24 0.32 Avg 1.0 1.0 0.8 0.9 0.8 0.6 0.7 0.4 0.6 0.2 0.5 0.0 0.0 0.2 0.4 0.6 0.8 1.0 Smoothing coefficient B",
+                    "BoundingBox": {
+                        "Width": 0.3072361946105957,
+                        "Height": 0.434156596660614,
+                        "Left": 0.5802661180496216,
+                        "Top": 0.442188560962677
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d90d7dae-8c64-4727-aac7-a98b9acdde92",
+                    "Score": 0.9337913990020752
+                },
+                {
+                    "Text": "Shows both the utility of the smoothing and regularization as well as CFIL's robustness to them",
+                    "BoundingBox": {
+                        "Width": 0.40395888686180115,
+                        "Height": 0.07622344046831131,
+                        "Left": 0.5436915755271912,
+                        "Top": 0.9027597308158875
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fc7adfd3-2d78-4e70-9733-3d0254395544",
+                    "Score": 0.9835455417633057
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,069",
+            "end_time": "00:00:00,849",
+            "transcript": "from the teacher.",
+            "MatchedRegion": [
+                {
+                    "Text": "Test accuracy after distilling for 200 pochs 76.64 76.45 76.10 75.99 76.99 76 76.39 76.15 76.59 75.60 76.05 75 76.01 75.96 75.68 75.63 75.47 74 74.55 74.58 74.92 74.54 74.69 73 73.92 73.72 74.33 74.72 74.37 72 M5 M4 M3 M2 M1 (72.11) (72.25) (74.52) (75.37) (75.39) 71",
+                    "BoundingBox": {
+                        "Width": 0.3753029406070709,
+                        "Height": 0.6186014413833618,
+                        "Left": 0.31316617131233215,
+                        "Top": 0.306014746427536
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "94cb6deb-ebaf-47e3-b2b2-86eedd14a4ec",
+                    "Score": 0.7536569833755493
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:02,350",
+            "end_time": "00:00:10,072",
+            "transcript": "We asked several questions related to the performance model where they are fine-tuned in the block-by-setting compared to that when trained normally.",
+            "MatchedRegion": [
+                {
+                    "Text": "Fine-tuning does not always results in improvement of student models e.g., M1 student drop from 75.39 to 74.37 when using M5 as teacher.",
+                    "BoundingBox": {
+                        "Width": 0.3660535514354706,
+                        "Height": 0.12098250538110733,
+                        "Left": 0.6018325686454773,
+                        "Top": 0.17361652851104736
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0e8d85f4-cc16-475f-b47c-375056d6c2ff",
+                    "Score": 0.8165121674537659
+                },
+                {
+                    "Text": "Test accuracy after distilling for 200 pochs 76.64 76.45 76.10 75.99 76.99 76 76.39 76.15 76.59 75.60 76.05 75 76.01 75.96 75.68 75.63 75.47 74 74.55 74.58 74.92 74.54 74.69 73 73.92 73.72 74.33 74.72 74.37 72 M5 M4 M3 M2 M1 (72.11) (72.25) (74.52) (75.37) (75.39) 71",
+                    "BoundingBox": {
+                        "Width": 0.3753029406070709,
+                        "Height": 0.6186014413833618,
+                        "Left": 0.31316617131233215,
+                        "Top": 0.306014746427536
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "94cb6deb-ebaf-47e3-b2b2-86eedd14a4ec",
+                    "Score": 0.7536569833755493
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,913",
+            "end_time": "00:00:16,255",
+            "transcript": "From the result in this figure, we can see that in all cases, the student model is able to improve upon the teacher.",
+            "MatchedRegion": [
+                {
+                    "Text": "Fine-tuning does not always results in improvement of student models e.g., M1 student drop from 75.39 to 74.37 when using M5 as teacher.",
+                    "BoundingBox": {
+                        "Width": 0.3660535514354706,
+                        "Height": 0.12098250538110733,
+                        "Left": 0.6018325686454773,
+                        "Top": 0.17361652851104736
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0e8d85f4-cc16-475f-b47c-375056d6c2ff",
+                    "Score": 0.8165121674537659
+                },
+                {
+                    "Text": "Test accuracy after distilling for 200 pochs 76.64 76.45 76.10 75.99 76.99 76 76.39 76.15 76.59 75.60 76.05 75 76.01 75.96 75.68 75.63 75.47 74 74.55 74.58 74.92 74.54 74.69 73 73.92 73.72 74.33 74.72 74.37 72 M5 M4 M3 M2 M1 (72.11) (72.25) (74.52) (75.37) (75.39) 71",
+                    "BoundingBox": {
+                        "Width": 0.3753029406070709,
+                        "Height": 0.6186014413833618,
+                        "Left": 0.31316617131233215,
+                        "Top": 0.306014746427536
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "94cb6deb-ebaf-47e3-b2b2-86eedd14a4ec",
+                    "Score": 0.7536569833755493
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:17,055",
+            "end_time": "00:00:25,958",
+            "transcript": "However, when compared to the accuracy achievable when a student is trained normally, fine-tuning does not always result in improvement, especially when a teacher",
+            "MatchedRegion": [
+                {
+                    "Text": "Fine-tuning does not always results in improvement of student models e.g., M1 student drop from 75.39 to 74.37 when using M5 as teacher.",
+                    "BoundingBox": {
+                        "Width": 0.3660535514354706,
+                        "Height": 0.12098250538110733,
+                        "Left": 0.6018325686454773,
+                        "Top": 0.17361652851104736
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0e8d85f4-cc16-475f-b47c-375056d6c2ff",
+                    "Score": 0.8165121674537659
+                },
+                {
+                    "Text": "Test accuracy after distilling for 200 pochs 76.64 76.45 76.10 75.99 76.99 76 76.39 76.15 76.59 75.60 76.05 75 76.01 75.96 75.68 75.63 75.47 74 74.55 74.58 74.92 74.54 74.69 73 73.92 73.72 74.33 74.72 74.37 72 M5 M4 M3 M2 M1 (72.11) (72.25) (74.52) (75.37) (75.39) 71",
+                    "BoundingBox": {
+                        "Width": 0.3753029406070709,
+                        "Height": 0.6186014413833618,
+                        "Left": 0.31316617131233215,
+                        "Top": 0.306014746427536
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "94cb6deb-ebaf-47e3-b2b2-86eedd14a4ec",
+                    "Score": 0.7536569833755493
+                }
+            ]
+        }
+    ]
+}

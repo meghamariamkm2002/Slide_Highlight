@@ -1,0 +1,47 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:04,568",
+            "end_time": "00:00:06,249",
+            "transcript": "Hello, my name is Yijiu Zhang.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,789",
+            "end_time": "00:00:11,091",
+            "transcript": "Today, I will present our work with Du Fucao and Professor Yan Liu.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,672",
+            "end_time": "00:00:17,835",
+            "transcript": "The title is Counterfactual Neural Temporal Point Process for Estimating Cultural Influence of Misinformation on Social Media.",
+            "MatchedRegion": [
+                {
+                    "Text": "Counterfactual Neural Temporal Point Process for Estimating Causal Influence of Misinformation on Social Media",
+                    "BoundingBox": {
+                        "Width": 0.9088357090950012,
+                        "Height": 0.188595712184906,
+                        "Left": 0.04855317622423172,
+                        "Top": 0.26075267791748047
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "207711ba-544a-44a4-8828-d2c9417e391f",
+                    "Score": 0.7992924451828003
+                },
+                {
+                    "Text": "USC Viterbi School of Engineering",
+                    "BoundingBox": {
+                        "Width": 0.19272182881832123,
+                        "Height": 0.06975401937961578,
+                        "Left": 0.02981054224073887,
+                        "Top": 0.8906419277191162
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "8b09d41a-55d8-47b8-81f0-aeb746e356f6",
+                    "Score": 0.711269199848175
+                }
+            ]
+        }
+    ]
+}

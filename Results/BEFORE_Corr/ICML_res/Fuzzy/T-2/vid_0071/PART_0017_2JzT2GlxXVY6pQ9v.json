@@ -1,0 +1,46 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:02,028",
+            "end_time": "00:00:02,451",
+            "transcript": "That's all.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,853",
+            "end_time": "00:00:03,979",
+            "transcript": "Thanks for your attention.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0002_7UasheVn0271vZxY",
+            "Score": 0.6102237701416016
+        },
+        {
+            "slide": "PART_0003_IJo3k2vKnh6kX0I6",
+            "Score": 0.6279518604278564
+        },
+        {
+            "slide": "PART_0007_gAJHVucRXGNHUVOO",
+            "Score": 0.741083025932312
+        },
+        {
+            "slide": "PART_0011_QYBR13eaxxglkli4",
+            "Score": 0.6091164350509644
+        },
+        {
+            "slide": "PART_0013_NO0WUP4NfsuD5QTx",
+            "Score": 0.7642428874969482
+        },
+        {
+            "slide": "PART_0015_9NDegvL7rhPtDnsF",
+            "Score": 0.6629111766815186
+        },
+        {
+            "slide": "PART_0016_ganogv6wCzavNMkU",
+            "Score": 0.628247857093811
+        }
+    ]
+}

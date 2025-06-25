@@ -1,0 +1,375 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,370",
+            "end_time": "00:00:06,887",
+            "transcript": "To summarize, we proposed car lane, the first three ways seem to real domain adaptation benchmark for 2D lane detection.",
+            "MatchedRegion": [
+                {
+                    "Text": "I",
+                    "BoundingBox": {
+                        "Width": 0.0685357004404068,
+                        "Height": 0.14416366815567017,
+                        "Left": 0.07215096801519394,
+                        "Top": 0.17769639194011688
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "aad2a396-2cc8-4e62-b950-e4dc0dfbffe4",
+                    "Score": 0.6865063905715942
+                },
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e7c2f6f1-0471-4097-a607-5773d64193cb",
+                    "Score": 0.8588112592697144
+                },
+                {
+                    "Text": "UDA methods should be tested with care and under the right conditions on a full- scale car. However, real-world testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+                    "BoundingBox": {
+                        "Width": 0.687352180480957,
+                        "Height": 0.1078205406665802,
+                        "Left": 0.19689255952835083,
+                        "Top": 0.7090115547180176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f238c477-0924-4276-917d-8fbc9062dabd",
+                    "Score": 0.7877099514007568
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04439406841993332,
+                        "Height": 0.04306706041097641,
+                        "Left": 0.1467668116092682,
+                        "Top": 0.9290515780448914
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7a5213f8-467a-4ff5-a977-4565240b2b0d",
+                    "Score": 0.6800779104232788
+                },
+                {
+                    "Text": "G",
+                    "BoundingBox": {
+                        "Width": 0.03333507850766182,
+                        "Height": 0.051084965467453,
+                        "Left": 0.39530447125434875,
+                        "Top": 0.9236066341400146
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "fe378e79-044f-489d-82e6-447acec0c684",
+                    "Score": 0.6843235492706299
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06682362407445908,
+                        "Height": 0.06911078095436096,
+                        "Left": 0.44557154178619385,
+                        "Top": 0.9211760759353638
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d13df338-3f33-4543-9034-c28a4d0f5ea8",
+                    "Score": 0.681591272354126
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,742",
+            "end_time": "00:00:15,526",
+            "transcript": "The current difficulties of examined UDAR methods to align the source and target domains confirm the need for the proposed car lane benchmark.",
+            "MatchedRegion": [
+                {
+                    "Text": "I",
+                    "BoundingBox": {
+                        "Width": 0.0685357004404068,
+                        "Height": 0.14416366815567017,
+                        "Left": 0.07215096801519394,
+                        "Top": 0.17769639194011688
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "aad2a396-2cc8-4e62-b950-e4dc0dfbffe4",
+                    "Score": 0.6865063905715942
+                },
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e7c2f6f1-0471-4097-a607-5773d64193cb",
+                    "Score": 0.8588112592697144
+                },
+                {
+                    "Text": "The current difficulties of the examined UDA methods to adequately align the source and target domains confirm the need for the proposed CARLANE benchmark.",
+                    "BoundingBox": {
+                        "Width": 0.6553258299827576,
+                        "Height": 0.10743511468172073,
+                        "Left": 0.19662517309188843,
+                        "Top": 0.4423805773258209
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7224e638-6da6-410d-91ff-5968469688b9",
+                    "Score": 0.7061887979507446
+                },
+                {
+                    "Text": "UDA methods should be tested with care and under the right conditions on a full- scale car. However, real-world testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+                    "BoundingBox": {
+                        "Width": 0.687352180480957,
+                        "Height": 0.1078205406665802,
+                        "Left": 0.19689255952835083,
+                        "Top": 0.7090115547180176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f238c477-0924-4276-917d-8fbc9062dabd",
+                    "Score": 0.7877099514007568
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04439406841993332,
+                        "Height": 0.04306706041097641,
+                        "Left": 0.1467668116092682,
+                        "Top": 0.9290515780448914
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7a5213f8-467a-4ff5-a977-4565240b2b0d",
+                    "Score": 0.6800779104232788
+                },
+                {
+                    "Text": "G",
+                    "BoundingBox": {
+                        "Width": 0.03333507850766182,
+                        "Height": 0.051084965467453,
+                        "Left": 0.39530447125434875,
+                        "Top": 0.9236066341400146
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "fe378e79-044f-489d-82e6-447acec0c684",
+                    "Score": 0.6843235492706299
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06682362407445908,
+                        "Height": 0.06911078095436096,
+                        "Left": 0.44557154178619385,
+                        "Top": 0.9211760759353638
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d13df338-3f33-4543-9034-c28a4d0f5ea8",
+                    "Score": 0.681591272354126
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,206",
+            "end_time": "00:00:20,449",
+            "transcript": "UDAR methods should be tested with care and under the right conditions on a full-scale car.",
+            "MatchedRegion": [
+                {
+                    "Text": "I",
+                    "BoundingBox": {
+                        "Width": 0.0685357004404068,
+                        "Height": 0.14416366815567017,
+                        "Left": 0.07215096801519394,
+                        "Top": 0.17769639194011688
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "aad2a396-2cc8-4e62-b950-e4dc0dfbffe4",
+                    "Score": 0.6865063905715942
+                },
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e7c2f6f1-0471-4097-a607-5773d64193cb",
+                    "Score": 0.8588112592697144
+                },
+                {
+                    "Text": "UDA methods should be tested with care and under the right conditions on a full- scale car. However, real-world testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+                    "BoundingBox": {
+                        "Width": 0.687352180480957,
+                        "Height": 0.1078205406665802,
+                        "Left": 0.19689255952835083,
+                        "Top": 0.7090115547180176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f238c477-0924-4276-917d-8fbc9062dabd",
+                    "Score": 0.7877099514007568
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04439406841993332,
+                        "Height": 0.04306706041097641,
+                        "Left": 0.1467668116092682,
+                        "Top": 0.9290515780448914
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7a5213f8-467a-4ff5-a977-4565240b2b0d",
+                    "Score": 0.6800779104232788
+                },
+                {
+                    "Text": "G",
+                    "BoundingBox": {
+                        "Width": 0.03333507850766182,
+                        "Height": 0.051084965467453,
+                        "Left": 0.39530447125434875,
+                        "Top": 0.9236066341400146
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "fe378e79-044f-489d-82e6-447acec0c684",
+                    "Score": 0.6843235492706299
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06682362407445908,
+                        "Height": 0.06911078095436096,
+                        "Left": 0.44557154178619385,
+                        "Top": 0.9211760759353638
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d13df338-3f33-4543-9034-c28a4d0f5ea8",
+                    "Score": 0.681591272354126
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:20,989",
+            "end_time": "00:00:26,532",
+            "transcript": "However, we were testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+            "MatchedRegion": [
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e7c2f6f1-0471-4097-a607-5773d64193cb",
+                    "Score": 0.8588112592697144
+                },
+                {
+                    "Text": "UDA methods should be tested with care and under the right conditions on a full- scale car. However, real-world testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+                    "BoundingBox": {
+                        "Width": 0.687352180480957,
+                        "Height": 0.1078205406665802,
+                        "Left": 0.19689255952835083,
+                        "Top": 0.7090115547180176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f238c477-0924-4276-917d-8fbc9062dabd",
+                    "Score": 0.7877099514007568
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:27,332",
+            "end_time": "00:00:32,335",
+            "transcript": "We believe that car lane eases the development and comparison of UDAR methods for lane detection.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10762323439121246,
+                        "Height": 0.08007747679948807,
+                        "Left": 0.88872230052948,
+                        "Top": 0.012323169969022274
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "adc5a5c6-ecb3-40a0-9672-55ab4f9c9198",
+                    "Score": 0.6305593252182007
+                },
+                {
+                    "Text": "I",
+                    "BoundingBox": {
+                        "Width": 0.0685357004404068,
+                        "Height": 0.14416366815567017,
+                        "Left": 0.07215096801519394,
+                        "Top": 0.17769639194011688
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "aad2a396-2cc8-4e62-b950-e4dc0dfbffe4",
+                    "Score": 0.6865063905715942
+                },
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e7c2f6f1-0471-4097-a607-5773d64193cb",
+                    "Score": 0.8588112592697144
+                },
+                {
+                    "Text": "UDA methods should be tested with care and under the right conditions on a full- scale car. However, real-world testing in the model vehicle domain can be carried out in a safe and controlled environment.",
+                    "BoundingBox": {
+                        "Width": 0.687352180480957,
+                        "Height": 0.1078205406665802,
+                        "Left": 0.19689255952835083,
+                        "Top": 0.7090115547180176
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f238c477-0924-4276-917d-8fbc9062dabd",
+                    "Score": 0.7877099514007568
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04439406841993332,
+                        "Height": 0.04306706041097641,
+                        "Left": 0.1467668116092682,
+                        "Top": 0.9290515780448914
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "7a5213f8-467a-4ff5-a977-4565240b2b0d",
+                    "Score": 0.6800779104232788
+                },
+                {
+                    "Text": "G",
+                    "BoundingBox": {
+                        "Width": 0.03333507850766182,
+                        "Height": 0.051084965467453,
+                        "Left": 0.39530447125434875,
+                        "Top": 0.9236066341400146
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "fe378e79-044f-489d-82e6-447acec0c684",
+                    "Score": 0.6843235492706299
+                },
+                {
+                    "Text": "Technische Universit\u00e4t Berlin",
+                    "BoundingBox": {
+                        "Width": 0.06682362407445908,
+                        "Height": 0.06911078095436096,
+                        "Left": 0.44557154178619385,
+                        "Top": 0.9211760759353638
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d13df338-3f33-4543-9034-c28a4d0f5ea8",
+                    "Score": 0.681591272354126
+                }
+            ]
+        }
+    ]
+}

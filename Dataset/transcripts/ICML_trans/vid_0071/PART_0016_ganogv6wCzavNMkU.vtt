@@ -1,0 +1,11 @@
+WEBVTT
+
+00:00.009 --> 00:06.752
+However, even if there exists meaningful patterns in the training data, the DNM may still not learn these concepts.
+
+00:07.592 --> 00:12.554
+A typical example is when the task can be conducted with some shortcut solutions.
+
+00:13.635 --> 00:20.118
+In this case, the DNM probably converges to the shortcut solution, without encoding complex concepts.
+

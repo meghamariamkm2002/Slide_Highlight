@@ -1,0 +1,198 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,479",
+            "end_time": "00:00:03,109",
+            "transcript": "Thank you very much for your attention.",
+            "MatchedRegion": [
+                {
+                    "Text": "Hila Chefer, Idan Schwartz, Lior Wolf",
+                    "BoundingBox": {
+                        "Width": 0.2900007963180542,
+                        "Height": 0.028570160269737244,
+                        "Left": 0.34620699286460876,
+                        "Top": 0.4095187187194824
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.6370766162872314
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:03,512",
+            "end_time": "00:00:05,082",
+            "transcript": "Please check out our code and paper.",
+            "MatchedRegion": [
+                {
+                    "Text": "Hila Chefer, Idan Schwartz, Lior Wolf",
+                    "BoundingBox": {
+                        "Width": 0.2900007963180542,
+                        "Height": 0.028570160269737244,
+                        "Left": 0.34620699286460876,
+                        "Top": 0.4095187187194824
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "LAYOUT_SECTION_HEADER",
+                    "Score": 0.6370766162872314
+                },
+                {
+                    "Text": "The School of Computer Science, Tel Aviv University",
+                    "BoundingBox": {
+                        "Width": 0.29003411531448364,
+                        "Height": 0.02298084832727909,
+                        "Left": 0.3457373082637787,
+                        "Top": 0.47005999088287354
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.600503146648407
+                },
+                {
+                    "Text": "A lemon is classified as a golf ball due to the grass in the background:",
+                    "BoundingBox": {
+                        "Width": 0.2690329849720001,
+                        "Height": 0.01696767844259739,
+                        "Left": 0.3465022146701813,
+                        "Top": 0.5352673530578613
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6288394331932068
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.11796467006206512,
+                        "Height": 0.09341698884963989,
+                        "Left": 0.42262348532676697,
+                        "Top": 0.5636034607887268
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6278778314590454
+                },
+                {
+                    "Text": "Golf ball",
+                    "BoundingBox": {
+                        "Width": 0.02996458113193512,
+                        "Height": 0.012151477858424187,
+                        "Left": 0.46725931763648987,
+                        "Top": 0.6555896997451782
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6467297077178955
+                },
+                {
+                    "Text": "An orange is classified as a maze due to the carpet in the background:",
+                    "BoundingBox": {
+                        "Width": 0.2711738646030426,
+                        "Height": 0.01659405045211315,
+                        "Left": 0.34660378098487854,
+                        "Top": 0.6864187717437744
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6424853205680847
+                },
+                {
+                    "Text": "CODE",
+                    "BoundingBox": {
+                        "Width": 0.10257451981306076,
+                        "Height": 0.2580249607563019,
+                        "Left": 0.104679174721241,
+                        "Top": 0.6848087310791016
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6755847334861755
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.12005393207073212,
+                        "Height": 0.08741435408592224,
+                        "Left": 0.42186588048934937,
+                        "Top": 0.7161266803741455
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6278778314590454
+                },
+                {
+                    "Text": "Maze",
+                    "BoundingBox": {
+                        "Width": 0.018817849457263947,
+                        "Height": 0.011963373981416225,
+                        "Left": 0.47345030307769775,
+                        "Top": 0.8077437877655029
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6031850576400757
+                },
+                {
+                    "Text": "Orange",
+                    "BoundingBox": {
+                        "Width": 0.025016572326421738,
+                        "Height": 0.014952331781387329,
+                        "Left": 0.5106237530708313,
+                        "Top": 0.8076481223106384
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6099547147750854
+                },
+                {
+                    "Text": "A school bus is classified as a snowplow due to the snow in the background:",
+                    "BoundingBox": {
+                        "Width": 0.2951641082763672,
+                        "Height": 0.016854217275977135,
+                        "Left": 0.3466207683086395,
+                        "Top": 0.8420891761779785
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6214702725410461
+                },
+                {
+                    "Text": "Input Original Ours",
+                    "BoundingBox": {
+                        "Width": 0.11850717663764954,
+                        "Height": 0.08743228763341904,
+                        "Left": 0.42216530442237854,
+                        "Top": 0.8765813112258911
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6278778314590454
+                },
+                {
+                    "Text": "CODE",
+                    "BoundingBox": {
+                        "Width": 0.10276293754577637,
+                        "Height": 0.25759974122047424,
+                        "Left": 0.7929330468177795,
+                        "Top": 0.6857414841651917
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6755847334861755
+                },
+                {
+                    "Text": "Snowplow School bus",
+                    "BoundingBox": {
+                        "Width": 0.07603272050619125,
+                        "Height": 0.014845808036625385,
+                        "Left": 0.4639095366001129,
+                        "Top": 0.9667671322822571
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.631001353263855
+                }
+            ]
+        }
+    ]
+}

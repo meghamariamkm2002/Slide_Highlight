@@ -1,0 +1,122 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:00,690",
+            "transcript": "Google research.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,333",
+            "end_time": "00:00:06,139",
+            "transcript": "So, what are autobidders or value maximizers?",
+            "MatchedRegion": [
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.8611457943916321,
+                        "Height": 0.07625862956047058,
+                        "Left": 0.06869088113307953,
+                        "Top": 0.06731502711772919
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "34bdcdf4-b7be-4eeb-a5a9-e1109990122f",
+                    "Score": 0.8149394989013672
+                },
+                {
+                    "Text": "autobidders maximize value subject to ROI constraints",
+                    "BoundingBox": {
+                        "Width": 0.6371528506278992,
+                        "Height": 0.042899563908576965,
+                        "Left": 0.09694663435220718,
+                        "Top": 0.7620331645011902
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3ed9f416-4a5f-4360-847f-c91c64e9d95a",
+                    "Score": 0.863684892654419
+                },
+                {
+                    "Text": "common autobidders are target-driven:",
+                    "BoundingBox": {
+                        "Width": 0.46333420276641846,
+                        "Height": 0.043327510356903076,
+                        "Left": 0.0709606409072876,
+                        "Top": 0.4393617510795593
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bd5e668-4159-435c-9cdb-5f5bf2b2ecea",
+                    "Score": 0.7098046541213989
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,960",
+            "end_time": "00:00:11,307",
+            "transcript": "Today, more than 80% of online advertising traffic involves autobidding.",
+            "MatchedRegion": [
+                {
+                    "Text": "more than 80% of online advertising traffic involves autobidding",
+                    "BoundingBox": {
+                        "Width": 0.7389932870864868,
+                        "Height": 0.045326728373765945,
+                        "Left": 0.07028427720069885,
+                        "Top": 0.3299420177936554
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "e3fc892e-d26e-4716-9023-eab8d30417a7",
+                    "Score": 0.9577446579933167
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,245",
+            "end_time": "00:00:28,929",
+            "transcript": "And most common alibators are target-driven, which means they want to get as many acquisitions or as much value as possible, subject to the constraint that the cost per acquisition or the return on investment ratio does not exceed a certain threshold.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:29,970",
+            "end_time": "00:00:34,951",
+            "transcript": "In other words, autobidders want to maximize their value, subject to ROI constraints.",
+            "MatchedRegion": [
+                {
+                    "Text": "autobidders maximize value subject to ROI constraints",
+                    "BoundingBox": {
+                        "Width": 0.6371528506278992,
+                        "Height": 0.042899563908576965,
+                        "Left": 0.09694663435220718,
+                        "Top": 0.7620331645011902
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "3ed9f416-4a5f-4360-847f-c91c64e9d95a",
+                    "Score": 0.863684892654419
+                },
+                {
+                    "Text": "Autobidders and value maximizers",
+                    "BoundingBox": {
+                        "Width": 0.8611457943916321,
+                        "Height": 0.07625862956047058,
+                        "Left": 0.06869088113307953,
+                        "Top": 0.06731502711772919
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "34bdcdf4-b7be-4eeb-a5a9-e1109990122f",
+                    "Score": 0.8149394989013672
+                },
+                {
+                    "Text": "common autobidders are target-driven:",
+                    "BoundingBox": {
+                        "Width": 0.46333420276641846,
+                        "Height": 0.043327510356903076,
+                        "Left": 0.0709606409072876,
+                        "Top": 0.4393617510795593
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bd5e668-4159-435c-9cdb-5f5bf2b2ecea",
+                    "Score": 0.7098046541213989
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": []
+}

@@ -1,0 +1,1 @@
+We evaluated the performance of four kinds of models, statistic, machine learning models, neural networks, general-domain large-scale pre-trained language models, and COVID-19-related pre-trained language models for the NER task and the TSA task on MassCov dataset.

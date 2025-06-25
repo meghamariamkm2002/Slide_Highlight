@@ -1,0 +1,1452 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,775",
+            "end_time": "00:00:04,876",
+            "transcript": "First, let's describe the problem the paper tries to deal with.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.33384355902671814,
+                        "Height": 0.06120728701353073,
+                        "Left": 0.07934241741895676,
+                        "Top": 0.11338723450899124
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "03c3a26a-4a23-405c-ab37-21ad08d6e3b9",
+                    "Score": 0.66538006067276
+                },
+                {
+                    "Text": "Vision models tend to rely on spurious cues to make predictions",
+                    "BoundingBox": {
+                        "Width": 0.5881450176239014,
+                        "Height": 0.03345668315887451,
+                        "Left": 0.07638096064329147,
+                        "Top": 0.216069296002388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bef55a9-bef0-4514-b5b7-494538acef6b",
+                    "Score": 0.7443670034408569
+                },
+                {
+                    "Text": "We find that Vision Transformers often suffer from two main salient issues:",
+                    "BoundingBox": {
+                        "Width": 0.6789045929908752,
+                        "Height": 0.02804054133594036,
+                        "Left": 0.07598841935396194,
+                        "Top": 0.2696458697319031
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a970fec-3f28-4a71-bec4-83cc7b7280f4",
+                    "Score": 0.6745747327804565
+                },
+                {
+                    "Text": "Over reliance on the background",
+                    "BoundingBox": {
+                        "Width": 0.267190545797348,
+                        "Height": 0.027338843792676926,
+                        "Left": 0.11370924860239029,
+                        "Top": 0.3146696984767914
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "65561184-1647-4722-89eb-cb7a93c48d5f",
+                    "Score": 0.720653772354126
+                },
+                {
+                    "Text": "Sparse consideration of the foreground pixels",
+                    "BoundingBox": {
+                        "Width": 0.35242870450019836,
+                        "Height": 0.02780582197010517,
+                        "Left": 0.1138836070895195,
+                        "Top": 0.35135188698768616
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "64be519e-84fe-4139-8d91-47c978383f06",
+                    "Score": 0.6969751119613647
+                },
+                {
+                    "Text": "ViT-base [15]",
+                    "BoundingBox": {
+                        "Width": 0.07187823951244354,
+                        "Height": 0.021982545033097267,
+                        "Left": 0.2818849980831146,
+                        "Top": 0.4071592390537262
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fce4380d-4c9c-4d98-b713-83e2fb741760",
+                    "Score": 0.6889883279800415
+                },
+                {
+                    "Text": "AR-base [54]",
+                    "BoundingBox": {
+                        "Width": 0.07006260007619858,
+                        "Height": 0.02176126092672348,
+                        "Left": 0.4453059136867523,
+                        "Top": 0.40728259086608887
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6de133aa-827e-4a7c-b40e-3d61b23fd735",
+                    "Score": 0.7076670527458191
+                },
+                {
+                    "Text": "DeiT-base [57]",
+                    "BoundingBox": {
+                        "Width": 0.07721170037984848,
+                        "Height": 0.02185712940990925,
+                        "Left": 0.604539692401886,
+                        "Top": 0.4072500169277191
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5e2b5da6-dae4-4240-85bc-1779a0cfd4d9",
+                    "Score": 0.6951804757118225
+                },
+                {
+                    "Text": "This leads to lack of robustness to distribution shifts, i.e., poor generalization",
+                    "BoundingBox": {
+                        "Width": 0.6976851224899292,
+                        "Height": 0.03496260195970535,
+                        "Left": 0.07587239146232605,
+                        "Top": 0.831281840801239
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d8cdf1be-405b-4d1b-85da-0d1c3a5f547d",
+                    "Score": 0.7394181489944458
+                },
+                {
+                    "Text": "Can we correct the model's logic?",
+                    "BoundingBox": {
+                        "Width": 0.273681640625,
+                        "Height": 0.02824333868920803,
+                        "Left": 0.11327361315488815,
+                        "Top": 0.8762390613555908
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19c46297-9ec5-4948-bf03-db6241190901",
+                    "Score": 0.9208410382270813
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:05,757",
+            "end_time": "00:00:10,238",
+            "transcript": "It is a known fact that vision models tend to rely on spurious cues to make their predictions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.33384355902671814,
+                        "Height": 0.06120728701353073,
+                        "Left": 0.07934241741895676,
+                        "Top": 0.11338723450899124
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "03c3a26a-4a23-405c-ab37-21ad08d6e3b9",
+                    "Score": 0.66538006067276
+                },
+                {
+                    "Text": "Vision models tend to rely on spurious cues to make predictions",
+                    "BoundingBox": {
+                        "Width": 0.5881450176239014,
+                        "Height": 0.03345668315887451,
+                        "Left": 0.07638096064329147,
+                        "Top": 0.216069296002388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bef55a9-bef0-4514-b5b7-494538acef6b",
+                    "Score": 0.7443670034408569
+                },
+                {
+                    "Text": "We find that Vision Transformers often suffer from two main salient issues:",
+                    "BoundingBox": {
+                        "Width": 0.6789045929908752,
+                        "Height": 0.02804054133594036,
+                        "Left": 0.07598841935396194,
+                        "Top": 0.2696458697319031
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a970fec-3f28-4a71-bec4-83cc7b7280f4",
+                    "Score": 0.6745747327804565
+                },
+                {
+                    "Text": "Over reliance on the background",
+                    "BoundingBox": {
+                        "Width": 0.267190545797348,
+                        "Height": 0.027338843792676926,
+                        "Left": 0.11370924860239029,
+                        "Top": 0.3146696984767914
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "65561184-1647-4722-89eb-cb7a93c48d5f",
+                    "Score": 0.720653772354126
+                },
+                {
+                    "Text": "Sparse consideration of the foreground pixels",
+                    "BoundingBox": {
+                        "Width": 0.35242870450019836,
+                        "Height": 0.02780582197010517,
+                        "Left": 0.1138836070895195,
+                        "Top": 0.35135188698768616
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "64be519e-84fe-4139-8d91-47c978383f06",
+                    "Score": 0.6969751119613647
+                },
+                {
+                    "Text": "ViT-base [15]",
+                    "BoundingBox": {
+                        "Width": 0.07187823951244354,
+                        "Height": 0.021982545033097267,
+                        "Left": 0.2818849980831146,
+                        "Top": 0.4071592390537262
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fce4380d-4c9c-4d98-b713-83e2fb741760",
+                    "Score": 0.6889883279800415
+                },
+                {
+                    "Text": "AR-base [54]",
+                    "BoundingBox": {
+                        "Width": 0.07006260007619858,
+                        "Height": 0.02176126092672348,
+                        "Left": 0.4453059136867523,
+                        "Top": 0.40728259086608887
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6de133aa-827e-4a7c-b40e-3d61b23fd735",
+                    "Score": 0.7076670527458191
+                },
+                {
+                    "Text": "Classification: Chestnut Confidence: 100%",
+                    "BoundingBox": {
+                        "Width": 0.11274172365665436,
+                        "Height": 0.04296521469950676,
+                        "Left": 0.26203203201293945,
+                        "Top": 0.5821345448493958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d77bf38f-5d40-468a-ba57-66a5011343aa",
+                    "Score": 0.6608479619026184
+                },
+                {
+                    "Text": "Classification: Bullfrog Confidence: 99.1%",
+                    "BoundingBox": {
+                        "Width": 0.11024250090122223,
+                        "Height": 0.04257470741868019,
+                        "Left": 0.42598506808280945,
+                        "Top": 0.5822297930717468
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ec7b46ad-ddf4-45d9-91fb-7aba0f33fba1",
+                    "Score": 0.6566454172134399
+                },
+                {
+                    "Text": "DeiT-base [57]",
+                    "BoundingBox": {
+                        "Width": 0.07721170037984848,
+                        "Height": 0.02185712940990925,
+                        "Left": 0.604539692401886,
+                        "Top": 0.4072500169277191
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5e2b5da6-dae4-4240-85bc-1779a0cfd4d9",
+                    "Score": 0.6951804757118225
+                },
+                {
+                    "Text": "Classification: Dishcloth Confidence: 91.6%",
+                    "BoundingBox": {
+                        "Width": 0.11761951446533203,
+                        "Height": 0.043587181717157364,
+                        "Left": 0.5839260220527649,
+                        "Top": 0.5819491744041443
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a947abc0-5375-4ce9-9ffa-a369038f3c74",
+                    "Score": 0.6897544860839844
+                },
+                {
+                    "Text": "Classification: Schooner Confidence: 97%",
+                    "BoundingBox": {
+                        "Width": 0.11567952483892441,
+                        "Height": 0.04292004182934761,
+                        "Left": 0.26055365800857544,
+                        "Top": 0.7560340166091919
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bc09a835-6802-4f4b-a82d-953433477fd8",
+                    "Score": 0.6614469885826111
+                },
+                {
+                    "Text": "Classification: Zebra Confidence: 99.9%",
+                    "BoundingBox": {
+                        "Width": 0.09786675125360489,
+                        "Height": 0.04272467643022537,
+                        "Left": 0.4322049617767334,
+                        "Top": 0.7561417818069458
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c5e62861-bf39-45e0-b73e-68e6b0d0aa78",
+                    "Score": 0.6493648290634155
+                },
+                {
+                    "Text": "Classification: Lipstick Confidence: 96.1%",
+                    "BoundingBox": {
+                        "Width": 0.10852604359388351,
+                        "Height": 0.042734887450933456,
+                        "Left": 0.5893722176551819,
+                        "Top": 0.7561944723129272
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cbacd540-d456-42a2-b018-614f91405241",
+                    "Score": 0.6601901054382324
+                },
+                {
+                    "Text": "This leads to lack of robustness to distribution shifts, i.e., poor generalization",
+                    "BoundingBox": {
+                        "Width": 0.6976851224899292,
+                        "Height": 0.03496260195970535,
+                        "Left": 0.07587239146232605,
+                        "Top": 0.831281840801239
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d8cdf1be-405b-4d1b-85da-0d1c3a5f547d",
+                    "Score": 0.7394181489944458
+                },
+                {
+                    "Text": "Can we correct the model's logic?",
+                    "BoundingBox": {
+                        "Width": 0.273681640625,
+                        "Height": 0.02824333868920803,
+                        "Left": 0.11327361315488815,
+                        "Top": 0.8762390613555908
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19c46297-9ec5-4948-bf03-db6241190901",
+                    "Score": 0.9208410382270813
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,419",
+            "end_time": "00:00:17,501",
+            "transcript": "In this work, we examine the spurious cues used by vision transformers and find that they suffer from two main issues.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.33384355902671814,
+                        "Height": 0.06120728701353073,
+                        "Left": 0.07934241741895676,
+                        "Top": 0.11338723450899124
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "03c3a26a-4a23-405c-ab37-21ad08d6e3b9",
+                    "Score": 0.66538006067276
+                },
+                {
+                    "Text": "Vision models tend to rely on spurious cues to make predictions",
+                    "BoundingBox": {
+                        "Width": 0.5881450176239014,
+                        "Height": 0.03345668315887451,
+                        "Left": 0.07638096064329147,
+                        "Top": 0.216069296002388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bef55a9-bef0-4514-b5b7-494538acef6b",
+                    "Score": 0.7443670034408569
+                },
+                {
+                    "Text": "We find that Vision Transformers often suffer from two main salient issues:",
+                    "BoundingBox": {
+                        "Width": 0.6789045929908752,
+                        "Height": 0.02804054133594036,
+                        "Left": 0.07598841935396194,
+                        "Top": 0.2696458697319031
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a970fec-3f28-4a71-bec4-83cc7b7280f4",
+                    "Score": 0.6745747327804565
+                },
+                {
+                    "Text": "Over reliance on the background",
+                    "BoundingBox": {
+                        "Width": 0.267190545797348,
+                        "Height": 0.027338843792676926,
+                        "Left": 0.11370924860239029,
+                        "Top": 0.3146696984767914
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "65561184-1647-4722-89eb-cb7a93c48d5f",
+                    "Score": 0.720653772354126
+                },
+                {
+                    "Text": "Sparse consideration of the foreground pixels",
+                    "BoundingBox": {
+                        "Width": 0.35242870450019836,
+                        "Height": 0.02780582197010517,
+                        "Left": 0.1138836070895195,
+                        "Top": 0.35135188698768616
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "64be519e-84fe-4139-8d91-47c978383f06",
+                    "Score": 0.6969751119613647
+                },
+                {
+                    "Text": "ViT-base [15]",
+                    "BoundingBox": {
+                        "Width": 0.07187823951244354,
+                        "Height": 0.021982545033097267,
+                        "Left": 0.2818849980831146,
+                        "Top": 0.4071592390537262
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fce4380d-4c9c-4d98-b713-83e2fb741760",
+                    "Score": 0.6889883279800415
+                },
+                {
+                    "Text": "AR-base [54]",
+                    "BoundingBox": {
+                        "Width": 0.07006260007619858,
+                        "Height": 0.02176126092672348,
+                        "Left": 0.4453059136867523,
+                        "Top": 0.40728259086608887
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6de133aa-827e-4a7c-b40e-3d61b23fd735",
+                    "Score": 0.7076670527458191
+                },
+                {
+                    "Text": "DeiT-base [57]",
+                    "BoundingBox": {
+                        "Width": 0.07721170037984848,
+                        "Height": 0.02185712940990925,
+                        "Left": 0.604539692401886,
+                        "Top": 0.4072500169277191
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5e2b5da6-dae4-4240-85bc-1779a0cfd4d9",
+                    "Score": 0.6951804757118225
+                },
+                {
+                    "Text": "Classification: Dishcloth Confidence: 91.6%",
+                    "BoundingBox": {
+                        "Width": 0.11761951446533203,
+                        "Height": 0.043587181717157364,
+                        "Left": 0.5839260220527649,
+                        "Top": 0.5819491744041443
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a947abc0-5375-4ce9-9ffa-a369038f3c74",
+                    "Score": 0.6897544860839844
+                },
+                {
+                    "Text": "This leads to lack of robustness to distribution shifts, i.e., poor generalization",
+                    "BoundingBox": {
+                        "Width": 0.6976851224899292,
+                        "Height": 0.03496260195970535,
+                        "Left": 0.07587239146232605,
+                        "Top": 0.831281840801239
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d8cdf1be-405b-4d1b-85da-0d1c3a5f547d",
+                    "Score": 0.7394181489944458
+                },
+                {
+                    "Text": "Can we correct the model's logic?",
+                    "BoundingBox": {
+                        "Width": 0.273681640625,
+                        "Height": 0.02824333868920803,
+                        "Left": 0.11327361315488815,
+                        "Top": 0.8762390613555908
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19c46297-9ec5-4948-bf03-db6241190901",
+                    "Score": 0.9208410382270813
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,362",
+            "end_time": "00:00:24,864",
+            "transcript": "The first is overreliance on the image background, and the second is a sparse consideration of the foreground pixels.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.33384355902671814,
+                        "Height": 0.06120728701353073,
+                        "Left": 0.07934241741895676,
+                        "Top": 0.11338723450899124
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "03c3a26a-4a23-405c-ab37-21ad08d6e3b9",
+                    "Score": 0.66538006067276
+                },
+                {
+                    "Text": "Vision models tend to rely on spurious cues to make predictions",
+                    "BoundingBox": {
+                        "Width": 0.5881450176239014,
+                        "Height": 0.03345668315887451,
+                        "Left": 0.07638096064329147,
+                        "Top": 0.216069296002388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bef55a9-bef0-4514-b5b7-494538acef6b",
+                    "Score": 0.7443670034408569
+                },
+                {
+                    "Text": "We find that Vision Transformers often suffer from two main salient issues:",
+                    "BoundingBox": {
+                        "Width": 0.6789045929908752,
+                        "Height": 0.02804054133594036,
+                        "Left": 0.07598841935396194,
+                        "Top": 0.2696458697319031
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a970fec-3f28-4a71-bec4-83cc7b7280f4",
+                    "Score": 0.6745747327804565
+                },
+                {
+                    "Text": "Over reliance on the background",
+                    "BoundingBox": {
+                        "Width": 0.267190545797348,
+                        "Height": 0.027338843792676926,
+                        "Left": 0.11370924860239029,
+                        "Top": 0.3146696984767914
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "65561184-1647-4722-89eb-cb7a93c48d5f",
+                    "Score": 0.720653772354126
+                },
+                {
+                    "Text": "Sparse consideration of the foreground pixels",
+                    "BoundingBox": {
+                        "Width": 0.35242870450019836,
+                        "Height": 0.02780582197010517,
+                        "Left": 0.1138836070895195,
+                        "Top": 0.35135188698768616
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "64be519e-84fe-4139-8d91-47c978383f06",
+                    "Score": 0.6969751119613647
+                },
+                {
+                    "Text": "ViT-base [15]",
+                    "BoundingBox": {
+                        "Width": 0.07187823951244354,
+                        "Height": 0.021982545033097267,
+                        "Left": 0.2818849980831146,
+                        "Top": 0.4071592390537262
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fce4380d-4c9c-4d98-b713-83e2fb741760",
+                    "Score": 0.6889883279800415
+                },
+                {
+                    "Text": "AR-base [54]",
+                    "BoundingBox": {
+                        "Width": 0.07006260007619858,
+                        "Height": 0.02176126092672348,
+                        "Left": 0.4453059136867523,
+                        "Top": 0.40728259086608887
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6de133aa-827e-4a7c-b40e-3d61b23fd735",
+                    "Score": 0.7076670527458191
+                },
+                {
+                    "Text": "Classification: Chestnut Confidence: 100%",
+                    "BoundingBox": {
+                        "Width": 0.11274172365665436,
+                        "Height": 0.04296521469950676,
+                        "Left": 0.26203203201293945,
+                        "Top": 0.5821345448493958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d77bf38f-5d40-468a-ba57-66a5011343aa",
+                    "Score": 0.6608479619026184
+                },
+                {
+                    "Text": "Classification: Bullfrog Confidence: 99.1%",
+                    "BoundingBox": {
+                        "Width": 0.11024250090122223,
+                        "Height": 0.04257470741868019,
+                        "Left": 0.42598506808280945,
+                        "Top": 0.5822297930717468
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ec7b46ad-ddf4-45d9-91fb-7aba0f33fba1",
+                    "Score": 0.6566454172134399
+                },
+                {
+                    "Text": "DeiT-base [57]",
+                    "BoundingBox": {
+                        "Width": 0.07721170037984848,
+                        "Height": 0.02185712940990925,
+                        "Left": 0.604539692401886,
+                        "Top": 0.4072500169277191
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5e2b5da6-dae4-4240-85bc-1779a0cfd4d9",
+                    "Score": 0.6951804757118225
+                },
+                {
+                    "Text": "Classification: Dishcloth Confidence: 91.6%",
+                    "BoundingBox": {
+                        "Width": 0.11761951446533203,
+                        "Height": 0.043587181717157364,
+                        "Left": 0.5839260220527649,
+                        "Top": 0.5819491744041443
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a947abc0-5375-4ce9-9ffa-a369038f3c74",
+                    "Score": 0.6897544860839844
+                },
+                {
+                    "Text": "Classification: Schooner Confidence: 97%",
+                    "BoundingBox": {
+                        "Width": 0.11567952483892441,
+                        "Height": 0.04292004182934761,
+                        "Left": 0.26055365800857544,
+                        "Top": 0.7560340166091919
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bc09a835-6802-4f4b-a82d-953433477fd8",
+                    "Score": 0.6614469885826111
+                },
+                {
+                    "Text": "Classification: Zebra Confidence: 99.9%",
+                    "BoundingBox": {
+                        "Width": 0.09786675125360489,
+                        "Height": 0.04272467643022537,
+                        "Left": 0.4322049617767334,
+                        "Top": 0.7561417818069458
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c5e62861-bf39-45e0-b73e-68e6b0d0aa78",
+                    "Score": 0.6493648290634155
+                },
+                {
+                    "Text": "Classification: Lipstick Confidence: 96.1%",
+                    "BoundingBox": {
+                        "Width": 0.10852604359388351,
+                        "Height": 0.042734887450933456,
+                        "Left": 0.5893722176551819,
+                        "Top": 0.7561944723129272
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cbacd540-d456-42a2-b018-614f91405241",
+                    "Score": 0.6601901054382324
+                },
+                {
+                    "Text": "This leads to lack of robustness to distribution shifts, i.e., poor generalization",
+                    "BoundingBox": {
+                        "Width": 0.6976851224899292,
+                        "Height": 0.03496260195970535,
+                        "Left": 0.07587239146232605,
+                        "Top": 0.831281840801239
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d8cdf1be-405b-4d1b-85da-0d1c3a5f547d",
+                    "Score": 0.7394181489944458
+                },
+                {
+                    "Text": "Can we correct the model's logic?",
+                    "BoundingBox": {
+                        "Width": 0.273681640625,
+                        "Height": 0.02824333868920803,
+                        "Left": 0.11327361315488815,
+                        "Top": 0.8762390613555908
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19c46297-9ec5-4948-bf03-db6241190901",
+                    "Score": 0.9208410382270813
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,865",
+            "end_time": "00:00:28,306",
+            "transcript": "The figure here represents examples of both cases.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.33384355902671814,
+                        "Height": 0.06120728701353073,
+                        "Left": 0.07934241741895676,
+                        "Top": 0.11338723450899124
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "03c3a26a-4a23-405c-ab37-21ad08d6e3b9",
+                    "Score": 0.66538006067276
+                },
+                {
+                    "Text": "Vision models tend to rely on spurious cues to make predictions",
+                    "BoundingBox": {
+                        "Width": 0.5881450176239014,
+                        "Height": 0.03345668315887451,
+                        "Left": 0.07638096064329147,
+                        "Top": 0.216069296002388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bef55a9-bef0-4514-b5b7-494538acef6b",
+                    "Score": 0.7443670034408569
+                },
+                {
+                    "Text": "We find that Vision Transformers often suffer from two main salient issues:",
+                    "BoundingBox": {
+                        "Width": 0.6789045929908752,
+                        "Height": 0.02804054133594036,
+                        "Left": 0.07598841935396194,
+                        "Top": 0.2696458697319031
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a970fec-3f28-4a71-bec4-83cc7b7280f4",
+                    "Score": 0.6745747327804565
+                },
+                {
+                    "Text": "Over reliance on the background",
+                    "BoundingBox": {
+                        "Width": 0.267190545797348,
+                        "Height": 0.027338843792676926,
+                        "Left": 0.11370924860239029,
+                        "Top": 0.3146696984767914
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "65561184-1647-4722-89eb-cb7a93c48d5f",
+                    "Score": 0.720653772354126
+                },
+                {
+                    "Text": "Sparse consideration of the foreground pixels",
+                    "BoundingBox": {
+                        "Width": 0.35242870450019836,
+                        "Height": 0.02780582197010517,
+                        "Left": 0.1138836070895195,
+                        "Top": 0.35135188698768616
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "64be519e-84fe-4139-8d91-47c978383f06",
+                    "Score": 0.6969751119613647
+                },
+                {
+                    "Text": "ViT-base [15]",
+                    "BoundingBox": {
+                        "Width": 0.07187823951244354,
+                        "Height": 0.021982545033097267,
+                        "Left": 0.2818849980831146,
+                        "Top": 0.4071592390537262
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fce4380d-4c9c-4d98-b713-83e2fb741760",
+                    "Score": 0.6889883279800415
+                },
+                {
+                    "Text": "AR-base [54]",
+                    "BoundingBox": {
+                        "Width": 0.07006260007619858,
+                        "Height": 0.02176126092672348,
+                        "Left": 0.4453059136867523,
+                        "Top": 0.40728259086608887
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6de133aa-827e-4a7c-b40e-3d61b23fd735",
+                    "Score": 0.7076670527458191
+                },
+                {
+                    "Text": "Classification: Chestnut Confidence: 100%",
+                    "BoundingBox": {
+                        "Width": 0.11274172365665436,
+                        "Height": 0.04296521469950676,
+                        "Left": 0.26203203201293945,
+                        "Top": 0.5821345448493958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d77bf38f-5d40-468a-ba57-66a5011343aa",
+                    "Score": 0.6608479619026184
+                },
+                {
+                    "Text": "Classification: Bullfrog Confidence: 99.1%",
+                    "BoundingBox": {
+                        "Width": 0.11024250090122223,
+                        "Height": 0.04257470741868019,
+                        "Left": 0.42598506808280945,
+                        "Top": 0.5822297930717468
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ec7b46ad-ddf4-45d9-91fb-7aba0f33fba1",
+                    "Score": 0.6566454172134399
+                },
+                {
+                    "Text": "DeiT-base [57]",
+                    "BoundingBox": {
+                        "Width": 0.07721170037984848,
+                        "Height": 0.02185712940990925,
+                        "Left": 0.604539692401886,
+                        "Top": 0.4072500169277191
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5e2b5da6-dae4-4240-85bc-1779a0cfd4d9",
+                    "Score": 0.6951804757118225
+                },
+                {
+                    "Text": "Classification: Dishcloth Confidence: 91.6%",
+                    "BoundingBox": {
+                        "Width": 0.11761951446533203,
+                        "Height": 0.043587181717157364,
+                        "Left": 0.5839260220527649,
+                        "Top": 0.5819491744041443
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a947abc0-5375-4ce9-9ffa-a369038f3c74",
+                    "Score": 0.6897544860839844
+                },
+                {
+                    "Text": "Classification: Schooner Confidence: 97%",
+                    "BoundingBox": {
+                        "Width": 0.11567952483892441,
+                        "Height": 0.04292004182934761,
+                        "Left": 0.26055365800857544,
+                        "Top": 0.7560340166091919
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bc09a835-6802-4f4b-a82d-953433477fd8",
+                    "Score": 0.6614469885826111
+                },
+                {
+                    "Text": "Classification: Zebra Confidence: 99.9%",
+                    "BoundingBox": {
+                        "Width": 0.09786675125360489,
+                        "Height": 0.04272467643022537,
+                        "Left": 0.4322049617767334,
+                        "Top": 0.7561417818069458
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c5e62861-bf39-45e0-b73e-68e6b0d0aa78",
+                    "Score": 0.6493648290634155
+                },
+                {
+                    "Text": "Classification: Lipstick Confidence: 96.1%",
+                    "BoundingBox": {
+                        "Width": 0.10852604359388351,
+                        "Height": 0.042734887450933456,
+                        "Left": 0.5893722176551819,
+                        "Top": 0.7561944723129272
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cbacd540-d456-42a2-b018-614f91405241",
+                    "Score": 0.6601901054382324
+                },
+                {
+                    "Text": "This leads to lack of robustness to distribution shifts, i.e., poor generalization",
+                    "BoundingBox": {
+                        "Width": 0.6976851224899292,
+                        "Height": 0.03496260195970535,
+                        "Left": 0.07587239146232605,
+                        "Top": 0.831281840801239
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d8cdf1be-405b-4d1b-85da-0d1c3a5f547d",
+                    "Score": 0.7394181489944458
+                },
+                {
+                    "Text": "Can we correct the model's logic?",
+                    "BoundingBox": {
+                        "Width": 0.273681640625,
+                        "Height": 0.02824333868920803,
+                        "Left": 0.11327361315488815,
+                        "Top": 0.8762390613555908
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19c46297-9ec5-4948-bf03-db6241190901",
+                    "Score": 0.9208410382270813
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,130",
+            "end_time": "00:00:40,176",
+            "transcript": "For example, the image here is classified by the model as a chestnut with a confidence of 100%, but the saliency map shows that the model used only the background to make its prediction.",
+            "MatchedRegion": [
+                {
+                    "Text": "Vision models tend to rely on spurious cues to make predictions",
+                    "BoundingBox": {
+                        "Width": 0.5881450176239014,
+                        "Height": 0.03345668315887451,
+                        "Left": 0.07638096064329147,
+                        "Top": 0.216069296002388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bef55a9-bef0-4514-b5b7-494538acef6b",
+                    "Score": 0.7443670034408569
+                },
+                {
+                    "Text": "Over reliance on the background",
+                    "BoundingBox": {
+                        "Width": 0.267190545797348,
+                        "Height": 0.027338843792676926,
+                        "Left": 0.11370924860239029,
+                        "Top": 0.3146696984767914
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "65561184-1647-4722-89eb-cb7a93c48d5f",
+                    "Score": 0.720653772354126
+                },
+                {
+                    "Text": "Sparse consideration of the foreground pixels",
+                    "BoundingBox": {
+                        "Width": 0.35242870450019836,
+                        "Height": 0.02780582197010517,
+                        "Left": 0.1138836070895195,
+                        "Top": 0.35135188698768616
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "64be519e-84fe-4139-8d91-47c978383f06",
+                    "Score": 0.6969751119613647
+                },
+                {
+                    "Text": "ViT-base [15]",
+                    "BoundingBox": {
+                        "Width": 0.07187823951244354,
+                        "Height": 0.021982545033097267,
+                        "Left": 0.2818849980831146,
+                        "Top": 0.4071592390537262
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fce4380d-4c9c-4d98-b713-83e2fb741760",
+                    "Score": 0.6889883279800415
+                },
+                {
+                    "Text": "AR-base [54]",
+                    "BoundingBox": {
+                        "Width": 0.07006260007619858,
+                        "Height": 0.02176126092672348,
+                        "Left": 0.4453059136867523,
+                        "Top": 0.40728259086608887
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6de133aa-827e-4a7c-b40e-3d61b23fd735",
+                    "Score": 0.7076670527458191
+                },
+                {
+                    "Text": "Classification: Chestnut Confidence: 100%",
+                    "BoundingBox": {
+                        "Width": 0.11274172365665436,
+                        "Height": 0.04296521469950676,
+                        "Left": 0.26203203201293945,
+                        "Top": 0.5821345448493958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d77bf38f-5d40-468a-ba57-66a5011343aa",
+                    "Score": 0.6608479619026184
+                },
+                {
+                    "Text": "Classification: Bullfrog Confidence: 99.1%",
+                    "BoundingBox": {
+                        "Width": 0.11024250090122223,
+                        "Height": 0.04257470741868019,
+                        "Left": 0.42598506808280945,
+                        "Top": 0.5822297930717468
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ec7b46ad-ddf4-45d9-91fb-7aba0f33fba1",
+                    "Score": 0.6566454172134399
+                },
+                {
+                    "Text": "DeiT-base [57]",
+                    "BoundingBox": {
+                        "Width": 0.07721170037984848,
+                        "Height": 0.02185712940990925,
+                        "Left": 0.604539692401886,
+                        "Top": 0.4072500169277191
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5e2b5da6-dae4-4240-85bc-1779a0cfd4d9",
+                    "Score": 0.6951804757118225
+                },
+                {
+                    "Text": "Classification: Dishcloth Confidence: 91.6%",
+                    "BoundingBox": {
+                        "Width": 0.11761951446533203,
+                        "Height": 0.043587181717157364,
+                        "Left": 0.5839260220527649,
+                        "Top": 0.5819491744041443
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a947abc0-5375-4ce9-9ffa-a369038f3c74",
+                    "Score": 0.6897544860839844
+                },
+                {
+                    "Text": "Classification: Schooner Confidence: 97%",
+                    "BoundingBox": {
+                        "Width": 0.11567952483892441,
+                        "Height": 0.04292004182934761,
+                        "Left": 0.26055365800857544,
+                        "Top": 0.7560340166091919
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bc09a835-6802-4f4b-a82d-953433477fd8",
+                    "Score": 0.6614469885826111
+                },
+                {
+                    "Text": "Classification: Zebra Confidence: 99.9%",
+                    "BoundingBox": {
+                        "Width": 0.09786675125360489,
+                        "Height": 0.04272467643022537,
+                        "Left": 0.4322049617767334,
+                        "Top": 0.7561417818069458
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c5e62861-bf39-45e0-b73e-68e6b0d0aa78",
+                    "Score": 0.6493648290634155
+                },
+                {
+                    "Text": "Classification: Lipstick Confidence: 96.1%",
+                    "BoundingBox": {
+                        "Width": 0.10852604359388351,
+                        "Height": 0.042734887450933456,
+                        "Left": 0.5893722176551819,
+                        "Top": 0.7561944723129272
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cbacd540-d456-42a2-b018-614f91405241",
+                    "Score": 0.6601901054382324
+                },
+                {
+                    "Text": "This leads to lack of robustness to distribution shifts, i.e., poor generalization",
+                    "BoundingBox": {
+                        "Width": 0.6976851224899292,
+                        "Height": 0.03496260195970535,
+                        "Left": 0.07587239146232605,
+                        "Top": 0.831281840801239
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d8cdf1be-405b-4d1b-85da-0d1c3a5f547d",
+                    "Score": 0.7394181489944458
+                },
+                {
+                    "Text": "Can we correct the model's logic?",
+                    "BoundingBox": {
+                        "Width": 0.273681640625,
+                        "Height": 0.02824333868920803,
+                        "Left": 0.11327361315488815,
+                        "Top": 0.8762390613555908
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19c46297-9ec5-4948-bf03-db6241190901",
+                    "Score": 0.9208410382270813
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:41,577",
+            "end_time": "00:00:45,979",
+            "transcript": "This can lead to lack of robustness to distribution shifts and poor generalization.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.33384355902671814,
+                        "Height": 0.06120728701353073,
+                        "Left": 0.07934241741895676,
+                        "Top": 0.11338723450899124
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "03c3a26a-4a23-405c-ab37-21ad08d6e3b9",
+                    "Score": 0.66538006067276
+                },
+                {
+                    "Text": "Vision models tend to rely on spurious cues to make predictions",
+                    "BoundingBox": {
+                        "Width": 0.5881450176239014,
+                        "Height": 0.03345668315887451,
+                        "Left": 0.07638096064329147,
+                        "Top": 0.216069296002388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bef55a9-bef0-4514-b5b7-494538acef6b",
+                    "Score": 0.7443670034408569
+                },
+                {
+                    "Text": "We find that Vision Transformers often suffer from two main salient issues:",
+                    "BoundingBox": {
+                        "Width": 0.6789045929908752,
+                        "Height": 0.02804054133594036,
+                        "Left": 0.07598841935396194,
+                        "Top": 0.2696458697319031
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a970fec-3f28-4a71-bec4-83cc7b7280f4",
+                    "Score": 0.6745747327804565
+                },
+                {
+                    "Text": "Over reliance on the background",
+                    "BoundingBox": {
+                        "Width": 0.267190545797348,
+                        "Height": 0.027338843792676926,
+                        "Left": 0.11370924860239029,
+                        "Top": 0.3146696984767914
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "65561184-1647-4722-89eb-cb7a93c48d5f",
+                    "Score": 0.720653772354126
+                },
+                {
+                    "Text": "Sparse consideration of the foreground pixels",
+                    "BoundingBox": {
+                        "Width": 0.35242870450019836,
+                        "Height": 0.02780582197010517,
+                        "Left": 0.1138836070895195,
+                        "Top": 0.35135188698768616
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "64be519e-84fe-4139-8d91-47c978383f06",
+                    "Score": 0.6969751119613647
+                },
+                {
+                    "Text": "ViT-base [15]",
+                    "BoundingBox": {
+                        "Width": 0.07187823951244354,
+                        "Height": 0.021982545033097267,
+                        "Left": 0.2818849980831146,
+                        "Top": 0.4071592390537262
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fce4380d-4c9c-4d98-b713-83e2fb741760",
+                    "Score": 0.6889883279800415
+                },
+                {
+                    "Text": "AR-base [54]",
+                    "BoundingBox": {
+                        "Width": 0.07006260007619858,
+                        "Height": 0.02176126092672348,
+                        "Left": 0.4453059136867523,
+                        "Top": 0.40728259086608887
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6de133aa-827e-4a7c-b40e-3d61b23fd735",
+                    "Score": 0.7076670527458191
+                },
+                {
+                    "Text": "Classification: Chestnut Confidence: 100%",
+                    "BoundingBox": {
+                        "Width": 0.11274172365665436,
+                        "Height": 0.04296521469950676,
+                        "Left": 0.26203203201293945,
+                        "Top": 0.5821345448493958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d77bf38f-5d40-468a-ba57-66a5011343aa",
+                    "Score": 0.6608479619026184
+                },
+                {
+                    "Text": "Classification: Bullfrog Confidence: 99.1%",
+                    "BoundingBox": {
+                        "Width": 0.11024250090122223,
+                        "Height": 0.04257470741868019,
+                        "Left": 0.42598506808280945,
+                        "Top": 0.5822297930717468
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ec7b46ad-ddf4-45d9-91fb-7aba0f33fba1",
+                    "Score": 0.6566454172134399
+                },
+                {
+                    "Text": "DeiT-base [57]",
+                    "BoundingBox": {
+                        "Width": 0.07721170037984848,
+                        "Height": 0.02185712940990925,
+                        "Left": 0.604539692401886,
+                        "Top": 0.4072500169277191
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5e2b5da6-dae4-4240-85bc-1779a0cfd4d9",
+                    "Score": 0.6951804757118225
+                },
+                {
+                    "Text": "Classification: Dishcloth Confidence: 91.6%",
+                    "BoundingBox": {
+                        "Width": 0.11761951446533203,
+                        "Height": 0.043587181717157364,
+                        "Left": 0.5839260220527649,
+                        "Top": 0.5819491744041443
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a947abc0-5375-4ce9-9ffa-a369038f3c74",
+                    "Score": 0.6897544860839844
+                },
+                {
+                    "Text": "Classification: Schooner Confidence: 97%",
+                    "BoundingBox": {
+                        "Width": 0.11567952483892441,
+                        "Height": 0.04292004182934761,
+                        "Left": 0.26055365800857544,
+                        "Top": 0.7560340166091919
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bc09a835-6802-4f4b-a82d-953433477fd8",
+                    "Score": 0.6614469885826111
+                },
+                {
+                    "Text": "Classification: Zebra Confidence: 99.9%",
+                    "BoundingBox": {
+                        "Width": 0.09786675125360489,
+                        "Height": 0.04272467643022537,
+                        "Left": 0.4322049617767334,
+                        "Top": 0.7561417818069458
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c5e62861-bf39-45e0-b73e-68e6b0d0aa78",
+                    "Score": 0.6493648290634155
+                },
+                {
+                    "Text": "Classification: Lipstick Confidence: 96.1%",
+                    "BoundingBox": {
+                        "Width": 0.10852604359388351,
+                        "Height": 0.042734887450933456,
+                        "Left": 0.5893722176551819,
+                        "Top": 0.7561944723129272
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cbacd540-d456-42a2-b018-614f91405241",
+                    "Score": 0.6601901054382324
+                },
+                {
+                    "Text": "This leads to lack of robustness to distribution shifts, i.e., poor generalization",
+                    "BoundingBox": {
+                        "Width": 0.6976851224899292,
+                        "Height": 0.03496260195970535,
+                        "Left": 0.07587239146232605,
+                        "Top": 0.831281840801239
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d8cdf1be-405b-4d1b-85da-0d1c3a5f547d",
+                    "Score": 0.7394181489944458
+                },
+                {
+                    "Text": "Can we correct the model's logic?",
+                    "BoundingBox": {
+                        "Width": 0.273681640625,
+                        "Height": 0.02824333868920803,
+                        "Left": 0.11327361315488815,
+                        "Top": 0.8762390613555908
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19c46297-9ec5-4948-bf03-db6241190901",
+                    "Score": 0.9208410382270813
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:46,759",
+            "end_time": "00:00:49,521",
+            "transcript": "We ask ourselves, can we correct the model's logic?",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BoundingBox": {
+                        "Width": 0.33384355902671814,
+                        "Height": 0.06120728701353073,
+                        "Left": 0.07934241741895676,
+                        "Top": 0.11338723450899124
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "03c3a26a-4a23-405c-ab37-21ad08d6e3b9",
+                    "Score": 0.66538006067276
+                },
+                {
+                    "Text": "Vision models tend to rely on spurious cues to make predictions",
+                    "BoundingBox": {
+                        "Width": 0.5881450176239014,
+                        "Height": 0.03345668315887451,
+                        "Left": 0.07638096064329147,
+                        "Top": 0.216069296002388
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0bef55a9-bef0-4514-b5b7-494538acef6b",
+                    "Score": 0.7443670034408569
+                },
+                {
+                    "Text": "We find that Vision Transformers often suffer from two main salient issues:",
+                    "BoundingBox": {
+                        "Width": 0.6789045929908752,
+                        "Height": 0.02804054133594036,
+                        "Left": 0.07598841935396194,
+                        "Top": 0.2696458697319031
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6a970fec-3f28-4a71-bec4-83cc7b7280f4",
+                    "Score": 0.6745747327804565
+                },
+                {
+                    "Text": "Over reliance on the background",
+                    "BoundingBox": {
+                        "Width": 0.267190545797348,
+                        "Height": 0.027338843792676926,
+                        "Left": 0.11370924860239029,
+                        "Top": 0.3146696984767914
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "65561184-1647-4722-89eb-cb7a93c48d5f",
+                    "Score": 0.720653772354126
+                },
+                {
+                    "Text": "Sparse consideration of the foreground pixels",
+                    "BoundingBox": {
+                        "Width": 0.35242870450019836,
+                        "Height": 0.02780582197010517,
+                        "Left": 0.1138836070895195,
+                        "Top": 0.35135188698768616
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "64be519e-84fe-4139-8d91-47c978383f06",
+                    "Score": 0.6969751119613647
+                },
+                {
+                    "Text": "ViT-base [15]",
+                    "BoundingBox": {
+                        "Width": 0.07187823951244354,
+                        "Height": 0.021982545033097267,
+                        "Left": 0.2818849980831146,
+                        "Top": 0.4071592390537262
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "fce4380d-4c9c-4d98-b713-83e2fb741760",
+                    "Score": 0.6889883279800415
+                },
+                {
+                    "Text": "AR-base [54]",
+                    "BoundingBox": {
+                        "Width": 0.07006260007619858,
+                        "Height": 0.02176126092672348,
+                        "Left": 0.4453059136867523,
+                        "Top": 0.40728259086608887
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "6de133aa-827e-4a7c-b40e-3d61b23fd735",
+                    "Score": 0.7076670527458191
+                },
+                {
+                    "Text": "Classification: Chestnut Confidence: 100%",
+                    "BoundingBox": {
+                        "Width": 0.11274172365665436,
+                        "Height": 0.04296521469950676,
+                        "Left": 0.26203203201293945,
+                        "Top": 0.5821345448493958
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d77bf38f-5d40-468a-ba57-66a5011343aa",
+                    "Score": 0.6608479619026184
+                },
+                {
+                    "Text": "Classification: Bullfrog Confidence: 99.1%",
+                    "BoundingBox": {
+                        "Width": 0.11024250090122223,
+                        "Height": 0.04257470741868019,
+                        "Left": 0.42598506808280945,
+                        "Top": 0.5822297930717468
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "ec7b46ad-ddf4-45d9-91fb-7aba0f33fba1",
+                    "Score": 0.6566454172134399
+                },
+                {
+                    "Text": "DeiT-base [57]",
+                    "BoundingBox": {
+                        "Width": 0.07721170037984848,
+                        "Height": 0.02185712940990925,
+                        "Left": 0.604539692401886,
+                        "Top": 0.4072500169277191
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5e2b5da6-dae4-4240-85bc-1779a0cfd4d9",
+                    "Score": 0.6951804757118225
+                },
+                {
+                    "Text": "Classification: Dishcloth Confidence: 91.6%",
+                    "BoundingBox": {
+                        "Width": 0.11761951446533203,
+                        "Height": 0.043587181717157364,
+                        "Left": 0.5839260220527649,
+                        "Top": 0.5819491744041443
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "a947abc0-5375-4ce9-9ffa-a369038f3c74",
+                    "Score": 0.6897544860839844
+                },
+                {
+                    "Text": "Classification: Schooner Confidence: 97%",
+                    "BoundingBox": {
+                        "Width": 0.11567952483892441,
+                        "Height": 0.04292004182934761,
+                        "Left": 0.26055365800857544,
+                        "Top": 0.7560340166091919
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "bc09a835-6802-4f4b-a82d-953433477fd8",
+                    "Score": 0.6614469885826111
+                },
+                {
+                    "Text": "Classification: Zebra Confidence: 99.9%",
+                    "BoundingBox": {
+                        "Width": 0.09786675125360489,
+                        "Height": 0.04272467643022537,
+                        "Left": 0.4322049617767334,
+                        "Top": 0.7561417818069458
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c5e62861-bf39-45e0-b73e-68e6b0d0aa78",
+                    "Score": 0.6493648290634155
+                },
+                {
+                    "Text": "Classification: Lipstick Confidence: 96.1%",
+                    "BoundingBox": {
+                        "Width": 0.10852604359388351,
+                        "Height": 0.042734887450933456,
+                        "Left": 0.5893722176551819,
+                        "Top": 0.7561944723129272
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cbacd540-d456-42a2-b018-614f91405241",
+                    "Score": 0.6601901054382324
+                },
+                {
+                    "Text": "This leads to lack of robustness to distribution shifts, i.e., poor generalization",
+                    "BoundingBox": {
+                        "Width": 0.6976851224899292,
+                        "Height": 0.03496260195970535,
+                        "Left": 0.07587239146232605,
+                        "Top": 0.831281840801239
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d8cdf1be-405b-4d1b-85da-0d1c3a5f547d",
+                    "Score": 0.7394181489944458
+                },
+                {
+                    "Text": "Can we correct the model's logic?",
+                    "BoundingBox": {
+                        "Width": 0.273681640625,
+                        "Height": 0.02824333868920803,
+                        "Left": 0.11327361315488815,
+                        "Top": 0.8762390613555908
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19c46297-9ec5-4948-bf03-db6241190901",
+                    "Score": 0.9208410382270813
+                },
+                {
+                    "Text": ".00\u00b0C",
+                    "BoundingBox": {
+                        "Width": 0.1315004676580429,
+                        "Height": 0.11644171923398972,
+                        "Left": 0.5780247449874878,
+                        "Top": 0.45670604705810547
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "bf04040b-1f95-49db-907c-02cd788b166d",
+                    "Score": 0.6099649667739868
+                }
+            ]
+        }
+    ]
+}

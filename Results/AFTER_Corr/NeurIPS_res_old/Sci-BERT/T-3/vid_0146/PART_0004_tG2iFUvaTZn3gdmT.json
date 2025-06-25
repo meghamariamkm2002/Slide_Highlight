@@ -1,0 +1,260 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,033",
+            "end_time": "00:00:09,075",
+            "transcript": "Unlike other methods, our method employs the losses during a short fine-tuning process on models that were already pre-trained on ImageNet.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our method employs the losses during a short finetuning process on models pretrained on ImageNet.",
+                    "BoundingBox": {
+                        "Width": 0.8197826743125916,
+                        "Height": 0.073668472468853,
+                        "Left": 0.07627316564321518,
+                        "Top": 0.2884747385978699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8173516988754272
+                },
+                {
+                    "Text": "We add a classification loss (Lclassification) to ensure that the accuracy of the model does not decrease due to the finetuning process.",
+                    "BoundingBox": {
+                        "Width": 0.8146907091140747,
+                        "Height": 0.07732146233320236,
+                        "Left": 0.07634074240922928,
+                        "Top": 0.3804417848587036
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.864935040473938
+                },
+                {
+                    "Text": "Lclassification = CE (M(i),arg max(M(i)))",
+                    "BoundingBox": {
+                        "Width": 0.3473127484321594,
+                        "Height": 0.039166923612356186,
+                        "Left": 0.3101721405982971,
+                        "Top": 0.5122442841529846
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7365187406539917
+                },
+                {
+                    "Text": "Thus, our final loss term is as follows:",
+                    "BoundingBox": {
+                        "Width": 0.3657882511615753,
+                        "Height": 0.0322716124355793,
+                        "Left": 0.07585328817367554,
+                        "Top": 0.6036859750747681
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8975203037261963
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,016",
+            "end_time": "00:00:17,418",
+            "transcript": "We add a classification loss (Lclassification) to ensure that the accuracy of the models does not decrease due to the fine-tuning process.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our method employs the losses during a short finetuning process on models pretrained on ImageNet.",
+                    "BoundingBox": {
+                        "Width": 0.8197826743125916,
+                        "Height": 0.073668472468853,
+                        "Left": 0.07627316564321518,
+                        "Top": 0.2884747385978699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8173516988754272
+                },
+                {
+                    "Text": "We add a classification loss (Lclassification) to ensure that the accuracy of the model does not decrease due to the finetuning process.",
+                    "BoundingBox": {
+                        "Width": 0.8146907091140747,
+                        "Height": 0.07732146233320236,
+                        "Left": 0.07634074240922928,
+                        "Top": 0.3804417848587036
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.864935040473938
+                },
+                {
+                    "Text": "Lclassification = CE (M(i),arg max(M(i)))",
+                    "BoundingBox": {
+                        "Width": 0.3473127484321594,
+                        "Height": 0.039166923612356186,
+                        "Left": 0.3101721405982971,
+                        "Top": 0.5122442841529846
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7365187406539917
+                },
+                {
+                    "Text": "Thus, our final loss term is as follows:",
+                    "BoundingBox": {
+                        "Width": 0.3657882511615753,
+                        "Height": 0.0322716124355793,
+                        "Left": 0.07585328817367554,
+                        "Top": 0.6036859750747681
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8975203037261963
+                },
+                {
+                    "Text": "L = \\relevance . L relevance + 1classification . Lclassification",
+                    "BoundingBox": {
+                        "Width": 0.4049413204193115,
+                        "Height": 0.03534063696861267,
+                        "Left": 0.2818087339401245,
+                        "Top": 0.6953251361846924
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6144599914550781
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,418",
+            "end_time": "00:00:24,800",
+            "transcript": "The formulation of our classification loss is as follows, and it encourages the model to have high confidence on its predictions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our method employs the losses during a short finetuning process on models pretrained on ImageNet.",
+                    "BoundingBox": {
+                        "Width": 0.8197826743125916,
+                        "Height": 0.073668472468853,
+                        "Left": 0.07627316564321518,
+                        "Top": 0.2884747385978699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8173516988754272
+                },
+                {
+                    "Text": "We add a classification loss (Lclassification) to ensure that the accuracy of the model does not decrease due to the finetuning process.",
+                    "BoundingBox": {
+                        "Width": 0.8146907091140747,
+                        "Height": 0.07732146233320236,
+                        "Left": 0.07634074240922928,
+                        "Top": 0.3804417848587036
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.864935040473938
+                },
+                {
+                    "Text": "Lclassification = CE (M(i),arg max(M(i)))",
+                    "BoundingBox": {
+                        "Width": 0.3473127484321594,
+                        "Height": 0.039166923612356186,
+                        "Left": 0.3101721405982971,
+                        "Top": 0.5122442841529846
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7365187406539917
+                },
+                {
+                    "Text": "Thus, our final loss term is as follows:",
+                    "BoundingBox": {
+                        "Width": 0.3657882511615753,
+                        "Height": 0.0322716124355793,
+                        "Left": 0.07585328817367554,
+                        "Top": 0.6036859750747681
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8975203037261963
+                },
+                {
+                    "Text": "L = \\relevance . L relevance + 1classification . Lclassification",
+                    "BoundingBox": {
+                        "Width": 0.4049413204193115,
+                        "Height": 0.03534063696861267,
+                        "Left": 0.2818087339401245,
+                        "Top": 0.6953251361846924
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6144599914550781
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,970",
+            "end_time": "00:00:32,154",
+            "transcript": "Thus, our final loss term is formulated as follows as a combination of the relevance and the classification loss.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our method employs the losses during a short finetuning process on models pretrained on ImageNet.",
+                    "BoundingBox": {
+                        "Width": 0.8197826743125916,
+                        "Height": 0.073668472468853,
+                        "Left": 0.07627316564321518,
+                        "Top": 0.2884747385978699
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8173516988754272
+                },
+                {
+                    "Text": "We add a classification loss (Lclassification) to ensure that the accuracy of the model does not decrease due to the finetuning process.",
+                    "BoundingBox": {
+                        "Width": 0.8146907091140747,
+                        "Height": 0.07732146233320236,
+                        "Left": 0.07634074240922928,
+                        "Top": 0.3804417848587036
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.864935040473938
+                },
+                {
+                    "Text": "Lclassification = CE (M(i),arg max(M(i)))",
+                    "BoundingBox": {
+                        "Width": 0.3473127484321594,
+                        "Height": 0.039166923612356186,
+                        "Left": 0.3101721405982971,
+                        "Top": 0.5122442841529846
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.7365187406539917
+                },
+                {
+                    "Text": "Thus, our final loss term is as follows:",
+                    "BoundingBox": {
+                        "Width": 0.3657882511615753,
+                        "Height": 0.0322716124355793,
+                        "Left": 0.07585328817367554,
+                        "Top": 0.6036859750747681
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.8975203037261963
+                },
+                {
+                    "Text": "L = \\relevance . L relevance + 1classification . Lclassification",
+                    "BoundingBox": {
+                        "Width": 0.4049413204193115,
+                        "Height": 0.03534063696861267,
+                        "Left": 0.2818087339401245,
+                        "Top": 0.6953251361846924
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6144599914550781
+                }
+            ]
+        }
+    ]
+}

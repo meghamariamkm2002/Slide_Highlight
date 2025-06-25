@@ -1,0 +1,52 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,169",
+            "end_time": "00:00:00,809",
+            "transcript": "benchmarking.",
+            "MatchedRegion": [
+                {
+                    "Text": "3 Model Benchmarking",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.2927423119544983,
+                        "Height": 0.046421151608228683,
+                        "Left": 0.02827976457774639,
+                        "Top": 0.05057132989168167
+                    },
+                    "Id": "71f52b0a-68de-4fd6-90d1-3edcda4b0187"
+                },
+                {
+                    "Text": "3.2 Targeted Sentiment Analysis (TSA) Benchmarking",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.5449218153953552,
+                        "Height": 0.04028749838471413,
+                        "Left": 0.0276185255497694,
+                        "Top": 0.14098258316516876
+                    },
+                    "Id": "c7bd48f0-e81f-4d7b-874b-91c8ce42a289"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,870",
+            "end_time": "00:00:12,995",
+            "transcript": "We can observe that models incorporating COVID trigger birds as feature extractor significantly outperform other types of models on these TSA subsets.",
+            "MatchedRegion": [
+                {
+                    "Text": "The pre-trained models on COVID-19 tweets, such as COVID-TWITTER-BERT, can be utilized to further improve the performance of previous TSA models on the METS-CoV-TSA.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8601208329200745,
+                        "Height": 0.06591028720140457,
+                        "Left": 0.0812235176563263,
+                        "Top": 0.27065807580947876
+                    },
+                    "Id": "fa1b285f-f3d0-485a-8615-f9c7484998ea"
+                }
+            ]
+        }
+    ]
+}

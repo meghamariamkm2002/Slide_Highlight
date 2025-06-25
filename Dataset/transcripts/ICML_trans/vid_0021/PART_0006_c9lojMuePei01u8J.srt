@@ -1,0 +1,4 @@
+1
+00:00:00,009 --> 00:00:04,388
+Now turn to the state only and sub-sample regime, settings in which a value dice finds no dice.
+

@@ -1,0 +1,646 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,689",
+            "end_time": "00:00:10,472",
+            "transcript": "First, in single-frame animal pose estimations, we benchmark simple baseline HRNet, HRFormer, and VIT pose method.",
+            "MatchedRegion": [
+                {
+                    "Text": "Single-frame animal pose estimation(SF)",
+                    "BoundingBox": {
+                        "Width": 0.5049900412559509,
+                        "Height": 0.04929318279027939,
+                        "Left": 0.01511473674327135,
+                        "Top": 0.05734691023826599
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "694577b8-dee8-45e6-8a9c-65ef51068437",
+                    "Score": 0.6654396057128906
+                },
+                {
+                    "Text": "1. In the SF track, we benchmark the representative CNN-based and vision transformer-based pose estimation methods, including SimpleBaseline, HRNet, HRFormer, and ViTPose.",
+                    "BoundingBox": {
+                        "Width": 0.668667197227478,
+                        "Height": 0.06537051498889923,
+                        "Left": 0.13635852932929993,
+                        "Top": 0.4930015504360199
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "73711d8b-59bc-4e0a-b927-f0ba9346abe1",
+                    "Score": 0.6305143237113953
+                },
+                {
+                    "Text": "2. We set up three settings to benchmark their performance, including using network weights pre-trained on the ImageNet-IK dataset, the MS COCO human pose estimation dataset, and the AP-10K dataset, respectively.",
+                    "BoundingBox": {
+                        "Width": 0.7309826612472534,
+                        "Height": 0.10129302740097046,
+                        "Left": 0.13311152160167694,
+                        "Top": 0.56454998254776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c18e4d5e-a9cb-44b8-9a88-f521fe295149",
+                    "Score": 0.6580593585968018
+                },
+                {
+                    "Text": "1. With human pose pre-training. both CNN-based and vision transformer-based methods show performance gains.",
+                    "BoundingBox": {
+                        "Width": 0.7342926263809204,
+                        "Height": 0.06499436497688293,
+                        "Left": 0.13615207374095917,
+                        "Top": 0.7437034845352173
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1d2517c9-1612-4f3d-8c36-bb8e1aebe5e3",
+                    "Score": 0.6409847140312195
+                },
+                {
+                    "Text": "2. Besides, the benefit of using AP-10K for pretraining is less than that of using the human pose dataset for pre-training, no matter for CNN-based models or vision transformer-based models.",
+                    "BoundingBox": {
+                        "Width": 0.7279670834541321,
+                        "Height": 0.06640434265136719,
+                        "Left": 0.1327075958251953,
+                        "Top": 0.8148069977760315
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0c7d67fa-954e-4b80-b973-0a44c8b3a182",
+                    "Score": 0.7558709383010864
+                },
+                {
+                    "Text": "1. We suspect such performance drop is caused by the difference of distribution and data source between the AP-10K and APT-36K dataset, as well as the scale different of MS COCO and AP-10K.",
+                    "BoundingBox": {
+                        "Width": 0.7000420689582825,
+                        "Height": 0.06311198323965073,
+                        "Left": 0.17267058789730072,
+                        "Top": 0.8863859176635742
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5efca252-2f89-4232-861a-660fffdc7dd5",
+                    "Score": 0.8020157217979431
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:11,132",
+            "end_time": "00:00:21,915",
+            "transcript": "We set up three settings to benchmark their performance, including user network weights per trend on ImageNet, Cocoa, and AP10000 dataset.",
+            "MatchedRegion": [
+                {
+                    "Text": "Single-frame animal pose estimation(SF)",
+                    "BoundingBox": {
+                        "Width": 0.5049900412559509,
+                        "Height": 0.04929318279027939,
+                        "Left": 0.01511473674327135,
+                        "Top": 0.05734691023826599
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "694577b8-dee8-45e6-8a9c-65ef51068437",
+                    "Score": 0.6654396057128906
+                },
+                {
+                    "Text": "SimpleBaseline SimpleBaseline HRNet HRNet HRFormer HRFormer ViTPose (ResNet-50) (ResNet-101) (HRNet-w32) (HRNet-w48) (HRFormer-S) (HRFormer-B) (ViT-B) INIK 69.41.2 69.61.3 74.241.1 74.1 40.8 71.3+0.8 74.2+0.9 77.41.0 COCO 73.71.2 73.5 1.1 76.4+0.5 77.4+0.7 74.61.0 76.6 .0.9 78.3+0.8 Acoco 4.3 3.9 2.2 3.3 3.3 2.4 0.9 AP-10K 72.4 .0.9 72.4+ 1.0 75.9 1.2 76.4+ 0.7 72.6 0.9 75.20.7 78.2+0.7 AP-10K 3.0 2.8 1.7 2.3 1.3 1.0 0.8",
+                    "BoundingBox": {
+                        "Width": 0.7879526019096375,
+                        "Height": 0.22136589884757996,
+                        "Left": 0.09987485408782959,
+                        "Top": 0.18267063796520233
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "8485d16e-5897-4fd7-b835-b1009c3d49e8",
+                    "Score": 0.6507176756858826
+                },
+                {
+                    "Text": "1. Settings:",
+                    "BoundingBox": {
+                        "Width": 0.08851318806409836,
+                        "Height": 0.02880430407822132,
+                        "Left": 0.09634621441364288,
+                        "Top": 0.4579847753047943
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "cbf2b879-746c-420a-9080-29432f40778b",
+                    "Score": 0.6326335668563843
+                },
+                {
+                    "Text": "1. In the SF track, we benchmark the representative CNN-based and vision transformer-based pose estimation methods, including SimpleBaseline, HRNet, HRFormer, and ViTPose.",
+                    "BoundingBox": {
+                        "Width": 0.668667197227478,
+                        "Height": 0.06537051498889923,
+                        "Left": 0.13635852932929993,
+                        "Top": 0.4930015504360199
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "73711d8b-59bc-4e0a-b927-f0ba9346abe1",
+                    "Score": 0.6305143237113953
+                },
+                {
+                    "Text": "2. We set up three settings to benchmark their performance, including using network weights pre-trained on the ImageNet-IK dataset, the MS COCO human pose estimation dataset, and the AP-10K dataset, respectively.",
+                    "BoundingBox": {
+                        "Width": 0.7309826612472534,
+                        "Height": 0.10129302740097046,
+                        "Left": 0.13311152160167694,
+                        "Top": 0.56454998254776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c18e4d5e-a9cb-44b8-9a88-f521fe295149",
+                    "Score": 0.6580593585968018
+                },
+                {
+                    "Text": "1. With human pose pre-training. both CNN-based and vision transformer-based methods show performance gains.",
+                    "BoundingBox": {
+                        "Width": 0.7342926263809204,
+                        "Height": 0.06499436497688293,
+                        "Left": 0.13615207374095917,
+                        "Top": 0.7437034845352173
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1d2517c9-1612-4f3d-8c36-bb8e1aebe5e3",
+                    "Score": 0.6409847140312195
+                },
+                {
+                    "Text": "2. Besides, the benefit of using AP-10K for pretraining is less than that of using the human pose dataset for pre-training, no matter for CNN-based models or vision transformer-based models.",
+                    "BoundingBox": {
+                        "Width": 0.7279670834541321,
+                        "Height": 0.06640434265136719,
+                        "Left": 0.1327075958251953,
+                        "Top": 0.8148069977760315
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0c7d67fa-954e-4b80-b973-0a44c8b3a182",
+                    "Score": 0.7558709383010864
+                },
+                {
+                    "Text": "1. We suspect such performance drop is caused by the difference of distribution and data source between the AP-10K and APT-36K dataset, as well as the scale different of MS COCO and AP-10K.",
+                    "BoundingBox": {
+                        "Width": 0.7000420689582825,
+                        "Height": 0.06311198323965073,
+                        "Left": 0.17267058789730072,
+                        "Top": 0.8863859176635742
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5efca252-2f89-4232-861a-660fffdc7dd5",
+                    "Score": 0.8020157217979431
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,455",
+            "end_time": "00:00:26,716",
+            "transcript": "With human pose per training, both scene-based and vision-transformer",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.0743844285607338,
+                        "Height": 0.0235415231436491,
+                        "Left": 0.9197969436645508,
+                        "Top": 0.03242512419819832
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "40756e3a-6e8a-4e54-bb2a-c8f2bba2838b",
+                    "Score": 0.61701899766922
+                },
+                {
+                    "Text": "Single-frame animal pose estimation(SF)",
+                    "BoundingBox": {
+                        "Width": 0.5049900412559509,
+                        "Height": 0.04929318279027939,
+                        "Left": 0.01511473674327135,
+                        "Top": 0.05734691023826599
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "694577b8-dee8-45e6-8a9c-65ef51068437",
+                    "Score": 0.6654396057128906
+                },
+                {
+                    "Text": "SimpleBaseline SimpleBaseline HRNet HRNet HRFormer HRFormer ViTPose (ResNet-50) (ResNet-101) (HRNet-w32) (HRNet-w48) (HRFormer-S) (HRFormer-B) (ViT-B) INIK 69.41.2 69.61.3 74.241.1 74.1 40.8 71.3+0.8 74.2+0.9 77.41.0 COCO 73.71.2 73.5 1.1 76.4+0.5 77.4+0.7 74.61.0 76.6 .0.9 78.3+0.8 Acoco 4.3 3.9 2.2 3.3 3.3 2.4 0.9 AP-10K 72.4 .0.9 72.4+ 1.0 75.9 1.2 76.4+ 0.7 72.6 0.9 75.20.7 78.2+0.7 AP-10K 3.0 2.8 1.7 2.3 1.3 1.0 0.8",
+                    "BoundingBox": {
+                        "Width": 0.7879526019096375,
+                        "Height": 0.22136589884757996,
+                        "Left": 0.09987485408782959,
+                        "Top": 0.18267063796520233
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "8485d16e-5897-4fd7-b835-b1009c3d49e8",
+                    "Score": 0.6507176756858826
+                },
+                {
+                    "Text": "1. Settings:",
+                    "BoundingBox": {
+                        "Width": 0.08851318806409836,
+                        "Height": 0.02880430407822132,
+                        "Left": 0.09634621441364288,
+                        "Top": 0.4579847753047943
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "cbf2b879-746c-420a-9080-29432f40778b",
+                    "Score": 0.6326335668563843
+                },
+                {
+                    "Text": "1. In the SF track, we benchmark the representative CNN-based and vision transformer-based pose estimation methods, including SimpleBaseline, HRNet, HRFormer, and ViTPose.",
+                    "BoundingBox": {
+                        "Width": 0.668667197227478,
+                        "Height": 0.06537051498889923,
+                        "Left": 0.13635852932929993,
+                        "Top": 0.4930015504360199
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "73711d8b-59bc-4e0a-b927-f0ba9346abe1",
+                    "Score": 0.6305143237113953
+                },
+                {
+                    "Text": "2. We set up three settings to benchmark their performance, including using network weights pre-trained on the ImageNet-IK dataset, the MS COCO human pose estimation dataset, and the AP-10K dataset, respectively.",
+                    "BoundingBox": {
+                        "Width": 0.7309826612472534,
+                        "Height": 0.10129302740097046,
+                        "Left": 0.13311152160167694,
+                        "Top": 0.56454998254776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c18e4d5e-a9cb-44b8-9a88-f521fe295149",
+                    "Score": 0.6580593585968018
+                },
+                {
+                    "Text": "1. With human pose pre-training. both CNN-based and vision transformer-based methods show performance gains.",
+                    "BoundingBox": {
+                        "Width": 0.7342926263809204,
+                        "Height": 0.06499436497688293,
+                        "Left": 0.13615207374095917,
+                        "Top": 0.7437034845352173
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1d2517c9-1612-4f3d-8c36-bb8e1aebe5e3",
+                    "Score": 0.6409847140312195
+                },
+                {
+                    "Text": "2. Besides, the benefit of using AP-10K for pretraining is less than that of using the human pose dataset for pre-training, no matter for CNN-based models or vision transformer-based models.",
+                    "BoundingBox": {
+                        "Width": 0.7279670834541321,
+                        "Height": 0.06640434265136719,
+                        "Left": 0.1327075958251953,
+                        "Top": 0.8148069977760315
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0c7d67fa-954e-4b80-b973-0a44c8b3a182",
+                    "Score": 0.7558709383010864
+                },
+                {
+                    "Text": "1. We suspect such performance drop is caused by the difference of distribution and data source between the AP-10K and APT-36K dataset, as well as the scale different of MS COCO and AP-10K.",
+                    "BoundingBox": {
+                        "Width": 0.7000420689582825,
+                        "Height": 0.06311198323965073,
+                        "Left": 0.17267058789730072,
+                        "Top": 0.8863859176635742
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5efca252-2f89-4232-861a-660fffdc7dd5",
+                    "Score": 0.8020157217979431
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:27,296",
+            "end_time": "00:00:29,499",
+            "transcript": "These methods show performance gains.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.0743844285607338,
+                        "Height": 0.0235415231436491,
+                        "Left": 0.9197969436645508,
+                        "Top": 0.03242512419819832
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "40756e3a-6e8a-4e54-bb2a-c8f2bba2838b",
+                    "Score": 0.61701899766922
+                },
+                {
+                    "Text": "Single-frame animal pose estimation(SF)",
+                    "BoundingBox": {
+                        "Width": 0.5049900412559509,
+                        "Height": 0.04929318279027939,
+                        "Left": 0.01511473674327135,
+                        "Top": 0.05734691023826599
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "694577b8-dee8-45e6-8a9c-65ef51068437",
+                    "Score": 0.6654396057128906
+                },
+                {
+                    "Text": "SimpleBaseline SimpleBaseline HRNet HRNet HRFormer HRFormer ViTPose (ResNet-50) (ResNet-101) (HRNet-w32) (HRNet-w48) (HRFormer-S) (HRFormer-B) (ViT-B) INIK 69.41.2 69.61.3 74.241.1 74.1 40.8 71.3+0.8 74.2+0.9 77.41.0 COCO 73.71.2 73.5 1.1 76.4+0.5 77.4+0.7 74.61.0 76.6 .0.9 78.3+0.8 Acoco 4.3 3.9 2.2 3.3 3.3 2.4 0.9 AP-10K 72.4 .0.9 72.4+ 1.0 75.9 1.2 76.4+ 0.7 72.6 0.9 75.20.7 78.2+0.7 AP-10K 3.0 2.8 1.7 2.3 1.3 1.0 0.8",
+                    "BoundingBox": {
+                        "Width": 0.7879526019096375,
+                        "Height": 0.22136589884757996,
+                        "Left": 0.09987485408782959,
+                        "Top": 0.18267063796520233
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "8485d16e-5897-4fd7-b835-b1009c3d49e8",
+                    "Score": 0.6507176756858826
+                },
+                {
+                    "Text": "1. Settings:",
+                    "BoundingBox": {
+                        "Width": 0.08851318806409836,
+                        "Height": 0.02880430407822132,
+                        "Left": 0.09634621441364288,
+                        "Top": 0.4579847753047943
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "cbf2b879-746c-420a-9080-29432f40778b",
+                    "Score": 0.6326335668563843
+                },
+                {
+                    "Text": "1. In the SF track, we benchmark the representative CNN-based and vision transformer-based pose estimation methods, including SimpleBaseline, HRNet, HRFormer, and ViTPose.",
+                    "BoundingBox": {
+                        "Width": 0.668667197227478,
+                        "Height": 0.06537051498889923,
+                        "Left": 0.13635852932929993,
+                        "Top": 0.4930015504360199
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "73711d8b-59bc-4e0a-b927-f0ba9346abe1",
+                    "Score": 0.6305143237113953
+                },
+                {
+                    "Text": "2. We set up three settings to benchmark their performance, including using network weights pre-trained on the ImageNet-IK dataset, the MS COCO human pose estimation dataset, and the AP-10K dataset, respectively.",
+                    "BoundingBox": {
+                        "Width": 0.7309826612472534,
+                        "Height": 0.10129302740097046,
+                        "Left": 0.13311152160167694,
+                        "Top": 0.56454998254776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c18e4d5e-a9cb-44b8-9a88-f521fe295149",
+                    "Score": 0.6580593585968018
+                },
+                {
+                    "Text": "1. With human pose pre-training. both CNN-based and vision transformer-based methods show performance gains.",
+                    "BoundingBox": {
+                        "Width": 0.7342926263809204,
+                        "Height": 0.06499436497688293,
+                        "Left": 0.13615207374095917,
+                        "Top": 0.7437034845352173
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1d2517c9-1612-4f3d-8c36-bb8e1aebe5e3",
+                    "Score": 0.6409847140312195
+                },
+                {
+                    "Text": "2. Besides, the benefit of using AP-10K for pretraining is less than that of using the human pose dataset for pre-training, no matter for CNN-based models or vision transformer-based models.",
+                    "BoundingBox": {
+                        "Width": 0.7279670834541321,
+                        "Height": 0.06640434265136719,
+                        "Left": 0.1327075958251953,
+                        "Top": 0.8148069977760315
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0c7d67fa-954e-4b80-b973-0a44c8b3a182",
+                    "Score": 0.7558709383010864
+                },
+                {
+                    "Text": "1. We suspect such performance drop is caused by the difference of distribution and data source between the AP-10K and APT-36K dataset, as well as the scale different of MS COCO and AP-10K.",
+                    "BoundingBox": {
+                        "Width": 0.7000420689582825,
+                        "Height": 0.06311198323965073,
+                        "Left": 0.17267058789730072,
+                        "Top": 0.8863859176635742
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5efca252-2f89-4232-861a-660fffdc7dd5",
+                    "Score": 0.8020157217979431
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,999",
+            "end_time": "00:00:38,789",
+            "transcript": "Besides, the benefit of using AP1000 for pre-training is less than that of using the human post data set for pre-training.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.0743844285607338,
+                        "Height": 0.0235415231436491,
+                        "Left": 0.9197969436645508,
+                        "Top": 0.03242512419819832
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "40756e3a-6e8a-4e54-bb2a-c8f2bba2838b",
+                    "Score": 0.61701899766922
+                },
+                {
+                    "Text": "Single-frame animal pose estimation(SF)",
+                    "BoundingBox": {
+                        "Width": 0.5049900412559509,
+                        "Height": 0.04929318279027939,
+                        "Left": 0.01511473674327135,
+                        "Top": 0.05734691023826599
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "694577b8-dee8-45e6-8a9c-65ef51068437",
+                    "Score": 0.6654396057128906
+                },
+                {
+                    "Text": "SimpleBaseline SimpleBaseline HRNet HRNet HRFormer HRFormer ViTPose (ResNet-50) (ResNet-101) (HRNet-w32) (HRNet-w48) (HRFormer-S) (HRFormer-B) (ViT-B) INIK 69.41.2 69.61.3 74.241.1 74.1 40.8 71.3+0.8 74.2+0.9 77.41.0 COCO 73.71.2 73.5 1.1 76.4+0.5 77.4+0.7 74.61.0 76.6 .0.9 78.3+0.8 Acoco 4.3 3.9 2.2 3.3 3.3 2.4 0.9 AP-10K 72.4 .0.9 72.4+ 1.0 75.9 1.2 76.4+ 0.7 72.6 0.9 75.20.7 78.2+0.7 AP-10K 3.0 2.8 1.7 2.3 1.3 1.0 0.8",
+                    "BoundingBox": {
+                        "Width": 0.7879526019096375,
+                        "Height": 0.22136589884757996,
+                        "Left": 0.09987485408782959,
+                        "Top": 0.18267063796520233
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "8485d16e-5897-4fd7-b835-b1009c3d49e8",
+                    "Score": 0.6507176756858826
+                },
+                {
+                    "Text": "1. Settings:",
+                    "BoundingBox": {
+                        "Width": 0.08851318806409836,
+                        "Height": 0.02880430407822132,
+                        "Left": 0.09634621441364288,
+                        "Top": 0.4579847753047943
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "cbf2b879-746c-420a-9080-29432f40778b",
+                    "Score": 0.6326335668563843
+                },
+                {
+                    "Text": "1. In the SF track, we benchmark the representative CNN-based and vision transformer-based pose estimation methods, including SimpleBaseline, HRNet, HRFormer, and ViTPose.",
+                    "BoundingBox": {
+                        "Width": 0.668667197227478,
+                        "Height": 0.06537051498889923,
+                        "Left": 0.13635852932929993,
+                        "Top": 0.4930015504360199
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "73711d8b-59bc-4e0a-b927-f0ba9346abe1",
+                    "Score": 0.6305143237113953
+                },
+                {
+                    "Text": "2. We set up three settings to benchmark their performance, including using network weights pre-trained on the ImageNet-IK dataset, the MS COCO human pose estimation dataset, and the AP-10K dataset, respectively.",
+                    "BoundingBox": {
+                        "Width": 0.7309826612472534,
+                        "Height": 0.10129302740097046,
+                        "Left": 0.13311152160167694,
+                        "Top": 0.56454998254776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c18e4d5e-a9cb-44b8-9a88-f521fe295149",
+                    "Score": 0.6580593585968018
+                },
+                {
+                    "Text": "1. With human pose pre-training. both CNN-based and vision transformer-based methods show performance gains.",
+                    "BoundingBox": {
+                        "Width": 0.7342926263809204,
+                        "Height": 0.06499436497688293,
+                        "Left": 0.13615207374095917,
+                        "Top": 0.7437034845352173
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1d2517c9-1612-4f3d-8c36-bb8e1aebe5e3",
+                    "Score": 0.6409847140312195
+                },
+                {
+                    "Text": "2. Besides, the benefit of using AP-10K for pretraining is less than that of using the human pose dataset for pre-training, no matter for CNN-based models or vision transformer-based models.",
+                    "BoundingBox": {
+                        "Width": 0.7279670834541321,
+                        "Height": 0.06640434265136719,
+                        "Left": 0.1327075958251953,
+                        "Top": 0.8148069977760315
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0c7d67fa-954e-4b80-b973-0a44c8b3a182",
+                    "Score": 0.7558709383010864
+                },
+                {
+                    "Text": "1. We suspect such performance drop is caused by the difference of distribution and data source between the AP-10K and APT-36K dataset, as well as the scale different of MS COCO and AP-10K.",
+                    "BoundingBox": {
+                        "Width": 0.7000420689582825,
+                        "Height": 0.06311198323965073,
+                        "Left": 0.17267058789730072,
+                        "Top": 0.8863859176635742
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5efca252-2f89-4232-861a-660fffdc7dd5",
+                    "Score": 0.8020157217979431
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:39,390",
+            "end_time": "00:00:48,801",
+            "transcript": "We suspect that it is caused by differences of distribution and data source and as well as the scale differences.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.0743844285607338,
+                        "Height": 0.0235415231436491,
+                        "Left": 0.9197969436645508,
+                        "Top": 0.03242512419819832
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "40756e3a-6e8a-4e54-bb2a-c8f2bba2838b",
+                    "Score": 0.61701899766922
+                },
+                {
+                    "Text": "Single-frame animal pose estimation(SF)",
+                    "BoundingBox": {
+                        "Width": 0.5049900412559509,
+                        "Height": 0.04929318279027939,
+                        "Left": 0.01511473674327135,
+                        "Top": 0.05734691023826599
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "694577b8-dee8-45e6-8a9c-65ef51068437",
+                    "Score": 0.6654396057128906
+                },
+                {
+                    "Text": "SimpleBaseline SimpleBaseline HRNet HRNet HRFormer HRFormer ViTPose (ResNet-50) (ResNet-101) (HRNet-w32) (HRNet-w48) (HRFormer-S) (HRFormer-B) (ViT-B) INIK 69.41.2 69.61.3 74.241.1 74.1 40.8 71.3+0.8 74.2+0.9 77.41.0 COCO 73.71.2 73.5 1.1 76.4+0.5 77.4+0.7 74.61.0 76.6 .0.9 78.3+0.8 Acoco 4.3 3.9 2.2 3.3 3.3 2.4 0.9 AP-10K 72.4 .0.9 72.4+ 1.0 75.9 1.2 76.4+ 0.7 72.6 0.9 75.20.7 78.2+0.7 AP-10K 3.0 2.8 1.7 2.3 1.3 1.0 0.8",
+                    "BoundingBox": {
+                        "Width": 0.7879526019096375,
+                        "Height": 0.22136589884757996,
+                        "Left": 0.09987485408782959,
+                        "Top": 0.18267063796520233
+                    },
+                    "BlockType": "LAYOUT_TABLE",
+                    "Id": "8485d16e-5897-4fd7-b835-b1009c3d49e8",
+                    "Score": 0.6507176756858826
+                },
+                {
+                    "Text": "1. Settings:",
+                    "BoundingBox": {
+                        "Width": 0.08851318806409836,
+                        "Height": 0.02880430407822132,
+                        "Left": 0.09634621441364288,
+                        "Top": 0.4579847753047943
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "cbf2b879-746c-420a-9080-29432f40778b",
+                    "Score": 0.6326335668563843
+                },
+                {
+                    "Text": "1. In the SF track, we benchmark the representative CNN-based and vision transformer-based pose estimation methods, including SimpleBaseline, HRNet, HRFormer, and ViTPose.",
+                    "BoundingBox": {
+                        "Width": 0.668667197227478,
+                        "Height": 0.06537051498889923,
+                        "Left": 0.13635852932929993,
+                        "Top": 0.4930015504360199
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "73711d8b-59bc-4e0a-b927-f0ba9346abe1",
+                    "Score": 0.6305143237113953
+                },
+                {
+                    "Text": "2. We set up three settings to benchmark their performance, including using network weights pre-trained on the ImageNet-IK dataset, the MS COCO human pose estimation dataset, and the AP-10K dataset, respectively.",
+                    "BoundingBox": {
+                        "Width": 0.7309826612472534,
+                        "Height": 0.10129302740097046,
+                        "Left": 0.13311152160167694,
+                        "Top": 0.56454998254776
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "c18e4d5e-a9cb-44b8-9a88-f521fe295149",
+                    "Score": 0.6580593585968018
+                },
+                {
+                    "Text": "1. With human pose pre-training. both CNN-based and vision transformer-based methods show performance gains.",
+                    "BoundingBox": {
+                        "Width": 0.7342926263809204,
+                        "Height": 0.06499436497688293,
+                        "Left": 0.13615207374095917,
+                        "Top": 0.7437034845352173
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "1d2517c9-1612-4f3d-8c36-bb8e1aebe5e3",
+                    "Score": 0.6409847140312195
+                },
+                {
+                    "Text": "2. Besides, the benefit of using AP-10K for pretraining is less than that of using the human pose dataset for pre-training, no matter for CNN-based models or vision transformer-based models.",
+                    "BoundingBox": {
+                        "Width": 0.7279670834541321,
+                        "Height": 0.06640434265136719,
+                        "Left": 0.1327075958251953,
+                        "Top": 0.8148069977760315
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "0c7d67fa-954e-4b80-b973-0a44c8b3a182",
+                    "Score": 0.7558709383010864
+                },
+                {
+                    "Text": "1. We suspect such performance drop is caused by the difference of distribution and data source between the AP-10K and APT-36K dataset, as well as the scale different of MS COCO and AP-10K.",
+                    "BoundingBox": {
+                        "Width": 0.7000420689582825,
+                        "Height": 0.06311198323965073,
+                        "Left": 0.17267058789730072,
+                        "Top": 0.8863859176635742
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "5efca252-2f89-4232-861a-660fffdc7dd5",
+                    "Score": 0.8020157217979431
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,987",
+            "end_time": "00:00:03,381",
+            "transcript": "Thank you at the end of the presentation.",
+            "MatchedRegion": [
+                {
+                    "Text": "iii",
+                    "BoundingBox": {
+                        "Width": 0.051076240837574005,
+                        "Height": 0.07568754255771637,
+                        "Left": 0.9168180227279663,
+                        "Top": 0.05781665816903114
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "d325055d-1c09-4527-a868-51d837d4a050",
+                    "Score": 0.8250511884689331
+                },
+                {
+                    "Text": "Thank you !",
+                    "BoundingBox": {
+                        "Width": 0.3269146978855133,
+                        "Height": 0.0865512564778328,
+                        "Left": 0.3405683636665344,
+                        "Top": 0.30530065298080444
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "19139aa9-d48a-4292-aa99-f66bb385955b",
+                    "Score": 0.88552325963974
+                }
+            ]
+        }
+    ]
+}

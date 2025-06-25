@@ -1,0 +1,5 @@
+start	end	text
+930	6071	Based on cooperative game theory, we have a mathematical tool to formalize this idea.
+6731	10172	So let me first introduce some preliminaries of this framework.
+11072	16393	First of all, the DNN encodes interactions between different input variables for inference.
+17173	27955	For example, in the sentence, he is a green hand, a DNN may memorize the interaction between words in green and hand that pushes the DNN's inference towards the meaning of a begin

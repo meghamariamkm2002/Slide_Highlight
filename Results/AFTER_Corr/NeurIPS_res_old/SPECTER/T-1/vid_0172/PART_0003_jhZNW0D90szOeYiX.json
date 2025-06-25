@@ -1,0 +1,630 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,389",
+            "end_time": "00:00:03,454",
+            "transcript": "version of MMWU which we call quantum replicator dynamics.",
+            "MatchedRegion": [
+                {
+                    "Text": "Results - Quantum Replicator",
+                    "BoundingBox": {
+                        "Width": 0.564207911491394,
+                        "Height": 0.07152660191059113,
+                        "Left": 0.07713287323713303,
+                        "Top": 0.11428061872720718
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "75ecae4d-dd6e-448d-81cd-ed0d99dde7a7",
+                    "Score": 0.8456751108169556
+                },
+                {
+                    "Text": "We define quantum replicator dynamics by taking continuous time limit of MMWU.",
+                    "BoundingBox": {
+                        "Width": 0.8286519050598145,
+                        "Height": 0.03674254193902016,
+                        "Left": 0.07631399482488632,
+                        "Top": 0.22630861401557922
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "77a2a378-3ae7-498d-8dc5-bf8c5d7f53ff",
+                    "Score": 0.9131436944007874
+                },
+                {
+                    "Text": "The quantum replicator dynamics are Poincar\u00e9 recurrent in any two- player zero-sum game which has a fully-mixed Nash equilibrium.",
+                    "BoundingBox": {
+                        "Width": 0.6915849447250366,
+                        "Height": 0.07689712941646576,
+                        "Left": 0.12489374727010727,
+                        "Top": 0.3645765781402588
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "66b05e1f-bb47-4d03-a775-cd8b57f12ee3",
+                    "Score": 0.8969050645828247
+                },
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:04,154",
+            "end_time": "00:00:16,491",
+            "transcript": "So in the paper we define quantum replicated dynamics by taking the continuous time limit of MMWU and we analyze it to show this following theorem that quantum replicated dynamics are Poincar\u00e9 recurrent in any two player quantum zero sum game.",
+            "MatchedRegion": [
+                {
+                    "Text": "We define quantum replicator dynamics by taking continuous time limit of MMWU.",
+                    "BoundingBox": {
+                        "Width": 0.8286519050598145,
+                        "Height": 0.03674254193902016,
+                        "Left": 0.07631399482488632,
+                        "Top": 0.22630861401557922
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "77a2a378-3ae7-498d-8dc5-bf8c5d7f53ff",
+                    "Score": 0.9131436944007874
+                },
+                {
+                    "Text": "The quantum replicator dynamics are Poincar\u00e9 recurrent in any two- player zero-sum game which has a fully-mixed Nash equilibrium.",
+                    "BoundingBox": {
+                        "Width": 0.6915849447250366,
+                        "Height": 0.07689712941646576,
+                        "Left": 0.12489374727010727,
+                        "Top": 0.3645765781402588
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "66b05e1f-bb47-4d03-a775-cd8b57f12ee3",
+                    "Score": 0.8969050645828247
+                },
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:16,631",
+            "end_time": "00:00:18,193",
+            "transcript": "It's a fully-mixed Nash equilibrium.",
+            "MatchedRegion": [
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:19,088",
+            "end_time": "00:00:26,392",
+            "transcript": "So to give a visual example of what recurrence looks like, imagine if the agents are red and blue represented on the Bloch sphere here.",
+            "MatchedRegion": [
+                {
+                    "Text": "The quantum replicator dynamics are Poincar\u00e9 recurrent in any two- player zero-sum game which has a fully-mixed Nash equilibrium.",
+                    "BoundingBox": {
+                        "Width": 0.6915849447250366,
+                        "Height": 0.07689712941646576,
+                        "Left": 0.12489374727010727,
+                        "Top": 0.3645765781402588
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "66b05e1f-bb47-4d03-a775-cd8b57f12ee3",
+                    "Score": 0.8969050645828247
+                },
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                },
+                {
+                    "Text": "We use a novel transformation and show that a) orbits are bounded, and b) volume is conserved.",
+                    "BoundingBox": {
+                        "Width": 0.7787999510765076,
+                        "Height": 0.06396927684545517,
+                        "Left": 0.07627584040164948,
+                        "Top": 0.9007384181022644
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48fe031b-75e1-4ab4-9a4d-e71be4800f0f",
+                    "Score": 0.9712634086608887
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:26,412",
+            "end_time": "00:00:34,076",
+            "transcript": "The block sphere is a representation of a two-dimensional density matrix and a two-by-two density matrix.",
+            "MatchedRegion": [
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                },
+                {
+                    "Text": "We use a novel transformation and show that a) orbits are bounded, and b) volume is conserved.",
+                    "BoundingBox": {
+                        "Width": 0.7787999510765076,
+                        "Height": 0.06396927684545517,
+                        "Left": 0.07627584040164948,
+                        "Top": 0.9007384181022644
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48fe031b-75e1-4ab4-9a4d-e71be4800f0f",
+                    "Score": 0.9712634086608887
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:35,016",
+            "end_time": "00:00:40,059",
+            "transcript": "And the idea here is that we want, and given that the red and blue agents are initialized in the center,",
+            "MatchedRegion": [
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:41,155",
+            "end_time": "00:00:45,218",
+            "transcript": "recurent states that they should return infinitely often to the center point.",
+            "MatchedRegion": [
+                {
+                    "Text": "Theorem 2",
+                    "BoundingBox": {
+                        "Width": 0.10240049660205841,
+                        "Height": 0.02932645194232464,
+                        "Left": 0.12519778311252594,
+                        "Top": 0.30531930923461914
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "0d34b009-b0b4-414c-a002-12333dc51eb2",
+                    "Score": 0.8062272667884827
+                },
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                },
+                {
+                    "Text": "Proof idea",
+                    "BoundingBox": {
+                        "Width": 0.09684903174638748,
+                        "Height": 0.02955956757068634,
+                        "Left": 0.07633580267429352,
+                        "Top": 0.7518872022628784
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "72d9f5f2-c953-46d6-97db-4a31d2c8ab79",
+                    "Score": 0.8265340328216553
+                },
+                {
+                    "Text": "We use a novel transformation and show that a) orbits are bounded, and b) volume is conserved.",
+                    "BoundingBox": {
+                        "Width": 0.7787999510765076,
+                        "Height": 0.06396927684545517,
+                        "Left": 0.07627584040164948,
+                        "Top": 0.9007384181022644
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48fe031b-75e1-4ab4-9a4d-e71be4800f0f",
+                    "Score": 0.9712634086608887
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:45,658",
+            "end_time": "00:00:49,701",
+            "transcript": "And as you can see here, to the origin, as you can see here, they indeed do that.",
+            "MatchedRegion": [
+                {
+                    "Text": "Theorem 2",
+                    "BoundingBox": {
+                        "Width": 0.10240049660205841,
+                        "Height": 0.02932645194232464,
+                        "Left": 0.12519778311252594,
+                        "Top": 0.30531930923461914
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "0d34b009-b0b4-414c-a002-12333dc51eb2",
+                    "Score": 0.8062272667884827
+                },
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                },
+                {
+                    "Text": "Proof idea",
+                    "BoundingBox": {
+                        "Width": 0.09684903174638748,
+                        "Height": 0.02955956757068634,
+                        "Left": 0.07633580267429352,
+                        "Top": 0.7518872022628784
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "72d9f5f2-c953-46d6-97db-4a31d2c8ab79",
+                    "Score": 0.8265340328216553
+                },
+                {
+                    "Text": "We use a novel transformation and show that a) orbits are bounded, and b) volume is conserved.",
+                    "BoundingBox": {
+                        "Width": 0.7787999510765076,
+                        "Height": 0.06396927684545517,
+                        "Left": 0.07627584040164948,
+                        "Top": 0.9007384181022644
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48fe031b-75e1-4ab4-9a4d-e71be4800f0f",
+                    "Score": 0.9712634086608887
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:49,721",
+            "end_time": "00:00:56,906",
+            "transcript": "They start oscillating back and forth in these straight line patterns, but they do return to the origin often if you keep running the algorithm.",
+            "MatchedRegion": [
+                {
+                    "Text": "Theorem 2",
+                    "BoundingBox": {
+                        "Width": 0.10240049660205841,
+                        "Height": 0.02932645194232464,
+                        "Left": 0.12519778311252594,
+                        "Top": 0.30531930923461914
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "0d34b009-b0b4-414c-a002-12333dc51eb2",
+                    "Score": 0.8062272667884827
+                },
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                },
+                {
+                    "Text": "We use a novel transformation and show that a) orbits are bounded, and b) volume is conserved.",
+                    "BoundingBox": {
+                        "Width": 0.7787999510765076,
+                        "Height": 0.06396927684545517,
+                        "Left": 0.07627584040164948,
+                        "Top": 0.9007384181022644
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48fe031b-75e1-4ab4-9a4d-e71be4800f0f",
+                    "Score": 0.9712634086608887
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:57,881",
+            "end_time": "00:01:00,182",
+            "transcript": "So how do we prove recurrence in a classical setting?",
+            "MatchedRegion": [
+                {
+                    "Text": "Theorem 2",
+                    "BoundingBox": {
+                        "Width": 0.10240049660205841,
+                        "Height": 0.02932645194232464,
+                        "Left": 0.12519778311252594,
+                        "Top": 0.30531930923461914
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "0d34b009-b0b4-414c-a002-12333dc51eb2",
+                    "Score": 0.8062272667884827
+                },
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                },
+                {
+                    "Text": "Proof idea",
+                    "BoundingBox": {
+                        "Width": 0.09684903174638748,
+                        "Height": 0.02955956757068634,
+                        "Left": 0.07633580267429352,
+                        "Top": 0.7518872022628784
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "72d9f5f2-c953-46d6-97db-4a31d2c8ab79",
+                    "Score": 0.8265340328216553
+                },
+                {
+                    "Text": "Like classical setting, need to prove bounded orbits and volume preservation, but classical strategy fails due to non-commutativity of terms!",
+                    "BoundingBox": {
+                        "Width": 0.8204270005226135,
+                        "Height": 0.07011517882347107,
+                        "Left": 0.07623099535703659,
+                        "Top": 0.8100460767745972
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d3293f41-f8ce-447b-a0db-36a825283f2c",
+                    "Score": 0.8767591714859009
+                },
+                {
+                    "Text": "We use a novel transformation and show that a) orbits are bounded, and b) volume is conserved.",
+                    "BoundingBox": {
+                        "Width": 0.7787999510765076,
+                        "Height": 0.06396927684545517,
+                        "Left": 0.07627584040164948,
+                        "Top": 0.9007384181022644
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48fe031b-75e1-4ab4-9a4d-e71be4800f0f",
+                    "Score": 0.9712634086608887
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:01,083",
+            "end_time": "00:01:05,646",
+            "transcript": "It is needed to prove first that the orbits are bounded, and second, some notion of volume is conserved.",
+            "MatchedRegion": [
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                },
+                {
+                    "Text": "Like classical setting, need to prove bounded orbits and volume preservation, but classical strategy fails due to non-commutativity of terms!",
+                    "BoundingBox": {
+                        "Width": 0.8204270005226135,
+                        "Height": 0.07011517882347107,
+                        "Left": 0.07623099535703659,
+                        "Top": 0.8100460767745972
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d3293f41-f8ce-447b-a0db-36a825283f2c",
+                    "Score": 0.8767591714859009
+                },
+                {
+                    "Text": "We use a novel transformation and show that a) orbits are bounded, and b) volume is conserved.",
+                    "BoundingBox": {
+                        "Width": 0.7787999510765076,
+                        "Height": 0.06396927684545517,
+                        "Left": 0.07627584040164948,
+                        "Top": 0.9007384181022644
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48fe031b-75e1-4ab4-9a4d-e71be4800f0f",
+                    "Score": 0.9712634086608887
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:06,146",
+            "end_time": "00:01:15,292",
+            "transcript": "However, the classical setting or the classical strategy, I should say, fails in this case due to the non-commutativity of the terms in the quantum replicated dynamics.",
+            "MatchedRegion": [
+                {
+                    "Text": "Results - Quantum Replicator",
+                    "BoundingBox": {
+                        "Width": 0.564207911491394,
+                        "Height": 0.07152660191059113,
+                        "Left": 0.07713287323713303,
+                        "Top": 0.11428061872720718
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "75ecae4d-dd6e-448d-81cd-ed0d99dde7a7",
+                    "Score": 0.8456751108169556
+                },
+                {
+                    "Text": "We define quantum replicator dynamics by taking continuous time limit of MMWU.",
+                    "BoundingBox": {
+                        "Width": 0.8286519050598145,
+                        "Height": 0.03674254193902016,
+                        "Left": 0.07631399482488632,
+                        "Top": 0.22630861401557922
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "77a2a378-3ae7-498d-8dc5-bf8c5d7f53ff",
+                    "Score": 0.9131436944007874
+                },
+                {
+                    "Text": "The quantum replicator dynamics are Poincar\u00e9 recurrent in any two- player zero-sum game which has a fully-mixed Nash equilibrium.",
+                    "BoundingBox": {
+                        "Width": 0.6915849447250366,
+                        "Height": 0.07689712941646576,
+                        "Left": 0.12489374727010727,
+                        "Top": 0.3645765781402588
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "66b05e1f-bb47-4d03-a775-cd8b57f12ee3",
+                    "Score": 0.8969050645828247
+                },
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:15,892",
+            "end_time": "00:01:22,256",
+            "transcript": "So we use a transformation to a novel space and show that orbits are bounded and volume is conserved in this space.",
+            "MatchedRegion": [
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                },
+                {
+                    "Text": "Like classical setting, need to prove bounded orbits and volume preservation, but classical strategy fails due to non-commutativity of terms!",
+                    "BoundingBox": {
+                        "Width": 0.8204270005226135,
+                        "Height": 0.07011517882347107,
+                        "Left": 0.07623099535703659,
+                        "Top": 0.8100460767745972
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "d3293f41-f8ce-447b-a0db-36a825283f2c",
+                    "Score": 0.8767591714859009
+                },
+                {
+                    "Text": "We use a novel transformation and show that a) orbits are bounded, and b) volume is conserved.",
+                    "BoundingBox": {
+                        "Width": 0.7787999510765076,
+                        "Height": 0.06396927684545517,
+                        "Left": 0.07627584040164948,
+                        "Top": 0.9007384181022644
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "48fe031b-75e1-4ab4-9a4d-e71be4800f0f",
+                    "Score": 0.9712634086608887
+                }
+            ]
+        },
+        {
+            "start_time": "00:01:22,776",
+            "end_time": "00:01:25,998",
+            "transcript": "And this then helps us to prove recurrence for the quantum replicator",
+            "MatchedRegion": [
+                {
+                    "Text": "Results - Quantum Replicator",
+                    "BoundingBox": {
+                        "Width": 0.564207911491394,
+                        "Height": 0.07152660191059113,
+                        "Left": 0.07713287323713303,
+                        "Top": 0.11428061872720718
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "75ecae4d-dd6e-448d-81cd-ed0d99dde7a7",
+                    "Score": 0.8456751108169556
+                },
+                {
+                    "Text": "We define quantum replicator dynamics by taking continuous time limit of MMWU.",
+                    "BoundingBox": {
+                        "Width": 0.8286519050598145,
+                        "Height": 0.03674254193902016,
+                        "Left": 0.07631399482488632,
+                        "Top": 0.22630861401557922
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "77a2a378-3ae7-498d-8dc5-bf8c5d7f53ff",
+                    "Score": 0.9131436944007874
+                },
+                {
+                    "Text": "The quantum replicator dynamics are Poincar\u00e9 recurrent in any two- player zero-sum game which has a fully-mixed Nash equilibrium.",
+                    "BoundingBox": {
+                        "Width": 0.6915849447250366,
+                        "Height": 0.07689712941646576,
+                        "Left": 0.12489374727010727,
+                        "Top": 0.3645765781402588
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "66b05e1f-bb47-4d03-a775-cd8b57f12ee3",
+                    "Score": 0.8969050645828247
+                },
+                {
+                    "Text": "|0) |0) |0) |0) x x x x |1) |1) [1) |1) t=1 t==00 t=370 t= 1000",
+                    "BoundingBox": {
+                        "Width": 0.4772711396217346,
+                        "Height": 0.24700360000133514,
+                        "Left": 0.2608955204486847,
+                        "Top": 0.48300257325172424
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "a1fe6b1b-7840-44e4-8f80-715705c4cd62",
+                    "Score": 0.6760767698287964
+                }
+            ]
+        }
+    ]
+}

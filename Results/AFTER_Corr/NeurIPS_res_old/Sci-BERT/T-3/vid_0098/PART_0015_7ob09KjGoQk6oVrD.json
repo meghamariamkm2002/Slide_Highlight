@@ -1,0 +1,71 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,349",
+            "end_time": "00:00:07,054",
+            "transcript": "We invite everyone to check out our benchmark, paper, Kaggle site, implementation and baseline weights on our homepage.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BoundingBox": {
+                        "Width": 0.10511034727096558,
+                        "Height": 0.0791890099644661,
+                        "Left": 0.8886436223983765,
+                        "Top": 0.013426950201392174
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6111772656440735
+                },
+                {
+                    "Text": "https://carlanebenchmark.github.io/",
+                    "BoundingBox": {
+                        "Width": 0.4349784851074219,
+                        "Height": 0.05043179914355278,
+                        "Left": 0.2827509641647339,
+                        "Top": 0.6307854056358337
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "LAYOUT_TITLE",
+                    "Score": 0.7312653064727783
+                },
+                {
+                    "Text": "IFM",
+                    "BoundingBox": {
+                        "Width": 0.04400824010372162,
+                        "Height": 0.04244280606508255,
+                        "Left": 0.1467686891555786,
+                        "Top": 0.9292503595352173
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "LAYOUT_TEXT",
+                    "Score": 0.6049004197120667
+                },
+                {
+                    "Text": "Hochschule Kempten University of Applied Sciences",
+                    "BoundingBox": {
+                        "Width": 0.07893365621566772,
+                        "Height": 0.06639697402715683,
+                        "Left": 0.3506011664867401,
+                        "Top": 0.9227938652038574
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "LAYOUT_FIGURE",
+                    "Score": 0.6132128238677979
+                },
+                {
+                    "Text": "06/22/2022",
+                    "BoundingBox": {
+                        "Width": 0.06115231290459633,
+                        "Height": 0.020325563848018646,
+                        "Left": 0.8589439988136292,
+                        "Top": 0.9444015026092529
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "LAYOUT_FOOTER",
+                    "Score": 0.6122360825538635
+                }
+            ]
+        }
+    ]
+}

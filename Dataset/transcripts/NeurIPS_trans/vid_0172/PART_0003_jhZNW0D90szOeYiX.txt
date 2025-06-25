@@ -1,0 +1,14 @@
+version of MMWU which we call quantum replicated dynamics.
+So in the paper we define quantum replicated dynamics by taking the continuous time limit of MMWU and we analyze it to show this following theorem that quantum replicated dynamics are Poincaré recurrent in any two player quantum zero sum game.
+It's a fully mixed Nash equilibrium.
+So to give a visual example of what recurrence looks like, imagine if the agents are red and blue represented on the block sphere here.
+The block sphere is a representation of a two-dimensional density matrix and a two by two density matrix.
+And the idea here is that we want, and given that the red and blue agents are initialized in the center,
+recurrent states that they should return infinitely often to the center point.
+And as you can see here, to the origin, as you can see here, they indeed do that.
+They start oscillating back and forth in these straight line patterns, but they do return to the origin often if you keep running the algorithm.
+So how do we prove recurrence in a classical setting?
+It is needed to prove first that the orbits are bounded, and second, some notion of volume is conserved.
+However, the classical setting or the classical strategy, I should say, fails in this case due to the non-commutativity of the terms in the quantum replicated dynamics.
+So we use a transformation to a novel space and show that orbits are bounded and volume is conserved in this space.
+And this then helps us to prove recurrence for the quantum replicated

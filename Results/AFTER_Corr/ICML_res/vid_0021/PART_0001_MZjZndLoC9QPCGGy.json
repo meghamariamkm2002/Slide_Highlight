@@ -1,0 +1,169 @@
+{
+    "MatchedRegion": [
+        {
+            "start_time": "00:00:01,210",
+            "end_time": "00:00:06,476",
+            "transcript": "In reinforcement and imitation learning, the agent's policy induces a discounted state distribution and state-action distribution.",
+            "MatchedRegion": [
+                {
+                    "Text": "In RL & IL, the agent's policy induces a state distribution d(s) and state-action distribution P(s,a) = n(as).dz(s) .",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8002861142158508,
+                        "Height": 0.06716174632310867,
+                        "Left": 0.08649010211229324,
+                        "Top": 0.2614990472793579
+                    },
+                    "Id": "43e58ab5-41bc-44cc-89af-8b3ae8109207"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,011",
+            "end_time": "00:00:09,672",
+            "transcript": "They are of central importance, appearing all across the literature.",
+            "MatchedRegion": [
+                {
+                    "Text": "They are of central importance, appearing all across the literature:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5164313316345215,
+                        "Height": 0.03070523776113987,
+                        "Left": 0.08655297011137009,
+                        "Top": 0.34929364919662476
+                    },
+                    "Id": "a91c0711-79e1-4748-afc4-5c2a6ecbc1b9"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:09,692",
+            "end_time": "00:00:14,694",
+            "transcript": "They form the basis of policy gradient methods in RL and are core to the distribution matching formulation of imitation learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "They are of central importance, appearing all across the literature:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5164313316345215,
+                        "Height": 0.03070523776113987,
+                        "Left": 0.08655297011137009,
+                        "Top": 0.34929364919662476
+                    },
+                    "Id": "a91c0711-79e1-4748-afc4-5c2a6ecbc1b9"
+                },
+                {
+                    "Text": "Simple approach: Behavioral cloning (BC)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.30025961995124817,
+                        "Height": 0.02745872549712658,
+                        "Left": 0.12025824934244156,
+                        "Top": 0.7916000485420227
+                    },
+                    "Id": "4ecb6ee9-69c8-412a-be19-9a4692d3feba"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,254",
+            "end_time": "00:00:21,096",
+            "transcript": "They are also foundational to other applications like curiosity-based exploration, constrained RL, batch RL, and convex RL.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:21,616",
+            "end_time": "00:00:28,739",
+            "transcript": "Despite this ubiquity across the literature, the distributions are mostly discussed indirectly and theoretically, rather than being modeled explicitly.",
+            "MatchedRegion": [
+                {
+                    "Text": "Despite their importance, d (s) and P(s,a) are mostly discussed indirectly and theoretically, rather than being modeled explicitly.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8082616329193115,
+                        "Height": 0.06645342707633972,
+                        "Left": 0.08673549443483353,
+                        "Top": 0.6041567921638489
+                    },
+                    "Id": "50255d04-07c8-4a5d-8823-990b60678720"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,219",
+            "end_time": "00:00:35,621",
+            "transcript": "And so this would concentrate on modeling them explicitly with modern density estimators, specifically normalizing flows, focusing on imitation learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "This work concentrates on modeling them explicitly with normalizing flows, focusing on imitation learning.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7311545014381409,
+                        "Height": 0.027620358392596245,
+                        "Left": 0.12032857537269592,
+                        "Top": 0.6909106373786926
+                    },
+                    "Id": "5d85eff4-4325-46fe-bf5c-9cd97149d0e8"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,806",
+            "end_time": "00:00:43,188",
+            "transcript": "The simplest approach to imitation is behavioral cloning, which reformulates supervised regression and maximum likelihood on given expert state-action pairs.",
+            "MatchedRegion": [
+                {
+                    "Text": "Simple approach: Behavioral cloning (BC)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.30025961995124817,
+                        "Height": 0.02745872549712658,
+                        "Left": 0.12025824934244156,
+                        "Top": 0.7916000485420227
+                    },
+                    "Id": "4ecb6ee9-69c8-412a-be19-9a4692d3feba"
+                },
+                {
+                    "Text": "Distribution matching:minDf(PllPexp)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.29278114438056946,
+                        "Height": 0.030913962051272392,
+                        "Left": 0.12029442191123962,
+                        "Top": 0.8406777381896973
+                    },
+                    "Id": "33d6d2ba-4b0d-4c54-84c8-cc3a19fbfbb8"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:43,909",
+            "end_time": "00:00:49,971",
+            "transcript": "Modern approaches to imitation instead attempt to match the agent's state action distribution with the experts by minimizing some f divergence.",
+            "MatchedRegion": [
+                {
+                    "Text": "Motivation & Background",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.4634292721748352,
+                        "Height": 0.07034353166818619,
+                        "Left": 0.08187659829854965,
+                        "Top": 0.1323639303445816
+                    },
+                    "Id": "9edd710a-bd09-40d8-abee-52ef307dd243"
+                },
+                {
+                    "Text": "Imitation learning",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.16050758957862854,
+                        "Height": 0.030000705271959305,
+                        "Left": 0.08625519275665283,
+                        "Top": 0.7407543063163757
+                    },
+                    "Id": "2105c2d4-0362-4656-a3f0-684e5c9e8a46"
+                }
+            ]
+        }
+    ]
+}

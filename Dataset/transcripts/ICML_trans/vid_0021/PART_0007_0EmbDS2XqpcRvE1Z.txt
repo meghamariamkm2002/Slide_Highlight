@@ -1,0 +1,3 @@
+In the state-only or LFO setting, we compare against Apollo, once again using only a single extra trajectory, and importantly, CFO uses identical hyperparameters as the pre-rate setting.
+The figure shows two versions of CFO compared with Apollo, one estimating the next state distribution issue while the other limiting itself to the single state distribution.
+Both incarnations of CFO distinctly outperform the LFO-tailored Apollo on every imitation learning metric.

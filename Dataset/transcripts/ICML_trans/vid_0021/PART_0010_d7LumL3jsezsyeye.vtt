@@ -1,0 +1,14 @@
+WEBVTT
+
+00:00.109 --> 00:00.229
+them.
+
+00:01.210 --> 00:04.851
+In conclusion, we presented CFIL, a unique approach to imitation learning.
+
+00:05.231 --> 00:17.637
+It outperforms the state-of-the-art in a variety of settings and introduces many novelties including its estimator for the log ratio, its smoothing and regularization, and more generally its employment of flows, while we also performed a unique analysis using BC routes.
+
+00:18.374 --> 00:30.858
+Overall, we point out the great potential that demonstrated the utility of explicitly modeling the state and state action distributions and aim to inspire more research incorporating such models all across the reinforcement learning literature.
+

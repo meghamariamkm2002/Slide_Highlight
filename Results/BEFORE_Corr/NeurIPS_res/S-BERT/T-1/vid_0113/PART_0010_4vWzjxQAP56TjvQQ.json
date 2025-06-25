@@ -1,0 +1,17 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,193",
+            "end_time": "00:00:02,176",
+            "transcript": "Thanks for your listening.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,296",
+            "end_time": "00:00:07,231",
+            "transcript": "If you have any questions on our paper or course, please feel free to contact us.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": []
+}

@@ -1,0 +1,29 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,529",
+            "end_time": "00:00:14,361",
+            "transcript": "So, to fill this gap, we proposed APT36K, the first large-scale dataset with high-quality animal pose annotations from consecutive frames for animal pose estimation and tracking. AP",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:14,862",
+            "end_time": "00:00:27,232",
+            "transcript": "IT CONTAINS NOT ONLY THE CONTINUOUS TIME INFORMATION NEEDED FOR TRACKING TASKS, BUT ALSO A VERY DETAILED INITIATION OF PULSE KEY POINTS WITH A WIDE RANGE OF DIFFERENT ANIMAL SPECIES.",
+            "MatchedRegion": [
+                {
+                    "Text": "APT-36K dataset contains not only the continuous time information needed for the tracking task, but also a very detailed annotation of the pose keypoints, with a wide range of different animal species.",
+                    "BoundingBox": {
+                        "Width": 0.829992413520813,
+                        "Height": 0.06528820097446442,
+                        "Left": 0.020973123610019684,
+                        "Top": 0.8543781638145447
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "22761f10-532f-4f13-984e-db6890d5f280",
+                    "Score": 0.8895441889762878
+                }
+            ]
+        }
+    ]
+}

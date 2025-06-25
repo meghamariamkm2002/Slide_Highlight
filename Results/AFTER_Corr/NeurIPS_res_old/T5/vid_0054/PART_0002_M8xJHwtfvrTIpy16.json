@@ -1,0 +1,85 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,529",
+            "end_time": "00:00:14,361",
+            "transcript": "So, to fill this gap, we proposed APT36K, the first large-scale dataset with high-quality animal pose annotations from consecutive frames for animal pose estimation and tracking. AP",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BlockType": "LAYOUT_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.07363151758909225,
+                        "Height": 0.022819258272647858,
+                        "Left": 0.9204525351524353,
+                        "Top": 0.03266800940036774
+                    },
+                    "Id": "a25ee6a1-d029-4af4-9435-c660a40f35b6"
+                },
+                {
+                    "Text": "Introduction",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.1583034247159958,
+                        "Height": 0.03867102786898613,
+                        "Left": 0.020261147990822792,
+                        "Top": 0.05760527774691582
+                    },
+                    "Id": "5db2bbcf-1d88-41f1-97a5-78dd4095bef5"
+                },
+                {
+                    "Text": "To fill this gap, we propose APT-36K, the first large-scale dataset with high-quality animal pose annotations from consecutive frames for animal pose estimation and tracking.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7886123657226562,
+                        "Height": 0.06675750762224197,
+                        "Left": 0.02118159644305706,
+                        "Top": 0.745857298374176
+                    },
+                    "Id": "7af0558d-a834-4866-bc15-83ab5cec4e05"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,862",
+            "end_time": "00:00:27,232",
+            "transcript": "IT CONTAINS NOT ONLY THE CONTINUOUS TIME INFORMATION NEEDED FOR TRACKING TASKS, BUT ALSO A VERY DETAILED INITIATION OF PULSE KEY POINTS WITH A WIDE RANGE OF DIFFERENT ANIMAL SPECIES.",
+            "MatchedRegion": [
+                {
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BlockType": "LAYOUT_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.07363151758909225,
+                        "Height": 0.022819258272647858,
+                        "Left": 0.9204525351524353,
+                        "Top": 0.03266800940036774
+                    },
+                    "Id": "a25ee6a1-d029-4af4-9435-c660a40f35b6"
+                },
+                {
+                    "Text": "Introduction",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.1583034247159958,
+                        "Height": 0.03867102786898613,
+                        "Left": 0.020261147990822792,
+                        "Top": 0.05760527774691582
+                    },
+                    "Id": "5db2bbcf-1d88-41f1-97a5-78dd4095bef5"
+                },
+                {
+                    "Text": "APT-36K dataset contains not only the continuous time information needed for the tracking task, but also a very detailed annotation of the pose keypoints, with a wide range of different animal species.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.829992413520813,
+                        "Height": 0.06528820097446442,
+                        "Left": 0.020973123610019684,
+                        "Top": 0.8543781638145447
+                    },
+                    "Id": "22761f10-532f-4f13-984e-db6890d5f280"
+                }
+            ]
+        }
+    ]
+}

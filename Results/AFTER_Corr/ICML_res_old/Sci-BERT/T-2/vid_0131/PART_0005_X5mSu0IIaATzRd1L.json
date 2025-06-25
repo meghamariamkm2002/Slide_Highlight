@@ -1,0 +1,145 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,923",
+            "end_time": "00:00:11,629",
+            "transcript": "And we also propose the discrepancy-aware sample correction based on the memorization discrepancy to defend against the accumulative poisoning attacks.",
+            "MatchedRegion": [
+                {
+                    "Text": "The high-level intuition of DSC is to adopt the Memorization Discrepancy to the previous principled reverse adversarial generation, as the guidance for selective sample correction.",
+                    "BoundingBox": {
+                        "Width": 0.39495986700057983,
+                        "Height": 0.12723560631275177,
+                        "Left": 0.0543794259428978,
+                        "Top": 0.6368417143821716
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7846fbe5-55c5-49a4-9c5a-009a54bf669c",
+                    "Score": 0.8370013236999512
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,070",
+            "end_time": "00:00:24,438",
+            "transcript": "Different from the AT variant of gradient clipping, which is essential to handle the poisoning sample or cleaning samples,",
+            "MatchedRegion": [
+                {
+                    "Text": "Discrepancy-aware Sample Correction",
+                    "BoundingBox": {
+                        "Width": 0.9084433317184448,
+                        "Height": 0.07352752238512039,
+                        "Left": 0.01139006856828928,
+                        "Top": 0.1223282739520073
+                    },
+                    "BlockType": "LAYOUT_TITLE",
+                    "Id": "76f730ad-157f-4cb3-8055-d76ddfa18f8d",
+                    "Score": 0.7418197393417358
+                },
+                {
+                    "Text": "Discrepancy-aware Sample Correction (DSC)",
+                    "BoundingBox": {
+                        "Width": 0.22984305024147034,
+                        "Height": 0.059308286756277084,
+                        "Left": 0.07279139757156372,
+                        "Top": 0.4246734082698822
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "28bf5afe-53c7-43b9-bae3-3f1879423889",
+                    "Score": 0.7180747389793396
+                },
+                {
+                    "Text": "x = arg min e(f(x),y), B[x,E] s.t., , D(f(x;0),f(x;0*)) >P",
+                    "BoundingBox": {
+                        "Width": 0.34394580125808716,
+                        "Height": 0.09352380037307739,
+                        "Left": 0.08016586303710938,
+                        "Top": 0.5001965761184692
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "86465dd7-e64c-4ab5-b480-474e52bbe183",
+                    "Score": 0.711532473564148
+                },
+                {
+                    "Text": "The high-level intuition of DSC is to adopt the Memorization Discrepancy to the previous principled reverse adversarial generation, as the guidance for selective sample correction.",
+                    "BoundingBox": {
+                        "Width": 0.39495986700057983,
+                        "Height": 0.12723560631275177,
+                        "Left": 0.0543794259428978,
+                        "Top": 0.6368417143821716
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7846fbe5-55c5-49a4-9c5a-009a54bf669c",
+                    "Score": 0.8370013236999512
+                },
+                {
+                    "Text": "1.0 Oracle DSC 87 0.8 threshold of DSC AT 86 0.6 85 84 0.4 83 0.2 82 DSC AT 81 0.0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 Batch Batch",
+                    "BoundingBox": {
+                        "Width": 0.481616348028183,
+                        "Height": 0.251598596572876,
+                        "Left": 0.46412429213523865,
+                        "Top": 0.40917909145355225
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "03a1e52f-70d3-48c0-9f11-7789815c9ad0",
+                    "Score": 0.6351989507675171
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,373",
+            "end_time": "00:00:35,598",
+            "transcript": "our discrepancy awareness over a sample correction can selectively correct some potential points in the examples and achieve the better performance.",
+            "MatchedRegion": [
+                {
+                    "Text": "Discrepancy-aware Sample Correction (DSC)",
+                    "BoundingBox": {
+                        "Width": 0.22984305024147034,
+                        "Height": 0.059308286756277084,
+                        "Left": 0.07279139757156372,
+                        "Top": 0.4246734082698822
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "28bf5afe-53c7-43b9-bae3-3f1879423889",
+                    "Score": 0.7180747389793396
+                },
+                {
+                    "Text": "The high-level intuition of DSC is to adopt the Memorization Discrepancy to the previous principled reverse adversarial generation, as the guidance for selective sample correction.",
+                    "BoundingBox": {
+                        "Width": 0.39495986700057983,
+                        "Height": 0.12723560631275177,
+                        "Left": 0.0543794259428978,
+                        "Top": 0.6368417143821716
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7846fbe5-55c5-49a4-9c5a-009a54bf669c",
+                    "Score": 0.8370013236999512
+                },
+                {
+                    "Text": "1.0 Oracle DSC 87 0.8 threshold of DSC AT 86 0.6 85 84 0.4 83 0.2 82 DSC AT 81 0.0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 Batch Batch",
+                    "BoundingBox": {
+                        "Width": 0.481616348028183,
+                        "Height": 0.251598596572876,
+                        "Left": 0.46412429213523865,
+                        "Top": 0.40917909145355225
+                    },
+                    "BlockType": "LAYOUT_FIGURE",
+                    "Id": "03a1e52f-70d3-48c0-9f11-7789815c9ad0",
+                    "Score": 0.6351989507675171
+                },
+                {
+                    "Text": "Figure 1. Left: the Memorization Discrepancy corresponding to training samples in real-time data streaming. Right: test accuracy of the AT-based method and the proposed DSC.",
+                    "BoundingBox": {
+                        "Width": 0.43118777871131897,
+                        "Height": 0.07422807067632675,
+                        "Left": 0.5024645328521729,
+                        "Top": 0.6816474199295044
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "cd27ae5c-dfdd-4332-9413-cb82d748a3c0",
+                    "Score": 0.7120717167854309
+                }
+            ]
+        }
+    ]
+}

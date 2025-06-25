@@ -1,0 +1,60 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,890",
+            "end_time": "00:00:06,031",
+            "transcript": "First, I will describe the general associative memory model which we extend in our work.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,631",
+            "end_time": "00:00:11,372",
+            "transcript": "Until recently, energy models were constrained to retrieve single memories from a set of stored memories.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,912",
+            "end_time": "00:00:18,294",
+            "transcript": "These models have a general architecture called the GAMM, composed of two layers of neurons with symmetric interactions.",
+            "MatchedRegion": [
+                {
+                    "Text": "GAMM is a two-layer architecture of neurons with symmetric interactions.",
+                    "BoundingBox": {
+                        "Width": 0.35851016640663147,
+                        "Height": 0.06901958584785461,
+                        "Left": 0.5647041201591492,
+                        "Top": 0.1424138993024826
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "25253fe9-49e4-49ad-a3ae-b1212e07a208",
+                    "Score": 0.6354166666666667
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:18,935",
+            "end_time": "00:00:23,876",
+            "transcript": "The symmetry leads to a dissipative dynamical system that converges to a single state under mild conditions.",
+            "MatchedRegion": [
+                {
+                    "Text": "The symmetric interactions result in a dissipative dynamical system whose dynamical behavior can be explained using an energy function.",
+                    "BoundingBox": {
+                        "Width": 0.3783704340457916,
+                        "Height": 0.14020109176635742,
+                        "Left": 0.5650098919868469,
+                        "Top": 0.2331220656633377
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "afd74315-721e-4cab-9c71-7576f2ec1ee0",
+                    "Score": 0.617283950617284
+                }
+            ]
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_MEOJKJ3n58NsNxBI",
+            "Score": 0.6315485239028931
+        }
+    ]
+}

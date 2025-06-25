@@ -1,0 +1,56 @@
+{
+    "MatchedSlides": [],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,570",
+            "end_time": "00:00:20,996",
+            "transcript": "We evaluated the performance of four kinds of models, traditional statistical machine learning models, neural networks, general-domain large-scale pre-trained language models, and COVID-19-related pre-trained language models for the NER task and the TSA task on MassCov dataset.",
+            "MatchedRegion": [
+                {
+                    "Text": "3 Model Benchmarking",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.29392674565315247,
+                        "Height": 0.04708361625671387,
+                        "Left": 0.027726927772164345,
+                        "Top": 0.05049312114715576
+                    },
+                    "Id": "372b457f-0efe-4b9e-bf6e-5057e562df54"
+                },
+                {
+                    "Text": "NER Models",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.10431578010320663,
+                        "Height": 0.02825195901095867,
+                        "Left": 0.0646447241306305,
+                        "Top": 0.2193368673324585
+                    },
+                    "Id": "83284862-52ec-429b-be68-0ed85d7f58d8"
+                },
+                {
+                    "Text": "Training and Test Sets",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.18653318285942078,
+                        "Height": 0.03325606882572174,
+                        "Left": 0.06330172717571259,
+                        "Top": 0.5914507508277893
+                    },
+                    "Id": "9dc58ed9-4e3a-48dc-b3b8-33b2f78dfa00"
+                },
+                {
+                    "Text": "Implementation Details",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.20372164249420166,
+                        "Height": 0.03385688364505768,
+                        "Left": 0.06398066878318787,
+                        "Top": 0.6849378943443298
+                    },
+                    "Id": "d267bc07-a0c3-43fe-9c94-d52477b4d2fb"
+                }
+            ]
+        }
+    ]
+}

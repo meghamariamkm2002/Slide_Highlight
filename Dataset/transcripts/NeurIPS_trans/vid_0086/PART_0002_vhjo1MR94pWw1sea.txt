@@ -1,0 +1,5 @@
+Why is this data important?
+First, we need to get familiarized with what EHRs are.
+EHR stands for electronic health record.
+They are also called electron medical records or EMRs.
+From hospital automation to diagnosis, procedure, and hospital discharge, all medical events that happen in the hospital are stored in this database.

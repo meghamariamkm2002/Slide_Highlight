@@ -1,0 +1,32 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,370",
+            "end_time": "00:00:06,053",
+            "transcript": "The general sequential episodic memory model or G's and D's deals with these two limitations.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,533",
+            "end_time": "00:00:11,597",
+            "transcript": "We derive G's M by introducing asymmetric synapses with signal propagation delays in the GAMM.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:12,257",
+            "end_time": "00:00:19,002",
+            "transcript": "The asymmetric synapses result in the temporal behavior of the model and the delay stabilizes individual memories over time.",
+            "MatchedRegion": []
+        }
+    ],
+    "MatchedSlides": [
+        {
+            "slide": "PART_0000_MEOJKJ3n58NsNxBI",
+            "Score": 0.6138516068458557
+        },
+        {
+            "slide": "PART_0001_pXxJk9ctFPwTH6UL",
+            "Score": 0.7234017848968506
+        }
+    ]
+}

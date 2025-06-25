@@ -1,0 +1,284 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,049",
+            "end_time": "00:00:00,409",
+            "transcript": "to you.",
+            "MatchedRegion": [
+                {
+                    "Text": "1 Introduction",
+                    "BoundingBox": {
+                        "Width": 0.18362414836883545,
+                        "Height": 0.03795085847377777,
+                        "Left": 0.02857363596558571,
+                        "Top": 0.05083907023072243
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "cb5aa2b8-deb2-44fa-ba44-4f65adb02fa6",
+                    "Score": 0.8351463675498962
+                },
+                {
+                    "Text": "1.1 Motivation",
+                    "BoundingBox": {
+                        "Width": 0.15110555291175842,
+                        "Height": 0.03146573528647423,
+                        "Left": 0.028075193986296654,
+                        "Top": 0.14239922165870667
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "293d33bb-1736-4bee-ad3f-16f3dbb83f35",
+                    "Score": 0.7422788143157959
+                },
+                {
+                    "Text": "Named entity recognition (NER) and targeted sentiment analysis (TSA) are two important tasks for studying user foci and attitudes:",
+                    "BoundingBox": {
+                        "Width": 0.8677211999893188,
+                        "Height": 0.07898332923650742,
+                        "Left": 0.057744208723306656,
+                        "Top": 0.31154733896255493
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "39d89485-fab3-46e1-abd5-a539567371a5",
+                    "Score": 0.87038254737854
+                },
+                {
+                    "Text": "Person",
+                    "BoundingBox": {
+                        "Width": 0.04430646449327469,
+                        "Height": 0.02006502076983452,
+                        "Left": 0.27760615944862366,
+                        "Top": 0.47944629192352295
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "17928e89-f4a6-4486-986c-4ee7c5e45556",
+                    "Score": 0.829902172088623
+                },
+                {
+                    "Text": "Drug",
+                    "BoundingBox": {
+                        "Width": 0.03172656521201134,
+                        "Height": 0.024514760822057724,
+                        "Left": 0.5430874228477478,
+                        "Top": 0.48357340693473816
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "51fa0870-7d34-49c6-9b60-6dd7d5e9c131",
+                    "Score": 0.7149266600608826
+                },
+                {
+                    "Text": "to Nyers with covid 19 and if so why would",
+                    "BoundingBox": {
+                        "Width": 0.2787313163280487,
+                        "Height": 0.026741057634353638,
+                        "Left": 0.6321399211883545,
+                        "Top": 0.5261980295181274
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "f58b993f-5e28-4e62-8981-5c5d906061ac",
+                    "Score": 0.8080093860626221
+                },
+                {
+                    "Text": "Vaccine",
+                    "BoundingBox": {
+                        "Width": 0.050576116889715195,
+                        "Height": 0.020365217700600624,
+                        "Left": 0.28365716338157654,
+                        "Top": 0.6711806058883667
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "206caec3-0fec-4193-b1f1-bb7999bd443d",
+                    "Score": 0.7020888924598694
+                },
+                {
+                    "Text": "Drug",
+                    "BoundingBox": {
+                        "Width": 0.031376052647829056,
+                        "Height": 0.024518487975001335,
+                        "Left": 0.13009265065193176,
+                        "Top": 0.8209491968154907
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "37010898-f88b-4b37-a819-f19f052b0f66",
+                    "Score": 0.7149266600608826
+                },
+                {
+                    "Text": "cc",
+                    "BoundingBox": {
+                        "Width": 0.010228554718196392,
+                        "Height": 0.014245424419641495,
+                        "Left": 0.03664470463991165,
+                        "Top": 0.9777510762214661
+                    },
+                    "BlockType": "LAYOUT_FOOTER",
+                    "Id": "ecbbb794-fb16-4820-a2c3-787826a450cb",
+                    "Score": 0.8074039816856384
+                },
+                {
+                    "Text": "2",
+                    "BoundingBox": {
+                        "Width": 0.0065407948568463326,
+                        "Height": 0.01762494258582592,
+                        "Left": 0.916763424873352,
+                        "Top": 0.9445609450340271
+                    },
+                    "BlockType": "LAYOUT_PAGE_NUMBER",
+                    "Id": "a49a2756-d30b-4cc3-9fe2-375286360df2",
+                    "Score": 0.8683618903160095
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:01,569",
+            "end_time": "00:00:08,751",
+            "transcript": "The COVID-19 pandemic continues to bring up various topics discussed or debated on social media.",
+            "MatchedRegion": [
+                {
+                    "Text": "1.1 Motivation",
+                    "BoundingBox": {
+                        "Width": 0.15110555291175842,
+                        "Height": 0.03146573528647423,
+                        "Left": 0.028075193986296654,
+                        "Top": 0.14239922165870667
+                    },
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "Id": "293d33bb-1736-4bee-ad3f-16f3dbb83f35",
+                    "Score": 0.7422788143157959
+                },
+                {
+                    "Text": "Existing natural language processing (NLP) tools struggle to fulfill the surging demand for accurate social media-based public healthcare analysis due to the lack of relevant datasets.",
+                    "BoundingBox": {
+                        "Width": 0.8522049784660339,
+                        "Height": 0.07857756316661835,
+                        "Left": 0.05777743086218834,
+                        "Top": 0.22238238155841827
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "96197e8b-2a47-4170-a2b4-e810e59394d2",
+                    "Score": 0.8500999212265015
+                },
+                {
+                    "Text": "Named entity recognition (NER) and targeted sentiment analysis (TSA) are two important tasks for studying user foci and attitudes:",
+                    "BoundingBox": {
+                        "Width": 0.8677211999893188,
+                        "Height": 0.07898332923650742,
+                        "Left": 0.057744208723306656,
+                        "Top": 0.31154733896255493
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "39d89485-fab3-46e1-abd5-a539567371a5",
+                    "Score": 0.87038254737854
+                },
+                {
+                    "Text": "Drug",
+                    "BoundingBox": {
+                        "Width": 0.03172656521201134,
+                        "Height": 0.024514760822057724,
+                        "Left": 0.5430874228477478,
+                        "Top": 0.48357340693473816
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "51fa0870-7d34-49c6-9b60-6dd7d5e9c131",
+                    "Score": 0.7149266600608826
+                },
+                {
+                    "Text": "Is it true that Governor Cuomo has banned the promising malaria drug he do such a thing ? Can that rule be overridden by our president ?",
+                    "BoundingBox": {
+                        "Width": 0.4984671175479889,
+                        "Height": 0.06346559524536133,
+                        "Left": 0.1173294335603714,
+                        "Top": 0.5236435532569885
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "7471d9c2-2bcd-4f81-9933-46d66e5abf20",
+                    "Score": 0.7384374141693115
+                },
+                {
+                    "Text": "Vaccine",
+                    "BoundingBox": {
+                        "Width": 0.050576116889715195,
+                        "Height": 0.020365217700600624,
+                        "Left": 0.28365716338157654,
+                        "Top": 0.6711806058883667
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "206caec3-0fec-4193-b1f1-bb7999bd443d",
+                    "Score": 0.7020888924598694
+                },
+                {
+                    "Text": "Drug",
+                    "BoundingBox": {
+                        "Width": 0.031376052647829056,
+                        "Height": 0.024518487975001335,
+                        "Left": 0.13009265065193176,
+                        "Top": 0.8209491968154907
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "37010898-f88b-4b37-a819-f19f052b0f66",
+                    "Score": 0.7149266600608826
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:08,771",
+            "end_time": "00:00:21,854",
+            "transcript": "In order to explore the impact of pandemics on people's lives, it is important to understand the public's concerns and attitudes towards pandemic-related entities on social media.",
+            "MatchedRegion": [
+                {
+                    "Text": "Existing natural language processing (NLP) tools struggle to fulfill the surging demand for accurate social media-based public healthcare analysis due to the lack of relevant datasets.",
+                    "BoundingBox": {
+                        "Width": 0.8522049784660339,
+                        "Height": 0.07857756316661835,
+                        "Left": 0.05777743086218834,
+                        "Top": 0.22238238155841827
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "96197e8b-2a47-4170-a2b4-e810e59394d2",
+                    "Score": 0.8500999212265015
+                },
+                {
+                    "Text": "Named entity recognition (NER) and targeted sentiment analysis (TSA) are two important tasks for studying user foci and attitudes:",
+                    "BoundingBox": {
+                        "Width": 0.8677211999893188,
+                        "Height": 0.07898332923650742,
+                        "Left": 0.057744208723306656,
+                        "Top": 0.31154733896255493
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "39d89485-fab3-46e1-abd5-a539567371a5",
+                    "Score": 0.87038254737854
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:22,691",
+            "end_time": "00:00:44,002",
+            "transcript": "However, most NLP tools as well as models trained on existing name entity recognition or targeted sentiment analysis data sets have limited ability to understand COVID-19 related social media texts because these data sets are not designed or annotated from a medical perspective.",
+            "MatchedRegion": [
+                {
+                    "Text": "Existing natural language processing (NLP) tools struggle to fulfill the surging demand for accurate social media-based public healthcare analysis due to the lack of relevant datasets.",
+                    "BoundingBox": {
+                        "Width": 0.8522049784660339,
+                        "Height": 0.07857756316661835,
+                        "Left": 0.05777743086218834,
+                        "Top": 0.22238238155841827
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "96197e8b-2a47-4170-a2b4-e810e59394d2",
+                    "Score": 0.8500999212265015
+                },
+                {
+                    "Text": "Named entity recognition (NER) and targeted sentiment analysis (TSA) are two important tasks for studying user foci and attitudes:",
+                    "BoundingBox": {
+                        "Width": 0.8677211999893188,
+                        "Height": 0.07898332923650742,
+                        "Left": 0.057744208723306656,
+                        "Top": 0.31154733896255493
+                    },
+                    "BlockType": "LAYOUT_TEXT",
+                    "Id": "39d89485-fab3-46e1-abd5-a539567371a5",
+                    "Score": 0.87038254737854
+                }
+            ]
+        }
+    ]
+}

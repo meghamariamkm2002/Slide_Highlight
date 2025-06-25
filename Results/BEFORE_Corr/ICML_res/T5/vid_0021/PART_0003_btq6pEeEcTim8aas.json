@@ -1,0 +1,317 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,850",
+            "end_time": "00:00:07,094",
+            "transcript": "To couple them, we employ the donscopardon form of the KL whose optimality point is precisely at the negative log distribution ratio.",
+            "MatchedRegion": [
+                {
+                    "Text": "Optimality point: =",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.150637686252594,
+                        "Height": 0.026235166937112808,
+                        "Left": 0.12012599408626556,
+                        "Top": 0.3906784653663635
+                    },
+                    "Id": "d4b1f6a1-d364-4920-b307-a560af90cc23"
+                },
+                {
+                    "Text": "Precisely the negative log distribution ratio!",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.22660091519355774,
+                        "Height": 0.02336869388818741,
+                        "Left": 0.1502748280763626,
+                        "Top": 0.4373888075351715
+                    },
+                    "Id": "934b5d3e-e7d7-4e34-8a72-d14f1ee02c65"
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:07,555",
+            "end_time": "00:00:13,119",
+            "transcript": "Therefore, we can alternate between computing x through the donscopardon and using negative x as your reward in an RL algorithm.",
+            "MatchedRegion": [
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,780",
+            "end_time": "00:00:23,988",
+            "transcript": "This leads directly to our approach for estimating the longer ratio by coupling two flows through x, that is, instead of training two flows independently, we propose to do so by injecting the inductive bias seen in the slide.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our Approach",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.2552487254142761,
+                        "Height": 0.07418031245470047,
+                        "Left": 0.08381976932287216,
+                        "Top": 0.1310279369354248
+                    },
+                    "Id": "4825b256-e12c-4580-ac60-57e9cfd8e86c"
+                },
+                {
+                    "Text": "Guarantees more meaningful values when the flows are evaluated on each others data",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.44531604647636414,
+                        "Height": 0.046655502170324326,
+                        "Left": 0.12046785652637482,
+                        "Top": 0.5451908707618713
+                    },
+                    "Id": "3eed7128-8c33-448c-b303-5750aa44fa69"
+                },
+                {
+                    "Text": "Note the drop at the end occurs precisely beyond expert level",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.31147831678390503,
+                        "Height": 0.02544696070253849,
+                        "Left": 0.14978119730949402,
+                        "Top": 0.608549177646637
+                    },
+                    "Id": "95f7dceb-e8bf-426c-84e0-5ed0230bf165"
+                },
+                {
+                    "Text": "Additional components:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.17354679107666016,
+                        "Height": 0.028303956612944603,
+                        "Left": 0.08618079125881195,
+                        "Top": 0.646504819393158
+                    },
+                    "Id": "f841b72b-4c60-4839-ae44-3640f5a42565"
+                },
+                {
+                    "Text": "Flow regularization",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.14271873235702515,
+                        "Height": 0.027549488469958305,
+                        "Left": 0.12034054845571518,
+                        "Top": 0.7314811944961548
+                    },
+                    "Id": "dfc7bc0f-2a04-45d6-b4a4-ff6e6315f306"
+                },
+                {
+                    "Text": "Coupled Flow Imitation Learning (CFIL)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.30069637298583984,
+                        "Height": 0.03103284165263176,
+                        "Left": 0.08596180379390717,
+                        "Top": 0.815504789352417
+                    },
+                    "Id": "a63e44fa-d29b-4cd0-9fce-600b8a098471"
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:24,628",
+            "end_time": "00:00:33,833",
+            "transcript": "This coupling guarantees more meaningful values when the flows are evaluated on each other's data, since it has already occurred during the maximization phase, hence side-stepping the ODE I should describe earlier.",
+            "MatchedRegion": [
+                {
+                    "Text": "Guarantees more meaningful values when the flows are evaluated on each others data",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.44531604647636414,
+                        "Height": 0.046655502170324326,
+                        "Left": 0.12046785652637482,
+                        "Top": 0.5451908707618713
+                    },
+                    "Id": "3eed7128-8c33-448c-b303-5750aa44fa69"
+                },
+                {
+                    "Text": "Flow regularization",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.14271873235702515,
+                        "Height": 0.027549488469958305,
+                        "Left": 0.12034054845571518,
+                        "Top": 0.7314811944961548
+                    },
+                    "Id": "dfc7bc0f-2a04-45d6-b4a4-ff6e6315f306"
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:34,294",
+            "end_time": "00:00:36,035",
+            "transcript": "The new BC graph illustrates this advantage.",
+            "MatchedRegion": [
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,695",
+            "end_time": "00:00:44,059",
+            "transcript": "Some additional components we find useful, whose motivation and details can be found in the paper, are a squasher on X, an optional flow regularization and smoothing.",
+            "MatchedRegion": [
+                {
+                    "Text": "Guarantees more meaningful values when the flows are evaluated on each others data",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.44531604647636414,
+                        "Height": 0.046655502170324326,
+                        "Left": 0.12046785652637482,
+                        "Top": 0.5451908707618713
+                    },
+                    "Id": "3eed7128-8c33-448c-b303-5750aa44fa69"
+                },
+                {
+                    "Text": "Squasher",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.0780271664261818,
+                        "Height": 0.026117246598005295,
+                        "Left": 0.12009787559509277,
+                        "Top": 0.6896262764930725
+                    },
+                    "Id": "3ff198c2-4a27-4b30-987c-515fba878268"
+                },
+                {
+                    "Text": "Flow regularization",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.14271873235702515,
+                        "Height": 0.027549488469958305,
+                        "Left": 0.12034054845571518,
+                        "Top": 0.7314811944961548
+                    },
+                    "Id": "dfc7bc0f-2a04-45d6-b4a4-ff6e6315f306"
+                },
+                {
+                    "Text": "Smoothing",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.09060020744800568,
+                        "Height": 0.02719319611787796,
+                        "Left": 0.11993347853422165,
+                        "Top": 0.7740697860717773
+                    },
+                    "Id": "7cd0c497-ee7a-44a2-872a-b2c8b7e80935"
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c"
+                },
+                {
+                    "Text": "if flow reg then",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.06708834320306778,
+                        "Height": 0.02099611610174179,
+                        "Left": 0.7114844918251038,
+                        "Top": 0.7643839716911316
+                    },
+                    "Id": "2a0445ae-a794-4a66-ba96-7aa5e0d2be1c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:44,760",
+            "end_time": "00:00:49,002",
+            "transcript": "Finally, combining all these elements is our algorithm, coupled flow imitation learning.",
+            "MatchedRegion": [
+                {
+                    "Text": "Our Approach",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.2552487254142761,
+                        "Height": 0.07418031245470047,
+                        "Left": 0.08381976932287216,
+                        "Top": 0.1310279369354248
+                    },
+                    "Id": "4825b256-e12c-4580-ac60-57e9cfd8e86c"
+                },
+                {
+                    "Text": "Coupled Flow Imitation Learning (CFIL)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.30069637298583984,
+                        "Height": 0.03103284165263176,
+                        "Left": 0.08596180379390717,
+                        "Top": 0.815504789352417
+                    },
+                    "Id": "a63e44fa-d29b-4cd0-9fce-600b8a098471"
+                },
+                {
+                    "Text": "Uncoupled Flows' BC Graph Coupled Flows' BC Graph (HalfCheetah-v2) (HalfCheetah-v2) expert expert 1000 2000 3000 4000 5000 0 1000 2000 3000 4000 5000 BC Trajectory Reward BC Trajectory Reward",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.36341118812561035,
+                        "Height": 0.2718065679073334,
+                        "Left": 0.6226281523704529,
+                        "Top": 0.03606114536523819
+                    },
+                    "Id": "6cca54f4-fc10-46ff-8491-022f55d9b64c"
+                }
+            ]
+        }
+    ]
+}
