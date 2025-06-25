@@ -1,4 +1,3 @@
-Attend to What I Say: Highlighting Relevant Content on Slides
 This repository contains the dataset and code for the paper:
 
 Attend to What I Say: Highlighting Relevant Content on Slides
