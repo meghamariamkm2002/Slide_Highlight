@@ -8,22 +8,17 @@ The goal of this project is to automatically highlight slide content that is rel
 
 This repository includes:
 
-🗂 A curated dataset of slide frames aligned with audio and transcripts 
+A curated dataset of slide frames aligned with audio and transcripts 
+Code for different methods
 
-🧠 Code for different methods
-
-🧾 Dataset
+Dataset
 The dataset consists of:
-
 Slide frames extracted from conference talks
-
 Speech transcripts (aligned to slides)
-
 Ground-truth highlight annotations marking slide regions relevant to each spoken segment
 
 Details:
 
 Format: Images (PNG/JPG), Transcripts (SRT), Annotations (JSON), Audio (MP3)
-
 Collected from various academic conferences (e.g., NeurIPS, ICML)
 
