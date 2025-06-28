@@ -1,8 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0004_tG2iFUvaTZn3gdmT",
-        "PART_0001_LZGyyKU5zYJCxbZS"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:01,033",
@@ -55,17 +51,6 @@
                         "Top": 0.3804417848587036
                     },
                     "Id": "68bd6c26-54f8-462f-8285-3449c6047342"
-                },
-                {
-                    "Text": "Lclassification = CE (M(i),arg max(M(i)))",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.3473127484321594,
-                        "Height": 0.039166923612356186,
-                        "Left": 0.3101721405982971,
-                        "Top": 0.5122442841529846
-                    },
-                    "Id": "ac594652-040d-406b-a0e5-d2db25819963"
                 }
             ]
         },

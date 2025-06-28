@@ -1,7 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0003_a2ZFD4lVYxlS7fdU"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:01,505",
@@ -25,7 +22,30 @@
             "start_time": "00:00:25,501",
             "end_time": "00:00:33,648",
             "transcript": "With this system, the users can simply type or verbally ask their questions, and the system will return the answers from the database.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Natural language question",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1256178468465805,
+                        "Height": 0.07015419751405716,
+                        "Left": 0.4138242304325104,
+                        "Top": 0.5051224231719971
+                    },
+                    "Id": "4f2e0d9d-4d99-444f-8693-29b14a623db4"
+                },
+                {
+                    "Text": "Answer",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.056533053517341614,
+                        "Height": 0.023268677294254303,
+                        "Left": 0.44715777039527893,
+                        "Top": 0.6849334836006165
+                    },
+                    "Id": "6fbbf693-cfc7-42c8-828e-b697d03ecaac"
+                }
+            ]
         },
         {
             "start_time": "00:00:34,689",

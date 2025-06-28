@@ -1,7 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0003_qCGccaKBz8R0BVrt"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:01,121",
@@ -9,15 +6,15 @@
             "transcript": "Now, let's describe the method.",
             "MatchedRegion": [
                 {
-                    "Text": "Method overview",
-                    "BlockType": "LAYOUT_TITLE",
+                    "Text": "Lfg - encourages the model to use as much of the foreground as possible (relevance close to 1).",
+                    "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.2377585470676422,
-                        "Height": 0.04442688822746277,
-                        "Left": 0.07844464480876923,
-                        "Top": 0.12273121625185013
+                        "Width": 0.6976200938224792,
+                        "Height": 0.032556887716054916,
+                        "Left": 0.11367300152778625,
+                        "Top": 0.42629408836364746
                     },
-                    "Id": "1ccb6060-95ac-4abd-92ac-a250ec2db7ff"
+                    "Id": "a1dd4f12-adda-40f1-b7e1-f4eb0da01c62"
                 }
             ]
         },

@@ -1,8 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0002_M8xJHwtfvrTIpy16",
-        "PART_0004_rT1screx4wHKluNg"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,529",
@@ -28,15 +24,15 @@
             "transcript": "It contains not only the continuous time information needed for tracking tasks, but also a very detailed initiation of pulse key points with a wide range of different animal species.",
             "MatchedRegion": [
                 {
-                    "Text": "APT-36K dataset contains not only the continuous time information needed for the tracking task, but also a very detailed annotation of the pose keypoints, with a wide range of different animal species.",
-                    "BlockType": "LAYOUT_TEXT",
+                    "Text": "NEURAL INFORMATION PROCESSING SYSTEMS",
+                    "BlockType": "LAYOUT_HEADER",
                     "BoundingBox": {
-                        "Width": 0.829992413520813,
-                        "Height": 0.06528820097446442,
-                        "Left": 0.020973123610019684,
-                        "Top": 0.8543781638145447
+                        "Width": 0.07363151758909225,
+                        "Height": 0.022819258272647858,
+                        "Left": 0.9204525351524353,
+                        "Top": 0.03266800940036774
                     },
-                    "Id": "22761f10-532f-4f13-984e-db6890d5f280"
+                    "Id": "a25ee6a1-d029-4af4-9435-c660a40f35b6"
                 }
             ]
         }

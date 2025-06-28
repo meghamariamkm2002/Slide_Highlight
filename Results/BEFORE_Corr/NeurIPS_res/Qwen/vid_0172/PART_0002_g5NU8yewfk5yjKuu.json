@@ -1,7 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0002_g5NU8yewfk5yjKuu"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,069",
@@ -19,7 +16,19 @@
             "start_time": "00:00:21,617",
             "end_time": "00:00:23,019",
             "transcript": "classical probability distributions.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Theorem 1",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.10016410052776337,
+                        "Height": 0.029752537608146667,
+                        "Left": 0.12474115192890167,
+                        "Top": 0.6819782853126526
+                    },
+                    "Id": "995d0a93-3bdf-416f-8bcd-557575fca458"
+                }
+            ]
         },
         {
             "start_time": "00:00:23,580",
@@ -55,7 +64,19 @@
             "start_time": "00:00:47,880",
             "end_time": "00:00:52,005",
             "transcript": "And we use this fact and use this result to study the continuous time",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Theorem 1",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.10016410052776337,
+                        "Height": 0.029752537608146667,
+                        "Left": 0.12474115192890167,
+                        "Top": 0.6819782853126526
+                    },
+                    "Id": "995d0a93-3bdf-416f-8bcd-557575fca458"
+                }
+            ]
         }
     ]
 }

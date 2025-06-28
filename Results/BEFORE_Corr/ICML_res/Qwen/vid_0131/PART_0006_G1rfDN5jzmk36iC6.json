@@ -4,36 +4,13 @@
             "start_time": "00:00:01,590",
             "end_time": "00:00:08,878",
             "transcript": "We conduct various experiments from different perspectives of the proposed information measure to show its properties.",
-            "MatchedRegion": [
-                {
-                    "Text": "We conduct various experiments from different perspectives of the proposed information measure to show its properties. (e.g., backtracking intervals, threshold adjustment, poisoning capacity, and discrepancy measures)",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.16999401152133942,
-                        "Height": 0.2630336284637451,
-                        "Left": 0.7021515965461731,
-                        "Top": 0.4752826988697052
-                    },
-                    "Id": "abaa533d-4720-4c94-bc50-f0f824202c1f"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:09,619",
             "end_time": "00:00:15,386",
             "transcript": "And we also compare the performance of our DSC with the representative method.",
             "MatchedRegion": [
-                {
-                    "Text": "We conduct various experiments from different perspectives of the proposed information measure to show its properties. (e.g., backtracking intervals, threshold adjustment, poisoning capacity, and discrepancy measures)",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.16999401152133942,
-                        "Height": 0.2630336284637451,
-                        "Left": 0.7021515965461731,
-                        "Top": 0.4752826988697052
-                    },
-                    "Id": "abaa533d-4720-4c94-bc50-f0f824202c1f"
-                },
                 {
                     "Text": "We compare the performance of DSC with the representative methods (AT, gradient clipping) to defend against accumulative poisoning attacks.",
                     "BlockType": "LAYOUT_TEXT",

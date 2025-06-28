@@ -1,15 +1,22 @@
 {
-    "MatchedSlides": [
-        "PART_0001_C7IfFsQ2BsVmjgqb",
-        "PART_0002_M8xJHwtfvrTIpy16",
-        "PART_0003_cKichVdin6XycgAq"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,606",
             "end_time": "00:00:13,917",
             "transcript": "Last, in animal post tracking, we use representative object trackers with both CNN-based backbones and vision-transformers-based backbones to track each animal instance across the video clips.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "1. In this track, we use representative object trackers with both CNN-based backbones and vision transformer-based backbones to track each animal instance across the video clips, giving each animal's ground truth bounding box in the first frame.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7165358066558838,
+                        "Height": 0.10019708424806595,
+                        "Left": 0.1467856764793396,
+                        "Top": 0.44666194915771484
+                    },
+                    "Id": "dc839b68-3240-4c98-8c13-1a97adfc5b01"
+                }
+            ]
         },
         {
             "start_time": "00:00:14,497",

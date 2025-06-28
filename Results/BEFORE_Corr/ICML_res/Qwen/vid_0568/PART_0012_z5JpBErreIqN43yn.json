@@ -28,19 +28,7 @@
             "start_time": "00:00:24,733",
             "end_time": "00:00:30,055",
             "transcript": "This unified the static and dynamic properties of memory under a single theoretical paradigm of energy.",
-            "MatchedRegion": [
-                {
-                    "Text": "100 80 60 40 Capacity of current 20 sequence memory models 0 2 4 6 8 10 12 14 Polynomial Degree",
-                    "BlockType": "LAYOUT_FIGURE",
-                    "BoundingBox": {
-                        "Width": 0.7555623650550842,
-                        "Height": 0.6245997548103333,
-                        "Left": 0.2227901667356491,
-                        "Top": 0.34658485651016235
-                    },
-                    "Id": "9cd61ae6-eaf5-4823-a1fc-b7395d6c17eb"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:30,515",

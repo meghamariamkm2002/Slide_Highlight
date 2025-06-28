@@ -1,19 +1,22 @@
 {
-    "MatchedSlides": [
-        "PART_0001_UpFXyswjYPYxTZ0a",
-        "PART_0002_vhjo1MR94pWw1sea",
-        "PART_0003_a2ZFD4lVYxlS7fdU",
-        "PART_0004_4LaUGhQly6GfiWZy",
-        "PART_0005_g9dLMZx6jqDOT7eA",
-        "PART_0006_i0GByLdBl7yaEpjE",
-        "PART_0007_a6LY8v5qypyHqC08"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:01,570",
             "end_time": "00:00:08,613",
             "transcript": "possible extensions to this work are one can develop a new class of semantic parsing models that can handle unanswerable questions.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Semantic parsing models that can handle unanswerable questions",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6870858669281006,
+                        "Height": 0.038722142577171326,
+                        "Left": 0.12105722725391388,
+                        "Top": 0.31822869181632996
+                    },
+                    "Id": "3e9152c4-0252-40ae-a810-7f9834676c39"
+                }
+            ]
         },
         {
             "start_time": "00:00:09,174",
@@ -66,6 +69,17 @@
                         "Top": 0.5935565233230591
                     },
                     "Id": "f382065a-2dea-4a54-8a78-54d5bd1ffb60"
+                },
+                {
+                    "Text": "Github: https://github.com/glee4810/EHRSQL",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.48144564032554626,
+                        "Height": 0.03994777426123619,
+                        "Left": 0.12087516486644745,
+                        "Top": 0.6747321486473083
+                    },
+                    "Id": "75133436-3734-4e96-9050-263aa59509aa"
                 }
             ]
         },
@@ -73,7 +87,19 @@
             "start_time": "00:00:25,421",
             "end_time": "00:00:26,322",
             "transcript": "Thank you for listening.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "ehr sql",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.07874806970357895,
+                        "Height": 0.168341264128685,
+                        "Left": 0.8424978256225586,
+                        "Top": 0.6152995228767395
+                    },
+                    "Id": "b40d17ff-6ee4-44c6-b671-7675e426cf96"
+                }
+            ]
         }
     ]
 }

@@ -1,7 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0006_TTEvcXWHt6QPYiAY"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:02,050",
@@ -18,6 +15,17 @@
                         "Top": 0.06602923572063446
                     },
                     "Id": "17ce5f62-a592-4fea-9678-a0de7aafee66"
+                },
+                {
+                    "Text": "1/4-approximation in combinatorial auctions",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4994426965713501,
+                        "Height": 0.04449917748570442,
+                        "Left": 0.09669119119644165,
+                        "Top": 0.7372907996177673
+                    },
+                    "Id": "0d4f0683-f0be-4f0c-ab8c-1b350aa8c465"
                 }
             ]
         },
@@ -43,19 +51,7 @@
             "start_time": "00:00:19,676",
             "end_time": "00:00:24,697",
             "transcript": "On the negative side, we show there's no price P that achieves a approximation ratio better than 0.479.",
-            "MatchedRegion": [
-                {
-                    "Text": "negative: no price p achieves approximation ratio better than 0.479",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.7424963712692261,
-                        "Height": 0.047371793538331985,
-                        "Left": 0.07037194818258286,
-                        "Top": 0.4087483286857605
-                    },
-                    "Id": "22c0c4de-9d90-4ad7-8464-037f306ce9ed"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:26,892",
@@ -81,26 +77,15 @@
             "transcript": "So this means positive price maxims with alibiders are strictly harder than the positive price maxims with traditional bidders.",
             "MatchedRegion": [
                 {
-                    "Text": "Main results",
-                    "BlockType": "LAYOUT_TITLE",
-                    "BoundingBox": {
-                        "Width": 0.3260446786880493,
-                        "Height": 0.08041802793741226,
-                        "Left": 0.3374747633934021,
-                        "Top": 0.06602923572063446
-                    },
-                    "Id": "17ce5f62-a592-4fea-9678-a0de7aafee66"
-                },
-                {
-                    "Text": "(1 - 1/e)/2-approximation in the long run in dynamic auctions",
+                    "Text": "positive: a price p that achieves approximation factor of (1 - 1/e)/2 22 0.316 against first-best welfare",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.6940500140190125,
-                        "Height": 0.046084776520729065,
-                        "Left": 0.09727498888969421,
-                        "Top": 0.8496736288070679
+                        "Width": 0.8540698289871216,
+                        "Height": 0.09861914068460464,
+                        "Left": 0.07007338106632233,
+                        "Top": 0.24481281638145447
                     },
-                    "Id": "af6b40e3-420c-4d84-94d8-383e96aaeea9"
+                    "Id": "f0edbbe1-5a0b-4d9f-8a3d-768d0ada47e6"
                 }
             ]
         },
@@ -121,15 +106,15 @@
                     "Id": "0d4f0683-f0be-4f0c-ab8c-1b350aa8c465"
                 },
                 {
-                    "Text": "byproducts:",
+                    "Text": "(1 - 1/e)/2-approximation in the long run in dynamic auctions",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.15032991766929626,
-                        "Height": 0.042047955095767975,
-                        "Left": 0.07012516260147095,
-                        "Top": 0.6296657919883728
+                        "Width": 0.6940500140190125,
+                        "Height": 0.046084776520729065,
+                        "Left": 0.09727498888969421,
+                        "Top": 0.8496736288070679
                     },
-                    "Id": "46b76d83-299d-41a5-adf0-6cfc2dc9aef8"
+                    "Id": "af6b40e3-420c-4d84-94d8-383e96aaeea9"
                 }
             ]
         }

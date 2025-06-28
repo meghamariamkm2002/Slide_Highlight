@@ -1,7 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0001_LZGyyKU5zYJCxbZS"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:01,775",
@@ -31,12 +28,6 @@
             "start_time": "00:00:11,419",
             "end_time": "00:00:17,501",
             "transcript": "In this work, we examine the spurious cues used by vision transformers and find that they suffer from two main issues.",
-            "MatchedRegion": []
-        },
-        {
-            "start_time": "00:00:18,362",
-            "end_time": "00:00:24,864",
-            "transcript": "The first is overreliance on the image background, and the second is a sparse consideration of the foreground pixels.",
             "MatchedRegion": [
                 {
                     "Text": "We find that Vision Transformers often suffer from two main salient issues:",
@@ -50,28 +41,23 @@
                     "Id": "6a970fec-3f28-4a71-bec4-83cc7b7280f4"
                 },
                 {
-                    "Text": "Over reliance on the background",
+                    "Text": "Vision models tend to rely on spurious cues to make predictions",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.267190545797348,
-                        "Height": 0.027338843792676926,
-                        "Left": 0.11370924860239029,
-                        "Top": 0.3146696984767914
+                        "Width": 0.5881450176239014,
+                        "Height": 0.03345668315887451,
+                        "Left": 0.07638096064329147,
+                        "Top": 0.216069296002388
                     },
-                    "Id": "65561184-1647-4722-89eb-cb7a93c48d5f"
-                },
-                {
-                    "Text": "Sparse consideration of the foreground pixels",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.35242870450019836,
-                        "Height": 0.02780582197010517,
-                        "Left": 0.1138836070895195,
-                        "Top": 0.35135188698768616
-                    },
-                    "Id": "64be519e-84fe-4139-8d91-47c978383f06"
+                    "Id": "0bef55a9-bef0-4514-b5b7-494538acef6b"
                 }
             ]
+        },
+        {
+            "start_time": "00:00:18,362",
+            "end_time": "00:00:24,864",
+            "transcript": "The first is overreliance on the image background, and the second is a sparse consideration of the foreground pixels.",
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:25,865",
@@ -120,6 +106,17 @@
             "end_time": "00:00:49,521",
             "transcript": "We ask ourselves, can we correct the model's logic?",
             "MatchedRegion": [
+                {
+                    "Text": "Can we correct the model's logic?",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.273681640625,
+                        "Height": 0.02824333868920803,
+                        "Left": 0.11327361315488815,
+                        "Top": 0.8762390613555908
+                    },
+                    "Id": "19c46297-9ec5-4948-bf03-db6241190901"
+                },
                 {
                     "Text": "Can we correct the model's logic?",
                     "BlockType": "LAYOUT_TEXT",

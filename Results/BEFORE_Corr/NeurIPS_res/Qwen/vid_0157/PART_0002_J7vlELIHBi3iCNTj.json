@@ -1,7 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0002_J7vlELIHBi3iCNTj"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:02,691",
@@ -43,19 +40,7 @@
             "start_time": "00:00:35,862",
             "end_time": "00:00:42,086",
             "transcript": "Therefore, we are able to predict the final confirmation in a single shot.",
-            "MatchedRegion": [
-                {
-                    "Text": "The fact that the ligand localizes to a single pocket during crystallization indicates the ligand binds stronger to this pocket than other pockets.",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.43609362840652466,
-                        "Height": 0.09840061515569687,
-                        "Left": 0.13108527660369873,
-                        "Top": 0.7262850999832153
-                    },
-                    "Id": "81551842-6c14-4ecb-a8cb-e36fc43ce279"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:44,619",
@@ -73,19 +58,7 @@
             "start_time": "00:00:54,705",
             "end_time": "00:01:10,714",
             "transcript": "That is, for node i and j, the interaction between them is modulated by the interaction between node i and k and the interaction between j and k simultaneously to account for the many-body effect.",
-            "MatchedRegion": [
-                {
-                    "Text": "The interaction between protein node i and ligand node j is updated based on all the edges between node i, j and a third node k.",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.44164183735847473,
-                        "Height": 0.09402596950531006,
-                        "Left": 0.13147199153900146,
-                        "Top": 0.3390906751155853
-                    },
-                    "Id": "a549e92d-ed72-4985-bfa3-5615238fbc95"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:01:12,216",

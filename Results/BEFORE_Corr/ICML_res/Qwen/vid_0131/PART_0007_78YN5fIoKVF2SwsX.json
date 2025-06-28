@@ -51,19 +51,7 @@
             "start_time": "00:00:23,070",
             "end_time": "00:00:23,410",
             "transcript": "Thank you.",
-            "MatchedRegion": [
-                {
-                    "Text": "Thank You!",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.17339858412742615,
-                        "Height": 0.037406131625175476,
-                        "Left": 0.1739632785320282,
-                        "Top": 0.7802744507789612
-                    },
-                    "Id": "8d19becd-f7bc-4275-8ba1-7a1a932a3726"
-                }
-            ]
+            "MatchedRegion": []
         }
     ]
 }

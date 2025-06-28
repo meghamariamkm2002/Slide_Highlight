@@ -4,7 +4,19 @@
             "start_time": "00:00:01,811",
             "end_time": "00:00:10,218",
             "transcript": "Therefore, we believe that we need more aspects to verify this metric can be used to quantify concepts learned by a DNN.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Discrimination power: If the concept is saliently activated on a set of samples, then interaction effects I(S) of the same concept are supposed to consistently push the classification of these samples towards a certain category.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7246639728546143,
+                        "Height": 0.11472193896770477,
+                        "Left": 0.1373663693666458,
+                        "Top": 0.6462259292602539
+                    },
+                    "Id": "efe5ef68-bce6-4521-ba73-5090720d3909"
+                }
+            ]
         },
         {
             "start_time": "00:00:11,059",

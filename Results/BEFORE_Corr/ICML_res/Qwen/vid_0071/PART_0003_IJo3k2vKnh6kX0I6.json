@@ -6,15 +6,26 @@
             "transcript": "Based on cooperative game theory, we have a mathematical tool to formalize this idea.",
             "MatchedRegion": [
                 {
-                    "Text": "The DNN lets different input variables interact with each other to construct concepts for inference.",
+                    "Text": "For example, given an input sentence",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.6380575299263,
-                        "Height": 0.07822342216968536,
-                        "Left": 0.18404681980609894,
-                        "Top": 0.20637209713459015
+                        "Width": 0.30607137084007263,
+                        "Height": 0.0304859708994627,
+                        "Left": 0.10664783418178558,
+                        "Top": 0.5029149055480957
                     },
-                    "Id": "4148cbb4-507a-491c-a79f-392c845340ad"
+                    "Id": "fd3d4124-f1af-421c-83d5-d31b1d394929"
+                },
+                {
+                    "Text": "He is a green hand.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.16342739760875702,
+                        "Height": 0.030560163781046867,
+                        "Left": 0.4325880706310272,
+                        "Top": 0.5001357197761536
+                    },
+                    "Id": "43945e73-14ee-4e26-96f5-768926051d5e"
                 }
             ]
         },

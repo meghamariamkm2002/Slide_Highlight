@@ -1,25 +1,10 @@
 {
-    "MatchedSlides": [
-        "PART_0005_fXZ9XuLZytoRMeGi"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,129",
             "end_time": "00:00:00,650",
             "transcript": "have a bidder.",
-            "MatchedRegion": [
-                {
-                    "Text": "bidders arrive one by one, each bidder observes own value Vi~Di and decides to accept or reject price p",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.8479005694389343,
-                        "Height": 0.10753817856311798,
-                        "Left": 0.07036935538053513,
-                        "Top": 0.47106701135635376
-                    },
-                    "Id": "0ab5f69d-13ca-433b-8eb9-c39d22722903"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:02,252",

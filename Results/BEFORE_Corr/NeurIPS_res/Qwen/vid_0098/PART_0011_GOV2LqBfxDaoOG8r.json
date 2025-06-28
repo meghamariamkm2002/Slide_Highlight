@@ -1,86 +1,10 @@
 {
-    "MatchedSlides": [
-        "PART_0001_Cx54Xgy86xzmhZ9m",
-        "PART_0002_VPQBRKPuZ5gIgtxw",
-        "PART_0003_AVYdxgQ3ohclNiow",
-        "PART_0004_CwGPLtp3Ag53OvR5",
-        "PART_0005_IOJ6WKiXc4deh9t4",
-        "PART_0006_E2dTEyTGwuVrT8Cb",
-        "PART_0007_W504de3KzhaMS8ke"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,249",
             "end_time": "00:00:00,629",
             "transcript": "functions.",
-            "MatchedRegion": [
-                {
-                    "Text": "Benchmark Experiments",
-                    "BlockType": "LAYOUT_TITLE",
-                    "BoundingBox": {
-                        "Width": 0.3628731966018677,
-                        "Height": 0.05841571092605591,
-                        "Left": 0.03737129271030426,
-                        "Top": 0.03467544913291931
-                    },
-                    "Id": "37ed6564-7dfc-4424-84e0-a182c1681037"
-                },
-                {
-                    "Text": "ADDA",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.05063377320766449,
-                        "Height": 0.023590510711073875,
-                        "Left": 0.47313737869262695,
-                        "Top": 0.34267091751098633
-                    },
-                    "Id": "317084c0-f412-4be3-b529-49247170c435"
-                },
-                {
-                    "Text": "SGADA",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.060439229011535645,
-                        "Height": 0.023496026173233986,
-                        "Left": 0.6249956488609314,
-                        "Top": 0.34269434213638306
-                    },
-                    "Id": "808b4760-6c24-4407-902b-ec177c0e4732"
-                },
-                {
-                    "Text": "SGPCS",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.053800318390131,
-                        "Height": 0.024762198328971863,
-                        "Left": 0.7853443026542664,
-                        "Top": 0.3421142101287842
-                    },
-                    "Id": "7185631b-cb85-4548-882f-32d441b1a80a"
-                },
-                {
-                    "Text": "t-SNE visualization of MuLane dataset. The source domain is marked in blue, the real-world model vehicle target domain in red, and the TuSimple domain in green.",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.7232441902160645,
-                        "Height": 0.05346320569515228,
-                        "Left": 0.13802263140678406,
-                        "Top": 0.6880298256874084
-                    },
-                    "Id": "7d10e48b-404a-4d72-8de1-281e0656449e"
-                },
-                {
-                    "Text": "IFM",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.04423494264483452,
-                        "Height": 0.043091531842947006,
-                        "Left": 0.1463083028793335,
-                        "Top": 0.9288427829742432
-                    },
-                    "Id": "e3135731-56e6-4852-b3e5-01e3660b47ea"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:01,510",

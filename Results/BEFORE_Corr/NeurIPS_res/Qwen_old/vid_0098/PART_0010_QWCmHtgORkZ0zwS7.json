@@ -1,0 +1,33 @@
+{
+    "MatchedSlides": [
+        "PART_0002_VPQBRKPuZ5gIgtxw",
+        "PART_0004_CwGPLtp3Ag53OvR5",
+        "PART_0005_IOJ6WKiXc4deh9t4"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,030",
+            "end_time": "00:00:09,634",
+            "transcript": "In our experiments, the evaluated UDA methods achieved a maximum accuracy gain of around 4% and high positives and negative rates.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,435",
+            "end_time": "00:00:15,978",
+            "transcript": "This shows that the methods are not able to achieve comparable results to the supervised baselines.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:16,778",
+            "end_time": "00:00:23,705",
+            "transcript": "Furthermore, we observe force-positive and force-negative rates increase significantly on the multi-target task of Moulin.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:24,246",
+            "end_time": "00:00:32,995",
+            "transcript": "We want to emphasize that force-positive and force-negatives represent strongly detected and missing lanes, which can lead to crucial impacts on autonomous driving.",
+            "MatchedRegion": []
+        }
+    ]
+}

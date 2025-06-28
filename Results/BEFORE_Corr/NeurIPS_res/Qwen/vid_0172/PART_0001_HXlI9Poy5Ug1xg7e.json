@@ -1,7 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0001_HXlI9Poy5Ug1xg7e"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:01,411",
@@ -101,6 +98,17 @@
                         "Top": 0.7980393767356873
                     },
                     "Id": "c0ccc66e-a7e1-49b2-a898-2acb1be1df7d"
+                },
+                {
+                    "Text": "How does MMWU behave in the last-iterate sense? Do classical results like Poincar\u00e9 recurrence hold in the continuous time limit?",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7527394890785217,
+                        "Height": 0.06787221133708954,
+                        "Left": 0.11739896982908249,
+                        "Top": 0.8379023671150208
+                    },
+                    "Id": "4b9f4b08-0b0b-426a-9922-f24e45c77bc1"
                 }
             ]
         },
@@ -191,17 +199,6 @@
                         "Top": 0.7980393767356873
                     },
                     "Id": "c0ccc66e-a7e1-49b2-a898-2acb1be1df7d"
-                },
-                {
-                    "Text": "MMWU is known to converge in time-average to approximate Nash equilibrium in zero-sum games.",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.8172914385795593,
-                        "Height": 0.07633262872695923,
-                        "Left": 0.07553359866142273,
-                        "Top": 0.6661136746406555
-                    },
-                    "Id": "25d7edaf-eb4d-442d-8b56-3b317dd9321e"
                 }
             ]
         },

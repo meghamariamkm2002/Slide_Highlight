@@ -1,8 +1,23 @@
 {
-    "MatchedSlides": [
-        "PART_0002_VPQBRKPuZ5gIgtxw"
-    ],
     "MatchedRegions": [
+        {
+            "start_time": "00:00:01,870",
+            "end_time": "00:00:09,752",
+            "transcript": "Unsupervised domain adaptation demonstrates great potential to mitigate domain shifts by transferring models from labeled source domains to unlabeled target domains.",
+            "MatchedRegion": [
+                {
+                    "Text": "Unsupervised Domain Adaptation (UDA) demonstrates great potential to mitigate domain shifts by transferring models from labeled source domains to unlabeled target domains",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8520699143409729,
+                        "Height": 0.07390082627534866,
+                        "Left": 0.03573311120271683,
+                        "Top": 0.6462298631668091
+                    },
+                    "Id": "829daac5-d0b4-4f02-941e-e877717cd317"
+                }
+            ]
+        },
         {
             "start_time": "00:00:10,432",
             "end_time": "00:00:14,294",
@@ -36,17 +51,6 @@
                         "Top": 0.810569167137146
                     },
                     "Id": "645e79f1-beb0-43f1-88ef-2b4ac9553d2a"
-                },
-                {
-                    "Text": "UAB Universitat Autonoma de Barcelona",
-                    "BlockType": "LAYOUT_FOOTER",
-                    "BoundingBox": {
-                        "Width": 0.07325481623411179,
-                        "Height": 0.06668746471405029,
-                        "Left": 0.5284335017204285,
-                        "Top": 0.9210733771324158
-                    },
-                    "Id": "da6071fb-0e09-4f73-aa1c-ac25acd7e34b"
                 }
             ]
         }

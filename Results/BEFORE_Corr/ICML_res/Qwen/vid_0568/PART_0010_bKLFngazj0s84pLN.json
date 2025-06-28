@@ -4,6 +4,30 @@
             "start_time": "00:00:00,009",
             "end_time": "00:00:00,749",
             "transcript": "state in the cycle.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,110",
+            "end_time": "00:00:06,992",
+            "transcript": "The figure shows how the state of the system is influenced by the instantaneous minima of the energy surface.",
+            "MatchedRegion": [
+                {
+                    "Text": "1 0 -0.4 0 20 40 60 80 100 120",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.3793649971485138,
+                        "Height": 0.20576491951942444,
+                        "Left": 0.09194117039442062,
+                        "Top": 0.1782366931438446
+                    },
+                    "Id": "8f45b680-cff9-4800-8b7e-0ebde7af91e6"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:14,094",
+            "end_time": "00:00:20,977",
+            "transcript": "VF which are green crosses always follow the instantaneous minima red circle which in turn is modulated by VD.",
             "MatchedRegion": [
                 {
                     "Text": "- E1 56 E2 E4 CHRO 0000 00000000000000000 6 (III) E3 PC1 E4 &7 E5 55 20 30 40 50 60 70 80 - E6 56 57 E4 PC1 delay signal &7 feature 55 20 30 40 50 60 70 80 neuron state time",
@@ -17,47 +41,6 @@
                     "Id": "b8b04b2a-fa3d-4f45-99c6-216ff3bc8a5c"
                 }
             ]
-        },
-        {
-            "start_time": "00:00:02,110",
-            "end_time": "00:00:06,992",
-            "transcript": "The figure shows how the state of the system is influenced by the instantaneous minima of the energy surface.",
-            "MatchedRegion": []
-        },
-        {
-            "start_time": "00:00:07,472",
-            "end_time": "00:00:13,514",
-            "transcript": "The black line VD is slow changing and modulates the minima near the memory states depicted by colored circles.",
-            "MatchedRegion": [
-                {
-                    "Text": "(bottom) The figure shows how the system is attracted to the nearest fixed point from the current state of the energy surface at each point in time.",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.34589165449142456,
-                        "Height": 0.1235780194401741,
-                        "Left": 0.018843313679099083,
-                        "Top": 0.8279460072517395
-                    },
-                    "Id": "55234928-4775-4595-a9cf-f606c25f7010"
-                },
-                {
-                    "Text": "Point where 57 loses stability and the system is attracted to the basin of 4",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.19448506832122803,
-                        "Height": 0.09387588500976562,
-                        "Left": 0.4805733561515808,
-                        "Top": 0.2888375520706177
-                    },
-                    "Id": "37bd72df-9bb9-4b07-ae84-62967c8e5b5b"
-                }
-            ]
-        },
-        {
-            "start_time": "00:00:14,094",
-            "end_time": "00:00:20,977",
-            "transcript": "VF which are green crosses always follow the instantaneous minima red circle which in turn is modulated by VD.",
-            "MatchedRegion": []
         },
         {
             "start_time": "00:00:21,886",

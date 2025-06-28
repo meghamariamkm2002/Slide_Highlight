@@ -1,7 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0003_9k0RRGHHh63qbpJU"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:02,753",
@@ -13,7 +10,19 @@
             "start_time": "00:00:08,461",
             "end_time": "00:00:14,170",
             "transcript": "In total, there are 45 release blocks leading to a search base size of more than 91,000 models.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "45 unique blocks 91,125 models.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3077075481414795,
+                        "Height": 0.03415105864405632,
+                        "Left": 0.06741202622652054,
+                        "Top": 0.9083415865898132
+                    },
+                    "Id": "7928aa8c-13ba-4526-87bc-f9de561c3555"
+                }
+            ]
         }
     ]
 }

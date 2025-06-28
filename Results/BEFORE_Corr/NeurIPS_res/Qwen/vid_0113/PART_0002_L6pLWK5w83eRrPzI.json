@@ -1,9 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0001_0TKQIPPtwm9E6HiO",
-        "PART_0002_L6pLWK5w83eRrPzI",
-        "PART_0003_kRCOWWFvfeHEkO1I"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:01,750",
@@ -38,6 +33,17 @@
                         "Top": 0.3952828645706177
                     },
                     "Id": "8feb858a-f2bc-40e5-9e12-a0ee1074d2af"
+                },
+                {
+                    "Text": "10,000 tweets",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1321832835674286,
+                        "Height": 0.027395449578762054,
+                        "Left": 0.2686801850795746,
+                        "Top": 0.32233476638793945
+                    },
+                    "Id": "7259dfd2-ef7c-4153-ab41-6ad8e15a498f"
                 }
             ]
         },
@@ -57,19 +63,7 @@
             "start_time": "00:00:38,470",
             "end_time": "00:00:44,154",
             "transcript": "Also, we designed detailed guidelines for annotating medical entities on tweets.",
-            "MatchedRegion": [
-                {
-                    "Text": "Detailed guidelines for annotating medical entities (Disease, Drug, Symptom, Vaccine) on tweets.",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.6499955058097839,
-                        "Height": 0.06682852655649185,
-                        "Left": 0.25697681307792664,
-                        "Top": 0.5720789432525635
-                    },
-                    "Id": "42fcdf63-1d9b-41d9-9ea0-fb4ba151c9d1"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:45,496",

@@ -1,8 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0003_AVYdxgQ3ohclNiow",
-        "PART_0004_CwGPLtp3Ag53OvR5"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,009",
@@ -38,7 +34,19 @@
             "start_time": "00:00:25,220",
             "end_time": "00:00:28,822",
             "transcript": "Samples of the source and target domains can be seen in the image on the right.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Source Target Images sampled from our CARLANE Benchmark.",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.4361855387687683,
+                        "Height": 0.24813103675842285,
+                        "Left": 0.5323161482810974,
+                        "Top": 0.4499131441116333
+                    },
+                    "Id": "a6a917cb-0cc6-44d8-9b25-f1cea3d07625"
+                }
+            ]
         }
     ]
 }

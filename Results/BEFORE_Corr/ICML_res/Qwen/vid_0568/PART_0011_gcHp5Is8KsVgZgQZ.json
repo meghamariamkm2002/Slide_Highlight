@@ -17,6 +17,17 @@
                     "Id": "26085efe-be76-4b4b-b556-3679fdb75f5f"
                 },
                 {
+                    "Text": "Introduce polynomial non-linearity in the hidden layer activation.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.2453603297472,
+                        "Height": 0.051164500415325165,
+                        "Left": 0.20736271142959595,
+                        "Top": 0.6594059467315674
+                    },
+                    "Id": "03c96b4f-27cd-486a-bb26-4adfef2d9612"
+                },
+                {
                     "Text": "Stored memories interact non-linearly resulting in capacity improvements over LISEM.",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
@@ -55,6 +66,17 @@
                         "Top": 0.6594059467315674
                     },
                     "Id": "03c96b4f-27cd-486a-bb26-4adfef2d9612"
+                },
+                {
+                    "Text": "Stored memories interact non-linearly resulting in capacity improvements over LISEM.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.2509634792804718,
+                        "Height": 0.07259111851453781,
+                        "Left": 0.20785149931907654,
+                        "Top": 0.7171064019203186
+                    },
+                    "Id": "baada25c-7794-49b1-8989-8c9440c1446f"
                 }
             ]
         },
@@ -63,6 +85,17 @@
             "end_time": "00:00:23,688",
             "transcript": "Current memory models fall in the degree 1 limit of dense G-SOM, which we call the linear G-SOM.",
             "MatchedRegion": [
+                {
+                    "Text": "Dense GSEMM",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.11473258584737778,
+                        "Height": 0.10388632118701935,
+                        "Left": 0.06637400388717651,
+                        "Top": 0.7008693218231201
+                    },
+                    "Id": "26085efe-be76-4b4b-b556-3679fdb75f5f"
+                },
                 {
                     "Text": "Note that LISEM is the degree 1 case of Dense GSEMM",
                     "BlockType": "LAYOUT_TEXT",
@@ -73,17 +106,6 @@
                         "Top": 0.8004483580589294
                     },
                     "Id": "68c82a4f-94b0-48e2-909e-0a35669c87b7"
-                },
-                {
-                    "Text": "Practical Models from GSEMM",
-                    "BlockType": "LAYOUT_TITLE",
-                    "BoundingBox": {
-                        "Width": 0.3240472674369812,
-                        "Height": 0.03689005970954895,
-                        "Left": 0.0398738831281662,
-                        "Top": 0.04847806692123413
-                    },
-                    "Id": "bedf6399-fe1b-4482-988d-5d5ba16d81c5"
                 }
             ]
         },
@@ -102,6 +124,17 @@
                         "Top": 0.24864086508750916
                     },
                     "Id": "0f965a88-5c31-4b54-ab78-6a3fb9c5e3ac"
+                },
+                {
+                    "Text": "In this setting, the stored memories interact linearly.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.23228977620601654,
+                        "Height": 0.050029922276735306,
+                        "Left": 0.20660193264484406,
+                        "Top": 0.41611340641975403
+                    },
+                    "Id": "0888b235-9ecd-4294-b63d-a3b9d428aa0e"
                 }
             ]
         }

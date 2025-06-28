@@ -42,6 +42,17 @@
             "transcript": "So a naive approach would be to train two density estimators, say flows independently.",
             "MatchedRegion": [
                 {
+                    "Text": "ur Approach",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.21274888515472412,
+                        "Height": 0.07148700952529907,
+                        "Left": 0.1263974905014038,
+                        "Top": 0.13276293873786926
+                    },
+                    "Id": "3af338d4-5ca8-475e-a7fc-198a248087aa"
+                },
+                {
                     "Text": "expert his IL objective 0 1000 2000 3000 4000 5000 BC Trajectory Reward hus, given an estimate of the ratio, any RL algorithm can be used for solving the IL objective. aive approach: Train two flows independently",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
@@ -69,17 +80,6 @@
                         "Top": 0.3228479027748108
                     },
                     "Id": "58b0f406-fe24-44c9-8793-61afd58b2d48"
-                },
-                {
-                    "Text": "Practically, this means alternating between learning them and using their logratio as reward Fails: Overall normalized score of 0.158",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.6983200907707214,
-                        "Height": 0.07843554764986038,
-                        "Left": 0.1248881071805954,
-                        "Top": 0.5413678288459778
-                    },
-                    "Id": "bc59ac7a-cb59-4a43-80d3-8d42ac16129a"
                 }
             ]
         },
@@ -93,7 +93,19 @@
             "start_time": "00:00:24,813",
             "end_time": "00:00:26,013",
             "transcript": "We'll see this again in the ablation.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "expert his IL objective 0 1000 2000 3000 4000 5000 BC Trajectory Reward hus, given an estimate of the ratio, any RL algorithm can be used for solving the IL objective. aive approach: Train two flows independently",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7752571702003479,
+                        "Height": 0.19778533279895782,
+                        "Left": 0.1252921223640442,
+                        "Top": 0.3228479027748108
+                    },
+                    "Id": "58b0f406-fe24-44c9-8793-61afd58b2d48"
+                }
+            ]
         },
         {
             "start_time": "00:00:26,373",
@@ -171,36 +183,13 @@
             "start_time": "00:00:45,982",
             "end_time": "00:00:48,483",
             "transcript": "The flow's values are meaningless when evaluated on each other's data.",
-            "MatchedRegion": [
-                {
-                    "Text": "> Problem of OOD: Flows values are meaningless when evaluated on each others data",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.6475993990898132,
-                        "Height": 0.03102842904627323,
-                        "Left": 0.1265544444322586,
-                        "Top": 0.7950573563575745
-                    },
-                    "Id": "de338c8c-4f3f-4df2-ab41-a385b24f7846"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:48,844",
             "end_time": "00:00:50,184",
             "transcript": "We need to tie them together somehow.",
             "MatchedRegion": [
-                {
-                    "Text": "ur Approach",
-                    "BlockType": "LAYOUT_TITLE",
-                    "BoundingBox": {
-                        "Width": 0.21274888515472412,
-                        "Height": 0.07148700952529907,
-                        "Left": 0.1263974905014038,
-                        "Top": 0.13276293873786926
-                    },
-                    "Id": "3af338d4-5ca8-475e-a7fc-198a248087aa"
-                },
                 {
                     "Text": "expert his IL objective 0 1000 2000 3000 4000 5000 BC Trajectory Reward hus, given an estimate of the ratio, any RL algorithm can be used for solving the IL objective. aive approach: Train two flows independently",
                     "BlockType": "LAYOUT_TEXT",
@@ -218,7 +207,19 @@
             "start_time": "00:00:50,564",
             "end_time": "00:00:51,725",
             "transcript": "They must be coupled.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "hey must be coupled!",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.17529739439487457,
+                        "Height": 0.03450116142630577,
+                        "Left": 0.1239544153213501,
+                        "Top": 0.849895179271698
+                    },
+                    "Id": "9786f788-1372-43d6-9ec1-6ee9201f1310"
+                }
+            ]
         }
     ]
 }

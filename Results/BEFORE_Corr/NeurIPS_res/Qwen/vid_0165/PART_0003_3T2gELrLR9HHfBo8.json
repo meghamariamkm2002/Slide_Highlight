@@ -1,56 +1,43 @@
 {
-    "MatchedSlides": [
-        "PART_0003_3T2gELrLR9HHfBo8",
-        "PART_0004_ptscQkhk64ITDTVb"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:03,035",
             "end_time": "00:00:06,117",
             "transcript": "So let's first talk about our code structure model.",
-            "MatchedRegion": []
-        },
-        {
-            "start_time": "00:00:06,577",
-            "end_time": "00:00:20,607",
-            "transcript": "So in this model, the covariate will be history activities and treatment will be engagement with misinformation or information and outcome will be characters of the post in the future.",
-            "MatchedRegion": []
-        },
-        {
-            "start_time": "00:00:21,047",
-            "end_time": "00:00:25,050",
-            "transcript": "They can be fully described by the conditional intensity function.",
             "MatchedRegion": [
                 {
-                    "Text": "Outcome (Y): Characters of the posts in the future - conditional intensity function [5]: X(f,tTrUX)",
+                    "Text": "Causal Structure Model (<X, Tr, Y>)",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.6940732002258301,
+                        "Height": 0.053655464202165604,
+                        "Left": 0.05455200374126434,
+                        "Top": 0.0897449478507042
+                    },
+                    "Id": "4cc59151-e30d-42f3-953d-737ee03e1609"
+                },
+                {
+                    "Text": "Covariate (X): History activities;",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.3882938325405121,
-                        "Height": 0.17617817223072052,
-                        "Left": 0.027982601895928383,
-                        "Top": 0.3292815387248993
+                        "Width": 0.38819101452827454,
+                        "Height": 0.03232692927122116,
+                        "Left": 0.028468100354075432,
+                        "Top": 0.20982860028743744
                     },
-                    "Id": "ce5f4d7d-a5fb-4344-845a-e5d3ff88a610"
-                }
-            ]
-        },
-        {
-            "start_time": "00:00:25,772",
-            "end_time": "00:00:31,758",
-            "transcript": "But because, you know, function is continuous, so it is hard to quantify the effect on them.",
-            "MatchedRegion": []
-        },
-        {
-            "start_time": "00:00:32,339",
-            "end_time": "00:00:36,984",
-            "transcript": "So we apply a functional F to project the function to a vector.",
-            "MatchedRegion": []
-        },
-        {
-            "start_time": "00:00:37,704",
-            "end_time": "00:00:47,755",
-            "transcript": "And in this way, we can compare the functional with treatment and without treatment to acquire the individual treatment effect with finite dimensions.",
-            "MatchedRegion": [
+                    "Id": "ad47f4a1-80e6-45d8-8b74-db7adf79bfdd"
+                },
+                {
+                    "Text": "Treatments (Tr): Engagement with misinformation or information;",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4190729558467865,
+                        "Height": 0.07144611328840256,
+                        "Left": 0.028264746069908142,
+                        "Top": 0.2494116574525833
+                    },
+                    "Id": "69caba7c-8377-4640-aafb-32be053946c3"
+                },
                 {
                     "Text": "Outcome (Y): Characters of the posts in the future - conditional intensity function [5]: X(f,tTrUX)",
                     "BlockType": "LAYOUT_TEXT",
@@ -72,8 +59,72 @@
                         "Top": 0.5300829410552979
                     },
                     "Id": "2faf8703-f65b-4400-b6f1-d650da0ff81a"
+                },
+                {
+                    "Text": "Covariates: History Activities Post Post Post Treatments: Post Engage Post Engagement with Sampling Misinformation or ... Information a Engage Engage Post NEWS",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.47686535120010376,
+                        "Height": 0.23904815316200256,
+                        "Left": 0.4898151755332947,
+                        "Top": 0.29292795062065125
+                    },
+                    "Id": "cfe5c2cb-9a3b-4102-95e4-1f25b19b529e"
+                },
+                {
+                    "Text": "Figure 1: The proposed causal structured model describing the impact of a piece of information on user.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.4965727627277374,
+                        "Height": 0.05534559488296509,
+                        "Left": 0.47879713773727417,
+                        "Top": 0.555488109588623
+                    },
+                    "Id": "f8d61523-e7da-4532-97d5-680af8d19bb0"
                 }
             ]
+        },
+        {
+            "start_time": "00:00:06,577",
+            "end_time": "00:00:20,607",
+            "transcript": "So in this model, the covariate will be history activities and treatment will be engagement with misinformation or information and outcome will be characters of the post in the future.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:21,047",
+            "end_time": "00:00:25,050",
+            "transcript": "They can be fully described by the conditional intensity function.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:25,772",
+            "end_time": "00:00:31,758",
+            "transcript": "But because, you know, function is continuous, so it is hard to quantify the effect on them.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:32,339",
+            "end_time": "00:00:36,984",
+            "transcript": "So we apply a functional F to project the function to a vector.",
+            "MatchedRegion": [
+                {
+                    "Text": "Apply a functional F to project the 1 function to a vector and then acquire Individual Treatment Effect with finite dimensions:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.41144952178001404,
+                        "Height": 0.14668689668178558,
+                        "Left": 0.028330961242318153,
+                        "Top": 0.5300829410552979
+                    },
+                    "Id": "2faf8703-f65b-4400-b6f1-d650da0ff81a"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:37,704",
+            "end_time": "00:00:47,755",
+            "transcript": "And in this way, we can compare the functional with treatment and without treatment to acquire the individual treatment effect with finite dimensions.",
+            "MatchedRegion": []
         }
     ]
 }

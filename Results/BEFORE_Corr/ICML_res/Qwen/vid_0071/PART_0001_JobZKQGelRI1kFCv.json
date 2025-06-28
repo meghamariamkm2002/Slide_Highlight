@@ -10,7 +10,19 @@
             "start_time": "00:00:10,677",
             "end_time": "00:00:17,442",
             "transcript": "However, these methods usually lack a mathematical framework to objectively formulate concepts encoded by a DNN.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Key Problem: lacking a mathematical framework to objectively formulate \"concepts\" encoded by a DNN.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7245287895202637,
+                        "Height": 0.07750511914491653,
+                        "Left": 0.16344180703163147,
+                        "Top": 0.7861931920051575
+                    },
+                    "Id": "ab0f311a-c68f-43f7-9ac0-1228afc6d6f7"
+                }
+            ]
         }
     ]
 }

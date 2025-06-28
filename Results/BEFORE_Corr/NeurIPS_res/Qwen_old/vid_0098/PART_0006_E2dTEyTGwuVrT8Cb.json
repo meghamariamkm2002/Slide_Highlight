@@ -1,0 +1,63 @@
+{
+    "MatchedSlides": [
+        "PART_0001_Cx54Xgy86xzmhZ9m",
+        "PART_0002_VPQBRKPuZ5gIgtxw",
+        "PART_0003_AVYdxgQ3ohclNiow",
+        "PART_0004_CwGPLtp3Ag53OvR5",
+        "PART_0005_IOJ6WKiXc4deh9t4",
+        "PART_0006_E2dTEyTGwuVrT8Cb",
+        "PART_0007_W504de3KzhaMS8ke",
+        "PART_0008_Kmdtc9MGey4QaMVQ",
+        "PART_0009_FtAbVl2oj26zuXTd",
+        "PART_0010_QWCmHtgORkZ0zwS7",
+        "PART_0011_GOV2LqBfxDaoOG8r",
+        "PART_0012_9kvFgCa5g71gna7s",
+        "PART_0013_G0YH2yrhluA9UwdS",
+        "PART_0014_JCrC8gH55zK5I2sa",
+        "PART_0015_7ob09KjGoQk6oVrD"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,350",
+            "end_time": "00:00:05,254",
+            "transcript": "For the target domain of ToolAin, we create a clean version of the ToSimple dataset.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:05,834",
+            "end_time": "00:00:09,918",
+            "transcript": "Our goal is to ensure that up to four lanes closest to the car are correctly labeled.",
+            "MatchedRegion": [
+                {
+                    "Text": "ensure that up to four lanes closest to the car are correctly labeled",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5234382748603821,
+                        "Height": 0.036119457334280014,
+                        "Left": 0.0736241340637207,
+                        "Top": 0.21882902085781097
+                    },
+                    "Id": "bbcd277b-43b3-483f-851e-88331e94ba3f"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:10,639",
+            "end_time": "00:00:13,982",
+            "transcript": "To clean the data, we utilize our publicly available labeling tools.",
+            "MatchedRegion": [
+                {
+                    "Text": "To clean the data, we utilize our publicly available labeling tool",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5442882776260376,
+                        "Height": 0.03812306746840477,
+                        "Left": 0.0360487662255764,
+                        "Top": 0.2774321734905243
+                    },
+                    "Id": "d97e1871-af84-43f3-b474-c7595fd014d1"
+                }
+            ]
+        }
+    ]
+}

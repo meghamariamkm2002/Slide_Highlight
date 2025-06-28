@@ -1,5 +1,4 @@
 {
-    "MatchedSlides": [],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,738",
@@ -60,6 +59,28 @@
                         "Top": 0.35841360688209534
                     },
                     "Id": "2c127ef6-d435-4724-943c-5095f6dd8ee6"
+                },
+                {
+                    "Text": "where p is the index of the person and oksp is the object keypoint similarity metric. The OKS metric is defined as",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7555245161056519,
+                        "Height": 0.03195563331246376,
+                        "Left": 0.07108114659786224,
+                        "Top": 0.5393070578575134
+                    },
+                    "Id": "545db4ed-e5b0-41b6-a6bb-14f88140c6d1"
+                },
+                {
+                    "Text": "where di is the distance between the i-th predicted results and the i-th ground truth keypoint locations. S is the scale of the object and kj is a predefined constant that controls falloff. Vi indicates the visibility of the i-th keypoint.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7879990339279175,
+                        "Height": 0.0652971938252449,
+                        "Left": 0.07585611939430237,
+                        "Top": 0.6833575963973999
+                    },
+                    "Id": "8852e25a-3812-4bd5-a97a-de1cd815ca24"
                 }
             ]
         },
@@ -84,17 +105,6 @@
                         "Top": 0.35841360688209534
                     },
                     "Id": "2c127ef6-d435-4724-943c-5095f6dd8ee6"
-                },
-                {
-                    "Text": "where di is the distance between the i-th predicted results and the i-th ground truth keypoint locations. S is the scale of the object and kj is a predefined constant that controls falloff. Vi indicates the visibility of the i-th keypoint.",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.7879990339279175,
-                        "Height": 0.0652971938252449,
-                        "Left": 0.07585611939430237,
-                        "Top": 0.6833575963973999
-                    },
-                    "Id": "8852e25a-3812-4bd5-a97a-de1cd815ca24"
                 }
             ]
         }

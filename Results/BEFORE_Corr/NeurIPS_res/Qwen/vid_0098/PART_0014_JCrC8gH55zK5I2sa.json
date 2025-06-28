@@ -1,18 +1,22 @@
 {
-    "MatchedSlides": [
-        "PART_0003_AVYdxgQ3ohclNiow",
-        "PART_0004_CwGPLtp3Ag53OvR5",
-        "PART_0005_IOJ6WKiXc4deh9t4",
-        "PART_0006_E2dTEyTGwuVrT8Cb",
-        "PART_0007_W504de3KzhaMS8ke",
-        "PART_0008_Kmdtc9MGey4QaMVQ"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,370",
             "end_time": "00:00:06,887",
             "transcript": "To summarize, we proposed car lane, the first three ways seem to real domain adaptation benchmark for 2D lane detection.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "We proposed CARLANE, the first 3-way sim-to-real domain adaptation benchmark for 2D lane detection.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5899963974952698,
+                        "Height": 0.06702376902103424,
+                        "Left": 0.1968693882226944,
+                        "Top": 0.21630480885505676
+                    },
+                    "Id": "e7c2f6f1-0471-4097-a607-5773d64193cb"
+                }
+            ]
         },
         {
             "start_time": "00:00:07,742",
@@ -29,17 +33,6 @@
                         "Top": 0.4423805773258209
                     },
                     "Id": "7224e638-6da6-410d-91ff-5968469688b9"
-                },
-                {
-                    "Text": "UAB Universitat Autonoma de Barcelona",
-                    "BlockType": "LAYOUT_FOOTER",
-                    "BoundingBox": {
-                        "Width": 0.07373173534870148,
-                        "Height": 0.06742283701896667,
-                        "Left": 0.5283740162849426,
-                        "Top": 0.9210177659988403
-                    },
-                    "Id": "7b152363-4a20-4909-8067-73d8d56a6d8f"
                 }
             ]
         },
@@ -58,6 +51,17 @@
                         "Top": 0.7090115547180176
                     },
                     "Id": "f238c477-0924-4276-917d-8fbc9062dabd"
+                },
+                {
+                    "Text": "IFM",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.04439406841993332,
+                        "Height": 0.04306706041097641,
+                        "Left": 0.1467668116092682,
+                        "Top": 0.9290515780448914
+                    },
+                    "Id": "7a5213f8-467a-4ff5-a977-4565240b2b0d"
                 }
             ]
         },
@@ -76,17 +80,6 @@
                         "Top": 0.7090115547180176
                     },
                     "Id": "f238c477-0924-4276-917d-8fbc9062dabd"
-                },
-                {
-                    "Text": "University of Applied Sciences",
-                    "BlockType": "LAYOUT_FOOTER",
-                    "BoundingBox": {
-                        "Width": 0.07262670248746872,
-                        "Height": 0.011666415259242058,
-                        "Left": 0.350948691368103,
-                        "Top": 0.9751149415969849
-                    },
-                    "Id": "082967ae-9dd5-4e62-88b1-28073ad5177b"
                 }
             ]
         },

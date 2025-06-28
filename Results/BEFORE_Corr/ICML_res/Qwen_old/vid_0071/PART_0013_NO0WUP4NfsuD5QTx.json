@@ -1,0 +1,46 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,601",
+            "end_time": "00:00:06,005",
+            "transcript": "We also discussed cases when DNNs fail to learn transferable concepts.",
+            "MatchedRegion": [
+                {
+                    "Text": "Discussion: Cases when DNNs failed to learn transferable concepts",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.8598682284355164,
+                        "Height": 0.052521176636219025,
+                        "Left": 0.0966470018029213,
+                        "Top": 0.06762708723545074
+                    },
+                    "Id": "817b98ec-2fd6-4afd-99fe-ea763e9c1497"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,725",
+            "end_time": "00:00:14,812",
+            "transcript": "And in these cases, the concepts extracted by the metric IS can reflect some representation flaws of the DNN.",
+            "MatchedRegion": [
+                {
+                    "Text": "Actually, a DNN does not necessarily encode meaningful and transferable concepts. We discuss the following three extreme cases.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8019739389419556,
+                        "Height": 0.07983532547950745,
+                        "Left": 0.09696341305971146,
+                        "Top": 0.196622833609581
+                    },
+                    "Id": "7da278ce-e9f9-4901-b021-a0636be73f19"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:15,593",
+            "end_time": "00:00:17,895",
+            "transcript": "In this study, we discussed three of them.",
+            "MatchedRegion": []
+        }
+    ]
+}

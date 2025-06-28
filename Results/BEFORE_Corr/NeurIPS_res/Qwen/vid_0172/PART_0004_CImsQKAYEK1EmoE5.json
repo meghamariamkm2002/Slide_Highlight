@@ -1,8 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0001_HXlI9Poy5Ug1xg7e",
-        "PART_0003_jhZNW0D90szOeYiX"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,009",
@@ -26,7 +22,19 @@
             "start_time": "00:00:02,050",
             "end_time": "00:00:08,993",
             "transcript": "Some of the key takeaways from our work, we show an initial step towards analyzing learning behavior in games with quantum information.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Our work constitutes initial step towards analyzing learning behavior in games with quantum information.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.843733549118042,
+                        "Height": 0.0761585608124733,
+                        "Left": 0.07573172450065613,
+                        "Top": 0.33437198400497437
+                    },
+                    "Id": "360e6a1e-15ef-4fb2-89ae-1ccdaff23a44"
+                }
+            ]
         },
         {
             "start_time": "00:00:09,833",
@@ -50,7 +58,30 @@
             "start_time": "00:00:17,717",
             "end_time": "00:00:29,282",
             "transcript": "In terms of future work, we intend to extend the recurrence and conversion results to multi-agent quantum games, as well as formalize the quantum setting for different classes of classical games, for example, potential games.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Extend recurrence and convergence results to multi-agent quantum games.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7879436016082764,
+                        "Height": 0.03603468835353851,
+                        "Left": 0.07684855163097382,
+                        "Top": 0.6485875844955444
+                    },
+                    "Id": "d834ce88-43ea-44af-bae0-638595ced4fd"
+                },
+                {
+                    "Text": "Formalize and analyze quantum setting for different classes of games, e.g. potential games.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7636988162994385,
+                        "Height": 0.0758678987622261,
+                        "Left": 0.0768747329711914,
+                        "Top": 0.7074137330055237
+                    },
+                    "Id": "456dbf17-5302-4655-a687-7d860b02bab1"
+                }
+            ]
         },
         {
             "start_time": "00:00:30,072",

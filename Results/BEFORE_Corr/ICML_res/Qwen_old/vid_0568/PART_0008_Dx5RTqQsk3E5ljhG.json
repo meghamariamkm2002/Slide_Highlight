@@ -1,0 +1,40 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,390",
+            "end_time": "00:00:05,522",
+            "transcript": "the state of the system depicted by the white ball converges to the nearest attractor state and stays there.",
+            "MatchedRegion": [
+                {
+                    "Text": "GAMM has a single attractor state the system converges to.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.37509599328041077,
+                        "Height": 0.07962086796760559,
+                        "Left": 0.11947287619113922,
+                        "Top": 0.8343804478645325
+                    },
+                    "Id": "6a0e05a5-1a20-48a6-9158-fb21247837b7"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:06,444",
+            "end_time": "00:00:06,885",
+            "transcript": "On the other",
+            "MatchedRegion": [
+                {
+                    "Text": "GAMM has a single attractor state the system converges to.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.37509599328041077,
+                        "Height": 0.07962086796760559,
+                        "Left": 0.11947287619113922,
+                        "Top": 0.8343804478645325
+                    },
+                    "Id": "6a0e05a5-1a20-48a6-9158-fb21247837b7"
+                }
+            ]
+        }
+    ]
+}

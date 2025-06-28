@@ -1,11 +1,22 @@
 {
-    "MatchedSlides": [],
     "MatchedRegions": [
         {
             "start_time": "00:00:02,561",
             "end_time": "00:00:15,684",
             "transcript": "And after defining the causal model, we can use the neural network to estimate the treatment effects by learning conditional intensity function with maximizing likelihood.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Learning Conditional Intensity Function via Maximum Likelihood Estimation [5]",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3694457411766052,
+                        "Height": 0.11454383283853531,
+                        "Left": 0.0510411262512207,
+                        "Top": 0.3140183985233307
+                    },
+                    "Id": "ab0c1055-1eee-4285-be7b-3904903d33c2"
+                }
+            ]
         },
         {
             "start_time": "00:00:16,605",

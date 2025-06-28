@@ -1,0 +1,27 @@
+{
+    "MatchedSlides": [
+        "PART_0001_IsStXx8eTvaF30NL",
+        "PART_0002_J7vlELIHBi3iCNTj",
+        "PART_0003_R3BoNiTLiNdySOW5"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,109",
+            "end_time": "00:00:06,756",
+            "transcript": "And then achieve new SOTA results in PDV blind dataset.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,717",
+            "end_time": "00:00:16,968",
+            "transcript": "We have a larger fraction of predictions with lower IMSD and better binding affinity prediction.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:17,829",
+            "end_time": "00:00:19,991",
+            "transcript": "And we also have higher inference efficiency.",
+            "MatchedRegion": []
+        }
+    ]
+}

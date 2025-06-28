@@ -35,6 +35,17 @@
             "transcript": "Different from the AT variant of gradient clipping, which is indispensable to handle the poisoning sample or cleaning samples,",
             "MatchedRegion": [
                 {
+                    "Text": "Discrepancy-aware Sample Correction",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.9084433317184448,
+                        "Height": 0.07352752238512039,
+                        "Left": 0.01139006856828928,
+                        "Top": 0.1223282739520073
+                    },
+                    "Id": "76f730ad-157f-4cb3-8055-d76ddfa18f8d"
+                },
+                {
                     "Text": "Discrepancy-aware Sample Correction (DSC)",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
@@ -44,17 +55,6 @@
                         "Top": 0.4246734082698822
                     },
                     "Id": "28bf5afe-53c7-43b9-bae3-3f1879423889"
-                },
-                {
-                    "Text": "1.0 Oracle DSC 87 0.8 threshold of DSC AT 86 0.6 85 84 0.4 83 0.2 82 DSC AT 81 0.0 1 2 3 4 5 6 7 8 0 1 2 3 4 5 6 7 8 Batch Batch",
-                    "BlockType": "LAYOUT_FIGURE",
-                    "BoundingBox": {
-                        "Width": 0.481616348028183,
-                        "Height": 0.251598596572876,
-                        "Left": 0.46412429213523865,
-                        "Top": 0.40917909145355225
-                    },
-                    "Id": "03a1e52f-70d3-48c0-9f11-7789815c9ad0"
                 }
             ]
         },

@@ -1,34 +1,10 @@
 {
-    "MatchedSlides": [],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,189",
             "end_time": "00:00:23,982",
             "transcript": "models and also we run our model on a real-world data but it does not have a ground truth label so we can only write and evaluate some intermediate metrics but even for this metrics we can see the identifiability from our model between misinformation and information on influencing people's narrative",
-            "MatchedRegion": [
-                {
-                    "Text": "Experiments - Real world data",
-                    "BlockType": "LAYOUT_TITLE",
-                    "BoundingBox": {
-                        "Width": 0.6005905270576477,
-                        "Height": 0.05375403165817261,
-                        "Left": 0.06047099828720093,
-                        "Top": 0.06814710050821304
-                    },
-                    "Id": "6dc10092-3dd2-414a-a04f-597ff4900aa8"
-                },
-                {
-                    "Text": "Identifiability between misinformation and information in influencing people's narratives:",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.7833312749862671,
-                        "Height": 0.07288803905248642,
-                        "Left": 0.06066703796386719,
-                        "Top": 0.3023405373096466
-                    },
-                    "Id": "a91f41ab-1ab1-4fc0-be80-b78fd2960160"
-                }
-            ]
+            "MatchedRegion": []
         }
     ]
 }

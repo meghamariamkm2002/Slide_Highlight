@@ -1,5 +1,4 @@
 {
-    "MatchedSlides": [],
     "MatchedRegions": [
         {
             "start_time": "00:00:01,390",
@@ -11,77 +10,19 @@
             "start_time": "00:00:05,713",
             "end_time": "00:00:09,956",
             "transcript": "During the data collection process, we randomized multiple aspects of the agent and environment.",
-            "MatchedRegion": [
-                {
-                    "Text": "Randomize multiple aspects of the agent and environment:",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.5184683203697205,
-                        "Height": 0.04056868329644203,
-                        "Left": 0.035123471170663834,
-                        "Top": 0.2190413773059845
-                    },
-                    "Id": "8dc010e0-d825-466a-8967-e0b02cc9001d"
-                },
-                {
-                    "Text": "Randomize multiple aspects of the agent and environment:",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.5184683203697205,
-                        "Height": 0.04056868329644203,
-                        "Left": 0.035123471170663834,
-                        "Top": 0.2190413773059845
-                    },
-                    "Id": "8dc010e0-d825-466a-8967-e0b02cc9001d"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:10,837",
             "end_time": "00:00:18,042",
             "transcript": "A comparison of agent and environmental variations to other private unit data sets for land detection can be seen in the table on the slide.",
-            "MatchedRegion": [
-                {
-                    "Text": "up to five neighbor vehicles are spawned randomly in the vicinity of the agent",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.6110031008720398,
-                        "Height": 0.04062272235751152,
-                        "Left": 0.07264310866594315,
-                        "Top": 0.3374454975128174
-                    },
-                    "Id": "32f07415-a60c-4896-80f3-bcb97650d5d5"
-                },
-                {
-                    "Text": "Dataset [4] [19] [5] ours",
-                    "BlockType": "LAYOUT_FIGURE",
-                    "BoundingBox": {
-                        "Width": 0.4499727487564087,
-                        "Height": 0.31418511271476746,
-                        "Left": 0.045199718326330185,
-                        "Top": 0.49356040358543396
-                    },
-                    "Id": "60809d07-bb06-4b1a-bda5-b355a22d3362"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:18,743",
             "end_time": "00:00:21,965",
             "transcript": "Please note that none of the other data sets is publicly available at",
-            "MatchedRegion": [
-                {
-                    "Text": "At this point, none of the other datasets is publicly available",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.19395320117473602,
-                        "Height": 0.10615502297878265,
-                        "Left": 0.507716953754425,
-                        "Top": 0.6326955556869507
-                    },
-                    "Id": "69afe0bb-d6f2-402f-a074-a5847c48198e"
-                }
-            ]
+            "MatchedRegion": []
         }
     ]
 }

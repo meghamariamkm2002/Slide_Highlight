@@ -1,8 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0001_0TKQIPPtwm9E6HiO",
-        "PART_0002_L6pLWK5w83eRrPzI"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,049",
@@ -26,7 +22,30 @@
             "start_time": "00:00:01,569",
             "end_time": "00:00:08,751",
             "transcript": "The COVID-19 pandemic continues to bring up various topics discussed or debated on social media.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Existing natural language processing (NLP) tools struggle to fulfill the surging demand for accurate social media-based public healthcare analysis due to the lack of relevant datasets.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8522049784660339,
+                        "Height": 0.07857756316661835,
+                        "Left": 0.05777743086218834,
+                        "Top": 0.22238238155841827
+                    },
+                    "Id": "96197e8b-2a47-4170-a2b4-e810e59394d2"
+                },
+                {
+                    "Text": "Named entity recognition (NER) and targeted sentiment analysis (TSA) are two important tasks for studying user foci and attitudes:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8677211999893188,
+                        "Height": 0.07898332923650742,
+                        "Left": 0.057744208723306656,
+                        "Top": 0.31154733896255493
+                    },
+                    "Id": "39d89485-fab3-46e1-abd5-a539567371a5"
+                }
+            ]
         },
         {
             "start_time": "00:00:08,771",
@@ -45,15 +64,15 @@
                     "Id": "293d33bb-1736-4bee-ad3f-16f3dbb83f35"
                 },
                 {
-                    "Text": "Named entity recognition (NER) and targeted sentiment analysis (TSA) are two important tasks for studying user foci and attitudes:",
-                    "BlockType": "LAYOUT_TEXT",
+                    "Text": "1 Introduction",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
                     "BoundingBox": {
-                        "Width": 0.8677211999893188,
-                        "Height": 0.07898332923650742,
-                        "Left": 0.057744208723306656,
-                        "Top": 0.31154733896255493
+                        "Width": 0.18362414836883545,
+                        "Height": 0.03795085847377777,
+                        "Left": 0.02857363596558571,
+                        "Top": 0.05083907023072243
                     },
-                    "Id": "39d89485-fab3-46e1-abd5-a539567371a5"
+                    "Id": "cb5aa2b8-deb2-44fa-ba44-4f65adb02fa6"
                 }
             ]
         },
@@ -72,28 +91,6 @@
                         "Top": 0.22238238155841827
                     },
                     "Id": "96197e8b-2a47-4170-a2b4-e810e59394d2"
-                },
-                {
-                    "Text": "Person",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.04430646449327469,
-                        "Height": 0.02006502076983452,
-                        "Left": 0.27760615944862366,
-                        "Top": 0.47944629192352295
-                    },
-                    "Id": "17928e89-f4a6-4486-986c-4ee7c5e45556"
-                },
-                {
-                    "Text": "Drug",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.03172656521201134,
-                        "Height": 0.024514760822057724,
-                        "Left": 0.5430874228477478,
-                        "Top": 0.48357340693473816
-                    },
-                    "Id": "51fa0870-7d34-49c6-9b60-6dd7d5e9c131"
                 }
             ]
         }

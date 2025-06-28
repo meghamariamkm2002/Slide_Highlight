@@ -1,13 +1,22 @@
 {
-    "MatchedSlides": [
-        "PART_0001_M1aYZFpuMY0gfOKj"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,009",
             "end_time": "00:00:00,690",
             "transcript": "Google research.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "autobidders maximize value subject to ROI constraints",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6371528506278992,
+                        "Height": 0.042899563908576965,
+                        "Left": 0.09694663435220718,
+                        "Top": 0.7620331645011902
+                    },
+                    "Id": "3ed9f416-4a5f-4360-847f-c91c64e9d95a"
+                }
+            ]
         },
         {
             "start_time": "00:00:02,333",
@@ -19,19 +28,7 @@
             "start_time": "00:00:06,960",
             "end_time": "00:00:11,307",
             "transcript": "Today, more than 80% of online advertising traffic involves elevating.",
-            "MatchedRegion": [
-                {
-                    "Text": "more than 80% of online advertising traffic involves autobidding",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.7389932870864868,
-                        "Height": 0.045326728373765945,
-                        "Left": 0.07028427720069885,
-                        "Top": 0.3299420177936554
-                    },
-                    "Id": "e3fc892e-d26e-4716-9023-eab8d30417a7"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:12,245",

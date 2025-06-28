@@ -1,0 +1,34 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,009",
+            "end_time": "00:00:06,752",
+            "transcript": "However, even if there exists meaningful patterns in the training data, the DNM may still not learn these concepts.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:07,592",
+            "end_time": "00:00:12,554",
+            "transcript": "A typical example is when the task can be conducted with some shortcut solutions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Failure case 3: When the task has a simple shortcut solution",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.7692449688911438,
+                        "Height": 0.09103259444236755,
+                        "Left": 0.09792552888393402,
+                        "Top": 0.045334625989198685
+                    },
+                    "Id": "8cd8bcbd-f049-4658-af88-33cb23a52b0c"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:13,635",
+            "end_time": "00:00:20,118",
+            "transcript": "In this case, the DNM probably converges to the shortcut solution, without encoding complex concepts.",
+            "MatchedRegion": []
+        }
+    ]
+}

@@ -1,13 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0001_Cx54Xgy86xzmhZ9m",
-        "PART_0002_VPQBRKPuZ5gIgtxw",
-        "PART_0003_AVYdxgQ3ohclNiow",
-        "PART_0004_CwGPLtp3Ag53OvR5",
-        "PART_0005_IOJ6WKiXc4deh9t4",
-        "PART_0006_E2dTEyTGwuVrT8Cb",
-        "PART_0007_W504de3KzhaMS8ke"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:04,625",
@@ -30,39 +21,6 @@
                         "Top": 0.34182584285736084
                     },
                     "Id": "020aa9a7-15ec-42c8-b91d-811622948e47"
-                },
-                {
-                    "Text": "1 University of Applied Science Kempten",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.23319323360919952,
-                        "Height": 0.0243001077324152,
-                        "Left": 0.035215940326452255,
-                        "Top": 0.6502295732498169
-                    },
-                    "Id": "5c308983-d48a-4c4e-8eef-3e5c793606f0"
-                },
-                {
-                    "Text": "2 Autonomous University of Barcelona",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.22175706923007965,
-                        "Height": 0.023855386301875114,
-                        "Left": 0.035414330661296844,
-                        "Top": 0.681419312953949
-                    },
-                    "Id": "f324353c-c058-4be6-917f-5194d82da403"
-                },
-                {
-                    "Text": "3 Technische Universit\u00e4t Berlin",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.17609424889087677,
-                        "Height": 0.01981409639120102,
-                        "Left": 0.03564463555812836,
-                        "Top": 0.7122589945793152
-                    },
-                    "Id": "c3b4e336-780a-44ae-a62c-ddc32296ecae"
                 }
             ]
         },

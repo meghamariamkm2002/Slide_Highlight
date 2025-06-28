@@ -4,19 +4,7 @@
             "start_time": "00:00:02,028",
             "end_time": "00:00:02,451",
             "transcript": "That's all.",
-            "MatchedRegion": [
-                {
-                    "Text": "These experiments also prove the faithfulness of the interaction concepts extracted from DNNs.",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.8018788695335388,
-                        "Height": 0.07956252992153168,
-                        "Left": 0.0979582890868187,
-                        "Top": 0.5319210290908813
-                    },
-                    "Id": "459595f8-e908-4e7e-afe1-c051a9c49612"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:02,853",
@@ -24,15 +12,15 @@
             "transcript": "Thanks for your attention.",
             "MatchedRegion": [
                 {
-                    "Text": "Extensive empirical studies have verified that a well-trained DNN usually encodes sparse, transferable, and discriminative interaction concepts.",
+                    "Text": "In this study,",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.7862481474876404,
-                        "Height": 0.08673670887947083,
-                        "Left": 0.09795326739549637,
-                        "Top": 0.4097194969654083
+                        "Width": 0.10434383898973465,
+                        "Height": 0.03226735070347786,
+                        "Left": 0.09850621968507767,
+                        "Top": 0.20732958614826202
                     },
-                    "Id": "7c7b5640-bafe-4e25-9947-dca628dbdbb7"
+                    "Id": "5fbfa867-ae97-4e50-9b8c-572067c98da3"
                 }
             ]
         }

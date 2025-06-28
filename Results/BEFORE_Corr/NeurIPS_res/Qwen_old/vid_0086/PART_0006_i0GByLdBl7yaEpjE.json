@@ -1,0 +1,115 @@
+{
+    "MatchedSlides": [
+        "PART_0006_i0GByLdBl7yaEpjE"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,311",
+            "end_time": "00:00:10,057",
+            "transcript": "Trustworthy Semantic Parsing is a new test that we propose to evaluate text-to-escalant models under the practical challenges mentioned in the previous slides.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:10,898",
+            "end_time": "00:00:17,923",
+            "transcript": "In Trustworthy Semantic Parsing, the model should only answer answerable questions and refuse to answer if they are unanswerable.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:18,581",
+            "end_time": "00:00:29,010",
+            "transcript": "Because the answer from the EHR database may be directly used for clinical decision making, the model should have a strategy to predict whether it can confidently answer the question or not.",
+            "MatchedRegion": [
+                {
+                    "Text": "EHR Database",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.04075443372130394,
+                        "Height": 0.034573379904031754,
+                        "Left": 0.8906903266906738,
+                        "Top": 0.4363272786140442
+                    },
+                    "Id": "9fd096bb-8cbc-4169-bcfb-86575fde7544"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,670",
+            "end_time": "00:00:33,033",
+            "transcript": "We use two metrics here to measure the performance of this task.",
+            "MatchedRegion": [
+                {
+                    "Text": "Query Execution",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.04215939715504646,
+                        "Height": 0.03491005301475525,
+                        "Left": 0.8724434971809387,
+                        "Top": 0.3031925559043884
+                    },
+                    "Id": "3031ae52-483b-4640-9073-2adcc07b11b9"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:33,654",
+            "end_time": "00:00:35,756",
+            "transcript": "F1 answer and effort execution.",
+            "MatchedRegion": [
+                {
+                    "Text": "Metrics: F1ans and F1exe",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.2294272929430008,
+                        "Height": 0.03258039057254791,
+                        "Left": 0.15624625980854034,
+                        "Top": 0.8733363747596741
+                    },
+                    "Id": "52a59785-b490-421c-a281-5c0ac8500228"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:36,396",
+            "end_time": "00:00:42,101",
+            "transcript": "Effort answer measures how well the model distinguishes between answerable and unanswerable questions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Problem Definition",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.31490033864974976,
+                        "Height": 0.05471857637166977,
+                        "Left": 0.045687709003686905,
+                        "Top": 0.06594913452863693
+                    },
+                    "Id": "51fd14c5-0f55-4244-b271-9b42cf1030bf"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:42,741",
+            "end_time": "00:00:44,803",
+            "transcript": "F1 execution is a more strict metric.",
+            "MatchedRegion": [
+                {
+                    "Text": "Metrics: F1ans and F1exe",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.2294272929430008,
+                        "Height": 0.03258039057254791,
+                        "Left": 0.15624625980854034,
+                        "Top": 0.8733363747596741
+                    },
+                    "Id": "52a59785-b490-421c-a281-5c0ac8500228"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:45,264",
+            "end_time": "00:00:46,945",
+            "transcript": "It only counts when the retrieved answer",
+            "MatchedRegion": []
+        }
+    ]
+}

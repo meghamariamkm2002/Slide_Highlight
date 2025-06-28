@@ -22,19 +22,7 @@
             "start_time": "00:00:14,414",
             "end_time": "00:00:15,855",
             "transcript": "We raised the following question.",
-            "MatchedRegion": [
-                {
-                    "Text": "As the accumulative poisoning attack utilize the sequential order property of real-time data streaming for sneaky poisoning generation, we raise the following question:",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.8318005800247192,
-                        "Height": 0.06233128160238266,
-                        "Left": 0.05948998034000397,
-                        "Top": 0.6958681344985962
-                    },
-                    "Id": "553fb4d1-390a-4a11-bcdc-a45845693664"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:16,455",

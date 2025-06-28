@@ -1,0 +1,51 @@
+{
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,313",
+            "end_time": "00:00:05,977",
+            "transcript": "The energy function has driven progress in singleton memory modeling with their capacity driven by the intermemory interactions.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,297",
+            "end_time": "00:00:11,681",
+            "transcript": "The increase in capacity shown in the timeline where the initial model had a capacity much less than the number of neurons.",
+            "MatchedRegion": [
+                {
+                    "Text": "Low capacity (0.14 N)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1448911726474762,
+                        "Height": 0.07345175743103027,
+                        "Left": 0.05749853700399399,
+                        "Top": 0.7184814214706421
+                    },
+                    "Id": "f4211cdd-c2ab-4cc0-a3a3-c8d7e6eb899b"
+                },
+                {
+                    "Text": "Discrete states",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.1536312699317932,
+                        "Height": 0.02856309339404106,
+                        "Left": 0.3045962154865265,
+                        "Top": 0.514703631401062
+                    },
+                    "Id": "41495552-0d92-441c-8f41-3c712b3e37fe"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:12,221",
+            "end_time": "00:00:22,668",
+            "transcript": "Later polynomial intermemory interactions were introduced that made the capacity dense in the number of neurons, meaning the number of memories that can be stored was larger than the number of neurons in the system.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:23,469",
+            "end_time": "00:00:27,932",
+            "transcript": "Recent works improved the capacity even further to be exponential in the number of neurons.",
+            "MatchedRegion": []
+        }
+    ]
+}

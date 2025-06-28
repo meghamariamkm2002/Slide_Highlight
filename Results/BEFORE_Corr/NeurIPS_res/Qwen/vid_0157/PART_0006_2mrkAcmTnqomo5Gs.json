@@ -1,8 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0003_R3BoNiTLiNdySOW5",
-        "PART_0005_G0DIBCeHEUGUjJZt"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:01,940",
@@ -14,7 +10,19 @@
             "start_time": "00:00:12,505",
             "end_time": "00:00:21,549",
             "transcript": "In conclusion, we build the first intermolecular trigonometry-aware neural network for the production of protein-drug interaction.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "We built the first inter-molecular trigonometry-aware neural network for the prediction of protein-drug interaction.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8030426502227783,
+                        "Height": 0.09067066013813019,
+                        "Left": 0.05947369709610939,
+                        "Top": 0.2211126685142517
+                    },
+                    "Id": "a5cb154b-cd49-4032-bc9a-3888589f87ed"
+                }
+            ]
         },
         {
             "start_time": "00:00:22,569",

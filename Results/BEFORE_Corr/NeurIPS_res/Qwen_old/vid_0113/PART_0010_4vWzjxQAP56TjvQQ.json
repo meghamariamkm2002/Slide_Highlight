@@ -1,0 +1,32 @@
+{
+    "MatchedSlides": [
+        "PART_0001_0TKQIPPtwm9E6HiO",
+        "PART_0002_L6pLWK5w83eRrPzI"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,193",
+            "end_time": "00:00:02,176",
+            "transcript": "Thanks for your listening.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:02,296",
+            "end_time": "00:00:07,231",
+            "transcript": "If you have any questions on our paper or course, please feel free to contact us.",
+            "MatchedRegion": [
+                {
+                    "Text": "Paper",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.06047382578253746,
+                        "Height": 0.03939814493060112,
+                        "Left": 0.681086003780365,
+                        "Top": 0.5798031091690063
+                    },
+                    "Id": "5ef9c9b0-704d-4efd-bb35-ae4be752f6c3"
+                }
+            ]
+        }
+    ]
+}

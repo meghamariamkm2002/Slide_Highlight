@@ -4,7 +4,19 @@
             "start_time": "00:00:00,009",
             "end_time": "00:00:06,752",
             "transcript": "However, even if there exists meaningful patterns in the training data, the DNM may still not learn these concepts.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Even if there exist meaningful patterns in training data, the DNN may still not learn these concepts.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.8440961241722107,
+                        "Height": 0.0863301083445549,
+                        "Left": 0.07173945009708405,
+                        "Top": 0.1724153310060501
+                    },
+                    "Id": "f4d34d29-5829-4423-9da3-1a2fe354963e"
+                }
+            ]
         },
         {
             "start_time": "00:00:07,592",

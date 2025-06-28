@@ -23,15 +23,15 @@
                     "Id": "f4211cdd-c2ab-4cc0-a3a3-c8d7e6eb899b"
                 },
                 {
-                    "Text": "Discrete states",
+                    "Text": "High capacity (Nd-1)",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.1536312699317932,
-                        "Height": 0.02856309339404106,
-                        "Left": 0.3045962154865265,
-                        "Top": 0.514703631401062
+                        "Width": 0.15079328417778015,
+                        "Height": 0.07404074817895889,
+                        "Left": 0.30475112795829773,
+                        "Top": 0.753436267375946
                     },
-                    "Id": "41495552-0d92-441c-8f41-3c712b3e37fe"
+                    "Id": "1ba5a6a8-1c09-454b-9b2b-b7b53bdc4fe7"
                 }
             ]
         },
@@ -45,7 +45,19 @@
             "start_time": "00:00:23,469",
             "end_time": "00:00:27,932",
             "transcript": "Recent works improved the capacity even further to be exponential in the number of neurons.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Exponential memory interaction",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.12918239831924438,
+                        "Height": 0.10737775266170502,
+                        "Left": 0.5206272602081299,
+                        "Top": 0.669539213180542
+                    },
+                    "Id": "c641b50c-1232-438a-885e-371c609ea431"
+                }
+            ]
         }
     ]
 }

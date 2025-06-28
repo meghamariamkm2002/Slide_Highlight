@@ -1,0 +1,80 @@
+{
+    "MatchedSlides": [
+        "PART_0001_C7IfFsQ2BsVmjgqb",
+        "PART_0002_M8xJHwtfvrTIpy16"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:00,689",
+            "end_time": "00:00:10,472",
+            "transcript": "First, in single-frame animal pose estimations, we benchmark simple baseline HRNet, HRFormer, and VIT pose method.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:11,132",
+            "end_time": "00:00:21,915",
+            "transcript": "We set up three settings to benchmark their performance, including user network weights per trend on ImageNet, Cocoa, and AP10000 dataset.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:22,455",
+            "end_time": "00:00:26,716",
+            "transcript": "With human pose per training, both scene-based and vision-transformer",
+            "MatchedRegion": [
+                {
+                    "Text": "1. In the SF track, we benchmark the representative CNN-based and vision transformer-based pose estimation methods, including SimpleBaseline, HRNet, HRFormer, and ViTPose.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.668667197227478,
+                        "Height": 0.06537051498889923,
+                        "Left": 0.13635852932929993,
+                        "Top": 0.4930015504360199
+                    },
+                    "Id": "73711d8b-59bc-4e0a-b927-f0ba9346abe1"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:27,296",
+            "end_time": "00:00:29,499",
+            "transcript": "These methods show performance gains.",
+            "MatchedRegion": [
+                {
+                    "Text": "1. With human pose pre-training. both CNN-based and vision transformer-based methods show performance gains.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7342926263809204,
+                        "Height": 0.06499436497688293,
+                        "Left": 0.13615207374095917,
+                        "Top": 0.7437034845352173
+                    },
+                    "Id": "1d2517c9-1612-4f3d-8c36-bb8e1aebe5e3"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:29,999",
+            "end_time": "00:00:38,789",
+            "transcript": "Besides, the benefit of using AP1000 for pre-training is less than that of using the human post data set for pre-training.",
+            "MatchedRegion": [
+                {
+                    "Text": "2. Besides, the benefit of using AP-10K for pretraining is less than that of using the human pose dataset for pre-training, no matter for CNN-based models or vision transformer-based models.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7279670834541321,
+                        "Height": 0.06640434265136719,
+                        "Left": 0.1327075958251953,
+                        "Top": 0.8148069977760315
+                    },
+                    "Id": "0c7d67fa-954e-4b80-b973-0a44c8b3a182"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:39,390",
+            "end_time": "00:00:48,801",
+            "transcript": "We suspect that it is caused by differences of distribution and data source and as well as the scale differences.",
+            "MatchedRegion": []
+        }
+    ]
+}

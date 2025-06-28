@@ -1,7 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0002_nY6pwgFoBjJsFRrI"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,492",
@@ -29,6 +26,28 @@
                         "Top": 0.2208196371793747
                     },
                     "Id": "cdf58699-58e8-49f1-b09f-8a42af82e51b"
+                },
+                {
+                    "Text": "Less relevance on the background",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.2750653028488159,
+                        "Height": 0.029979636892676353,
+                        "Left": 0.1135028526186943,
+                        "Top": 0.2715376019477844
+                    },
+                    "Id": "199bbccd-3ca2-4a64-a2cc-be3ae86c6cde"
+                },
+                {
+                    "Text": "More relevance on the entire foreground",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.32641682028770447,
+                        "Height": 0.03015066497027874,
+                        "Left": 0.11370141059160233,
+                        "Top": 0.3123088479042053
+                    },
+                    "Id": "b0a34354-1a56-4e95-8a08-6aa8ebe933d0"
                 }
             ]
         },

@@ -1,0 +1,79 @@
+{
+    "MatchedSlides": [
+        "PART_0003_3T2gELrLR9HHfBo8",
+        "PART_0004_ptscQkhk64ITDTVb"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:03,035",
+            "end_time": "00:00:06,117",
+            "transcript": "So let's first talk about our code structure model.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:06,577",
+            "end_time": "00:00:20,607",
+            "transcript": "So in this model, the covariate will be history activities and treatment will be engagement with misinformation or information and outcome will be characters of the post in the future.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:21,047",
+            "end_time": "00:00:25,050",
+            "transcript": "They can be fully described by the conditional intensity function.",
+            "MatchedRegion": [
+                {
+                    "Text": "Outcome (Y): Characters of the posts in the future - conditional intensity function [5]: X(f,tTrUX)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3882938325405121,
+                        "Height": 0.17617817223072052,
+                        "Left": 0.027982601895928383,
+                        "Top": 0.3292815387248993
+                    },
+                    "Id": "ce5f4d7d-a5fb-4344-845a-e5d3ff88a610"
+                }
+            ]
+        },
+        {
+            "start_time": "00:00:25,772",
+            "end_time": "00:00:31,758",
+            "transcript": "But because, you know, function is continuous, so it is hard to quantify the effect on them.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:32,339",
+            "end_time": "00:00:36,984",
+            "transcript": "So we apply a functional F to project the function to a vector.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:37,704",
+            "end_time": "00:00:47,755",
+            "transcript": "And in this way, we can compare the functional with treatment and without treatment to acquire the individual treatment effect with finite dimensions.",
+            "MatchedRegion": [
+                {
+                    "Text": "Outcome (Y): Characters of the posts in the future - conditional intensity function [5]: X(f,tTrUX)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3882938325405121,
+                        "Height": 0.17617817223072052,
+                        "Left": 0.027982601895928383,
+                        "Top": 0.3292815387248993
+                    },
+                    "Id": "ce5f4d7d-a5fb-4344-845a-e5d3ff88a610"
+                },
+                {
+                    "Text": "Apply a functional F to project the 1 function to a vector and then acquire Individual Treatment Effect with finite dimensions:",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.41144952178001404,
+                        "Height": 0.14668689668178558,
+                        "Left": 0.028330961242318153,
+                        "Top": 0.5300829410552979
+                    },
+                    "Id": "2faf8703-f65b-4400-b6f1-d650da0ff81a"
+                }
+            ]
+        }
+    ]
+}

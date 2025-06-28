@@ -39,17 +39,6 @@
                         "Top": 0.5533865094184875
                     },
                     "Id": "ad4147f0-e3a4-466e-bde1-0ef7d32be13b"
-                },
-                {
-                    "Text": "In contrast to GAMM, GSEMM exhibits a dynamic energy surface controlled by the delay signal resulting in a system with instantaneous fixed-point dynamics",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.4822145700454712,
-                        "Height": 0.14131785929203033,
-                        "Left": 0.054626014083623886,
-                        "Top": 0.7150548100471497
-                    },
-                    "Id": "17f0b8ce-1da5-4868-9d68-8199f20ff81b"
                 }
             ]
         }

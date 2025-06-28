@@ -1,0 +1,25 @@
+{
+    "MatchedSlides": [
+        "PART_0002_nY6pwgFoBjJsFRrI"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,033",
+            "end_time": "00:00:10,898",
+            "transcript": "More experiments such as K&N experiments, comparison of training and non-training classes, and a comparison to self-supervised vision transformers can be found in our appendices.",
+            "MatchedRegion": [
+                {
+                    "Text": "INaturalist 10-NN Classifier 55.25 53.88 50 48.57 49.35 49.47 45.59 45.44 44.08 42.55 43.19 40 30 26.6 21.73 20 14.37 14.07 10 Ours Original 0 model,model_size",
+                    "BlockType": "LAYOUT_FIGURE",
+                    "BoundingBox": {
+                        "Width": 0.3763926029205322,
+                        "Height": 0.5144669413566589,
+                        "Left": 0.08209089934825897,
+                        "Top": 0.18696223199367523
+                    },
+                    "Id": "60a3c4a3-a899-4de0-a117-5fec3ba82d18"
+                }
+            ]
+        }
+    ]
+}

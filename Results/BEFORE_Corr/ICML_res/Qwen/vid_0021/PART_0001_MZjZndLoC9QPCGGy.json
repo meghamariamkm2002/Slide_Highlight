@@ -17,15 +17,15 @@
                     "Id": "92180d2e-5ed3-448d-9593-4272f2e8e7b8"
                 },
                 {
-                    "Text": "Other: Curiosity based exploration [Pathak et al. 2017]; Constrained RL [Qin et al. 2021]; Batch \"offline\" RL [Fujimoto et al. 2019]; Convex RL [Mutti et al. 2022]",
+                    "Text": "This work concentrates on modeling them explicitly with normalizing flows, focusing on imitation learning.",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.742006242275238,
-                        "Height": 0.05811062455177307,
-                        "Left": 0.12042369693517685,
-                        "Top": 0.5258774757385254
+                        "Width": 0.7311545014381409,
+                        "Height": 0.027620358392596245,
+                        "Left": 0.12032857537269592,
+                        "Top": 0.6909106373786926
                     },
-                    "Id": "1794e711-42fb-4af8-b430-76c94b0af241"
+                    "Id": "5d85eff4-4325-46fe-bf5c-9cd97149d0e8"
                 }
             ]
         },
@@ -64,15 +64,15 @@
                     "Id": "92180d2e-5ed3-448d-9593-4272f2e8e7b8"
                 },
                 {
-                    "Text": "Other: Curiosity based exploration [Pathak et al. 2017]; Constrained RL [Qin et al. 2021]; Batch \"offline\" RL [Fujimoto et al. 2019]; Convex RL [Mutti et al. 2022]",
+                    "Text": "This work concentrates on modeling them explicitly with normalizing flows, focusing on imitation learning.",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.742006242275238,
-                        "Height": 0.05811062455177307,
-                        "Left": 0.12042369693517685,
-                        "Top": 0.5258774757385254
+                        "Width": 0.7311545014381409,
+                        "Height": 0.027620358392596245,
+                        "Left": 0.12032857537269592,
+                        "Top": 0.6909106373786926
                     },
-                    "Id": "1794e711-42fb-4af8-b430-76c94b0af241"
+                    "Id": "5d85eff4-4325-46fe-bf5c-9cd97149d0e8"
                 }
             ]
         },
@@ -80,30 +80,7 @@
             "start_time": "00:00:15,254",
             "end_time": "00:00:21,096",
             "transcript": "They are also foundational to other applications like curiosity-based exploration, constrained RL, batch RL, and convex RL.",
-            "MatchedRegion": [
-                {
-                    "Text": "Other: Curiosity based exploration [Pathak et al. 2017]; Constrained RL [Qin et al. 2021]; Batch \"offline\" RL [Fujimoto et al. 2019]; Convex RL [Mutti et al. 2022]",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.742006242275238,
-                        "Height": 0.05811062455177307,
-                        "Left": 0.12042369693517685,
-                        "Top": 0.5258774757385254
-                    },
-                    "Id": "1794e711-42fb-4af8-b430-76c94b0af241"
-                },
-                {
-                    "Text": "They are of central importance, appearing all across the literature:",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.5164313316345215,
-                        "Height": 0.03070523776113987,
-                        "Left": 0.08655297011137009,
-                        "Top": 0.34929364919662476
-                    },
-                    "Id": "a91c0711-79e1-4748-afc4-5c2a6ecbc1b9"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:21,616",
@@ -129,17 +106,6 @@
             "transcript": "And so this would concentrate on modeling them explicitly with modern density estimators, specifically normalizing flows, focusing on imitation.",
             "MatchedRegion": [
                 {
-                    "Text": "Other: Curiosity based exploration [Pathak et al. 2017]; Constrained RL [Qin et al. 2021]; Batch \"offline\" RL [Fujimoto et al. 2019]; Convex RL [Mutti et al. 2022]",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.742006242275238,
-                        "Height": 0.05811062455177307,
-                        "Left": 0.12042369693517685,
-                        "Top": 0.5258774757385254
-                    },
-                    "Id": "1794e711-42fb-4af8-b430-76c94b0af241"
-                },
-                {
                     "Text": "This work concentrates on modeling them explicitly with normalizing flows, focusing on imitation learning.",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
@@ -149,6 +115,17 @@
                         "Top": 0.6909106373786926
                     },
                     "Id": "5d85eff4-4325-46fe-bf5c-9cd97149d0e8"
+                },
+                {
+                    "Text": "Hinges on the one-to-one relationship between a and Pn. Has shown significant improvement over BC, particularly when few expert trajectories are available or expert trajectories are subsampled.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.7562621235847473,
+                        "Height": 0.05457383021712303,
+                        "Left": 0.1512637883424759,
+                        "Top": 0.8884523510932922
+                    },
+                    "Id": "0d02d0ec-ff50-4497-80fb-b62a94a4b1bf"
                 }
             ]
         },
@@ -187,26 +164,37 @@
             "transcript": "Modern approaches to imitation instead attempt to match the agent's state action distribution with the experts by minimizing some f diverged",
             "MatchedRegion": [
                 {
-                    "Text": "All distribution matching approaches in imitation learning [Ke et al. 2020]",
+                    "Text": "Imitation learning",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.5102139115333557,
-                        "Height": 0.027813950553536415,
-                        "Left": 0.12038874626159668,
-                        "Top": 0.478464812040329
+                        "Width": 0.16050758957862854,
+                        "Height": 0.030000705271959305,
+                        "Left": 0.08625519275665283,
+                        "Top": 0.7407543063163757
                     },
-                    "Id": "92180d2e-5ed3-448d-9593-4272f2e8e7b8"
+                    "Id": "2105c2d4-0362-4656-a3f0-684e5c9e8a46"
                 },
                 {
-                    "Text": "This work concentrates on modeling them explicitly with normalizing flows, focusing on imitation learning.",
+                    "Text": "Simple approach: Behavioral cloning (BC)",
                     "BlockType": "LAYOUT_TEXT",
                     "BoundingBox": {
-                        "Width": 0.7311545014381409,
-                        "Height": 0.027620358392596245,
-                        "Left": 0.12032857537269592,
-                        "Top": 0.6909106373786926
+                        "Width": 0.30025961995124817,
+                        "Height": 0.02745872549712658,
+                        "Left": 0.12025824934244156,
+                        "Top": 0.7916000485420227
                     },
-                    "Id": "5d85eff4-4325-46fe-bf5c-9cd97149d0e8"
+                    "Id": "4ecb6ee9-69c8-412a-be19-9a4692d3feba"
+                },
+                {
+                    "Text": "Distribution matching:minDf(PllPexp)",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.29278114438056946,
+                        "Height": 0.030913962051272392,
+                        "Left": 0.12029442191123962,
+                        "Top": 0.8406777381896973
+                    },
+                    "Id": "33d6d2ba-4b0d-4c54-84c8-cc3a19fbfbb8"
                 }
             ]
         }

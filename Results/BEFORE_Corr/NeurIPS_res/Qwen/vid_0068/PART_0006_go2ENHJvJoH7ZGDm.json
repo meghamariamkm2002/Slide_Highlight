@@ -1,13 +1,22 @@
 {
-    "MatchedSlides": [
-        "PART_0006_go2ENHJvJoH7ZGDm"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,069",
             "end_time": "00:00:00,849",
             "transcript": "from the teacher.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Student models improve upon their teachers e.g., M5 teacher 72.11, students > 73.92",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.2994597554206848,
+                        "Height": 0.06072787567973137,
+                        "Left": 0.009622141718864441,
+                        "Top": 0.8040642142295837
+                    },
+                    "Id": "6f213916-dad5-4f12-86a7-7422d4dad276"
+                }
+            ]
         },
         {
             "start_time": "00:00:02,350",
@@ -37,19 +46,7 @@
             "start_time": "00:00:17,055",
             "end_time": "00:00:25,958",
             "transcript": "However, when compared to the accuracy achievable when a student is trained normally, fine-tuning does not always result in improvement, especially when a teacher",
-            "MatchedRegion": [
-                {
-                    "Text": "Fine-tuning does not always results in improvement of student models e.g., M1 student drop from 75.39 to 74.37 when using M5 as teacher.",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.3660535514354706,
-                        "Height": 0.12098250538110733,
-                        "Left": 0.6018325686454773,
-                        "Top": 0.17361652851104736
-                    },
-                    "Id": "0e8d85f4-cc16-475f-b47c-375056d6c2ff"
-                }
-            ]
+            "MatchedRegion": []
         }
     ]
 }

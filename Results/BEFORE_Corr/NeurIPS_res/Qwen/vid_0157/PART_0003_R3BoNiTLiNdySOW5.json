@@ -1,7 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0003_R3BoNiTLiNdySOW5"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:01,966",
@@ -25,7 +22,30 @@
             "start_time": "00:00:36,779",
             "end_time": "00:00:48,962",
             "transcript": "And the energy landscape is more accurate than traditional machine learning methods because we explicitly model the triangle inequality series.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "2. The interaction energy landscape is smoother than traditional scoring functions by completely allowing the model to learn the potential form.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6081438660621643,
+                        "Height": 0.07143086940050125,
+                        "Left": 0.044522639364004135,
+                        "Top": 0.3893001973628998
+                    },
+                    "Id": "fe8e7ab5-04b0-4308-a5cc-e69b36bf43c5"
+                },
+                {
+                    "Text": "3. The interaction energy landscape is more accurate than traditional machine learning potentials by implicitly restricting to physically allowed conformations,.",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6028600335121155,
+                        "Height": 0.07255871593952179,
+                        "Left": 0.04482055455446243,
+                        "Top": 0.48316994309425354
+                    },
+                    "Id": "2141b5ba-e209-4f9e-b729-34fdbe619898"
+                }
+            ]
         }
     ]
 }

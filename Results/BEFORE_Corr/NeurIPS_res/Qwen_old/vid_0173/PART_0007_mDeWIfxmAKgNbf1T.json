@@ -1,0 +1,19 @@
+{
+    "MatchedSlides": [
+        "PART_0001_M1aYZFpuMY0gfOKj"
+    ],
+    "MatchedRegions": [
+        {
+            "start_time": "00:00:01,771",
+            "end_time": "00:00:03,012",
+            "transcript": "Right, thanks for your attention.",
+            "MatchedRegion": []
+        },
+        {
+            "start_time": "00:00:03,212",
+            "end_time": "00:00:04,334",
+            "transcript": "I'll take questions offline.",
+            "MatchedRegion": []
+        }
+    ]
+}

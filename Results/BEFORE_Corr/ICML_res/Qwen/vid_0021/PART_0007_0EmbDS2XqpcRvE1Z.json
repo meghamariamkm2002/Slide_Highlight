@@ -4,30 +4,7 @@
             "start_time": "00:00:00,842",
             "end_time": "00:00:09,147",
             "transcript": "In the state-only or LFO setting, we compare against Apollo, once again using only a single extra trajectory, and importantly, CFO uses identical hyperparameters as the pre-rate setting.",
-            "MatchedRegion": [
-                {
-                    "Text": "LFO (state-only) setting",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.18946348130702972,
-                        "Height": 0.03454707935452461,
-                        "Left": 0.4042847156524658,
-                        "Top": 0.34060800075531006
-                    },
-                    "Id": "731fec72-c455-4f13-a4fa-5d932023c836"
-                },
-                {
-                    "Text": "HalfCheetah-v2 Walker2d-v2 Ant-v2 Hopper-v2 Humanoid-v2 7000 4000 3500 5000 6000 5000 3000 4000 5000 3000 2500 4000 3000 4000 2000 2000 3000 2000 3000 1500 1000 CFIL_state_next_state 1000 2000 1000 2000 CFIL_state 0 500 OPOLO 1000 1000 0 -1000 0 expert 0 -1000 -500 0 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 0 1 2 3 Env int 1e5 Env int 1e5 Env int 1e5 Env int le5 Env int 1e5",
-                    "BlockType": "LAYOUT_FIGURE",
-                    "BoundingBox": {
-                        "Width": 0.8054854869842529,
-                        "Height": 0.32969942688941956,
-                        "Left": 0.10885651409626007,
-                        "Top": 0.45543161034584045
-                    },
-                    "Id": "e69f99a5-d8c0-4ff5-8ba0-3e3d577cab48"
-                }
-            ]
+            "MatchedRegion": []
         },
         {
             "start_time": "00:00:09,767",

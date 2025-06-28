@@ -1,14 +1,33 @@
 {
-    "MatchedSlides": [
-        "PART_0009_yplGRvgaphNPISdC",
-        "PART_0010_qsu4z49v9IGcpqg2"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:01,610",
             "end_time": "00:00:09,154",
             "transcript": "Although we know that model selection is robust to the choice of teacher, it is not usually the case that we have prior knowledge of a good teacher.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "Acc. after fine tuning w/ good teacher",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.3088688552379608,
+                        "Height": 0.03876990079879761,
+                        "Left": 0.14915725588798523,
+                        "Top": 0.8988378643989563
+                    },
+                    "Id": "09a9269b-8cac-4bb7-8beb-73cf79cdd9eb"
+                },
+                {
+                    "Text": "Can we search for good models without prior knowledge of a good teacher?",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.8385560512542725,
+                        "Height": 0.0728774443268776,
+                        "Left": 0.08092252165079117,
+                        "Top": 0.09816949814558029
+                    },
+                    "Id": "0373e2b5-ccaa-4185-8855-7e3f40ce8ee5"
+                }
+            ]
         },
         {
             "start_time": "00:00:09,674",

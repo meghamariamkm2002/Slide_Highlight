@@ -16,19 +16,7 @@
             "start_time": "00:00:20,888",
             "end_time": "00:00:26,392",
             "transcript": "Such a concept emergent phenomenon has also been mathematically proved in our recent work.",
-            "MatchedRegion": [
-                {
-                    "Text": "Actually, in our recent work [Ren et al., 2023] , we have mathematically proved the above sparse concept emerging phenomenon.",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.828789472579956,
-                        "Height": 0.03143046051263809,
-                        "Left": 0.05538651719689369,
-                        "Top": 0.8540380597114563
-                    },
-                    "Id": "6a4811df-b344-475d-b990-f7e94eb39be2"
-                }
-            ]
+            "MatchedRegion": []
         }
     ]
 }

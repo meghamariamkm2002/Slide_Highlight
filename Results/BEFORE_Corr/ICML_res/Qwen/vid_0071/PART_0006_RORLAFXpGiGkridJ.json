@@ -15,6 +15,17 @@
                         "Top": 0.5198299884796143
                     },
                     "Id": "faaf60b5-355c-44c0-b0d5-da4c509b282e"
+                },
+                {
+                    "Text": "can be just a meaningless transformation on each individual sample",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.5365966558456421,
+                        "Height": 0.029767177999019623,
+                        "Left": 0.1992415487766266,
+                        "Top": 0.5778927206993103
+                    },
+                    "Id": "c274df50-5a64-49bf-b98b-66f89488428c"
                 }
             ]
         },
@@ -23,6 +34,17 @@
             "end_time": "00:00:14,002",
             "transcript": "Because this interaction metric may simply be a meaningless mathematical transformation.",
             "MatchedRegion": [
+                {
+                    "Text": "Potential problem of such formulation",
+                    "BlockType": "LAYOUT_SECTION_HEADER",
+                    "BoundingBox": {
+                        "Width": 0.3081949055194855,
+                        "Height": 0.03086700290441513,
+                        "Left": 0.19867683947086334,
+                        "Top": 0.5198299884796143
+                    },
+                    "Id": "faaf60b5-355c-44c0-b0d5-da4c509b282e"
+                },
                 {
                     "Text": "can be just a meaningless transformation on each individual sample",
                     "BlockType": "LAYOUT_TEXT",

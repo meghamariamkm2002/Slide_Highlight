@@ -1,8 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0004_omANhTOWuUdMqgRo",
-        "PART_0008_JfkilR29GDaWQTKh"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:00,029",
@@ -23,33 +19,9 @@
             ]
         },
         {
-            "start_time": "00:00:02,251",
-            "end_time": "00:00:09,919",
-            "transcript": "We study if the predictor are good at estimating the end-to-end model accuracy after distillation and fine tuning.",
-            "MatchedRegion": [
-                {
-                    "Text": "Distill epochs = 1 Distill epochs = 10 Distill epochs = 50 0.5 0.5 0.5 GCN 0.4 0.4 0.4 DONNA LANA 0.3 0.3 0.3 0.2 0.2 0.2 0.1 0.1 0.1 0.0 0.0 0.0 -0.1 -0.1 -0.1 0 100 200 300 400 500 0 100 200 300 400 500 0 100 200 300 400 500 Number of models used to train the predictor",
-                    "BlockType": "LAYOUT_FIGURE",
-                    "BoundingBox": {
-                        "Width": 0.8365749716758728,
-                        "Height": 0.3854406177997589,
-                        "Left": 0.07934951037168503,
-                        "Top": 0.30891409516334534
-                    },
-                    "Id": "d3d43f05-df7b-480c-aa71-d661babb8957"
-                }
-            ]
-        },
-        {
             "start_time": "00:00:11,441",
             "end_time": "00:00:12,422",
             "transcript": "There are three findings.",
-            "MatchedRegion": []
-        },
-        {
-            "start_time": "00:00:12,982",
-            "end_time": "00:00:22,953",
-            "transcript": "One, distillation loss and linear regression used in donor is better than change of validation accuracy and simple summation used in NANDER.",
             "MatchedRegion": []
         },
         {
@@ -74,24 +46,6 @@
             "start_time": "00:00:29,987",
             "end_time": "00:00:28,985",
             "transcript": "3.",
-            "MatchedRegion": [
-                {
-                    "Text": "* DONNA: a linear regression model with second-order terms.",
-                    "BlockType": "LAYOUT_TEXT",
-                    "BoundingBox": {
-                        "Width": 0.5292904376983643,
-                        "Height": 0.03438328206539154,
-                        "Left": 0.1482757031917572,
-                        "Top": 0.7677684426307678
-                    },
-                    "Id": "6c81aecf-ddb3-4864-8462-e707911e36ab"
-                }
-            ]
-        },
-        {
-            "start_time": "00:00:30,568",
-            "end_time": "00:00:35,918",
-            "transcript": "The juice and predictor, which does not require any distillation signatures, can outperform",
             "MatchedRegion": []
         }
     ]

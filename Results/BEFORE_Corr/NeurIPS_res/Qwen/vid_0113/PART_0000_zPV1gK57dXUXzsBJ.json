@@ -1,8 +1,4 @@
 {
-    "MatchedSlides": [
-        "PART_0001_0TKQIPPtwm9E6HiO",
-        "PART_0002_L6pLWK5w83eRrPzI"
-    ],
     "MatchedRegions": [
         {
             "start_time": "00:00:04,588",
@@ -14,7 +10,30 @@
             "start_time": "00:00:06,550",
             "end_time": "00:00:15,938",
             "transcript": "I'm so glad to introduce our paper, MassCode, a data set of medical entity and targeted sentiment on COVID-19 related treats.",
-            "MatchedRegion": []
+            "MatchedRegion": [
+                {
+                    "Text": "METS-CoV: A Dataset of Medical Entity and Targeted Sentiment on COVID-19 Related Tweets",
+                    "BlockType": "LAYOUT_TITLE",
+                    "BoundingBox": {
+                        "Width": 0.8003619909286499,
+                        "Height": 0.256885826587677,
+                        "Left": 0.08870193362236023,
+                        "Top": 0.2403709441423416
+                    },
+                    "Id": "8628335f-246c-443c-8382-588bad727c3f"
+                },
+                {
+                    "Text": "Peilin Zhou, Zeqiang Wang, Dading Chong, Zhijiang Guo, Yining Hua, Zichang Su, Zhiyang Teng, Jiageng Wu, Jie Yang",
+                    "BlockType": "LAYOUT_TEXT",
+                    "BoundingBox": {
+                        "Width": 0.6822492480278015,
+                        "Height": 0.08867660164833069,
+                        "Left": 0.1722615510225296,
+                        "Top": 0.5539889335632324
+                    },
+                    "Id": "d99680a6-c974-41ab-b0e8-940d2fa94e4b"
+                }
+            ]
         }
     ]
 }
